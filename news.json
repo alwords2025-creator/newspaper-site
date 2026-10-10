@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-10T20:42:30.622340+00:00",
+ "updated": "2026-10-10T21:07:55.060640+00:00",
  "stories": [
+  {
+   "title": "Northern Lights stun UK down to England's south coast",
+   "summary": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
+   "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-10T20:57:29+00:00"
+  },
+  {
+   "title": "New York fire fundraiser topped $100,000; state AG seeks $71,539 in unpaid funds",
+   "summary": "Hailey Bodah, a young New Yorker, faced unimaginable loss when a fire claimed the lives of her father and four sisters. In the wake of this tragedy, generous relatives raised over $100,000 to help her. However, legal...",
+   "link": "https://timesofindia.indiatimes.com/world/us/after-a-new-york-fire-killed-a-13-year-old-girls-father-and-four-sisters-relatives-raised-over-100000-for-her-months-later-the-state-ag-sought-71539-29-it-said-remained-unpaid/articleshow/134832070.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-10T20:28:00+00:00"
+  },
+  {
+   "title": "Steve McQueen’s former Malibu home bought for $8.35m now lists for $16.995m",
+   "summary": "Steve McQueen's iconic Malibu beach house passed through several ownership hands before receiving significant renovations from its latest buyers. Boasting oceanfront decks and private beach access, this esteemed...",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2020-steve-mcqueens-son-sold-the-actors-former-malibu-beach-house-for-7-2-million-two-months-later-new-owners-paid-8-35-million-renovated-the-4335-square-foot-retreat-and-listed-it-for-16-995-million/articleshow/134831012.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-10T20:24:00+00:00"
+  },
   {
    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
    "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
@@ -8,22 +32,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-10T19:28:28+00:00"
-  },
-  {
-   "title": "Utah couple cycles 3,634 miles across America, raises $23,000 for charities",
-   "summary": "A couple from Utah marked their 40th wedding anniversary with an epic cycling adventure across the United States, covering more than 3,600 miles in 87 days. Their mission was to raise awareness and funds for affordable...",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-utah-couple-began-cycling-across-america-on-their-40th-wedding-anniversary-87-days-and-3634-miles-later-they-reached-the-atlantic-coast-and-raised-about-23000-for-two-community-charities/articleshow/134830857.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-10T19:26:00+00:00"
-  },
-  {
-   "title": "Lake Tahoe ranch once listed for $188m now prepares separate $43m mansion sale",
-   "summary": "Shakespeare Ranch, a historic estate in Lake Tahoe, has struggled to find a buyer since listing. The property was initially priced at $188 million but has seen a price reduction to $125 million. Potential buyers are now...",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/a-126-acre-shakespeare-ranch-on-lake-tahoe-listed-for-188-million-in-2024-failed-to-find-a-buyer-even-after-its-price-fell-to-125-million-the-owners-are-now-preparing-to-offer-a-separate-lakefront-mansion-for-43-million/articleshow/134824458.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-10T19:23:00+00:00"
   },
   {
    "title": "‘Amitabh Bachchan is hero for us, but he’s allowed to be human’: Abhishek on his father",
@@ -40,14 +48,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-10T19:09:59+00:00"
-  },
-  {
-   "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-   "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-   "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-10T19:08:17+00:00"
   },
   {
    "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
@@ -138,6 +138,14 @@
    "published": "2026-10-10T15:56:32+00:00"
   },
   {
+   "title": "'Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/fight-should-be-face-to-face-cm-yogi-accepts-akhileshs-ayodhya-challenge/articleshow/134856850.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-10T15:18:17+00:00"
+  },
+  {
    "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
    "summary": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
    "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
@@ -152,14 +160,6 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-10T14:24:14+00:00"
-  },
-  {
-   "title": "Mass detentions, political showdown & a vow to fight on: How Delhi protests unfolded",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/from-mass-detentions-to-political-war-of-words-how-delhi-protests-unfolded/articleshow/134855418.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-10T13:36:19+00:00"
   },
   {
    "title": "New York Mayor Mamdani says companies like Netflix will now pay if you can't cancel",
