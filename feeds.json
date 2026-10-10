@@ -1,0 +1,19 @@
+{
+  "Top": [
+    {"source": "NPR", "url": "https://feeds.npr.org/1001/rss.xml"},
+    {"source": "BBC News", "url": "https://feeds.bbci.co.uk/news/rss.xml"},
+    {"source": "The Guardian", "url": "https://www.theguardian.com/world/rss"}
+  ],
+  "India": [
+    {"source": "BBC India", "url": "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml"},
+    {"source": "Times of India", "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"}
+  ],
+  "Business": [
+    {"source": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+    {"source": "NPR Business", "url": "https://feeds.npr.org/1006/rss.xml"}
+  ],
+  "Technology": [
+    {"source": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
+    {"source": "NPR Technology", "url": "https://feeds.npr.org/1019/rss.xml"}
+  ]
+}

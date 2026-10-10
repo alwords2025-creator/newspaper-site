@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Daily Wire - automatic news</title>
+<style>
+:root{--bg:#fbfaf7;--ink:#17181c;--mute:#6b6f7a;--line:#e3e1da;--acc:#0b57d0;--card:#fff}
+@media(prefers-color-scheme:dark){:root{--bg:#121316;--ink:#ecebe6;--mute:#9a9ea8;--line:#2b2d33;--acc:#8ab4f8;--card:#1a1b1f}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 Georgia,"Times New Roman",serif}
+header,main{max-width:980px;margin:0 auto;padding:0 20px}
+header{padding-top:28px}
+h1{font:800 clamp(30px,6vw,52px)/1.05 "Trebuchet MS",system-ui,sans-serif;margin:0;letter-spacing:-.02em}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;border-block:2px solid var(--ink);margin:18px 0;padding:10px 0;font:14px system-ui,sans-serif}
+nav{display:flex;flex-wrap:wrap;gap:6px}
+button,input{font:inherit;font-size:14px}
+nav button{border:1px solid var(--line);background:none;color:var(--ink);padding:6px 12px;border-radius:999px;cursor:pointer}
+nav button[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+input{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:7px 12px;border-radius:8px;min-width:180px}
+:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+#status{color:var(--mute)}
+.lead{padding-bottom:22px;border-bottom:1px solid var(--line);margin-bottom:8px}
+.lead h2{font:700 clamp(26px,4.5vw,40px)/1.15 "Trebuchet MS",system-ui,sans-serif;margin:6px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:22px 28px;margin-top:20px}
+article{border-top:3px solid var(--acc);padding-top:10px}
+article h3{font:700 19px/1.25 "Trebuchet MS",system-ui,sans-serif;margin:4px 0}
+a{color:inherit;text-decoration:none}a:hover h2,a:hover h3{color:var(--acc)}
+p{margin:6px 0;color:var(--mute);font-size:15px}
+.meta{font:13px system-ui,sans-serif;color:var(--mute)}
+.empty{padding:50px 0;color:var(--mute);font-family:system-ui,sans-serif}
+footer{max-width:980px;margin:40px auto;padding:0 20px;color:var(--mute);font:13px system-ui,sans-serif}
+</style>
+</head>
+<body>
+<header><h1>The Daily Wire</h1></header>
+<main>
+<div class="bar"><nav id="tabs" aria-label="Sections"></nav>
+<input id="q" type="search" placeholder="Search headlines" aria-label="Search headlines"><span id="status"></span></div>
+<div id="out"></div>
+</main>
+<footer>Headlines and short summaries come from the publishers' public RSS feeds. Each story links to the original source.</footer>
+<script>
+const CATS=["All","Top","India","Business","Technology"];
+let data=[],cat="All";
+const $=id=>document.getElementById(id);
+const ago=iso=>{const m=Math.round((Date.now()-new Date(iso))/6e4);return m<1?"just now":m<60?m+" min ago":m<1440?Math.round(m/60)+" h ago":Math.round(m/1440)+" d ago"};
+const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function tabs(){$("tabs").innerHTML=CATS.map(c=>`<button aria-pressed="${c===cat}" data-c="${c}">${c}</button>`).join("")}
+$("tabs").onclick=e=>{if(e.target.dataset.c){cat=e.target.dataset.c;tabs();render()}};
+$("q").oninput=render;
+function render(){
+  const q=$("q").value.toLowerCase();
+  const list=data.filter(s=>(cat==="All"||s.category===cat)&&(!q||(s.title+s.summary).toLowerCase().includes(q)));
+  if(!list.length){$("out").innerHTML='<p class="empty">No stories yet. Run update_news.py once, or wait for the first scheduled update.</p>';return}
+  const [a,...rest]=list;
+  const meta=s=>`<div class="meta">${esc(s.source)} - ${ago(s.published)}</div>`;
+  $("out").innerHTML=`<a href="${esc(a.link)}" target="_blank" rel="noopener"><div class="lead">${meta(a)}<h2>${esc(a.title)}</h2><p>${esc(a.summary)}</p></div></a>
+  <div class="grid">${rest.slice(0,40).map(s=>`<a href="${esc(s.link)}" target="_blank" rel="noopener"><article>${meta(s)}<h3>${esc(s.title)}</h3><p>${esc(s.summary)}</p></article></a>`).join("")}</div>`;
+}
+async function load(){
+  try{
+    const r=await fetch("news.json?"+Date.now());const j=await r.json();
+    data=j.stories;$("status").textContent=j.updated?"Updated "+ago(j.updated):"Waiting for first update";render();
+  }catch(e){$("status").textContent="Open this site from a web server to load news";render()}
+}
+tabs();load();setInterval(load,5*60*1000);
+</script>
+</body>
+</html>
