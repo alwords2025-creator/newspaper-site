@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-10T21:07:55.060640+00:00",
+ "updated": "2026-10-10T21:41:49.763154+00:00",
  "stories": [
+  {
+   "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+   "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+   "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-10T21:32:53+00:00"
+  },
+  {
+   "title": "What are they saying about AI at San Francisco Tech Week?",
+   "summary": "Tech workers gathered in San Francisco this week to talk about the opportunities they see for their industry, their mixed feelings about AI, and the high cost of living in the Bay Area.",
+   "link": "https://www.npr.org/2026/10/10/nx-s1-5995420/what-are-they-saying-about-ai-at-san-francisco-tech-week",
+   "source": "NPR Technology",
+   "category": "Technology",
+   "published": "2026-10-10T21:27:04+00:00"
+  },
+  {
+   "title": "Taylor Swift’s $4m Nashville education centre now showcases local student art",
+   "summary": "In 2012, Taylor Swift donated $4 million to create an education center at the Country Music Hall of Fame and Museum. This center focuses on engaging children and families with the history of country music. Currently, it...",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2012-taylor-swift-pledged-4-million-for-a-nashville-education-centre-14-years-later-the-space-is-showcasing-artwork-by-local-schoolchildren-and-artists-with-developmental-disabilities/articleshow/134855419.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-10T21:25:00+00:00"
+  },
   {
    "title": "Northern Lights stun UK down to England's south coast",
    "summary": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
@@ -10,20 +34,12 @@
    "published": "2026-10-10T20:57:29+00:00"
   },
   {
-   "title": "New York fire fundraiser topped $100,000; state AG seeks $71,539 in unpaid funds",
-   "summary": "Hailey Bodah, a young New Yorker, faced unimaginable loss when a fire claimed the lives of her father and four sisters. In the wake of this tragedy, generous relatives raised over $100,000 to help her. However, legal...",
-   "link": "https://timesofindia.indiatimes.com/world/us/after-a-new-york-fire-killed-a-13-year-old-girls-father-and-four-sisters-relatives-raised-over-100000-for-her-months-later-the-state-ag-sought-71539-29-it-said-remained-unpaid/articleshow/134832070.cms",
+   "title": "'My message to students: you have nothing to fear. We are standing with you': Rahul",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-my-message-to-students-you-have-nothing-to-fear-we-are-standing-with-you/articleshow/134860883.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-10T20:28:00+00:00"
-  },
-  {
-   "title": "Steve McQueen’s former Malibu home bought for $8.35m now lists for $16.995m",
-   "summary": "Steve McQueen's iconic Malibu beach house passed through several ownership hands before receiving significant renovations from its latest buyers. Boasting oceanfront decks and private beach access, this esteemed...",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2020-steve-mcqueens-son-sold-the-actors-former-malibu-beach-house-for-7-2-million-two-months-later-new-owners-paid-8-35-million-renovated-the-4335-square-foot-retreat-and-listed-it-for-16-995-million/articleshow/134831012.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-10T20:24:00+00:00"
+   "published": "2026-10-10T19:56:19+00:00"
   },
   {
    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -32,6 +48,14 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-10T19:28:28+00:00"
+  },
+  {
+   "title": "Lake Tahoe ranch once listed for $188m now prepares separate $43m mansion sale",
+   "summary": "Shakespeare Ranch, a historic estate in Lake Tahoe, has struggled to find a buyer since listing. The property was initially priced at $188 million but has seen a price reduction to $125 million. Potential buyers are now...",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/a-126-acre-shakespeare-ranch-on-lake-tahoe-listed-for-188-million-in-2024-failed-to-find-a-buyer-even-after-its-price-fell-to-125-million-the-owners-are-now-preparing-to-offer-a-separate-lakefront-mansion-for-43-million/articleshow/134824458.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-10T19:23:00+00:00"
   },
   {
    "title": "‘Amitabh Bachchan is hero for us, but he’s allowed to be human’: Abhishek on his father",
@@ -120,14 +144,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-10T16:53:18+00:00"
-  },
-  {
-   "title": "Saudi airport attacked again: Missile strikes passenger terminal, many injured",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-airport-attacked-again-missile-strikes-passenger-terminal-many-injured-top-developments/articleshow/134857463.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-10T16:45:17+00:00"
   },
   {
    "title": "King warns malicious online actors are evolving tactics",
@@ -226,14 +242,6 @@
    "published": "2026-10-10T09:31:14+00:00"
   },
   {
-   "title": "Michael Bloomberg’s $1bn gift made Johns Hopkins medical school tuition-free",
-   "summary": "In a groundbreaking move, Johns Hopkins University revealed a $1 billion contribution from Bloomberg Philanthropies to significantly improve financial assistance for graduate students. This generous funding extends free...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2024-michael-bloombergs-foundation-gave-johns-hopkins-1-billion-the-gift-made-medical-school-tuition-free-for-students-from-families-earning-under-300000-and-expanded-help-with-living-costs/articleshow/134850680.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-10T09:28:00+00:00"
-  },
-  {
    "title": "Public executions in the US stopped nearly a century ago, why are they resuming now?",
    "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
    "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
@@ -242,17 +250,17 @@
    "published": "2026-10-10T09:17:36+00:00"
   },
   {
-   "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
-   "summary": "Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap.",
-   "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+   "title": "16 cozy activities to add to your fall bucket list",
+   "summary": "Carve a pumpkin? You can do better than that. Fun and unusual ways to celebrate the season, from writing a gratitude letter to making an ancestral altar.",
+   "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-10T09:00:00+00:00"
   },
   {
-   "title": "16 cozy activities to add to your fall bucket list",
-   "summary": "Carve a pumpkin? You can do better than that. Fun and unusual ways to celebrate the season, from writing a gratitude letter to making an ancestral altar.",
-   "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
+   "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
+   "summary": "Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap.",
+   "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-10T09:00:00+00:00"
@@ -357,8 +365,8 @@
    "title": "Kalshi taps former FBI agent to fight against money laundering",
    "summary": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
    "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-10-09T22:23:11+00:00"
   },
   {
@@ -400,6 +408,14 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-09T19:32:50+00:00"
+  },
+  {
+   "title": "Idaho family sues after irrigation shutoff ruins crops on 1,000-acre farm",
+   "summary": "An Idaho family, whose farm thrives along the Snake River, has initiated legal action against the state regarding an emergency order that ceased their irrigation due to dwindling water levels. This abrupt halt has...",
+   "link": "https://timesofindia.indiatimes.com/world/us/idaho-family-has-farmed-1000-acres-since-1950-after-the-state-largely-shut-off-its-irrigation-water-in-2025-the-owners-say-crops-failed-and-are-now-suing-to-protect-the-family-farm/articleshow/134646383.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-09T18:20:00+00:00"
   },
   {
    "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
@@ -736,14 +752,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-05T01:42:11+00:00"
-  },
-  {
-   "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
-   "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
-   "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-10-04T18:36:48+00:00"
   },
   {
    "title": "The vanishing world of India's street magicians",
