@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T20:43:17.850170+00:00",
+ "updated": "2026-10-11T21:08:36.460053+00:00",
  "stories": [
   {
    "title": "Boris Karloff’s former Beverly Hills home returns to market for $6.5m",
@@ -16,6 +16,14 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-11T20:24:00+00:00"
+  },
+  {
+   "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+   "summary": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-11T20:02:27+00:00"
   },
   {
    "title": "'Deeply concerning': India condemns attack on vessel carrying Indian crew off Oman coast",
@@ -322,14 +330,6 @@
    "published": "2026-10-10T23:44:15+00:00"
   },
   {
-   "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
-   "summary": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
-   "link": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-10T23:17:03+00:00"
-  },
-  {
    "title": "For reporters covering AI, keeping up with story is both tough and exciting",
    "summary": "How NPR's team covering AI covers their increasingly important and fast moving beat.",
    "link": "https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting",
@@ -344,6 +344,14 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-10T21:27:04+00:00"
+  },
+  {
+   "title": "King warns malicious online actors are evolving tactics",
+   "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
+   "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-10T15:56:32+00:00"
   },
   {
    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
@@ -376,6 +384,22 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-10T11:40:46+00:00"
+  },
+  {
+   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+   "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+   "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-10T10:06:23+00:00"
+  },
+  {
+   "title": "How drones are hunting fires hidden beneath the Cairngorms",
+   "summary": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
+   "link": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-10T09:31:14+00:00"
   },
   {
    "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
@@ -482,6 +506,14 @@
    "published": "2026-10-09T16:03:32+00:00"
   },
   {
+   "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+   "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+   "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-09T15:32:30+00:00"
+  },
+  {
    "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
    "summary": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
    "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
@@ -546,6 +578,22 @@
    "published": "2026-10-09T07:19:24+00:00"
   },
   {
+   "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+   "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+   "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-09T07:14:30+00:00"
+  },
+  {
+   "title": "'Careless use of AI is the real threat - not the ghost stories'",
+   "summary": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
+   "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-09T07:05:01+00:00"
+  },
+  {
    "title": "Why Elon Musk is taking on India's richest man over Starlink",
    "summary": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
    "link": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
@@ -568,6 +616,14 @@
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-10-09T00:25:15+00:00"
+  },
+  {
+   "title": "Why are more roofs not made of solar tiles?",
+   "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+   "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-08T23:09:56+00:00"
   },
   {
    "title": "'Add me on WhatsApp' scam calls to be investigated",
@@ -618,6 +674,14 @@
    "published": "2026-10-08T20:20:31+00:00"
   },
   {
+   "title": "Asos hackers took more personal details than first revealed, BBC finds",
+   "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+   "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-08T16:29:33+00:00"
+  },
+  {
    "title": "As crypto and prediction markets expand, their regulator shrinks",
    "summary": "Even as the agency is tasked with drawing up new rules for crypto and prediction markets, its staffing and enforcement actions have dropped precipitously during the second Trump administration.",
    "link": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens",
@@ -634,6 +698,22 @@
    "published": "2026-10-08T08:45:37+00:00"
   },
   {
+   "title": "AI chip boom pushes Samsung profits to record $80bn",
+   "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
+   "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-08T01:59:54+00:00"
+  },
+  {
+   "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+   "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+   "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-07T23:50:29+00:00"
+  },
+  {
    "title": "She made India fall in love with women's cricket - now her era as captain is over",
    "summary": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
    "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
@@ -648,6 +728,14 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-06T23:07:44+00:00"
+  },
+  {
+   "title": "Tech Life",
+   "summary": "What is a supercomputer for? How does it work? And who gets to use it? We explain all",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-06T19:30:00+00:00"
   },
   {
    "title": "Five reasons India's stock market is sinking even when its economy is growing",
@@ -672,6 +760,14 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-09-30T23:41:34+00:00"
+  },
+  {
+   "title": "Tech Life",
+   "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-09-29T19:30:00+00:00"
   }
  ]
 }
