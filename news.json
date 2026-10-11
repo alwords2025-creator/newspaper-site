@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:46:07.751211+00:00",
+ "updated": "2026-10-11T19:08:47.547532+00:00",
  "stories": [
   {
    "title": "Jason Mraz turned old San Diego avocado grove into 17-acre regenerative farm",
@@ -8,6 +8,14 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-11T18:23:00+00:00"
+  },
+  {
+   "title": "Burnham to release details of Man City meetings",
+   "summary": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-11T18:01:13+00:00"
   },
   {
    "title": "PM says it is 'clear' Russia interfered with Brexit vote",
@@ -40,14 +48,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-11T17:51:02+00:00"
-  },
-  {
-   "title": "Bloodied passengers, panic and screams: Survivors recall Riyadh airport strike",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/bloodied-passengers-panic-and-screams-survivors-recall-riyadh-airport-strike/articleshow/134874610.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-11T17:38:38+00:00"
   },
   {
    "title": "Tanker carrying 11 Indians hit by drone off Oman coast, 2 crew members missing",
@@ -133,8 +133,8 @@
    "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
    "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
    "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-10-11T14:38:10+00:00"
   },
   {
@@ -176,6 +176,14 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-11T12:54:25+00:00"
+  },
+  {
+   "title": "After investing $65B in OpenAl, Japan's richest man seeks $100B for other AI projects",
+   "summary": "Masayoshi Son seeks to amass $100 billion from Gulf investors for a new fund dedicated to investing in traditional businesses. This venture aims to target companies that are behind in automation, leveraging AI to...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-investing-65-billion-in-sam-altmans-openal-japans-richest-man-masayoshi-son-is-seeking-100-billion-to-fund-other-ai-projects/articleshow/134870942.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-11T12:50:32+00:00"
   },
   {
    "title": "Wildlife park remains closed after fatal tiger attack",
@@ -584,14 +592,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-09T06:42:37+00:00"
-  },
-  {
-   "title": "'You cannot build this car anywhere else in the world'",
-   "summary": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-09T05:11:49+00:00"
   },
   {
    "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
