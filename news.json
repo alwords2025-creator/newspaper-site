@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-11T09:09:28.987923+00:00",
+ "updated": "2026-10-11T09:43:04.856414+00:00",
  "stories": [
   {
-   "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
-   "summary": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
-   "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
-   "source": "NPR",
+   "title": "Northern Lights dazzles skies across the UK",
+   "summary": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
+   "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-11T09:00:00+00:00"
+   "published": "2026-10-11T09:18:05+00:00"
   },
   {
    "title": "It's taking longer to find a new job after losing one",
@@ -21,6 +21,14 @@
    "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
    "summary": "In a highly competitive Washington congressional race, the incumbent Democrat has angered part of her party base and the Trump-backed Republican challenger faces backlash against the party in power.",
    "link": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-11T09:00:00+00:00"
+  },
+  {
+   "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
+   "summary": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
+   "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-11T09:00:00+00:00"
@@ -48,6 +56,14 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-11T08:45:03+00:00"
+  },
+  {
+   "title": "'We won't be intimidated’: CJP's team held again, vows to continue Delhi protest",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/detain-arrest-we-wont-be-intimidated-cjps-team-held-again-vows-to-continue-delhi-protest/articleshow/134867416.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-11T08:43:34+00:00"
   },
   {
    "title": "Bill Gates says daughter Phoebe helped him understand the internet’s ‘big problem’",
@@ -122,14 +138,6 @@
    "published": "2026-10-11T07:13:00+00:00"
   },
   {
-   "title": "Kharge says Congress to meet CJI over ‘vote chori’ allegations",
-   "summary": "In a significant move, Congress president Mallikarjun Kharge has announced plans for a meeting with the Chief Justice of India. He, alongside senior leader Rahul Gandhi, intends to discuss pressing issues regarding the...",
-   "link": "https://timesofindia.indiatimes.com/india/will-talk-about-undeclared-emergency-kharge-says-congress-to-meet-cji-over-vote-chori-allegations/articleshow/134866728.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-11T07:11:08+00:00"
-  },
-  {
    "title": "Man dies after tiger attack at wildlife park",
    "summary": "The man was reported to have entered the tiger enclosure before he was attacked, police say.",
    "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
@@ -176,6 +184,14 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-11T01:41:29+00:00"
+  },
+  {
+   "title": "UK launches flood taskforce to prepare for extreme winter weather",
+   "summary": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding.",
+   "link": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-11T00:44:37+00:00"
   },
   {
    "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
@@ -266,28 +282,12 @@
    "published": "2026-10-10T21:27:04+00:00"
   },
   {
-   "title": "Northern Lights stun UK down to England's south coast",
-   "summary": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
-   "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-10T20:57:29+00:00"
-  },
-  {
    "title": "The Kennedy Center names new artistic director, amid concerns",
    "summary": "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
    "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-10T18:17:12+00:00"
-  },
-  {
-   "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-   "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-   "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-10T17:44:26+00:00"
   },
   {
    "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
