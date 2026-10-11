@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-11T03:44:26.409685+00:00",
+ "updated": "2026-10-11T04:09:48.812061+00:00",
  "stories": [
+  {
+   "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+   "summary": "Another 309 people were injured in an attack a Saudi-led military coalition called a \"war crime\".",
+   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-11T03:57:22+00:00"
+  },
+  {
+   "title": "As Melinda French Gates invests $215 million, she makes a request on women's health",
+   "summary": "Melinda Gates has unveiled a significant new funding commitment aimed at enhancing women's healthcare and bridging long-standing gaps. She urged policymakers and governments to boost investments in women's research and...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-melinda-french-gates-invests-215-million-she-makes-a-request-on-womens-health-says-lets-come-back-in-4-5-years-to-measure-/articleshow/134864479.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-11T03:33:03+00:00"
+  },
   {
    "title": "'Ambani won't go out of business': Musk says Starlink competition would benefit Indians",
    "summary": "",
@@ -10,20 +26,12 @@
    "published": "2026-10-11T03:17:43+00:00"
   },
   {
-   "title": "Lockheed unveils new Patriot interceptor to counter hypersonic missiles",
-   "summary": "Lockheed Martin has announced the development of PAC-3 Edge to enhance missile defense capabilities against hypersonic threats. The interceptor will feature upgraded systems for improved tracking and maneuverability...",
-   "link": "https://timesofindia.indiatimes.com/defence/international/lockheed-unveils-new-patriot-interceptor-to-counter-hypersonic-missiles/articleshow/134864424.cms",
+   "title": "‘Their careers are on the line’: Gambhir’s message after India’s bowling struggles",
+   "summary": "Roston Chase showcased a stunning performance with the ball, leading the West Indies to triumph over India in the second T20I. Claiming three wickets for only 24 runs, he dramatically influenced the match's result....",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/their-careers-are-on-the-line-too-gautam-gambhirs-blunt-message-after-indias-bowling-struggles/articleshow/134864353.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-11T03:14:20+00:00"
-  },
-  {
-   "title": "Hurricane Isaias kills 4 in US, leaves hundreds of thousands without power - video",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/hurricane-isaias-kills-4-in-us-leaves-hundreds-of-thousands-without-power/articleshow/134864217.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-11T03:10:36+00:00"
+   "published": "2026-10-11T03:01:12+00:00"
   },
   {
    "title": "'BJP's honouring women': Akhilesh shares video of harassment during Delhi crackdown",
@@ -34,20 +42,12 @@
    "published": "2026-10-11T02:56:32+00:00"
   },
   {
-   "title": "Salesforce CEO renames company’s biggest product after US govt's 'enemy post'",
-   "summary": "Salesforce has officially changed the name of its AIForce platform to SIForce, aligning with recent governmental directives. This decision follows President Trump's Executive Order that mandates the replacement of the...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-renames-companys-biggest-product-hours-after-the-us-governments-enemy-post-adopts-label-that-white-house-wants-everyone-to-use/articleshow/134864245.cms",
+   "title": "How Peter Pan has funded a children's hospital for 97 years",
+   "summary": "In 1929, J. M. Barrie selflessly granted the rights to Peter Pan, establishing a perpetual source of funding for Great Ormond Street Hospital. The hospital benefits from the story's performances, facilitating care for...",
+   "link": "https://timesofindia.indiatimes.com/world/uk/in-1929-peter-pan-author-j-m-barrie-gave-his-rights-to-a-london-childrens-hospital-97-years-later-the-gift-still-supports-seriously-ill-children-with-uk-royalty-payments-protected-by-a-special-law/articleshow/134833127.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-11T02:34:44+00:00"
-  },
-  {
-   "title": "30 cops in plainclothes and a warning: How drama unfolded at Dhruv Rathee’s home",
-   "summary": "YouTuber Dhruv Rathee was detained by police on Saturday morning for planning to attend an unauthorized protest. He was taken from his home in Sector 56 after refusing police warnings regarding the demonstration. The...",
-   "link": "https://timesofindia.indiatimes.com/city/gurgaon/do-not-join-cjp-protest-30-cops-in-plainclothes-reach-dhruv-rathees-gurgaon-home-how-drama-unfolded/articleshow/134864132.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-11T02:25:25+00:00"
+   "published": "2026-10-11T02:30:21+00:00"
   },
   {
    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -80,14 +80,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-11T00:44:37+00:00"
-  },
-  {
-   "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-   "summary": "Another 309 people were injured in an attack a Saudi-led military coalition called a \"war crime\".",
-   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-11T00:21:52+00:00"
   },
   {
    "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
@@ -138,28 +130,12 @@
    "published": "2026-10-10T23:04:37+00:00"
   },
   {
-   "title": "Restrained, detained, contained: Clampdown foils stir, thousands confined to home",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/restrained-detained-contained-clampdown-foils-stir-thousands-confined-to-home-nabbed-on-way/articleshow/134861054.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-10T22:48:04+00:00"
-  },
-  {
    "title": "Christa Pike discharged from the hospital and back in prison",
    "summary": "Pike's attorneys say she is grateful for the care of first responders and her medical team.",
    "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-10T22:15:04+00:00"
-  },
-  {
-   "title": "Anxiety: Most common & ignored mental health issue",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/anxiety-treatable-but-83-of-affected-did-not-get-help/articleshow/134863423.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-10T22:08:48+00:00"
   },
   {
    "title": "For reporters covering AI, keeping up with story is both tough and exciting",
@@ -202,6 +178,38 @@
    "published": "2026-10-10T20:57:29+00:00"
   },
   {
+   "title": "Several journalists detained during CJP protest despite IDs",
+   "summary": "During a protest in New Delhi, several journalists, even those with valid press credentials, were detained by the police. Despite asserting their professional status, they faced intimidation tactics, including demands...",
+   "link": "https://timesofindia.indiatimes.com/city/delhi/journalists-were-detained/articleshow/134860710.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-10T19:20:31+00:00"
+  },
+  {
+   "title": "Turn any spot into your own Jantar Mantar, says Arvind Kejriwal",
+   "summary": "In a bold move, Arvind Kejriwal called on individuals across India to transform any location into their personal Jantar Mantar for protests, vigorously challenging Prime Minister Narendra Modi's perceived threat to...",
+   "link": "https://timesofindia.indiatimes.com/city/delhi/turn-any-spot-into-your-own-jantar-mantar-kejriwal-urges-people/articleshow/134860650.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-10T19:09:04+00:00"
+  },
+  {
+   "title": "When around 200 protesters owned the street in CP for close to an hour",
+   "summary": "Amid growing discontent, a crowd of protesters gathered in central Delhi, highlighting their grievances with the government. The demographic was varied, featuring both spirited youth and seasoned individuals. Observers...",
+   "link": "https://timesofindia.indiatimes.com/city/delhi/for-close-to-1-hour-a-mini-jantar-mantar-in-cp/articleshow/134860453.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-10T18:54:33+00:00"
+  },
+  {
+   "title": "Batons, barricades, barrage of queries: Journey interrupted at Delhi’s borders",
+   "summary": "In response to protest-related concerns, police have established multiple checkpoints at Delhi's entry points, rigorously inspecting vehicles and questioning drivers about their destinations. Commuters are experiencing...",
+   "link": "https://timesofindia.indiatimes.com/city/delhi/journey-interrupted-batons-barricades-and-a-barrage-of-questions-at-delhis-borders/articleshow/134860196.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-10T18:40:13+00:00"
+  },
+  {
    "title": "The Kennedy Center names new artistic director, amid concerns",
    "summary": "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
    "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
@@ -224,14 +232,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-10T17:14:03+00:00"
-  },
-  {
-   "title": "165-million-year-old fossil reveals mammal ancestor with modern feeding traits",
-   "summary": "Scientists have identified a 165-million-year-old mammal predecessor from China that had a broad tail for swimming and throat bones similar to those of modern mammals. Named Megacauda sungei, the Jurassic-era animal...",
-   "link": "https://timesofindia.indiatimes.com/science/archaeology/scientists-examined-a-165-million-year-old-fossil-from-china-and-found-a-broad-swimming-tail-plus-bony-throat-structures-the-jurassic-mammal-predecessor-could-feed-and-swallow-in-ways-seen-in-modern-mammals/articleshow/134789743.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-10T16:28:00+00:00"
   },
   {
    "title": "King warns malicious online actors are evolving tactics",
@@ -298,6 +298,14 @@
    "published": "2026-10-10T11:00:00+00:00"
   },
   {
+   "title": "US hospital worker paid $15.99 for Goodwill painting; later valued up to $80,000",
+   "summary": "An occupational therapist found a painting for $15.99 at Goodwill while shopping to relieve stress. Notably, the piece was valued significantly higher during an appraisal on Antiques Roadshow. Fine-art expert Betty...",
+   "link": "https://timesofindia.indiatimes.com/world/us/during-the-pandemic-a-us-hospital-worker-paid-15-99-for-a-goodwill-painting-and-hung-it-above-her-bed-antiques-roadshow-later-identified-it-as-a-le-pho-worth-60000-80000-at-auction/articleshow/134851220.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-10T10:30:00+00:00"
+  },
+  {
    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
    "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
    "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
@@ -312,14 +320,6 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-10T09:31:14+00:00"
-  },
-  {
-   "title": "Michael Bloomberg’s $1bn gift made Johns Hopkins medical school tuition-free",
-   "summary": "In a groundbreaking move, Johns Hopkins University revealed a $1 billion contribution from Bloomberg Philanthropies to significantly improve financial assistance for graduate students. This generous funding extends free...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2024-michael-bloombergs-foundation-gave-johns-hopkins-1-billion-the-gift-made-medical-school-tuition-free-for-students-from-families-earning-under-300000-and-expanded-help-with-living-costs/articleshow/134850680.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-10T09:28:00+00:00"
   },
   {
    "title": "Public executions in the US stopped nearly a century ago, why are they resuming now?",
