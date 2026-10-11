@@ -1,8 +1,40 @@
 {
- "updated": "2026-10-11T14:08:47.215171+00:00",
+ "updated": "2026-10-11T14:42:44.609938+00:00",
  "stories": [
   {
-   "title": "'Not the India we want': Rahul lashes out at PM Modi, Shah over Delhi protest crackdown",
+   "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+   "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+   "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-11T14:38:10+00:00"
+  },
+  {
+   "title": "PM Modi tells Chennai students to think big, take Tamil culture to the world",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/this-is-your-time-pm-modi-tells-chennai-students-to-think-big-take-tamil-culture-to-the-world/articleshow/134872074.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-11T14:31:26+00:00"
+  },
+  {
+   "title": "Houthis blame Saudi Arabia for another strike on Sanaa's airport",
+   "summary": "Air strikes were reported by Houthi-aligned media on Houthi-held territories including Sanaa international airport. The Saudi-led coalition condemned an earlier attack that caused civilian casualties and incurred...",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/houthis-blame-saudi-arabia-for-another-strike-on-sanaas-airport/articleshow/134872073.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-11T14:29:21+00:00"
+  },
+  {
+   "title": "Pilot says Congress will return to power in Punjab with absolute majority",
+   "summary": "Sachin Pilot expressed confidence in Congress regaining power in Punjab with an absolute majority in upcoming elections. He emphasized the loss of public faith in the Aam Aadmi Party government and the desire for...",
+   "link": "https://timesofindia.indiatimes.com/india/people-want-change-sachin-pilot-says-congress-will-return-to-power-in-punjab-with-absolute-majority/articleshow/134871974.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-11T14:24:35+00:00"
+  },
+  {
+   "title": "'PM Modi, Shah, Doval can't silence India': Rahul makes call for Supreme Court march",
    "summary": "",
    "link": "https://timesofindia.indiatimes.com/india/not-the-india-we-want-rahul-gandhi-lashes-out-at-pm-modi-amit-shah-over-delhi-protest-crackdown/articleshow/134871639.cms",
    "source": "Times of India",
@@ -26,6 +58,14 @@
    "published": "2026-10-11T13:38:55+00:00"
   },
   {
+   "title": "Florida family protects 498-acre cattle ranch in $7.48m conservation deal",
+   "summary": "A 498-acre cattle ranch known as Turnpike Dairy has been protected from future development through a conservation easement. The agreement allows the managing family to continue agricultural operations on the property....",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-florida-family-kept-a-498-acre-cattle-operation-for-generations-as-development-spread-around-it-the-ranch-is-now-permanently-protected-through-a-7-48-million-conservation-easement/articleshow/134871443.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-11T13:36:41+00:00"
+  },
+  {
    "title": "'Cops wanted to torment my parents at 3.30 am': Dipke's rebuttal to Delhi Police's clip",
    "summary": "In a statement reacting to the police's account, Dipke said he had repeatedly requested access to his phone to retrieve his cousin's number and speak to a lawyer, but was denied both requests. He also questioned why...",
    "link": "https://timesofindia.indiatimes.com/india/cops-wanted-to-torment-my-parents-at-3-30-am-dipkes-rebuttal-to-delhi-polices-clip/articleshow/134871383.cms",
@@ -34,28 +74,20 @@
    "published": "2026-10-11T13:36:39+00:00"
   },
   {
-   "title": "Oregon blimp hangar sold for $1 after storm damage; air museum set to reopen",
-   "summary": "An 83-year-old World War II-era blimp hangar in Oregon, US, was sold for just $1 after a storm tore a 200-foot hole in its roof in December 2025. The historic building, which houses the Tillamook Air Museum, was...",
-   "link": "https://timesofindia.indiatimes.com/world/us/an-83-year-old-oregon-blimp-hangar-was-sold-for-1-after-a-storm-tore-a-200-foot-hole-in-its-roof-after-nearly-10-months-shut-the-air-museum-inside-is-now-set-to-reopen-on-october-29/articleshow/134869727.cms",
+   "title": "Florida school district approves third bid for $15.13M riverfront HQ sale",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-florida-school-district-rejected-a-20-million-offer-for-its-five-acre-riverfront-headquarters-in-2025-another-17-2-million-deal-collapsed-and-officials-have-now-approved-a-third-agreement-worth-15-13-million/articleshow/134871415.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-11T13:33:11+00:00"
+   "published": "2026-10-11T13:33:39+00:00"
   },
   {
-   "title": "Inflation data, IT earnings, crude oil to steer stock markets this week, say experts",
-   "summary": "Anticipation is high in Indian stock markets as volatility and consolidation loom, particularly with September's inflation data on the horizon. These figures will shed light on price movements and may sway the Reserve...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/inflation-data-it-earnings-crude-oil-to-steer-stock-markets-this-week-say-experts/articleshow/134871184.cms",
+   "title": "Stock market is crashing, yet IPOs attract billions: What’s happening here?",
+   "summary": "Foreign portfolio investors (FPIs) invested $1 billion (Rs 9,676 crore) in IPOs in September even as they sold $4.8 billion (Rs 45,537 crore) worth of listed equities, the highest monthly outflow since April 2026, when...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-is-crashing-but-ipos-are-seeing-billions-of-dollars-of-investment-whats-happening/articleshow/134871182.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-11T13:23:07+00:00"
-  },
-  {
-   "title": "Federal judge halts California ICE detention site pending environmental review",
-   "summary": "A federal judge has granted a preliminary injunction halting construction of an ICE facility near Gilroy, California. The ruling came in response to a lawsuit filed by California Attorney General Rob Bonta and Santa...",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-26-acre-california-site-was-being-turned-into-an-ice-detention-facility-without-a-full-environmental-review-a-federal-judge-has-now-halted-construction-until-the-government-completes-the-required-analysis/articleshow/134870897.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-11T12:56:36+00:00"
+   "published": "2026-10-11T13:25:53+00:00"
   },
   {
    "title": "Pope Leo XIV to undergo lung surgery this week",
@@ -66,22 +98,6 @@
    "published": "2026-10-11T12:54:25+00:00"
   },
   {
-   "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-   "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-   "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-11T12:50:46+00:00"
-  },
-  {
-   "title": "Rohit Sharma takes 5-wicket haul on Ranji Trophy comeback, MP bowled out for 196",
-   "summary": "Left-arm pacer Sunil Kumar also made an impact with four wickets, while Auqib Nabi picked up one for 42. Madhya Pradesh were bowled out for 196, with captain Shubham Sharma top-scoring with 79.",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-domestic/ranji-trophy/rohit-sharma-takes-five-wicket-haul-on-ranji-trophy-comeback-as-mp-bowled-out-for-196/articleshow/134870842.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-11T12:46:22+00:00"
-  },
-  {
    "title": "Wildlife park remains closed after fatal tiger attack",
    "summary": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
    "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
@@ -90,28 +106,12 @@
    "published": "2026-10-11T12:38:02+00:00"
   },
   {
-   "title": "Delhi cops release video when they told Dipke in detention of grandmother’s death - watch",
-   "summary": "Delhi Police released a video showing officers informing Cockroach Janta Party (CJP) founder Abhijeet Dipke about his grandmother’s death in detention and offering help with travel arrangements for her last rites, which...",
-   "link": "https://timesofindia.indiatimes.com/india/delhi-police-release-video-of-informing-dipke-of-grandmothers-death-in-detention-watch/articleshow/134870504.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-11T12:34:24+00:00"
-  },
-  {
    "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
    "summary": "The eye of Hurricane Simon was just off the Pacific coast of Mexico early Sunday and was expected to move inland later in the day as an extremely powerful storm.",
    "link": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-11T12:10:54+00:00"
-  },
-  {
-   "title": "Watch: Power bank catches fire mid-air, Delhi-Chennai flight makes emergency landing",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/delhi-chennai-flight-diverted-to-hyderabad-after-smoke-detected-on-board-report/articleshow/134870210.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-11T12:02:46+00:00"
   },
   {
    "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
