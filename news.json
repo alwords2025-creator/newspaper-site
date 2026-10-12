@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-12T08:48:36.205744+00:00",
+ "updated": "2026-10-12T09:13:05.980053+00:00",
  "stories": [
+  {
+   "title": "The warning signs that you're getting bad debt advice",
+   "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+   "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-12T09:11:46+00:00"
+  },
+  {
+   "title": "Sinn Féin ministers facing no-confidence vote after Drumcree dispute",
+   "summary": "The motion against Michelle O'Neill and three other Sinn Féin ministers will be debated after receiving the backing of unionist parties last week.",
+   "link": "https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T09:07:15+00:00"
+  },
+  {
+   "title": "U.S. restrictions on Chinese drones are leaving police departments in the lurch",
+   "summary": "The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China. But more restrictions mean higher costs for cash-strapped police forces that rely on those drones.",
+   "link": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-12T09:00:00+00:00"
+  },
+  {
+   "title": "Here's what to know if you're unsure about your measles immunity status",
+   "summary": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.",
+   "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-12T09:00:00+00:00"
+  },
+  {
+   "title": "Reform pledges to suspend asylum system for up to five years and deport claimants",
+   "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
+   "link": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T08:57:53+00:00"
+  },
+  {
+   "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
+   "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
+   "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T08:50:22+00:00"
+  },
+  {
+   "title": "'Ab poora desh Jantar Mantar banega!': CJP reacts as designated protest site changed",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/ab-poora-desh-jantar-mantar-banega-cjp-after-delhi-protest-site-de-listed/articleshow/134887582.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T08:49:26+00:00"
+  },
   {
    "title": "Burnham says it is 'clear' Russia interfered with Brexit vote",
    "summary": "The prime minister says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
@@ -10,28 +66,20 @@
    "published": "2026-10-12T08:38:43+00:00"
   },
   {
-   "title": "What Trump's new press secretary pick means for White House press corps",
-   "summary": "NPR's Michel Martin speaks with New York Times White House correspondent Tyler Pager about President Trump's new pick for press secretary, Katie Zacharia.",
-   "link": "https://www.npr.org/2026/10/12/nx-s1-5998081/what-trumps-new-press-secretary-pick-means-for-white-house-press-corps",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-10-12T08:38:34+00:00"
+   "title": "Bill Gates-backed malaria nets helped fight disease, but are harming African waters",
+   "summary": "In various regions of Africa, the repurposing of insecticide-treated mosquito nets for fishing is becoming a growing trend. This alarming practice not only jeopardizes fish populations but also poses a serious threat to...",
+   "link": "https://timesofindia.indiatimes.com/technology/technology-news/since-2004-bill-gates-has-sent-millions-of-anti-malaria-nets-to-africa-but-the-donated-gear-is-devastating-local-waters/articleshow/134886254.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T08:36:05+00:00"
   },
   {
-   "title": "Last Nobel prize of the year to be announced for economics",
-   "summary": "The Nobel Prize in Economics, the sixth and last of this year's awards, will be announced today in Sweden.",
-   "link": "https://www.npr.org/2026/10/12/nx-s1-5996634/last-nobel-prize-of-the-year-to-be-announced-for-economics",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-10-12T08:35:16+00:00"
-  },
-  {
-   "title": "DOJ launches antitrust probe into TV networks over suspended pool coverage",
-   "summary": "The Justice Department has launched an antitrust investigation into major television networks, including CNN, after President Trump banned them from them from the White House.",
-   "link": "https://www.npr.org/2026/10/12/nx-s1-5998112/doj-launches-antitrust-probe-into-tv-networks-over-suspended-pool-coverage",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-10-12T08:35:07+00:00"
+   "title": "Australia removed rabbits; petrel colony grew to over 800 breeding pairs",
+   "summary": "After the successful elimination of rabbits from Cabbage Tree Island, conservationists observed a remarkable increase in the Gould’s petrel population. This pivotal action mitigated serious threats to their habitat and...",
+   "link": "https://timesofindia.indiatimes.com/science/wildlife/in-1997-australia-eradicated-rabbits-from-cabbage-tree-island-as-part-of-a-wider-goulds-petrel-rescue-by-2000-the-colony-had-grown-to-more-than-800-breeding-pairs-and-was-producing-over-400-young-a-year/articleshow/134885951.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T08:30:00+00:00"
   },
   {
    "title": "Russell Brand arrives at court for start of rape trial",
@@ -50,6 +98,14 @@
    "published": "2026-10-12T08:16:17+00:00"
   },
   {
+   "title": "Michael Dell’s Florida resort sells 40% of luxury condos, starting at $8.95m",
+   "summary": "Michael Dell's investment in Boca Raton's luxury real estate has already resulted in approximately 40% of the condos being sold. The residences offer high-end amenities and multiple perks, including a top-tier resort...",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/michael-dells-florida-resort-development-has-sold-roughly-40-of-its-75-planned-luxury-condos-with-prices-starting-at-8-95-million-after-earlier-expectations-put-entry-prices-much-lower/articleshow/134886699.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T08:12:21+00:00"
+  },
+  {
    "title": "Wildlife park closed for third day after tiger attack",
    "summary": "Yorkshire Wildlife Park remains shut after a man was fatally attacked by a tiger on Saturday.",
    "link": "https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o?at_medium=RSS&at_campaign=rss",
@@ -58,20 +114,12 @@
    "published": "2026-10-12T08:11:49+00:00"
   },
   {
-   "title": "How India travels: A tale of two wheels and many divides",
-   "summary": "India's commuting landscape shows noticeable variations influenced by geography, gender, and age demographics. Two-wheelers remain popular, but there's an increasing reliance on buses and walking in certain regions. For...",
-   "link": "https://timesofindia.indiatimes.com/india/how-india-travels-a-tale-of-two-wheels-and-many-divides/articleshow/134886236.cms",
+   "title": "Delhi protests: SC on Tuesday to hear pleas on attacks on protesters, lawyers",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/delhi-protests-sc-on-tuesday-to-hear-pleas-on-attacks-on-protesters-lawyers/articleshow/134886301.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-12T08:02:33+00:00"
-  },
-  {
-   "title": "Reform pledges to suspend asylum system for up to five years and deport claimants",
-   "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
-   "link": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-12T08:00:25+00:00"
+   "published": "2026-10-12T07:57:51+00:00"
   },
   {
    "title": "AI is less regulated than milk, says Microsoft president",
@@ -80,6 +128,14 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-12T07:47:37+00:00"
+  },
+  {
+   "title": "Abhishek's bat, three fours! Prince Yadav reveals secret behind Indore cameo",
+   "summary": "India fast bowler Prince Yadav made a valuable contribution with the bat in the third T20I against the West Indies in Indore. After India's 14-run victory, Prince revealed that he had used Abhishek Sharma's bat to score...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/abhishek-sharmas-bat-three-fours-prince-yadav-reveals-secret-behind-indore-cameo-vs-west-indies/articleshow/134886273.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T07:45:17+00:00"
   },
   {
    "title": "'Keep getting messages': Rahul's big claim, and a message for CEC Gyanesh Kumar",
@@ -98,22 +154,6 @@
    "published": "2026-10-12T07:42:28+00:00"
   },
   {
-   "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-   "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
-   "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-12T07:42:22+00:00"
-  },
-  {
-   "title": "2,300-year-old shipwreck off Croatia yields rare pottery and wooden remains",
-   "summary": "A significant shipwreck has been discovered off the Croatian island of Vis, containing artifacts from the Hellenistic period. Archaeologists recovered various objects, including pottery, wooden remains, and personal...",
-   "link": "https://timesofindia.indiatimes.com/science/archaeology/a-2300-year-old-shipwreck-off-croatias-vis-island-has-yielded-rare-pottery-personal-belongings-and-surviving-wooden-remains-offering-a-glimpse-into-merchant-sailing-during-the-hellenistic-period/articleshow/134883476.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T07:30:00+00:00"
-  },
-  {
    "title": "3 grades, 1 teacher: Haryana’s schools face a test",
    "summary": "Haryana's education system is experiencing significant turmoil due to teacher shortages and administrative assignments disrupting classes. Government primary schools are struggling to function with only a few teachers...",
    "link": "https://timesofindia.indiatimes.com/city/gurgaon/3-grades-1-teacher-class-8-student-struggles-with-basic-addition-haryanas-schools-face-a-test/articleshow/134885111.cms",
@@ -122,36 +162,12 @@
    "published": "2026-10-12T07:19:38+00:00"
   },
   {
-   "title": "Pakistan cricket hit by political turmoil! PCB shifts President’s Trophy matches",
-   "summary": "The Pakistan Cricket Board has taken the decisive step to relocate President's Trophy matches amidst ongoing political unrest. With governor's rule now imposed in Khyber Pakhtunkhwa, several matches planned for that...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-hit-by-political-turmoil-pcb-shifts-presidents-trophy-matches-after-emergency-in-khyber-pakhtunkhwa/articleshow/134885590.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T07:11:52+00:00"
-  },
-  {
-   "title": "Francis Ford Coppola turned abandoned Belize lodge into 20-room resort",
-   "summary": "In 1981, filmmaker Francis Ford Coppola bought an abandoned hunting lodge in the forests of Belize and turned it into a private family retreat. Twelve years later, it opened as Blancaneaux Lodge, a 20-room resort. The...",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-1981-francis-ford-coppola-found-an-abandoned-belize-jungle-lodge-and-turned-it-into-a-family-retreat-12-years-later-blancaneaux-opened-as-a-20-room-resort-now-drawing-about-85-of-its-power-from-a-creek/articleshow/134884840.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T07:00:00+00:00"
-  },
-  {
    "title": "Anupam Mittal recalls returning his green card as US freezes PERM for Indian IT firms",
    "summary": "Anupam Mittal shares his thoughts on relinquishing his Green Card and choosing to return to India. He highlights that this decision enabled him to cultivate businesses and support emerging startups in the region. With...",
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-us-suspends-green-card-programme-for-infosys-tcs-wipro-and-hcl-shark-tank-india-judge-anupam-mittal-remembers-full-emotional-atyachar-he-faced-when-he-went-to-return-his-green-card-years-ago/articleshow/134885292.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-12T06:52:39+00:00"
-  },
-  {
-   "title": "How watching Virat Kohli's videos helped Australia A star tackle Indian spinners",
-   "summary": "Nathan McSweeney used YouTube videos of Virat Kohli and Steve Smith to prepare for the challenge of batting against spin in India. His preparation proved effective as the Australia A batter topped the run charts in the...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/how-watching-virat-kohlis-videos-helped-australia-a-star-tackle-indian-spinners/articleshow/134885203.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T06:50:30+00:00"
   },
   {
    "title": "'24-hour ultimatum': CJP asks Delhi Police to fix date, time for Jantar Mantar protest",
@@ -176,14 +192,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-12T06:41:57+00:00"
-  },
-  {
-   "title": "Manipur on boil again: Naga body gives 48-hour ultimatum to return man’s severed head",
-   "summary": "A civil society organization has given a 48-hour ultimatum for the return of a severed head. The headless body of Ajinbou R was brought for post-mortem following a militant attack in Manipur. Violence in the region has...",
-   "link": "https://timesofindia.indiatimes.com/city/imphal/manipur-on-boil-again-naga-body-gives-48-hour-ultimatum-to-return-mans-severed-head/articleshow/134884410.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T06:33:37+00:00"
   },
   {
    "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
@@ -226,14 +234,6 @@
    "published": "2026-10-11T23:19:49+00:00"
   },
   {
-   "title": "Debt advice that may leave you owing even more money",
-   "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
-   "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-11T23:19:07+00:00"
-  },
-  {
    "title": "Trump faces growing backlash over plans to import diesel from Russia",
    "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
    "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
@@ -248,14 +248,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-11T23:13:51+00:00"
-  },
-  {
-   "title": "Remnants of hurricane to bring warm weather to the UK this week",
-   "summary": "Close to record-breaking warm nights are possible this week as warmer air heads for the UK.",
-   "link": "https://www.bbc.co.uk/weather/articles/c9e8lmmevd70o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-11T23:03:15+00:00"
   },
   {
    "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
@@ -357,16 +349,8 @@
    "title": "It's taking longer to find a new job after losing one",
    "summary": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job.",
    "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-11T09:00:00+00:00"
-  },
-  {
-   "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
-   "summary": "In a highly competitive Washington congressional race, the incumbent Democrat has angered part of her party base and the Trump-backed Republican challenger faces backlash against the party in power.",
-   "link": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-10-11T09:00:00+00:00"
   },
   {
@@ -586,6 +570,14 @@
    "published": "2026-10-09T12:00:28+00:00"
   },
   {
+   "title": "Why American investors love European defense startups",
+   "summary": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year. One reason why: European investment firms have restrictions on how...",
+   "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+   "source": "NPR Business",
+   "category": "Business",
+   "published": "2026-10-09T11:00:00+00:00"
+  },
+  {
    "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
    "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river floodingIsaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum...",
    "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
@@ -653,8 +645,8 @@
    "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
    "summary": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia.",
    "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
-   "source": "NPR Technology",
-   "category": "Technology",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-10-09T00:25:15+00:00"
   },
   {
@@ -717,8 +709,8 @@
    "title": "As crypto and prediction markets expand, their regulator shrinks",
    "summary": "Even as the agency is tasked with drawing up new rules for crypto and prediction markets, its staffing and enforcement actions have dropped precipitously during the second Trump administration.",
    "link": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens",
-   "source": "NPR Technology",
-   "category": "Technology",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-10-08T09:00:00+00:00"
   },
   {
