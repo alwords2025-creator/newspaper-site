@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-12T15:14:35.058538+00:00",
+ "updated": "2026-10-12T15:47:08.337346+00:00",
  "stories": [
+  {
+   "title": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
+   "summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.",
+   "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T15:44:46+00:00"
+  },
+  {
+   "title": "Hezbollah-linked device explodes in student's bag during Israel school trip, 1 killed",
+   "summary": "An explosive device in a student's bag detonated during a school trip in northern Israel. This incident resulted in one death and 24 injuries, including students and staff. The IDF identified the device as Hezbollah...",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/hezbollah-linked-device-explodes-in-students-bag-during-israel-school-trip-1-killed/articleshow/134896638.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T15:23:14+00:00"
+  },
+  {
+   "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+   "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
+   "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
+   "category": "India",
+   "published": "2026-10-12T15:19:17+00:00"
+  },
   {
    "title": "AI minister warns 'likely' UK's cyber defences will be breached",
    "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
@@ -10,12 +34,12 @@
    "published": "2026-10-12T15:03:42+00:00"
   },
   {
-   "title": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
-   "summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.",
-   "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-12T15:02:41+00:00"
+   "title": "Malaysia Airlines offloads passengers after oxygen snag delay, arranges alternatives",
+   "summary": "While half the passengers were not allowed to board the flight citing a technical glitch, the flight later departed at 2.20am with 100 passengers, though the flight was originally scheduled to depart at 11.55pm on...",
+   "link": "https://timesofindia.indiatimes.com/city/chennai/oxygen-shortage-delays-malaysia-airlines-flight-at-chennai-airport-78-passengers-denied-boarding/articleshow/134896402.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T15:00:31+00:00"
   },
   {
    "title": "Which war is having the biggest impact on diesel prices - Iran or Ukraine?",
@@ -130,28 +154,12 @@
    "published": "2026-10-12T13:43:27+00:00"
   },
   {
-   "title": "YouTube star’s Utah estate with transforming indoor pool lists for $13.95m",
-   "summary": "Kris Krohn has listed his expansive mansion in Utah for $13.95 million. This sprawling estate features a unique hydraulic indoor pool that transforms into a ballroom. The property also includes a commercial-grade gym,...",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2017-youtube-star-and-real-estate-investor-kris-krohn-commissioned-a-utah-estate-the-28446-sq-ft-compound-is-now-listed-for-13-95-million-featuring-a-hydraulic-indoor-pool-that-transforms-into-a-column-free-ballroom/articleshow/134894475.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T13:40:57+00:00"
-  },
-  {
    "title": "Normandy veteran Henry Rice dies aged 100",
    "summary": "Henry Rice, from Cranleigh, Surrey, was a signalman who served off Normandy in the days after D-Day.",
    "link": "https://www.bbc.co.uk/news/articles/cmg47kww9k7no?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-12T13:34:49+00:00"
-  },
-  {
-   "title": "Cleveland church where Martin Luther King Jr preached gets $750,000 grant",
-   "summary": "Shiloh Baptist Church in Cleveland has secured a $750,000 grant to enhance its historic building. The funding aims to improve accessibility and support ongoing community services. Planned repairs include restoring the...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-1967-martin-luther-king-jr-preached-at-clevelands-shiloh-baptist-church-the-historic-congregation-now-has-a-750000-grant-to-repair-its-building-and-improve-access-for-the-community/articleshow/134894648.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T13:33:23+00:00"
   },
   {
    "title": "Intel CEO agrees with Nvidia CEO and ex- Meta chief AI scientist on open-source models",
@@ -288,14 +296,6 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-12T07:47:37+00:00"
-  },
-  {
-   "title": "Indian opposition leaders march to top court to demand election chief resign",
-   "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police.",
-   "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-10-12T06:42:35+00:00"
   },
   {
    "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
