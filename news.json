@@ -1,13 +1,21 @@
 {
- "updated": "2026-10-12T09:13:05.980053+00:00",
+ "updated": "2026-10-12T09:48:31.768288+00:00",
  "stories": [
   {
-   "title": "The warning signs that you're getting bad debt advice",
-   "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
-   "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-12T09:11:46+00:00"
+   "title": "Wildlife park closed for third day after tiger attack",
+   "summary": "Yorkshire Wildlife Park remains shut after a man was fatally attacked by a tiger on Saturday.",
+   "link": "https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T09:40:15+00:00"
+  },
+  {
+   "title": "'Directionless leadership responsible, not EC': Shivraj Chouhan on Congress' poll defeats",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/directionless-leadership-responsible-not-ec-union-minister-shivraj-chouhan-on-congress-poll-defeats/articleshow/134887845.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T09:22:53+00:00"
   },
   {
    "title": "Sinn Féin ministers facing no-confidence vote after Drumcree dispute",
@@ -15,7 +23,15 @@
    "link": "https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-12T09:07:15+00:00"
+   "published": "2026-10-12T09:13:27+00:00"
+  },
+  {
+   "title": "The warning signs that you're getting bad debt advice",
+   "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+   "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-12T09:11:46+00:00"
   },
   {
    "title": "U.S. restrictions on Chinese drones are leaving police departments in the lurch",
@@ -50,7 +66,7 @@
    "published": "2026-10-12T08:50:22+00:00"
   },
   {
-   "title": "'Ab poora desh Jantar Mantar banega!': CJP reacts as designated protest site changed",
+   "title": "'Ab poora desh Jantar Mantar banega!' CJP reacts as designated protest site changed",
    "summary": "",
    "link": "https://timesofindia.indiatimes.com/india/ab-poora-desh-jantar-mantar-banega-cjp-after-delhi-protest-site-de-listed/articleshow/134887582.cms",
    "source": "Times of India",
@@ -64,14 +80,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-12T08:38:43+00:00"
-  },
-  {
-   "title": "Bill Gates-backed malaria nets helped fight disease, but are harming African waters",
-   "summary": "In various regions of Africa, the repurposing of insecticide-treated mosquito nets for fishing is becoming a growing trend. This alarming practice not only jeopardizes fish populations but also poses a serious threat to...",
-   "link": "https://timesofindia.indiatimes.com/technology/technology-news/since-2004-bill-gates-has-sent-millions-of-anti-malaria-nets-to-africa-but-the-donated-gear-is-devastating-local-waters/articleshow/134886254.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T08:36:05+00:00"
   },
   {
    "title": "Australia removed rabbits; petrel colony grew to over 800 breeding pairs",
@@ -106,14 +114,6 @@
    "published": "2026-10-12T08:12:21+00:00"
   },
   {
-   "title": "Wildlife park closed for third day after tiger attack",
-   "summary": "Yorkshire Wildlife Park remains shut after a man was fatally attacked by a tiger on Saturday.",
-   "link": "https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-12T08:11:49+00:00"
-  },
-  {
    "title": "Delhi protests: SC on Tuesday to hear pleas on attacks on protesters, lawyers",
    "summary": "",
    "link": "https://timesofindia.indiatimes.com/india/delhi-protests-sc-on-tuesday-to-hear-pleas-on-attacks-on-protesters-lawyers/articleshow/134886301.cms",
@@ -125,8 +125,8 @@
    "title": "AI is less regulated than milk, says Microsoft president",
    "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
    "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-10-12T07:47:37+00:00"
   },
   {
@@ -154,6 +154,14 @@
    "published": "2026-10-12T07:42:28+00:00"
   },
   {
+   "title": "Google DeepMind will pay ‘very good vibe coders’ up to $1.1 million, no degree needed",
+   "summary": "Google DeepMind is hiring engineers for Polaris, a new team that builds hand-crafted tests to measure Gemini's software engineering skills. Total compensation ranges from $550,000 to $1.1 million, and no degree is...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-deepmind-is-hiring-ai-engineers-for-its-new-team-with-salary-of-up-to-1-1-million-no-degree-required-all-the-company-wants-is-/articleshow/134885970.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T07:24:56+00:00"
+  },
+  {
    "title": "3 grades, 1 teacher: Haryana’s schools face a test",
    "summary": "Haryana's education system is experiencing significant turmoil due to teacher shortages and administrative assignments disrupting classes. Government primary schools are struggling to function with only a few teachers...",
    "link": "https://timesofindia.indiatimes.com/city/gurgaon/3-grades-1-teacher-class-8-student-struggles-with-basic-addition-haryanas-schools-face-a-test/articleshow/134885111.cms",
@@ -170,15 +178,7 @@
    "published": "2026-10-12T06:52:39+00:00"
   },
   {
-   "title": "'24-hour ultimatum': CJP asks Delhi Police to fix date, time for Jantar Mantar protest",
-   "summary": "Cockroach Janta Party activists visited Parliament Street Police Station and asked for a protest date from Delhi Police. They issued a 24-hour ultimatum, stating their willingness to accept the police's chosen date and...",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/24-hour-ultimatum-cjp-asks-delhi-police-to-fix-date-time-for-jantar-mantar-protest/articleshow/134884994.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T06:46:54+00:00"
-  },
-  {
-   "title": "Indian opposition leaders to march to top court to demand election chief resign",
+   "title": "Indian opposition leaders march to top court to demand election chief resign",
    "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police.",
    "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC India",
@@ -192,6 +192,22 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-12T06:41:57+00:00"
+  },
+  {
+   "title": "Watch: How did Roman Abramovich's advisors help hide his wealth?",
+   "summary": "Working with the Bureau of Investigative Journalism, BBC Panorama reveals how the Russian billionaire hid his wealth with the help of Deloitte.",
+   "link": "https://www.bbc.co.uk/news/videos/c9rkynp1m01mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T06:35:02+00:00"
+  },
+  {
+   "title": "Why some have no choice but to pay costly oil prices",
+   "summary": "The rural communities vulnerable to heating oil prices rises as the weather gets colder.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm09xvlvjeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-12T05:27:55+00:00"
   },
   {
    "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
@@ -557,8 +573,8 @@
    "title": "Anthropic bans users from being 'cruel' to its AI systems",
    "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
    "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-10-09T12:34:27+00:00"
   },
   {
@@ -584,14 +600,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-09T09:59:06+00:00"
-  },
-  {
-   "title": "I've been with my boyfriend for two years and don't know his salary",
-   "summary": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
-   "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-09T09:37:38+00:00"
   },
   {
    "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
@@ -768,14 +776,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-09-30T23:41:34+00:00"
-  },
-  {
-   "title": "Tech Life",
-   "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-09-29T19:30:00+00:00"
   }
  ]
 }
