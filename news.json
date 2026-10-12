@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-12T07:48:25.345655+00:00",
+ "updated": "2026-10-12T08:13:36.581830+00:00",
  "stories": [
+  {
+   "title": "Wildlife park closed for third day after tiger attack",
+   "summary": "Yorkshire Wildlife Park remains shut after a man was fatally attacked by a tiger on Saturday.",
+   "link": "https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T08:11:49+00:00"
+  },
+  {
+   "title": "Russell Brand arrives at court for start of rape trial",
+   "summary": "The 51-year-old actor and comedian denies charges of rape and sexual assault against six women.",
+   "link": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T08:00:49+00:00"
+  },
+  {
+   "title": "Reform pledges to suspend asylum system for up to five years and deport claimants",
+   "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
+   "link": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T08:00:25+00:00"
+  },
   {
    "title": "AI is less regulated than milk, says Microsoft president",
    "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
@@ -8,6 +32,14 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-12T07:47:37+00:00"
+  },
+  {
+   "title": "'Keep getting messages': Rahul's big claim, and a message for CEC Gyanesh Kumar",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/200-officials-of-your-govt-in-touch-with-us-passing-information-rahul-gandhis-big-claim-ahead-of-march-against-gyanesh-kumar/articleshow/134886186.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T07:43:56+00:00"
   },
   {
    "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
@@ -18,6 +50,14 @@
    "published": "2026-10-12T07:42:22+00:00"
   },
   {
+   "title": "2,300-year-old shipwreck off Croatia yields rare pottery and wooden remains",
+   "summary": "A significant shipwreck has been discovered off the Croatian island of Vis, containing artifacts from the Hellenistic period. Archaeologists recovered various objects, including pottery, wooden remains, and personal...",
+   "link": "https://timesofindia.indiatimes.com/science/archaeology/a-2300-year-old-shipwreck-off-croatias-vis-island-has-yielded-rare-pottery-personal-belongings-and-surviving-wooden-remains-offering-a-glimpse-into-merchant-sailing-during-the-hellenistic-period/articleshow/134883476.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T07:30:00+00:00"
+  },
+  {
    "title": "Armed with torpedoes, sonar and rockets: Navy inducts submarine hunter INS Mangrol",
    "summary": "INS Mangrol, the third Mahe-class Anti-Submarine Warfare vessel, has been commissioned by the Indian Navy. This new craft is designed to address submarine threats effectively in shallow waters. It carries advanced...",
    "link": "https://timesofindia.indiatimes.com/defence/news/armed-with-torpedoes-sonar-and-rockets-navys-new-submarine-hunter-ins-mangrol-is-built-for-battles-in-shallow-waters/articleshow/134885873.cms",
@@ -26,12 +66,28 @@
    "published": "2026-10-12T07:19:51+00:00"
   },
   {
-   "title": "After 16-coach launch, Railways plans 24-coach Vande Bharat sleeper with pantry",
-   "summary": "Indian Railways is expected to introduce more than 200 Vande Bharat sleeper trains over the coming years as it seeks to transform long-distance rail travel. Three major manufacturing projects are underway. The 24-coach...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/after-launching-vande-bharat-sleeper-train-with-16-coaches-indian-railways-now-bets-on-24-coach-variant-of-new-train-with-pantry-car-and-features-better-than-rajdhani-express/articleshow/134884662.cms",
+   "title": "Pakistan cricket hit by political turmoil! PCB shifts President’s Trophy matches",
+   "summary": "The Pakistan Cricket Board has taken the decisive step to relocate President's Trophy matches amidst ongoing political unrest. With governor's rule now imposed in Khyber Pakhtunkhwa, several matches planned for that...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-hit-by-political-turmoil-pcb-shifts-presidents-trophy-matches-after-emergency-in-khyber-pakhtunkhwa/articleshow/134885590.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-12T07:07:24+00:00"
+   "published": "2026-10-12T07:11:52+00:00"
+  },
+  {
+   "title": "Meet Abhay Kumar Pandey, Indian researcher named among world’s top 2% scientists",
+   "summary": "Celebrated mycologist Dr Abhay Kumar Pandey has once again been ranked among the Top 2% Scientists globally. His groundbreaking research focuses on combating fungal diseases that threaten tea plants in Assam and North...",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/meet-abhay-kumar-pandey-indian-researcher-named-among-worlds-top-2-scientists-for-fourth-consecutive-year/articleshow/134885589.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T07:07:26+00:00"
+  },
+  {
+   "title": "Francis Ford Coppola turned abandoned Belize lodge into 20-room resort",
+   "summary": "In 1981, filmmaker Francis Ford Coppola bought an abandoned hunting lodge in the forests of Belize and turned it into a private family retreat. Twelve years later, it opened as Blancaneaux Lodge, a 20-room resort. The...",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-1981-francis-ford-coppola-found-an-abandoned-belize-jungle-lodge-and-turned-it-into-a-family-retreat-12-years-later-blancaneaux-opened-as-a-20-room-resort-now-drawing-about-85-of-its-power-from-a-creek/articleshow/134884840.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T07:00:00+00:00"
   },
   {
    "title": "Anupam Mittal recalls returning his green card as US freezes PERM for Indian IT firms",
@@ -74,22 +130,6 @@
    "published": "2026-10-12T06:41:57+00:00"
   },
   {
-   "title": "San Francisco church converted into luxury homes; one sells for $6.65 million",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/a-historic-san-francisco-church-was-converted-into-luxury-residences-and-one-three-bedroom-home-inside-the-landmark-has-now-sold-for-6-65-million-about-150000-below-its-asking-price/articleshow/134875271.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T06:35:01+00:00"
-  },
-  {
-   "title": "Kevin Durant’s $10m college center serves 200 students a year, 96% get accepted",
-   "summary": "Kevin Durant has committed $10 million to help students access higher education in his Maryland community. This initiative supports over 200 students each year, with a college acceptance rate exceeding 96%. The Durant...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2018-kevin-durant-pledged-10-million-over-10-years-to-create-a-college-access-center-in-his-maryland-hometown-today-it-serves-200-students-a-year-and-reports-a-96-four-year-college-acceptance-rate/articleshow/134876030.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T06:34:39+00:00"
-  },
-  {
    "title": "Manipur on boil again: Naga body gives 48-hour ultimatum to return man’s severed head",
    "summary": "A civil society organization has given a 48-hour ultimatum for the return of a severed head. The headless body of Ajinbou R was brought for post-mortem following a militant attack in Manipur. Violence in the region has...",
    "link": "https://timesofindia.indiatimes.com/city/imphal/manipur-on-boil-again-naga-body-gives-48-hour-ultimatum-to-return-mans-severed-head/articleshow/134884410.cms",
@@ -104,14 +144,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-12T06:16:01+00:00"
-  },
-  {
-   "title": "Record alert! Tilak Varma joins elite club with India's best catch ratio in T20Is",
-   "summary": "Tilak Varma achieved a significant milestone by making 50 catches in T20Is against West Indies. This accomplishment makes him the fifth Indian fielder to reach this landmark. His efficiency is notable, with a...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/record-alert-tilak-varma-joins-elite-fielding-club-with-indias-best-catch-ratio-in-t20is/articleshow/134884186.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T06:15:21+00:00"
   },
   {
    "title": "RBI measures see sharp impact as rupee rises 1% against US dollar",
@@ -136,14 +168,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-12T05:00:52+00:00"
-  },
-  {
-   "title": "Bill Gates has a message for Sam Altman, who says some AI fears sound like bad sci-fi",
-   "summary": "Microsoft co-founder Bill Gates has responded to OpenAI CEO Sam Altman's warning against AI \"doomerism\", saying all responsible AI leaders, including Altman and Anthropic's Dario Amodei, are telling the world the...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-to-openai-ceo-sam-altman-who-says-ai-fears-sound-like-bad-science-fiction-all-responsible-ai-leaders-including-you-are-telling-the-world-/articleshow/134882705.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T04:46:14+00:00"
   },
   {
    "title": "PM says it is 'clear' Russia interfered with Brexit vote",
@@ -194,12 +218,12 @@
    "published": "2026-10-11T23:18:45+00:00"
   },
   {
-   "title": "Sacha Baron Cohen to star in Quentin Tarantino's West End play",
-   "summary": "The Borat star said he was \"beyond delighted\" to be working on the show, The Popinjay Cavalier, with the Pulp Fiction director.",
-   "link": "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo?at_medium=RSS&at_campaign=rss",
+   "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+   "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+   "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-11T23:03:55+00:00"
+   "published": "2026-10-11T23:13:51+00:00"
   },
   {
    "title": "Remnants of hurricane to bring warm weather to the UK this week",
@@ -216,22 +240,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-11T22:45:58+00:00"
-  },
-  {
-   "title": "Reform would suspend asylum system for parliamentary term if in government",
-   "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
-   "link": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-11T21:18:15+00:00"
-  },
-  {
-   "title": "Man City's statement win has feeling of irrelevance with season in limbo",
-   "summary": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-11T20:02:27+00:00"
   },
   {
    "title": "Citroen revives the 2CV for an electric age",
@@ -272,14 +280,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-11T12:54:25+00:00"
-  },
-  {
-   "title": "Wildlife park remains closed after fatal tiger attack",
-   "summary": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
-   "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-11T12:38:02+00:00"
   },
   {
    "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico's Pacific coast",
