@@ -1,6 +1,38 @@
 {
- "updated": "2026-10-12T11:47:07.159258+00:00",
+ "updated": "2026-10-12T12:19:05.039709+00:00",
  "stories": [
+  {
+   "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+   "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+   "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-12T12:11:41+00:00"
+  },
+  {
+   "title": "Reform pledges to suspend UK's asylum system for up to five years",
+   "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
+   "link": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T12:05:26+00:00"
+  },
+  {
+   "title": "'India-Pakistan flavour will be missed': Suraj Karkera on rivals' withdrawal from ACT",
+   "summary": "India's participation in the Asian Champions Trophy will proceed without traditional rivals Pakistan, which has withdrawn. Bangladesh will replace Pakistan in the tournament, altering the competitive dynamics among the...",
+   "link": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-pakistan-flavour-will-be-missed-suraj-karkera-on-rivals-withdrawal-from-asian-champions-trophy/articleshow/134891729.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T11:45:55+00:00"
+  },
+  {
+   "title": "Zelenskyy says Russia strikes Ukraine energy sites despite Trump’s ceasefire claim",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/europe/zelenskyy-sounds-alarm-as-russia-hits-ukraines-energy-sites-despite-trumps-ceasefire-announcement/articleshow/134891660.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T11:38:50+00:00"
+  },
   {
    "title": "IIT-B report wants UPI MDR cut; says banks should forgo their share",
    "summary": "The study recommends setting the MDR share for TPAPs at 0.06%, lower than the 0.08% proposed by the National Payments Corporation of India (NPCI), while keeping the PSP share unchanged at 0.02%. Under the existing...",
@@ -58,14 +90,6 @@
    "published": "2026-10-12T11:18:44+00:00"
   },
   {
-   "title": "Reform pledges to suspend asylum system for up to five years and deport claimants",
-   "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
-   "link": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-12T11:15:33+00:00"
-  },
-  {
    "title": "Sinn Féin ministers facing no-confidence vote after Drumcree dispute",
    "summary": "The motion against Michelle O'Neill and three other Sinn Féin ministers will be debated after receiving the backing of unionist parties last week.",
    "link": "https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss",
@@ -98,14 +122,6 @@
    "published": "2026-10-12T10:34:39+00:00"
   },
   {
-   "title": "Ohio protects 5,165 acres across 58 family farms from future development",
-   "summary": "Ohio has greenlit local sponsors to secure agricultural easements on 58 family-owned farms, aiming to safeguard farmland from non-agricultural development. Through the Local Agricultural Easement Purchase Program,...",
-   "link": "https://timesofindia.indiatimes.com/world/us/ohio-approves-easement-purchases-for-58-family-farms-covering-5165-acres-as-statewide-protected-farmland-exceeds-111000-acres-while-owners-retain-the-right-to-farm-their-land/articleshow/134888172.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T10:30:00+00:00"
-  },
-  {
    "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
    "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
    "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
@@ -120,14 +136,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-12T10:26:25+00:00"
-  },
-  {
-   "title": "'He finds methods to score runs': Rahane highlights what makes Abhishek special",
-   "summary": "During the thrilling third T20I against West Indies, Abhishek Sharma crossed the impressive landmark of 2,000 runs. With an explosive 69 from just 30 deliveries, he played a pivotal role in granting India a 2-1 series...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/he-finds-different-methods-to-score-runs-ajinkya-rahane-highlights-what-makes-abhishek-sharma-special/articleshow/134889104.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T10:19:06+00:00"
   },
   {
    "title": "Women's billion-dollar boom leaves players behind, union says",
@@ -242,7 +250,7 @@
    "published": "2026-10-12T08:35:16+00:00"
   },
   {
-   "title": "Russell Brand arrives at court for start of rape trial",
+   "title": "Russell Brand appears in court for start of rape trial",
    "summary": "The 51-year-old actor and comedian denies charges of rape and sexual assault against six women.",
    "link": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -728,14 +736,6 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-08T08:45:37+00:00"
-  },
-  {
-   "title": "AI chip boom pushes Samsung profits to record $80bn",
-   "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
-   "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-08T01:59:54+00:00"
   },
   {
    "title": "She made India fall in love with women's cricket - now her era as captain is over",
