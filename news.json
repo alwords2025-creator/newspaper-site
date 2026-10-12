@@ -1,13 +1,29 @@
 {
- "updated": "2026-10-12T21:09:35.087728+00:00",
+ "updated": "2026-10-12T21:44:19.659470+00:00",
  "stories": [
   {
-   "title": "Breaking Bad actor RJ Mitte dies aged 34",
-   "summary": "Mitte, who lived with cerebral palsy, drew on his own experience for his role in the Emmy-winning drama series.",
-   "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+   "title": "Farmers say they'll take the relief of Trump's EO — but they're still hurting",
+   "summary": "President Trump says his Monday executive order temporarily suspending federal taxes on diesel will be a big relief for farmers. Some farmers call it a campaign ploy with marginal impact.",
+   "link": "https://www.npr.org/2026/10/12/nx-s1-5993837/farmers-say-theyll-take-the-relief-of-trumps-eo-but-theyre-still-hurting",
+   "source": "NPR Business",
+   "category": "Business",
+   "published": "2026-10-12T21:33:18+00:00"
+  },
+  {
+   "title": "4 new governors named, picks underline BJP focus on elections",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/4-new-governors-named-picks-underline-bjp-focus-on-elections/articleshow/134902196.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-12T21:26:38+00:00"
+  },
+  {
+   "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+   "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+   "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-12T21:01:15+00:00"
+   "published": "2026-10-12T21:20:51+00:00"
   },
   {
    "title": "US actress Selma Blair accused of assault after incident with flight attendants",
@@ -114,28 +130,12 @@
    "published": "2026-10-12T17:59:22+00:00"
   },
   {
-   "title": "'America first': Trump defends Russia diesel deal amid bipartisan backlash",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/made-right-choice-america-first-trump-defends-russia-diesel-deal-amid-bipartisan-backlash/articleshow/134899954.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-12T17:48:04+00:00"
-  },
-  {
    "title": "Burnham to push for new post-Brexit deals at EU summit",
    "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
    "link": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-12T17:38:15+00:00"
-  },
-  {
-   "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-   "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-   "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-12T17:32:13+00:00"
   },
   {
    "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
@@ -192,6 +192,14 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-12T15:03:42+00:00"
+  },
+  {
+   "title": "Which war is having the biggest impact on diesel prices - Iran or Ukraine?",
+   "summary": "Both conflicts have led to less diesel being exported - but the data shows more has been lost from the Middle East.",
+   "link": "https://www.bbc.co.uk/news/articles/cr0qk1j7q0eno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-12T14:54:19+00:00"
   },
   {
    "title": "Ramlila Maidan: The ground where protests dealt blows to Congress, twice",
@@ -661,8 +669,8 @@
    "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
    "summary": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia.",
    "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
-   "source": "NPR Business",
-   "category": "Business",
+   "source": "NPR Technology",
+   "category": "Technology",
    "published": "2026-10-09T00:25:15+00:00"
   },
   {
