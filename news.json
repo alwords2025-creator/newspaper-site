@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T19:57:03.441063+00:00",
+ "updated": "2026-10-13T20:24:18.949768+00:00",
  "stories": [
   {
    "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
@@ -20,7 +20,7 @@
   {
    "title": "Tech Life",
    "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
-   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-13T19:45:00+00:00"
@@ -338,17 +338,17 @@
    "published": "2026-10-13T09:34:43+00:00"
   },
   {
-   "title": "Win or lose, independent candidates want to meet voters in the middle",
-   "summary": "Nearly 200 independent candidates in more than 100 congressional races are trying to prove there's an alternative to the two party system — even though the chance of winning is very low.",
-   "link": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
+   "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
+   "summary": "With Election Day just a few weeks away — and millions of votes already cast — midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's not a crystal ball.",
+   "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-13T09:00:00+00:00"
   },
   {
-   "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
-   "summary": "With Election Day just a few weeks away — and millions of votes already cast — midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's not a crystal ball.",
-   "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
+   "title": "Win or lose, independent candidates want to meet voters in the middle",
+   "summary": "Nearly 200 independent candidates in more than 100 congressional races are trying to prove there's an alternative to the two party system — even though the chance of winning is very low.",
+   "link": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-13T09:00:00+00:00"
@@ -482,6 +482,14 @@
    "published": "2026-10-11T23:19:49+00:00"
   },
   {
+   "title": "How personal data is being used to control what customers see and pay",
+   "summary": "NPR's Joel Rose speaks with Lindsay Owens, president of the economic think tank Groundwork Collaborative, about how companies using data to transform the products and prices customers see.",
+   "link": "https://www.npr.org/2026/10/11/nx-s1-5995376/how-personal-data-is-being-used-to-control-what-customers-see-and-pay",
+   "source": "NPR Business",
+   "category": "Business",
+   "published": "2026-10-11T21:16:37+00:00"
+  },
+  {
    "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
    "summary": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
    "link": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
@@ -608,14 +616,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-09T16:30:09+00:00"
-  },
-  {
-   "title": "How the oil industry is preparing for Hurricane Isaias",
-   "summary": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?",
-   "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-10-09T16:03:32+00:00"
   },
   {
    "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
