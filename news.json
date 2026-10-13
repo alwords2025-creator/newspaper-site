@@ -1,13 +1,37 @@
 {
- "updated": "2026-10-13T07:47:52.313066+00:00",
+ "updated": "2026-10-13T08:13:20.423766+00:00",
  "stories": [
   {
-   "title": "Listen: 911 calls from botched Christa Pike execution released to US media",
-   "summary": "A series of 911 calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Christa Pike following her failed execution.",
+   "title": "Breaking Bad actor RJ Mitte dies aged 34",
+   "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+   "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-13T08:03:34+00:00"
+  },
+  {
+   "title": "Emergency calls from botched Christa Pike execution released to US media",
+   "summary": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
    "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-13T07:40:35+00:00"
+   "published": "2026-10-13T07:49:13+00:00"
+  },
+  {
+   "title": "South Korea tests hypersonic missile: A new threat to North Korea's underground bunkers?",
+   "summary": "South Korea has successfully conducted a test of its domestically developed hypersonic boost-glide vehicle. This new missile system aims to enhance Seoul's ability to target North Korean sites as tensions rise. The...",
+   "link": "https://timesofindia.indiatimes.com/defence/international/south-korea-tests-hypersonic-missile-a-new-threat-to-north-koreas-underground-bunkers/articleshow/134910680.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T07:47:19+00:00"
+  },
+  {
+   "title": "Saudi-Houthi crisis: IndiGo cancels flights to Riyadh, Jeddah, Dammam and Madinah",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/saudi-houthi-crisis-indigo-cancels-flights-to-riyadh-jeddah-dammam-and-madinah/articleshow/134911657.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T07:46:26+00:00"
   },
   {
    "title": "Meet Iris Shen, 17, who tested blood cancer drugs and won $150,000 science prize",
@@ -50,12 +74,20 @@
    "published": "2026-10-13T07:31:10+00:00"
   },
   {
-   "title": "‘Jantar Mantar belongs to 140cr Indians’: Dipke calls flag-hoisting ban ‘dictatorial’",
+   "title": "'When did hoisting tricolour become violation? Dipke questions Das, Ranka's detention",
    "summary": "",
    "link": "https://timesofindia.indiatimes.com/india/jantar-mantar-belongs-to-140cr-indians-cjps-dipke-calls-flag-hoisting-ban-dictatorial/articleshow/134911120.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-13T07:15:33+00:00"
+  },
+  {
+   "title": "USCIS warns immigrants: Update home address within 10 days or risk missing documents",
+   "summary": "US Citizenship and Immigration Services mandates that immigrants notify them of any address changes within 10 days. Failure to report changes may lead to missed immigration documents and important notices. Changing the...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-authority-has-10-day-deadline-on-home-addresses-says-you-may-not-receive-your-immigration-documents-if-/articleshow/134910907.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T07:04:16+00:00"
   },
   {
    "title": "Latin American organised crime ‘may operate in 16 European countries’",
@@ -74,36 +106,12 @@
    "published": "2026-10-13T06:48:47+00:00"
   },
   {
-   "title": "AI company once pursued by Elon Musk’s xAI and Meta files for bankruptcy, may shut down",
-   "summary": "Character.ai, the AI company known for its chatbots, has filed for Chapter 11 bankruptcy protection. The company aims to sell its assets with a proposed auction process led by Disney. Character.ai's board believes this...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/ai-company-that-elon-musks-xai-and-meta-fought-to-partner-with-has-filed-for-bankruptcy-says-will-have-to-shut-down-if-/articleshow/134910175.cms",
+   "title": "IAF chief AP Singh takes final flight in Tejas, the fighter jet he once helped test",
+   "summary": "Air Chief Marshal AP Singh completed his final sortie on the Tejas aircraft during Exercise Tarang Shakti 2026. The exercise included multinational participation, highlighting operational capabilities and improving...",
+   "link": "https://timesofindia.indiatimes.com/defence/news/iaf-chief-ap-singh-takes-final-flight-in-tejas-the-fighter-jet-he-once-helped-test/articleshow/134909113.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-13T06:32:46+00:00"
-  },
-  {
-   "title": "Breaking Bad actor RJ Mitte dies aged 34",
-   "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-   "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-13T06:26:05+00:00"
-  },
-  {
-   "title": "SC stays criminal defamation trial against Rahul Gandhi in ‘Chowkidar chor hai’ case",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/sc-stays-criminal-defamation-trial-against-rahul-gandhi-in-chowkidar-chor-hai-case/articleshow/134909555.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T06:24:39+00:00"
-  },
-  {
-   "title": "CJI asks petitioners to fix defects after SC flags 14 in INDIA bloc plea against CEC",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/cji-surya-kant-asks-petitioners-to-fix-defects-after-sc-flags-14-in-india-bloc-plea-against-cec/articleshow/134909815.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T06:17:57+00:00"
+   "published": "2026-10-13T06:46:40+00:00"
   },
   {
    "title": "'Tears in both lungs': UP man's death under scanner; famous model accused of murder",
@@ -120,14 +128,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-13T05:53:56+00:00"
-  },
-  {
-   "title": "Dad sold apartment, quit job; mom pledged gold: Making of India's latest WGM Sahithi",
-   "summary": "Sahithi Varshini Moogi’s journey to becoming India’s latest Woman Grandmaster is a story of many elements, with talent, sacrifice, and perseverance only part of it. Despite losing nearly three years to the pandemic and...",
-   "link": "https://timesofindia.indiatimes.com/sports/chess/father-sold-apartment-quit-job-mother-pledged-gold-the-making-of-sahithi-varshini-indias-latest-chess-wgm/articleshow/134908967.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T05:45:02+00:00"
   },
   {
    "title": "DNA and vehicle-tracking help French investigators recover stolen Renoirs",
