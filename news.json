@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-13T20:59:24.206997+00:00",
+ "updated": "2026-10-13T21:27:28.857182+00:00",
  "stories": [
+  {
+   "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+   "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+   "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-13T21:22:05+00:00"
+  },
   {
    "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
    "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
@@ -16,6 +24,14 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-13T20:22:00+00:00"
+  },
+  {
+   "title": "What an economics Nobel Prize winner knows about pricing",
+   "summary": "NPR's Ailsa Chang chats with Michael Woodford of Columbia University, who was one of two Americans awarded the Nobel Prize in Economics.",
+   "link": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-13T20:03:35+00:00"
   },
   {
    "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
@@ -48,14 +64,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-13T19:38:18+00:00"
-  },
-  {
-   "title": "Man killed in tiger attack identified as William Chapman",
-   "summary": "Chapman, who was in his 20s, died after entering the tiger's enclosure at  Yorkshire Wildlife Park.",
-   "link": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-13T19:35:21+00:00"
   },
   {
    "title": "Cornell University bans frat parties, vows to address 'disturbing' campus culture",
@@ -338,17 +346,9 @@
    "published": "2026-10-13T09:30:34+00:00"
   },
   {
-   "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
-   "summary": "With Election Day just a few weeks away — and millions of votes already cast — midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's not a crystal ball.",
-   "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-13T09:00:00+00:00"
-  },
-  {
-   "title": "Win or lose, independent candidates want to meet voters in the middle",
-   "summary": "Nearly 200 independent candidates in more than 100 congressional races are trying to prove there's an alternative to the two party system — even though the chance of winning is very low.",
-   "link": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
+   "title": "Voters here will decide whether to force cities to build cheaper, smaller homes",
+   "summary": "Voters in Massachusetts will decide whether to require cities and towns to allow smaller homes on smaller lots. A growing number of states are doing the same to help ease a housing shortage.",
+   "link": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-13T09:00:00+00:00"
