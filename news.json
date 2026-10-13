@@ -1,6 +1,54 @@
 {
- "updated": "2026-10-13T22:54:11.598048+00:00",
+ "updated": "2026-10-13T23:17:03.000314+00:00",
  "stories": [
+  {
+   "title": "How long will humans be needed for translation?",
+   "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+   "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-13T23:05:29+00:00"
+  },
+  {
+   "title": "Is it OK for jobseekers or employers to use AI?",
+   "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+   "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-13T23:04:39+00:00"
+  },
+  {
+   "title": "Royal Mail losing 400 postal workers a week, says union",
+   "summary": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+   "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-13T23:03:59+00:00"
+  },
+  {
+   "title": "Jantar Mantar denotification vindictive, vow to fight: Opposition",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/jantar-mantar-denotification-vindictive-vow-to-fight-opposition/articleshow/134929219.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T23:03:52+00:00"
+  },
+  {
+   "title": "‘They both want it to end’: Trump denies US halted sharing intel with Ukraine",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/they-both-want-it-to-end-trump-denies-us-halted-sharing-intel-with-ukraine/articleshow/134929211.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T23:02:43+00:00"
+  },
+  {
+   "title": "INDIA bloc challenges SIR process but not its validity",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/india-bloc-challenges-sir-process-but-not-its-validity/articleshow/134929176.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T22:46:39+00:00"
+  },
   {
    "title": "Generate questions at last minute to prevent paper leaks: Nilekani",
    "summary": "",
@@ -50,14 +98,6 @@
    "published": "2026-10-13T22:07:06+00:00"
   },
   {
-   "title": "In world of uncertainty, India offers reliability, stability: PM Modi",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/in-world-of-uncertainty-india-offers-reliability-stability-pm-modi/articleshow/134926680.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T21:55:32+00:00"
-  },
-  {
    "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
    "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
    "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
@@ -96,6 +136,14 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-13T21:29:08+00:00"
+  },
+  {
+   "title": "Now, MDR on UPI to be rolled out after Diwali",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/now-mdr-on-upi-to-be-rolled-out-after-diwali/articleshow/134926419.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T20:46:46+00:00"
   },
   {
    "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
@@ -162,28 +210,12 @@
    "published": "2026-10-13T19:23:28+00:00"
   },
   {
-   "title": "TOI explains: Why can’t Bengaluru protest outside Freedom Park?",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/toi-explains-why-cant-bengaluru-protest-outside-freedom-park/articleshow/134925892.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T19:02:25+00:00"
-  },
-  {
    "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
    "summary": "Ukrainian President Volodymyr Zelenskyy sat down for an interview with NPR at a time of renewed tensions with the White House.",
    "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-13T18:51:55+00:00"
-  },
-  {
-   "title": "Pak police fire tear gas, live rounds at protesters in Khyber Pakhtunkhwa; 50 detained",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/pakistan/pak-police-fire-tear-gas-live-rounds-at-protesters-in-khyber-pakhtunkhwa-50-detained/articleshow/134925551.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T18:44:14+00:00"
   },
   {
    "title": "Cornell bans all fraternity parties over gang sex assault allegations",
@@ -216,14 +248,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-13T17:41:07+00:00"
-  },
-  {
-   "title": "Bihar: 13 dead after boat capsizes in Vaishali; CM announces Rs 4 lakh ex-gratia",
-   "summary": "In a heart-wrenching event in the Raghopur Diara vicinity of Vaishali district, a boat capsized, tragically involving many children. The local community is in distress, with RJD leader Tejashwi Yadav voicing his grief...",
-   "link": "https://timesofindia.indiatimes.com/city/patna/several-feared-dead-after-boat-capsizes-in-bihars-vaishali/articleshow/134923081.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T17:10:29+00:00"
   },
   {
    "title": "Russia did try to interfere with Brexit vote but had little impact, MI5 chief says",
@@ -410,14 +434,6 @@
    "published": "2026-10-12T21:33:18+00:00"
   },
   {
-   "title": "Fridges in French supermarkets hit by cyber attack",
-   "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-   "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-12T18:31:32+00:00"
-  },
-  {
    "title": "Thousands march to Indian Supreme Court to demand election chief resign",
    "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
    "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
@@ -429,8 +445,8 @@
    "title": "AI minister warns 'likely' UK's cyber defences will be breached",
    "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
    "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-10-12T15:03:42+00:00"
   },
   {
@@ -448,14 +464,6 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-12T09:11:46+00:00"
-  },
-  {
-   "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-   "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
-   "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-12T08:50:22+00:00"
   },
   {
    "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
@@ -666,14 +674,6 @@
    "published": "2026-10-09T07:14:30+00:00"
   },
   {
-   "title": "'Careless use of AI is the real threat - not the ghost stories'",
-   "summary": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
-   "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-09T07:05:01+00:00"
-  },
-  {
    "title": "Why Elon Musk is taking on India's richest man over Starlink",
    "summary": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
    "link": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
@@ -696,14 +696,6 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-09T00:25:15+00:00"
-  },
-  {
-   "title": "Why are more roofs not made of solar tiles?",
-   "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-   "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-08T23:09:56+00:00"
   },
   {
    "title": "Backlash as American tech giants look to build data centers in Australia",
@@ -792,6 +784,14 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-05T23:13:11+00:00"
+  },
+  {
+   "title": "Tech Life",
+   "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-09-29T19:30:00+00:00"
   }
  ]
 }
