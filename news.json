@@ -1,21 +1,77 @@
 {
- "updated": "2026-10-13T06:14:42.414603+00:00",
+ "updated": "2026-10-13T06:55:09.992265+00:00",
  "stories": [
   {
-   "title": "UK growth upgraded but energy prices and rates to bite in 2027",
-   "summary": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+   "title": "Drone attack sinks ship off Bulgaria coast, second strike in a week",
+   "summary": "A drone assault near the Black Sea coast of Bulgaria led to one ship's sinking and damage to another. The Maltese-flagged Chelsea 3 was impacted, but all crew members were rescued unharmed. Bulgarian Prime Minister...",
+   "link": "https://timesofindia.indiatimes.com/world/europe/drone-attack-sinks-ship-off-bulgaria-coast-second-strike-in-a-week/articleshow/134910390.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T06:42:54+00:00"
+  },
+  {
+   "title": "Michael Dell-backed firm spent $375m upgrading Boca Raton resort; 40% condos sold",
+   "summary": "An impressive $875 million investment is set to transform The Boca Raton resort into a luxurious haven of residential condominiums. With around 40% of these high-end residences already reserved, pricing starts at $8.95...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2019-a-michael-dell-backed-firm-bought-the-boca-raton-resort-for-875-million-and-later-spent-about-375-million-upgrading-it-now-40-of-its-first-75-luxury-condos-have-been-claimed/articleshow/134909997.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T06:39:51+00:00"
+  },
+  {
+   "title": "Breaking Bad actor RJ Mitte dies aged 34",
+   "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+   "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-13T06:26:05+00:00"
+  },
+  {
+   "title": "SC stays criminal defamation trial against Rahul Gandhi in ‘Chowkidar chor hai’ case",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/sc-stays-criminal-defamation-trial-against-rahul-gandhi-in-chowkidar-chor-hai-case/articleshow/134909555.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T06:24:39+00:00"
+  },
+  {
+   "title": "CJI asks petitioners to fix defects after SC flags 14 in INDIA bloc plea against CEC",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/cji-surya-kant-asks-petitioners-to-fix-defects-after-sc-flags-14-in-india-bloc-plea-against-cec/articleshow/134909815.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T06:17:57+00:00"
+  },
+  {
+   "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+   "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
    "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-13T05:55:12+00:00"
   },
   {
-   "title": "HCLTech jumps over 5%, TCS up 4%: Why are IT stocks rallying",
-   "summary": "Dalal Street saw a surge as IT stocks soared following strong quarterly earnings from industry giants. HCLTech and Tata Consultancy Services were at the forefront, with their share prices climbing significantly....",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/hcltech-jumps-over-5-tcs-up-4-why-are-it-stocks-rallying/articleshow/134908713.cms",
+   "title": "Activist shot dead while exposing drug trade in Punjab; caught on social media live",
+   "summary": "Parwinder Singh Jhota was involved in a sting operation targeting a medical store in Mansa. He confronted the store owner about selling prohibited substances and had a heated exchange before being shot. Despite his...",
+   "link": "https://timesofindia.indiatimes.com/city/chandigarh/anti-drug-activist-parwinder-singh-jhota-shot-dead-during-sting-operation-in-punjab/articleshow/134909393.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-13T05:45:50+00:00"
+   "published": "2026-10-13T05:53:56+00:00"
+  },
+  {
+   "title": "Girl, 15, turns bullying ordeal into mental health initiative for others",
+   "summary": "Aanya Mukherjee's journey through high school was marred by bullying that took a toll on her mental health and self-esteem. After a disappointing response from her initial school, she transferred to a more supportive...",
+   "link": "https://timesofindia.indiatimes.com/life-style/parenting/teen/i-thought-it-would-never-end-15-year-old-girl-shares-her-horrible-experience-of-bullying-and-how-she-turned-it-into-a-mental-health-initiative-for-others/articleshow/134909276.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T05:50:37+00:00"
+  },
+  {
+   "title": "Dad sold apartment, quit job; mom pledged gold: Making of India's latest WGM Sahithi",
+   "summary": "Sahithi Varshini Moogi’s journey to becoming India’s latest Woman Grandmaster is a story of many elements, with talent, sacrifice, and perseverance only part of it. Despite losing nearly three years to the pandemic and...",
+   "link": "https://timesofindia.indiatimes.com/sports/chess/father-sold-apartment-quit-job-mother-pledged-gold-the-making-of-sahithi-varshini-indias-latest-chess-wgm/articleshow/134908967.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T05:45:02+00:00"
   },
   {
    "title": "DNA and vehicle-tracking help French investigators recover stolen Renoirs",
@@ -24,14 +80,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-13T05:42:28+00:00"
-  },
-  {
-   "title": "Ronaldo scores amid Riyadh security scare to close in on 1,000 career goals",
-   "summary": "Cristiano Ronaldo edged closer to the monumental milestone of 1,000 career goals by netting a goal for Al-Nassr in their AFC Champions League match. Although security alerts caused a postponement against Neftchi...",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/ronaldo-scores-amid-riyadh-security-scare-to-close-in-on-1000-career-goals-but-portugal-disciplinary-storm-refuses-to-fade/articleshow/134909141.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T05:40:19+00:00"
   },
   {
    "title": "Hyderabad techie dies after falling from 30th floor of his apartment",
@@ -50,28 +98,12 @@
    "published": "2026-10-13T05:30:00+00:00"
   },
   {
-   "title": "Madras HC upholds TN Speaker's acceptance of resignations of 6 AIADMK MLAs",
-   "summary": "The Madras high court ruled that the resignations of six AIADMK MLAs were valid and voluntary. The speaker's acceptance of the resignations was deemed constitutionally appropriate under the Tenth Schedule. The court...",
-   "link": "https://timesofindia.indiatimes.com/city/chennai/madras-hc-upholds-tn-assembly-speakers-decision-to-accept-resignations-of-6-aiadmk-mlas/articleshow/134909023.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T05:27:58+00:00"
-  },
-  {
    "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
    "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
    "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-13T05:02:34+00:00"
-  },
-  {
-   "title": "5 killed, several injured as passenger train derails in Pakistan's Punjab",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/pakistan/5-killed-several-injured-as-passenger-train-derails-in-pakistans-punjab/articleshow/134908548.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T04:57:18+00:00"
   },
   {
    "title": "Zuckerberg gave Alexandr Wang $100 billion, then asked: ‘Are you sure this will work’",
@@ -88,14 +120,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-13T04:46:08+00:00"
-  },
-  {
-   "title": "Tenant's Rs 10L deposit claim fails; Delhi HC orders payment for unauthorised stay",
-   "summary": "The case involved a tenant, who rented a 238.38 sq. ft shop in 2014 from a couple in Delhi. The agreed monthly rent was Rs 25,500. However, the 11-month rent agreement was never registered. The tenant subsequently...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/tenant-claimed-landlords-withheld-rs-10-lakh-security-deposit-and-refused-to-vacate-shop-delhi-high-court-rules-against-him-orders-payout-for-unauthorised-stay/articleshow/134895137.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T04:30:43+00:00"
   },
   {
    "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
@@ -122,22 +146,6 @@
    "published": "2026-10-13T04:07:24+00:00"
   },
   {
-   "title": "No warning before impact: Saudi Arabia’s alert system went silent amid Houthi attacks",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/no-warning-before-impact-saudi-arabias-alert-system-went-silent-amid-houthi-attacks/articleshow/134907341.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T03:52:57+00:00"
-  },
-  {
-   "title": "Breaking Bad actor RJ Mitte dies aged 34",
-   "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-   "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-13T03:44:40+00:00"
-  },
-  {
    "title": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels",
    "summary": "National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rateHeavy rainfall fuelled by a supersized El Niño weather pattern...",
    "link": "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels",
@@ -162,15 +170,7 @@
    "published": "2026-10-13T01:50:47+00:00"
   },
   {
-   "title": "Sarah, first Zimbabwean female umpire in Women's T20 WC, passes away at 36",
-   "summary": "Former Zimbabwe cricketer and umpire Sarah Dambanevana has died in Harare at 36 after months in hospital following a medical procedure. She represented Zimbabwe from 2009 to 2014 before becoming an international umpire....",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sarah-dambanevana-first-zimbabwean-female-umpire-in-womens-t20-world-cup-passes-away-at-36/articleshow/134905817.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T01:47:21+00:00"
-  },
-  {
-   "title": "Why the prime minister wants to talk about Brexit again",
+   "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
    "summary": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
    "link": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
