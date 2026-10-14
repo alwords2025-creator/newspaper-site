@@ -1,16 +1,32 @@
 {
- "updated": "2026-10-14T03:59:37.176859+00:00",
+ "updated": "2026-10-14T04:32:11.143229+00:00",
  "stories": [
   {
-   "title": "Russia detains Japanese journalist for spying on strategic island",
-   "summary": "Imai Yuki, a Japanese journalist, finds himself in a precarious situation after being detained in Russia, where the Federal Security Service has accused him of espionage linked to military intelligence gathering. This...",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/russia-detains-japanese-journalist-for-spying-on-strategic-island/articleshow/134931158.cms",
+   "title": "'With our tigress': Dhruv Rathee shares picture with Neha Bora after Oct 10 detention",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/with-our-tigress-dhruv-rathee-shares-picture-with-neha-bora-after-october-10-detention/articleshow/134931780.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-14T03:34:23+00:00"
+   "published": "2026-10-14T04:22:15+00:00"
   },
   {
-   "title": "CJP’s Saurav Das, Ashutosh Ranka get 5-day judicial custody over Jantar Mantar trespass",
+   "title": "Is asking wife to wash clothes and utensils cruelty? Bombay HC explains Section 498A",
+   "summary": "The Bombay high court addressed a case regarding cruelty allegations under Section 498A of the Indian Penal Code. The court found that asking a woman to wash clothes and utensils did not amount to cruelty. Additionally,...",
+   "link": "https://timesofindia.indiatimes.com/legal/news/can-asking-wife-to-wash-clothes-and-utensils-amount-to-cruelty-under-section-498a-bombay-hc-explains/articleshow/134931882.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T04:18:56+00:00"
+  },
+  {
+   "title": "Palantir CTO Shyam Sankar has ‘AI theory’ for researchers taking up smoking",
+   "summary": "Palantir CTO Shyam Sankar claims some AI researchers in Silicon Valley are taking up smoking to show how strongly they believe AI will cure cancer. Speaking in a US TV interview, he said many in the industry have filled...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/palantir-cto-shyam-sankar-has-an-ai-theory-for-more-researchers-taking-up-smoking-says-these-folks-in-silicon-valley-have-filled-hole-in-their-hearts-with-god-of-/articleshow/134931723.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T03:59:21+00:00"
+  },
+  {
+   "title": "CJP’s Das, Ranka sent to Tihar Jail for 5 days over Jantar Mantar trespass",
    "summary": "Cockroach Janata Party leaders Saurav Das and Ashutosh Ranka were arrested for violating protest-related regulations. They allegedly breached barricades and entered a protest site designated for demonstrations. Their...",
    "link": "https://timesofindia.indiatimes.com/city/delhi/cjp-leaders-saurav-das-ashutosh-ranka-sent-to-5-day-judical-custody/articleshow/134930940.cms",
    "source": "Times of India",
@@ -40,22 +56,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-14T02:58:53+00:00"
-  },
-  {
-   "title": "US secretary of state Rubio to visit India next week for strategic, energy talks",
-   "summary": "US Secretary of State Marco Rubio is set to embark on a visit to Mumbai and Jamnagar from October 17 to 22, during which he will engage in discussions aimed at enhancing strategic alliances and advancing energy...",
-   "link": "https://timesofindia.indiatimes.com/india/us-secretary-of-state-rubio-to-travel-to-india-next-week-energy-strategic-partnership-and-investment-in-focus/articleshow/134930012.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T02:05:22+00:00"
-  },
-  {
-   "title": "Delhi man beaten to death for spilling beer on club manager's wife",
-   "summary": "A 29-year-old driver named Daljeet Singh was killed after an altercation at a club in Delhi. The incident began when he accidentally spilled beer on the club manager's wife during her birthday celebration. Following a...",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/club-manager-aides-beat-delhi-man-to-death-for-spilling-beer-on-his-wife-how-minor-collision-ended-in-murder/articleshow/134929711.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T01:42:55+00:00"
   },
   {
    "title": "Russia arrests Japanese journalist on allegations of spying",
@@ -104,6 +104,14 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-13T23:42:22+00:00"
+  },
+  {
+   "title": "SC asks for senior cop to address journalists’ complaint",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/journalists-harassment-sc-seeks-senior-cops-presence/articleshow/134929270.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T23:23:15+00:00"
   },
   {
    "title": "How long will humans be needed for translation?",
@@ -204,7 +212,7 @@
   {
    "title": "Tech Life",
    "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-13T19:45:00+00:00"
@@ -272,14 +280,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-13T17:41:07+00:00"
-  },
-  {
-   "title": "Godfather of AI Yann LeCun opposes Dario Amodei’s call of slowing down AI development",
-   "summary": "Yann LeCun has firmly rejected calls to halt advancements in artificial intelligence, criticizing alarmist views from fellow industry leaders. He specifically took aim at Dario Amodei's assertion that AI poses risks for...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-yann-lecun-opposes-dario-amodeis-call-of-slowing-down-ai-development-says-anthropic-is-trying-to-scare-governments-by-saying/articleshow/134923480.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-13T17:11:40+00:00"
   },
   {
    "title": "13 dead as boat capsizes in Ganga in Bihar’s Vaishali, several missing",
