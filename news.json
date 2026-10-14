@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-14T19:26:56.194254+00:00",
+ "updated": "2026-10-14T19:59:53.413896+00:00",
  "stories": [
+  {
+   "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+   "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-14T19:42:03+00:00"
+  },
   {
    "title": "We are behind you and that will not change, PM tells Zelensky",
    "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
@@ -120,14 +128,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-14T16:47:32+00:00"
-  },
-  {
-   "title": "Taxman denied exemption on 3 floors after Rs 75L builder deal; ITAT grants relief",
-   "summary": "A man inherited 400 square yards of leasehold land from his late mother in 1997. Towards the end of 1999, he entered into an agreement with a developer to demolish the existing house and construct a new building. Nearly...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/he-inherited-land-from-mother-redeveloped-home-received-rs-75-lakh-from-builder-taxman-denied-capital-gains-exemption-but-itat-delhi-gives-relief-ruling-multiple-floors-can-qualify-as-one-house/articleshow/134921631.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T16:36:47+00:00"
   },
   {
    "title": "Ankita Bhandari case: 'VIP' link brings parents to India Gate; U'khand govt reacts",
@@ -325,8 +325,8 @@
    "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
    "summary": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them.",
    "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-10-14T09:00:00+00:00"
   },
   {
@@ -472,6 +472,14 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-13T09:34:43+00:00"
+  },
+  {
+   "title": "Ohio brothers bought flooded quarry for $330,000; village later drops seizure bid",
+   "summary": "Two Ohio brothers bought a flooded quarry for $330,000 in 2005 and spent 15 years improving it before a dispute with the Village of Luckey disrupted their planned sale. After nearly five years of litigation, the village...",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2005-two-ohio-brothers-bought-a-flooded-quarry-for-330000-and-spent-15-years-improving-it-21-years-later-the-village-abandoned-its-bid-to-seize-the-72-5-acre-site-and-now-has-a-206000-judgment-lien-against-it/articleshow/134911740.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T09:30:34+00:00"
   },
   {
    "title": "India 'cockroach' leaders detained after entering barricaded protest site",
