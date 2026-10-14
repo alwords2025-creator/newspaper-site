@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-14T16:25:09.156966+00:00",
+ "updated": "2026-10-14T17:02:02.673325+00:00",
  "stories": [
+  {
+   "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+   "summary": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-14T16:56:21+00:00"
+  },
+  {
+   "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+   "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-14T16:47:32+00:00"
+  },
+  {
+   "title": "Taxman denied exemption on 3 floors after Rs 75L builder deal; ITAT grants relief",
+   "summary": "A man inherited 400 square yards of leasehold land from his late mother in 1997. Towards the end of 1999, he entered into an agreement with a developer to demolish the existing house and construct a new building. Nearly...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/he-inherited-land-from-mother-redeveloped-home-received-rs-75-lakh-from-builder-taxman-denied-capital-gains-exemption-but-itat-delhi-gives-relief-ruling-multiple-floors-can-qualify-as-one-house/articleshow/134921631.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T16:36:47+00:00"
+  },
   {
    "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
    "summary": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
@@ -18,12 +42,20 @@
    "published": "2026-10-14T16:05:12+00:00"
   },
   {
-   "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
-   "summary": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
+   "title": "Shai Hope scripts history, surpasses Chris Gayle in major T20I milestone for West Indies",
+   "summary": "In an explosive performance, Shai Hope delivered an unbeaten 102 from just 50 balls during the fourth T20I against India, becoming the first player from the West Indies to notch three T20I centuries. His outstanding...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shai-hope-scripts-history-surpasses-chris-gayle-in-major-t20i-milestone-for-west-indies/articleshow/134945998.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T16:00:52+00:00"
+  },
+  {
+   "title": "Fifa to offer extra £2.6bn for football development",
+   "summary": "Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-14T16:00:06+00:00"
+   "published": "2026-10-14T15:59:59+00:00"
   },
   {
    "title": "Ankita Bhandari case: 'VIP' question that has brought her parents to India Gate",
@@ -37,17 +69,25 @@
    "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
    "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
    "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC News",
+   "category": "Top",
    "published": "2026-10-14T15:54:04+00:00"
   },
   {
-   "title": "Netflix to cut 1,000 jobs worldwide",
-   "summary": "The cuts - the steepest since 2022 - equates to around 6% of its total workforce worldwide.",
-   "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-14T15:51:01+00:00"
+   "title": "Ohio firm spent $52,100 on car lot site; court says rezoning was a taking",
+   "summary": "An Ohio appellate court has determined that Cleveland owes TMS Enterprises compensation following a contentious zoning amendment. The firm had invested in land with plans for a used-car dealership, but the city...",
+   "link": "https://timesofindia.indiatimes.com/world/us/an-ohio-company-paid-12100-for-cleveland-land-and-put-40000-into-a-planned-used-car-lot-months-later-the-city-rezoned-it-residential-and-an-appeals-court-said-the-move-was-a-compensable-taking/articleshow/134945137.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T15:48:49+00:00"
+  },
+  {
+   "title": "UK civil servant allegedly held five full-time jobs, worked 183 hours a week",
+   "summary": "A UK civil servant allegedly earned £349,378 across eight government jobs between February 2020 and September 2023. Kashim Chowdhury, 55, reportedly held five full-time roles simultaneously and was contracted to work...",
+   "link": "https://timesofindia.indiatimes.com/world/uk/a-uk-civil-servant-kashim-chowdhury-allegedly-juggled-five-full-time-government-jobs-earned-349378-across-eight-roles-between-2020-and-2023-and-was-contracted-to-work-183-hours-a-week/articleshow/134946022.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T15:40:00+00:00"
   },
   {
    "title": "Ukraine's Starlink scare: A cautionary note for India?",
@@ -58,28 +98,12 @@
    "published": "2026-10-14T15:38:24+00:00"
   },
   {
-   "title": "‘No resolution without Tibet’: Tibetan parl calls China's Ladakh claims 'baseless'",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/tibetan-parliament-calls-chinas-ladakh-claims-baseless-urges-india-to-scrap-one-china-policy/articleshow/134946043.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T15:35:17+00:00"
-  },
-  {
    "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
    "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
    "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-14T15:34:19+00:00"
-  },
-  {
-   "title": "India's WPI inflation surges to 11.39% in September on higher food, fuel prices",
-   "summary": "India's wholesale price index-based inflation surged to 11.39% in September due to higher food, manufactured items, and energy prices. Wholesale inflation has risen significantly amidst global commodity inflation linked...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/indias-wpi-inflation-surges-to-record-high-of-11-39-in-september-on-higher-food-fuel-prices/articleshow/134945901.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T15:32:00+00:00"
   },
   {
    "title": "US inflation rises more than expected - here's what is happening with prices",
@@ -90,22 +114,6 @@
    "published": "2026-10-14T15:26:14+00:00"
   },
   {
-   "title": "English home bought for £465,000 heads to auction with £1 guide price",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2020-a-couple-bought-this-four-bedroom-english-home-for-465000-after-a-garden-landslip-it-is-now-heading-to-auction-with-a-1-guide-price-while-a-no-occupation-order-still-prevents-anyone-living-there/articleshow/134944584.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T15:25:00+00:00"
-  },
-  {
-   "title": "3 Indians killed in Germany fire, 5 injured; resident arrested on murder suspicion",
-   "summary": "The victims were two women aged 25 and 27, and a 26-year-old man, German public broadcaster WDR reported, citing Bochum police. Their identities and home states in India have not been disclosed. The five injured people...",
-   "link": "https://timesofindia.indiatimes.com/world/europe/3-indians-killed-in-germany-fire-5-injured-resident-arrested-on-murder-suspicion/articleshow/134945590.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T15:01:48+00:00"
-  },
-  {
    "title": "Rahul & Priyanka meet Ankita Bhandari's parents at India Gate; all about 2022 murder case",
    "summary": "",
    "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-meets-ankita-bhandaris-family-at-india-gate/articleshow/134945131.cms",
@@ -114,7 +122,7 @@
    "published": "2026-10-14T14:34:57+00:00"
   },
   {
-   "title": "Burnham careful as he meets Zelensky but promises Ukraine won't leave 'empty handed'",
+   "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",
    "summary": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
    "link": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -178,28 +186,12 @@
    "published": "2026-10-14T13:00:00+00:00"
   },
   {
-   "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-   "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-   "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-14T12:47:43+00:00"
-  },
-  {
    "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
    "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
    "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-14T12:44:17+00:00"
-  },
-  {
-   "title": "Tyler Perry turned 330-acre former Army base into major Atlanta film studio",
-   "summary": "In 2015, Tyler Perry acquired the former Fort McPherson Army base in Atlanta for $30 million, and transformed it into a major production hub featuring 12 sound stages. This initiative not only aims to create new jobs...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2015-tyler-perry-acquired-330-acres-of-atlantas-former-fort-mcpherson-army-base-11-years-later-the-site-has-12-sound-stages-40-historic-buildings-and-200-acres-of-green-space/articleshow/134941441.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T12:39:27+00:00"
   },
   {
    "title": "What we know about the Pope's lung cancer diagnosis",
@@ -234,6 +226,14 @@
    "published": "2026-10-14T11:57:22+00:00"
   },
   {
+   "title": "US ends auto-extension of work permits, to impact over 1 lakh Indians",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-ends-auto-extension-of-work-permits-international-students-not-impacted/articleshow/134941613.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T11:41:22+00:00"
+  },
+  {
    "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
    "summary": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
    "link": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
@@ -242,20 +242,20 @@
    "published": "2026-10-14T11:38:51+00:00"
   },
   {
-   "title": "'Why are you ruining nation?' Dipke heckled, called 'CIA agent' at Delhi airport",
-   "summary": "Dipke landed in Delhi a day after his party's co-convenors, Saurav Das and Ashutosh Ranka, surreptitiously climbed a gate at the prohibited area of Jantar Mantar to protest against Chief Election Commissioner (CEC) ...",
-   "link": "https://timesofindia.indiatimes.com/india/why-are-you-ruining-nation-cjps-abhijeet-dipke-heckled-with-cia-agent-remark-at-delhi-airport/articleshow/134939956.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T11:09:07+00:00"
-  },
-  {
    "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
    "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
    "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-14T11:04:12+00:00"
+  },
+  {
+   "title": "ATC got hijack code but pilots deny: Baffling mystery behind Air India flight scare",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/hijack-code-7500-appeared-pilots-said-all-normal-the-mystery-behind-air-indias-frankfurt-delhi-flight-scare/articleshow/134938930.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T10:35:18+00:00"
   },
   {
    "title": "These workers help train robots who could one day steal their jobs",
@@ -274,17 +274,17 @@
    "published": "2026-10-14T09:09:39+00:00"
   },
   {
-   "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
-   "summary": "For many election cycles, civil rights groups and political parties have fanned out to monitor polling places, but the charged midterm environment has many organizations stepping up efforts this year.",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
+   "title": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
+   "summary": "Organized criminal rings target SNAP recipients because of the government program's outdated security features. But upgrading the tech costs money and states' SNAP budgets are getting squeezed.",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-14T09:00:00+00:00"
   },
   {
-   "title": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
-   "summary": "Organized criminal rings target SNAP recipients because of the government program's outdated security features. But upgrading the tech costs money and states' SNAP budgets are getting squeezed.",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
+   "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
+   "summary": "For many election cycles, civil rights groups and political parties have fanned out to monitor polling places, but the charged midterm environment has many organizations stepping up efforts this year.",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-14T09:00:00+00:00"
@@ -352,14 +352,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-14T07:05:32+00:00"
-  },
-  {
-   "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
-   "summary": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
-   "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-14T05:01:07+00:00"
   },
   {
    "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
@@ -440,6 +432,14 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-13T15:59:07+00:00"
+  },
+  {
+   "title": "Three things we've learnt about the UK economy from the IMF",
+   "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+   "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-13T11:58:43+00:00"
   },
   {
    "title": "What ice cream has to do with this year's Nobel Prize in economics",
