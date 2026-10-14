@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-14T19:59:53.413896+00:00",
+ "updated": "2026-10-14T20:29:15.830716+00:00",
  "stories": [
+  {
+   "title": "Musk says US government may be behind curbs on Ukraine's use of Starlink internet",
+   "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+   "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-14T20:17:09+00:00"
+  },
+  {
+   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+   "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-14T19:52:04+00:00"
+  },
   {
    "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
    "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
@@ -32,14 +48,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-14T19:01:29+00:00"
-  },
-  {
-   "title": "Researchers equip giant cockroaches with medical backpacks to deliver life-saving aid",
-   "summary": "Cyborg cockroaches are being developed in Australia to aid search and rescue operations during disasters. Equipped with cameras and medicine delivery systems, these insects can navigate confined spaces. Early tests show...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/researchers-equip-giant-cockroaches-with-medical-backpacks-fitted-with-cameras-and-syringes-the-cyborgs-search-trapped-survivors-to-deliver-life-saving-aid-in-disasters/articleshow/134949744.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T18:32:57+00:00"
   },
   {
    "title": "London buyer paid £45 for junk-shop painting; it later sold for up to $15m",
@@ -194,14 +202,6 @@
    "published": "2026-10-14T13:16:30+00:00"
   },
   {
-   "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-   "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-14T13:11:17+00:00"
-  },
-  {
    "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
    "summary": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
    "link": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
@@ -232,6 +232,14 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-14T12:37:33+00:00"
+  },
+  {
+   "title": "Jeff Bezos's Spaceport: Ranch deal built Blue Origin base; space tourism costs stay high",
+   "summary": "Jeff Bezos acquired 165,000 acres of land in West Texas to develop Blue Origin's spaceflight operations. The company launched its first crewed flight on July 20, 2021, with four passengers aboard. This historic mission...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2004-jeff-bezos-began-assembling-west-texas-ranchland-for-a-private-space-project-by-2005-he-had-165000-acres-and-in-2021-he-launched-from-the-property-aboard-blue-origins-first-human-spaceflight/articleshow/134942798.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T12:26:36+00:00"
   },
   {
    "title": "Wayfair among firms fined millions for misleading sales tactics",
@@ -290,9 +298,9 @@
    "published": "2026-10-14T09:09:39+00:00"
   },
   {
-   "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
-   "summary": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
+   "title": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
+   "summary": "Organized criminal rings target SNAP recipients because of the government program's outdated security features. But upgrading the tech costs money and states' SNAP budgets are getting squeezed.",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-14T09:00:00+00:00"
@@ -301,14 +309,6 @@
    "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
    "summary": "For many election cycles, civil rights groups and political parties have fanned out to monitor polling places, but the charged midterm environment has many organizations stepping up efforts this year.",
    "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-14T09:00:00+00:00"
-  },
-  {
-   "title": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
-   "summary": "Organized criminal rings target SNAP recipients because of the government program's outdated security features. But upgrading the tech costs money and states' SNAP budgets are getting squeezed.",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-14T09:00:00+00:00"
@@ -325,8 +325,8 @@
    "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
    "summary": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them.",
    "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
-   "source": "NPR Business",
-   "category": "Business",
+   "source": "NPR",
+   "category": "Top",
    "published": "2026-10-14T09:00:00+00:00"
   },
   {
@@ -341,8 +341,8 @@
    "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
    "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
    "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-10-14T08:27:17+00:00"
   },
   {
@@ -440,14 +440,6 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-13T15:59:07+00:00"
-  },
-  {
-   "title": "Three things we've learnt about the UK economy from the IMF",
-   "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
-   "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-13T11:58:43+00:00"
   },
   {
    "title": "What ice cream has to do with this year's Nobel Prize in economics",
