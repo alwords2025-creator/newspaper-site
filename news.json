@@ -1,13 +1,85 @@
 {
- "updated": "2026-10-14T08:23:55.770140+00:00",
+ "updated": "2026-10-14T09:02:01.267894+00:00",
  "stories": [
   {
-   "title": "India-US trade deal nearing finish line? What Jaishankar, Piyush Goyal said on talks",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-nearing-finish-line-what-jaishankar-piyush-goyal-said-on-negotiations-and-ties/articleshow/134936430.cms",
+   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+   "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-14T08:53:40+00:00"
+  },
+  {
+   "title": "Morning news brief",
+   "summary": "Ukrainian President Zelenskyy sits down with NPR to talks about the ongoing war in his country, Pope Leo has lung cancer, the Vatican announced, U.S. ambassador to Greece Kimberly Guilfoyle resigns.",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-5998697/morning-news-brief",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-14T08:49:42+00:00"
+  },
+  {
+   "title": "Woman applies for 130 shares, bank enters 65; commission awards Rs 37,000, not Rs 40L",
+   "summary": "In 2022, the woman applied for 130 shares in an IPO. However, the bank recorded her application for just 65 shares, which she claimed resulted in a loss of Rs 42,142. She also accused the bank of causing her physical...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/woman-applied-for-130-ipo-shares-bank-entered-only-65-consumer-commission-awards-rs-37000-for-deficient-service-but-rejects-her-rs-40-lakh-compensation-claim/articleshow/134930827.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-14T08:13:50+00:00"
+   "published": "2026-10-14T08:44:39+00:00"
+  },
+  {
+   "title": "Cardboard garden beds cut weed cover to 15% by second season in USDA trial",
+   "summary": "Weeds can significantly impact crop yield, leading to a need for effective control methods. A USDA-funded trial demonstrated that cardboard beds reduced weed coverage compared to tilled beds. Farmers found that using...",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/in-2022-us-department-of-agriculture-funded-a-trial-by-spreading-cardboard-in-gardens-to-avoid-weeds-by-the-second-season-weeds-covered-only-15-of-the-cardboard-beds-compared-to-45-in-tilted-beds/articleshow/134936457.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T08:44:11+00:00"
+  },
+  {
+   "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+   "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+   "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-14T08:44:04+00:00"
+  },
+  {
+   "title": "Pope Leo has lung cancer, the Vatican says",
+   "summary": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-14T08:43:10+00:00"
+  },
+  {
+   "title": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
+   "summary": "Canada-born singer-songwriter, 82, posts footage of citizenship ceremony to InstagramJoni Mitchell has become a US citizen, after first moving to the country in the mid-1960s. The Canada-born singer-songwriter, 82,...",
+   "link": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-14T08:39:00+00:00"
+  },
+  {
+   "title": "US judge allows CNN, MS NOW and Politico reporters to keep White House access",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-judge-allows-cnn-ms-now-and-politico-reporters-to-keep-white-house-access-cites-first-amendment/articleshow/134936891.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T08:34:58+00:00"
+  },
+  {
+   "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+   "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+   "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-14T08:27:17+00:00"
+  },
+  {
+   "title": "BFI suspends secretary general Pramod Kumar over alleged financial irregularities",
+   "summary": "The Boxing Federation of India (BFI) has suspended its secretary general Pramod Kumar with immediate effect over alleged financial irregularities, failure to cooperate with investigations and misuse of authority. BFI...",
+   "link": "https://timesofindia.indiatimes.com/sports/boxing/bfi-suspends-secretary-general-pramod-kumar-over-alleged-financial-irregularities/articleshow/134936769.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T08:24:37+00:00"
   },
   {
    "title": "Delhi fire scare: People jump from first floor as flames break out at Maujpur restaurant",
@@ -16,14 +88,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-14T08:02:47+00:00"
-  },
-  {
-   "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-   "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-   "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-14T07:57:10+00:00"
   },
   {
    "title": "Olivia Culpo’s hunger initiative helped fund over 3 million meals across US",
@@ -40,30 +104,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-14T07:30:00+00:00"
-  },
-  {
-   "title": "‘Ahead of Starlink in queue’: Sunil Mittal hopes OneWeb gets nod days Elon Musk",
-   "summary": "Sunil Mittal said: \"I think I am significantly ahead in the queue from him (Elon Musk). I applied five years back.\" His remarks came in response to a question about Musk's recent criticism of India's telecom...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/ahead-of-starlink-in-queue-sunil-mittal-says-would-be-happy-if-eutelsat-oneweb-gets-nod-at-least-a-few-days-before-elon-musks-satellite-communications-venture/articleshow/134935555.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T07:29:03+00:00"
-  },
-  {
-   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-   "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-14T07:23:46+00:00"
-  },
-  {
-   "title": "‘Let me meet my daughter once’: Muskan Rastogi ahead of blue drum murder verdict",
-   "summary": "Muskan Rastogi and her co-convict Sahil Shukla appeared before the court through video conferencing for sentencing. They were previously convicted of conspiring to murder Saurabh Rajput and hiding his body. Muskan has...",
-   "link": "https://timesofindia.indiatimes.com/city/meerut/let-me-meet-my-daughter-once-muskan-rastogis-request-ahead-of-big-verdict-in-blue-drum-murder-case/articleshow/134935394.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T07:23:06+00:00"
   },
   {
    "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
@@ -90,14 +130,6 @@
    "published": "2026-10-14T07:16:02+00:00"
   },
   {
-   "title": "No jobs, no visas! WFI prez blasts US embassy: 'India lost out on gold medals'",
-   "summary": "WFI president Sanjay Singh criticised the US Embassy after nine Indian wrestlers were denied visas for the 2026 U23 World Wrestling Championships in Las Vegas, blaming the decision for costing India potential gold...",
-   "link": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/no-jobs-no-visas-wfi-prez-blasts-us-embassy-after-wrestlers-rejected-india-lost-out-on-gold-medals/articleshow/134935208.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T07:15:30+00:00"
-  },
-  {
    "title": "Anti-drug activist murder: Bulldozers raze accused’s house, shop set ablaze in Punjab",
    "summary": "In a significant move, authorities have demolished the residence of Ashwani Kumar, the prime suspect in the murder of activist Parwinder Singh Jhota. Following Kumar's arrest in Rajasthan, protests erupted in Mansa as...",
    "link": "https://timesofindia.indiatimes.com/city/chandigarh/bulldozer-action-against-house-of-accused-in-punjab-anti-drug-activists-murder/articleshow/134935184.cms",
@@ -114,12 +146,20 @@
    "published": "2026-10-14T07:05:32+00:00"
   },
   {
-   "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-   "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-   "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-14T06:52:33+00:00"
+   "title": "'Murdering democracy': Opposition slams Centre for the arrest of CJP leaders",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/murdering-democracy-opposition-slams-centre-for-the-arrest-of-cjp-leaders/articleshow/134934738.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T06:58:29+00:00"
+  },
+  {
+   "title": "Texas rejects settlement that could cut proposed data center from 2,523 to 1,375 acres",
+   "summary": "Hood County commissioners voted against a settlement that would have reduced the size of a proposed data center. The developer, Sailfish Investors, aimed to address public concerns about environmental impacts and...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/texas-rejected-a-settlement-that-would-have-cut-a-proposed-data-center-from-2523-acres-to-1375-commissioners-also-denied-the-developers-permit-appeal-as-a-court-fight-now-looms/articleshow/134934847.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T06:48:24+00:00"
   },
   {
    "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
@@ -130,28 +170,12 @@
    "published": "2026-10-14T06:11:08+00:00"
   },
   {
-   "title": "'Rahul told us to be ready at 24 hours notice for protest': Anish Gawande",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-told-us-to-be-ready-at-24-hours-notice-for-protest-anish-gawande-slams-cjp-leaders-arrests/articleshow/134933424.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T06:07:56+00:00"
-  },
-  {
    "title": "Air India Frankfurt-Delhi flight diverted to Jaipur; pilot pressed hijack code",
    "summary": "Air India flight inbound from Frankfurt to Delhi was redirected to Jaipur due to a suspected hijack threat. The pilot took immediate action by activating the hijack alert code while flying over the Mumbai Flight...",
    "link": "https://timesofindia.indiatimes.com/india/air-india-frankfurt-delhi-flight-diverted-to-jaipur-after-bomb-threat/articleshow/134933627.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-14T05:52:24+00:00"
-  },
-  {
-   "title": "OpenAI fires employees after spying device found in office",
-   "summary": "OpenAI has made the decision to dismiss an engineering lead due to the discovery of a hidden recording device in a conference room. This device was secretly monitoring confidential discussions about AI technology. The...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/openai-fires-employees-after-spying-device-found-in-office-says-fbis-investigation-is-/articleshow/134933206.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-14T05:26:47+00:00"
   },
   {
    "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
@@ -170,7 +194,7 @@
    "published": "2026-10-14T05:00:37+00:00"
   },
   {
-   "title": "World's oldest shipwreck found off coast of Turkey",
+   "title": "Shipwreck thought to be 4,700 years old found off coast of Turkey",
    "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
    "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -184,14 +208,6 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-14T04:59:06+00:00"
-  },
-  {
-   "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-   "summary": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
-   "link": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-14T04:21:25+00:00"
   },
   {
    "title": "Bank of America hit with $1.2bn fine for money laundering failings",
@@ -256,6 +272,14 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-13T22:29:26+00:00"
+  },
+  {
+   "title": "Why the lonely in China are hiring 'temporary children'",
+   "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+   "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-13T22:00:20+00:00"
   },
   {
    "title": "Saudi employee charged with planting recording device in OpenAI office",
@@ -378,22 +402,6 @@
    "published": "2026-10-13T11:48:07+00:00"
   },
   {
-   "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
-   "summary": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home.",
-   "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-13T11:08:14+00:00"
-  },
-  {
-   "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
-   "summary": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
-   "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-13T10:51:33+00:00"
-  },
-  {
    "title": "What ice cream has to do with this year's Nobel Prize in economics",
    "summary": "Prices can get sticky. That helps explain why recessions hurt so much — and what policymakers can do about them.",
    "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
@@ -440,14 +448,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-13T07:00:18+00:00"
-  },
-  {
-   "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
-   "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash floodingAt least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled...",
-   "link": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-13T04:29:46+00:00"
   },
   {
    "title": "Boardroom feud tests trusted Indian business empire",
