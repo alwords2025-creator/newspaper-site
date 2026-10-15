@@ -1,13 +1,45 @@
 {
- "updated": "2026-10-15T07:16:19.941037+00:00",
+ "updated": "2026-10-15T08:02:15.269795+00:00",
  "stories": [
   {
-   "title": "Economy grew 0.1% in August ahead of chancellor's first Budget",
+   "title": "'Big items are done': Sergio Gor gives update on India-US trade deal",
+   "summary": "In a recent statement, US Ambassador Sergio Gor revealed that substantial progress has been made in the negotiations for a trade deal between India and the US. He pointed out that many crucial items on their agenda have...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/big-items-are-done-sergio-gor-gives-update-on-india-us-trade-deal-trumps-100-sanctions-threat/articleshow/134960864.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T07:43:55+00:00"
+  },
+  {
+   "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
    "summary": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
    "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-15T07:10:59+00:00"
+   "published": "2026-10-15T07:40:27+00:00"
+  },
+  {
+   "title": "Shakira gave $3.68m for Cartagena school now serving over 1,000 children a year",
+   "summary": "In 2014, Colombian superstar Shakira embarked on a noble mission by establishing the Lomas del Peyé school in Cartagena, aimed at supporting at-risk children. Each year, this invaluable institution serves over 1,000...",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/shakira-contributed-3-68-million-toward-an-8-million-school-in-cartagena-that-opened-in-2014-12-years-later-the-campus-still-serves-more-than-1000-children-from-the-city-every-year/articleshow/134957441.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T07:37:40+00:00"
+  },
+  {
+   "title": "'Nobody can browbeat judiciary': SC notice to Rahul, others over Oct 12 march",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/nobody-can-browbeat-judiciary-sc-issues-notice-to-rahul-gandhi-akhilesh-yadav-and-others-over-october-12-march/articleshow/134961009.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T07:33:40+00:00"
+  },
+  {
+   "title": "Imran Khan asked to leave India: What rights do OCI cardholders have?",
+   "summary": "Actor Imran Khan faces deportation from India by October 28 due to his involvement in a protest. This action stems from a complaint lodged by BJP leader Kirit Somaiya regarding legal violations during the demonstration....",
+   "link": "https://timesofindia.indiatimes.com/legal/news/imran-khan-told-to-leave-india-what-rights-do-oci-cardholders-have/articleshow/134959772.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T07:33:21+00:00"
   },
   {
    "title": "UK threatens to ban Eritreans over migrant return policy",
@@ -15,7 +47,31 @@
    "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-15T07:04:11+00:00"
+   "published": "2026-10-15T07:28:32+00:00"
+  },
+  {
+   "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
+   "summary": "The body was recovered from a large blue plastic storage container - locally called a drum.",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
+   "category": "India",
+   "published": "2026-10-15T07:25:54+00:00"
+  },
+  {
+   "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+   "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-15T07:20:45+00:00"
+  },
+  {
+   "title": "US cracks down on North Korean IT worker scams at 70+ US firms; shares email IDs",
+   "summary": "The US Department of Justice conducted a crackdown on a North Korean IT worker scheme. This operation allegedly affected over 70 companies across various sectors in the United States. Authorities arrested two US...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/justice-department-cracks-on-americas-north-korean-employees-problem-says-more-than-70-us-companies-affected-shares-scammers-email-ids/articleshow/134960817.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T07:19:21+00:00"
   },
   {
    "title": "Team India firms up plan for Bumrah: One India A match before NZ Tests; ODIs unlikely",
@@ -26,6 +82,14 @@
    "published": "2026-10-15T07:02:47+00:00"
   },
   {
+   "title": "Thousands of US-based techies return in 9 months; steep salary cuts await in India",
+   "summary": "Indian techies return: Between January and September 2026, around 12,700 white-collar technology workers returned to India, according to data from staffing firm Xpheno. The tally is already approaching the record 15,100...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/12700-us-based-tech-professionals-returned-to-india-in-9-months-2026-may-beat-last-years-record-as-h-1b-visa-uncertainty-grows-but-returnees-face-steep-salary-cuts-at-home/articleshow/134959590.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T07:01:41+00:00"
+  },
+  {
    "title": "BJP targets Rahul over Neha Bora's 'Bangladesh showed us the way' remark",
    "summary": "",
    "link": "https://timesofindia.indiatimes.com/india/open-admission-of-regime-change-bjp-targets-rahul-over-neha-boras-bangladesh-showed-us-the-way-remark/articleshow/134958363.cms",
@@ -34,44 +98,12 @@
    "published": "2026-10-15T06:59:45+00:00"
   },
   {
-   "title": "21 children, teacher killed as school roof collapses in Pakistan’s Peshawar",
+   "title": "28 children, teacher killed as school roof collapses in Pakistan’s Peshawar",
    "summary": "",
    "link": "https://timesofindia.indiatimes.com/world/pakistan/18-killed-as-school-roof-collapses-in-pakistans-peshawar/articleshow/134959547.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-15T06:33:19+00:00"
-  },
-  {
-   "title": "Florida turns Hurricane Ian pier wreckage into 300-ton underwater reef",
-   "summary": "In an inspiring move, pieces from the historical Naples Pier, damaged by Hurricane Ian, are being transformed into vital marine habitats. This initiative involves placing 59 concrete pilings at Wasmer Reef, providing...",
-   "link": "https://timesofindia.indiatimes.com/world/us/florida-turned-wreckage-from-the-hurricane-ian-damaged-naples-pier-into-an-underwater-habitat-59-concrete-pilings-weighing-more-than-300-tons-now-sit-at-wasmer-reef-about-10-miles-offshore-instead-of-a-landfill/articleshow/134934011.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T06:30:00+00:00"
-  },
-  {
-   "title": "FBI updates on OpenAI spy device case: Saudi national arrested, ‘crime photos’ released",
-   "summary": "In a shocking turn of events, OpenAI has fired Abdulrahman Alfozan after a clandestine recording device was found in an executive conference room. The FBI has since apprehended Alfozan, a Saudi national, charging him...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/fbi-gives-update-on-spy-device-found-at-openais-office-says-saudi-national-arrested-shares-crime-photos/articleshow/134959396.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T06:24:31+00:00"
-  },
-  {
-   "title": "SC upholds HC order denying OBC reservation benefits to Hindu converts to Islam",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/sc-upholds-hc-order-denying-obc-reservation-benefits-to-hindu-converts-to-islam/articleshow/134959118.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T06:11:28+00:00"
-  },
-  {
-   "title": "Sara Blakely put $5,000 into Spanx; 21 years later, it was valued at $1.2bn",
-   "summary": "Sara Blakely founded Spanx in 2000 with $5,000 in savings while working as a door-to-door fax machine salesperson. Despite having no formal business training or outside investment, she built the company into a global...",
-   "link": "https://timesofindia.indiatimes.com/world/us/sara-blakely-was-selling-fax-machines-door-to-door-when-she-put-5000-of-her-savings-into-spanx-21-years-later-blackstone-bought-a-majority-stake-in-the-company-at-a-1-2-billion-valuation/articleshow/134958489.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T06:05:54+00:00"
   },
   {
    "title": "Actor Imran Khan asked to leave India after participating in anti-CEC protests",
@@ -88,30 +120,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-15T05:00:23+00:00"
-  },
-  {
-   "title": "'Can Hindus Eat Beef? BJP IT Cell Part 2': Dhruv Rathee faces two defamation cases",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/can-hindus-eat-beef-bjp-it-cell-part-2-dhruv-rathee-faces-two-defamation-cases-in-24-hours/articleshow/134957412.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T04:50:22+00:00"
-  },
-  {
-   "title": "Jantar Mantar permission denied due to CJP protest violence on July 20: Delhi Police to SC",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/delhi-police-files-affidavit-in-sc-defends-curbs-on-metro-roads-internet-during-oct-10-protest/articleshow/134957369.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T04:48:06+00:00"
-  },
-  {
-   "title": "Angry over potato curry, UP man bites wife and attacks her with stone",
-   "summary": "In a shocking incident, Om Prakash Vishwakarma reportedly assaulted his wife, Preeti, after expressing anger over the potato curry served for dinner. The brutal attack left her unconscious and severely injured. Their...",
-   "link": "https://timesofindia.indiatimes.com/city/kanpur/angry-over-potato-curry-up-man-bites-wife-and-attacks-her-with-stone/articleshow/134957233.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T04:32:15+00:00"
   },
   {
    "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
@@ -138,23 +146,7 @@
    "published": "2026-10-15T04:25:03+00:00"
   },
   {
-   "title": "‘Stop protecting the VIP’: Ankita Bhandari’s parents detained at 4 am in Delhi",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/stop-protecting-the-vip-ankita-bhandaris-parents-detained-at-4-am-in-delhi/articleshow/134957180.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T04:22:32+00:00"
-  },
-  {
-   "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-   "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-15T04:19:17+00:00"
-  },
-  {
-   "title": "White House defends new press secretary amid questions about her legal credentials",
+   "title": "White House defends new press secretary after questions about her legal credentials",
    "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
    "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -218,6 +210,14 @@
    "published": "2026-10-14T22:19:13+00:00"
   },
   {
+   "title": "Many Indians willingly joining Russian forces, government informs SC",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/many-indians-willingly-joining-russian-forces-government-informs-sc/articleshow/134952099.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T22:11:02+00:00"
+  },
+  {
    "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
    "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
    "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
@@ -272,6 +272,14 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-14T17:46:30+00:00"
+  },
+  {
+   "title": "‘Will work to strengthen BJP’: Odisha governor-designate’s remark sparks row",
+   "summary": "Controversy brews in Odisha following Braj Mohan Ram's remarks aimed at enhancing the BJP's foothold after assuming the governorship. Opposition figures from BJD and Congress have criticized his stance, expressing...",
+   "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/will-work-to-strengthen-party-in-odisha-guv-designates-remark-sparks-row-oppn-slams-bjp/articleshow/134947580.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-14T17:09:16+00:00"
   },
   {
    "title": "UK’s ‘incoherent’ approach to China plagued by lack of expertise, report says",
@@ -386,14 +394,6 @@
    "published": "2026-10-14T09:09:39+00:00"
   },
   {
-   "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
-   "summary": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-14T09:00:00+00:00"
-  },
-  {
    "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
    "summary": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U.S.",
    "link": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
@@ -405,6 +405,14 @@
    "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
    "summary": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them.",
    "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-14T09:00:00+00:00"
+  },
+  {
+   "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
+   "summary": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-14T09:00:00+00:00"
@@ -776,14 +784,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-06T23:07:44+00:00"
-  },
-  {
-   "title": "Five reasons India's stock market is sinking even when its economy is growing",
-   "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
-   "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-10-05T23:13:11+00:00"
   }
  ]
 }
