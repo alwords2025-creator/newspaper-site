@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T20:21:19.505326+00:00",
+ "updated": "2026-10-15T20:57:54.333015+00:00",
  "stories": [
   {
    "title": "London housing project wins top architecture award",
@@ -7,7 +7,15 @@
    "link": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-15T20:02:59+00:00"
+   "published": "2026-10-15T20:36:32+00:00"
+  },
+  {
+   "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
+   "summary": "The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-15T20:24:32+00:00"
   },
   {
    "title": "'Ready for it': Dipke claims police may detain him tonight or in morning",
@@ -90,14 +98,6 @@
    "published": "2026-10-15T17:05:36+00:00"
   },
   {
-   "title": "Punam Raut, part of India's 2017 World Cup run, retires from international cricket",
-   "summary": "The 37-year-old represented India in four Tests, 73 ODIs and 35 T20Is between 2009 and 2021.",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/punam-raut-part-of-indias-2017-world-cup-final-run-retires-from-international-cricket/articleshow/134972503.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T17:00:43+00:00"
-  },
-  {
    "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
    "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
    "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
@@ -152,6 +152,14 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-15T15:55:14+00:00"
+  },
+  {
+   "title": "US temple attack plot: Teen’s alleged manifesto describes Indians as ‘subhumans’",
+   "summary": "A 19-year-old white supremacist's intention to attack a temple near Chicago was disrupted by a rifle malfunction. Following the incident, concerned colleagues notified authorities after he expressed his intentions via...",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-temple-attack-plot-teens-alleged-manifesto-describes-indians-as-subhumans/articleshow/134970777.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T15:42:08+00:00"
   },
   {
    "title": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
@@ -218,14 +226,6 @@
    "published": "2026-10-15T12:28:14+00:00"
   },
   {
-   "title": "Meghan makes first official public appearance since moving back to UK",
-   "summary": "The Duke and Duchess of Sussex are taking part in a series of events linked to their charitable work in Nottingham.",
-   "link": "https://www.bbc.co.uk/news/articles/c6gelgd1lxv2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-15T12:06:51+00:00"
-  },
-  {
    "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
    "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
    "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
@@ -287,14 +287,6 @@
    "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
    "source": "NPR",
    "category": "Top",
-   "published": "2026-10-15T10:00:00+00:00"
-  },
-  {
-   "title": "Oregon woman sold home to son-in-law for $270,000; court rejects right to stay",
-   "summary": "An Oregon woman who sold her home worth approximately $398,000 to her son-in-law for $270,000 in 2006 claimed she was promised the right to live there for life. After a dispute over her occupancy, a trial court ruled in...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2006-an-oregon-woman-sold-her-398000-home-to-her-son-in-law-for-270000-and-says-she-was-promised-she-could-stay-for-life-20-years-later-an-appeals-court-rejected-that-claimed-life-estate/articleshow/134962876.cms",
-   "source": "Times of India",
-   "category": "India",
    "published": "2026-10-15T10:00:00+00:00"
   },
   {
@@ -576,6 +568,14 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-13T09:34:43+00:00"
+  },
+  {
+   "title": "Ohio brothers bought flooded quarry for $330,000; village later drops seizure bid",
+   "summary": "Two Ohio brothers bought a flooded quarry for $330,000 in 2005 and spent 15 years improving it before a dispute with the Village of Luckey disrupted their planned sale. After nearly five years of litigation, the village...",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2005-two-ohio-brothers-bought-a-flooded-quarry-for-330000-and-spent-15-years-improving-it-21-years-later-the-village-abandoned-its-bid-to-seize-the-72-5-acre-site-and-now-has-a-206000-judgment-lien-against-it/articleshow/134911740.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-13T09:30:34+00:00"
   },
   {
    "title": "Voters here will decide whether to force cities to build cheaper, smaller homes",
