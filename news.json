@@ -1,13 +1,77 @@
 {
- "updated": "2026-10-15T10:59:04.106336+00:00",
+ "updated": "2026-10-15T11:29:05.647086+00:00",
  "stories": [
+  {
+   "title": "Severe drought declared in parts of southern England",
+   "summary": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+   "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-15T11:28:11+00:00"
+  },
   {
    "title": "Why Starlink internet is so important on the battlefield in Ukraine",
    "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
    "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-15T10:53:40+00:00"
+   "published": "2026-10-15T11:25:19+00:00"
+  },
+  {
+   "title": "Severed head of Manipur attack victim recovered 5 days after Naga body’s discovery",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/severed-head-of-manipur-attack-victim-recovered-5-days-after-naga-bodys-discovery/articleshow/134965841.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T11:08:01+00:00"
+  },
+  {
+   "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
+   "summary": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-15T11:07:13+00:00"
+  },
+  {
+   "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+   "summary": "The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments — even as the next stage of the anti-fraud effort is underway.",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-15T11:06:21+00:00"
+  },
+  {
+   "title": "Meet Holden Bierman, 19, who turned $500 loan into six-figure beachwear business",
+   "summary": "At just 12 years old, Holden Bierman founded Coastal Cool during the pandemic with a modest $500 loan. Originally selling casual apparel, he shifted focus to creating eco-friendly swimwear made from recycled materials....",
+   "link": "https://timesofindia.indiatimes.com/world/us/meet-holden-bierman-the-19-year-old-holly-springs-nc-entrepreneur-who-started-a-beachwear-brand-at-12-with-a-500-loan-six-years-later-it-is-a-six-figure-business-that-says-it-helped-remove-100000-plastic-bottles/articleshow/134965500.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T11:00:23+00:00"
+  },
+  {
+   "title": "Sally Rooney’s characters ask questions. Her politics only has rigid answers.",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/etimes/trending/sally-rooneys-characters-ask-questions-her-politics-only-has-rigid-answers-/articleshow/134964990.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T10:59:43+00:00"
+  },
+  {
+   "title": "Trouble beneath the waves: India’s submarine fleet is ageing and replacements are years away",
+   "summary": "The Indian Navy is currently operating an ageing submarine fleet with plans for expansion by 2030. The current fleet consists of 16 conventional submarines and three strategic submarines. Significant delays have been...",
+   "link": "https://timesofindia.indiatimes.com/defence/news/trouble-beneath-the-waves-indias-submarine-fleet-is-ageing-and-replacements-are-years-away/articleshow/134965302.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T10:55:37+00:00"
+  },
+  {
+   "title": "Wyoming ranch held by one family for four generations lists for $24.5 million",
+   "summary": "The Quarter Circle Lazy B Ranch, spanning 1,542 acres in Wyoming, is now on the market for $24.5 million. This family-owned property has been in the Wallop family since 1889 and hosted notable guests like Queen...",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/founded-in-1889-by-an-english-earls-son-this-wyoming-ranch-stayed-in-the-family-for-four-generations-the-1542-acre-property-also-visited-by-queen-elizabeth-ii-hits-the-market-for-24-5-million/articleshow/134964757.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T10:46:59+00:00"
   },
   {
    "title": "‘SIR explain’: Smriti Irani turns ‘Big B’ movie scene into Rahul Gandhi jibe",
@@ -16,14 +80,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-15T10:46:54+00:00"
-  },
-  {
-   "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
-   "summary": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-15T10:46:42+00:00"
   },
   {
    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
@@ -42,44 +98,12 @@
    "published": "2026-10-15T10:35:34+00:00"
   },
   {
-   "title": "India’s Sept exports rise 23% as trade deficit narrows; shipments to US rise 11%",
-   "summary": "India's merchandise exports rose to $44.40 billion in September 2026, marking a significant year-on-year increase. Overall exports, including services, also grew to an estimated $80.75 billion during this period....",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/indias-september-exports-rise-23-as-merchandise-trade-deficit-narrows-shipments-to-us-rise-11/articleshow/134964339.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T10:35:21+00:00"
-  },
-  {
-   "title": "Tampa Theatre reopens after seven-month, $24.5m restoration in its 100th year",
-   "summary": "Tampa Theatre has successfully wrapped up an extensive restoration initiative that commenced earlier this year. This project focused on revamping treasured decorations and upgrading essential infrastructure for future...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-1926-tampa-theatre-opened-beneath-a-twinkling-indoor-night-sky-100-years-later-it-reopened-after-a-seven-month-24-5-million-restoration-of-its-historic-auditorium/articleshow/134964170.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T10:34:31+00:00"
-  },
-  {
-   "title": "Hawaii’s Hāʻena State Park reopens 39 days after hurricane closure",
-   "summary": "Hā‘ena State Park on Kaua‘i reopened on October 15 after being closed due to Hurricane Lowell. Visitors can now access specific hiking trails and Kē‘ē Beach, but restrictions remain. Overnight camping is still...",
-   "link": "https://timesofindia.indiatimes.com/world/us/hawaiis-hena-state-park-closed-sept-6-as-hurricane-lowell-approached-39-days-later-it-reopened-after-repairs-but-overnight-camping-and-hiking-past-two-miles-remain-closed/articleshow/134963256.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T10:33:39+00:00"
-  },
-  {
-   "title": "'Stop it; get lost': Chaos erupts at Abhijeet Dipke, Neha Bora's presser - video",
+   "title": "'Stop it, get lost': Chaos erupts at Abhijeet Dipke, Neha Bora's presser - video",
    "summary": "Addressing the media, Dipke alleged that students and young people had been protesting in Delhi for the past 10-15 days and were being dragged away by authorities. He claimed that Opposition leaders who joined the...",
    "link": "https://timesofindia.indiatimes.com/india/stop-it-get-lost-chaos-erupts-at-cjps-abhijeet-dipke-neha-boras-joint-presser-video/articleshow/134964498.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-15T10:31:30+00:00"
-  },
-  {
-   "title": "'All for one man': Dipke slams Centre for sweeping curbs to quell anti-CEC stirs",
-   "summary": "CJP activist Abhijeet Dipke has accused the government of detaining protesters for chief election commissioner Gyanesh Kumar. He claimed that students and opposition leaders faced police action while protesting in...",
-   "link": "https://timesofindia.indiatimes.com/india/all-for-one-man-cjps-dipke-targets-centre-for-sweeping-curbs-to-stamp-out-anti-cec-protests/articleshow/134964724.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T10:28:41+00:00"
   },
   {
    "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
@@ -98,6 +122,14 @@
    "published": "2026-10-15T10:20:51+00:00"
   },
   {
+   "title": "Andaman woman turns 5 birds into poultry unit earning Rs 1.91 lakh monthly",
+   "summary": "Rajeshwari, hailing from Wandoor village, initiated her journey with just five birds and has since cultivated a thriving poultry venture. Armed with training from ICAR-CIARI, she honed vital skills in poultry management...",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/in-2023-south-andamans-rajeshwari-had-just-five-backyard-birds-and-no-scientific-poultry-experience-today-her-expanded-unit-produces-about-2000-chicks-a-month-and-an-estimated-1-91-lakh-monthly-net-profit/articleshow/134961630.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T10:14:09+00:00"
+  },
+  {
    "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
    "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
    "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
@@ -112,30 +144,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-15T10:00:00+00:00"
-  },
-  {
-   "title": "Oregon woman sold home to son-in-law for $270,000; court rejects right to stay",
-   "summary": "An Oregon woman who sold her home worth approximately $398,000 to her son-in-law for $270,000 in 2006 claimed she was promised the right to live there for life. After a dispute over her occupancy, a trial court ruled in...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2006-an-oregon-woman-sold-her-398000-home-to-her-son-in-law-for-270000-and-says-she-was-promised-she-could-stay-for-life-20-years-later-an-appeals-court-rejected-that-claimed-life-estate/articleshow/134962876.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T10:00:00+00:00"
-  },
-  {
-   "title": "'Why attack the batter?': Gavaskar fumes as Shamar Joseph hits Arshdeep Singh",
-   "summary": "During the fourth T20I in Hyderabad, West Indies defeated India by 24 runs to level the series. Sunil Gavaskar expressed criticism towards Shamar Joseph after a bouncer hit Arshdeep Singh on the shoulder. Despite pain,...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/why-attack-the-batter-sunil-gavaskar-fumes-as-shamar-joseph-hits-arshdeep-singh/articleshow/134963617.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T09:55:54+00:00"
-  },
-  {
-   "title": "'Concern over anti-India hate in US': MEA demands probe into Hindu temple attack plot",
-   "summary": "The ministry of external affairs (MEA) has raised concerns about an alleged conspiracy aimed at a Hindu temple in the US. It called for a comprehensive investigation came following the arrest of Alexandros Paporakis in...",
-   "link": "https://timesofindia.indiatimes.com/india/growing-concern-over-anti-india-hate-in-us-mea-demands-probe-into-hindu-temple-attack-plot/articleshow/134962943.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T09:44:36+00:00"
   },
   {
    "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
@@ -162,17 +170,17 @@
    "published": "2026-10-15T09:02:00+00:00"
   },
   {
-   "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
-   "summary": "Some key voters in Georgia say deep frustration and disappointment with President Trump are motivating their election plans just weeks before Election Day.",
-   "link": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
+   "title": "For some Christians, Hegseth's plan for public execution fits a biblical mandate",
+   "summary": "Defense Secretary Hegseth's announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it's not an outlier.",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-15T09:00:00+00:00"
   },
   {
-   "title": "For some Christians, Hegseth's plan for public execution fits a biblical mandate",
-   "summary": "Defense Secretary Hegseth's announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it's not an outlier.",
-   "link": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
+   "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
+   "summary": "Some key voters in Georgia say deep frustration and disappointment with President Trump are motivating their election plans just weeks before Election Day.",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-15T09:00:00+00:00"
@@ -192,14 +200,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-15T08:46:47+00:00"
-  },
-  {
-   "title": "White House defends new press secretary after questions about her legal credentials",
-   "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-   "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-15T08:41:04+00:00"
   },
   {
    "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
@@ -280,6 +280,14 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-15T04:25:03+00:00"
+  },
+  {
+   "title": "Microsoft CEO Satya Nadella responds to Virat Kohli's first-ever LinkedIn post",
+   "summary": "Virat Kohli made his debut on LinkedIn, emphasizing his ambition to enhance Indian sports culture and brands. He announced his role as Investor in Agilitas and Co-founder of one8world. Kohli aims to create a...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-responds-to-virat-kohlis-first-ever-linkedin-post/articleshow/134956002.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T03:09:13+00:00"
   },
   {
    "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
@@ -413,8 +421,8 @@
    "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
    "summary": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
    "link": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Technology",
+   "category": "Technology",
    "published": "2026-10-14T13:00:00+00:00"
   },
   {
