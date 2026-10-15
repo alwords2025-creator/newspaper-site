@@ -1,21 +1,13 @@
 {
- "updated": "2026-10-15T14:06:35.722652+00:00",
+ "updated": "2026-10-15T15:01:31.797445+00:00",
  "stories": [
   {
-   "title": "Severe drought declared in parts of southern England",
-   "summary": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
-   "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+   "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
+   "summary": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
+   "link": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-15T13:53:34+00:00"
-  },
-  {
-   "title": "Another man admits raping woman drugged by husband over 20 years",
-   "summary": "The husband is accused of inviting 13 other men to abuse her at their family home in Stockport.",
-   "link": "https://www.bbc.co.uk/news/articles/cwvgdn1164v1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-15T13:50:14+00:00"
+   "published": "2026-10-15T14:55:32+00:00"
   },
   {
    "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
@@ -23,7 +15,87 @@
    "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-15T13:44:51+00:00"
+   "published": "2026-10-15T14:55:21+00:00"
+  },
+  {
+   "title": "In Claude We Trust: Can 'God' save frontier models?",
+   "summary": "In this edition, we are going to look at how Anthropic is now hoping to get a little spiritual cred for its frontier models, and by doing so, they are channelling the kings of yore, who, despite their armies and gold,...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/down-the-rabbit-hole-in-claude-we-trust-can-god-save-frontier-models/articleshow/134970183.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T14:54:09+00:00"
+  },
+  {
+   "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+   "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
+   "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-15T14:52:18+00:00"
+  },
+  {
+   "title": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
+   "summary": "President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-15T14:46:09+00:00"
+  },
+  {
+   "title": "Amit Shah vows to clear every trace of Naxalism after decades of tribal suffering",
+   "summary": "Amit Shah highlighted the importance of eradicating Naxalism to restore growth in Bastar, Chhattisgarh. He noted that significant efforts had been made in this regard by local tribal leadership. Shah mentioned a...",
+   "link": "https://timesofindia.indiatimes.com/india/amit-shah-vows-to-eliminate-every-trace-of-naxalism-after-five-decades-of-tribal-suffering/articleshow/134970426.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T14:40:38+00:00"
+  },
+  {
+   "title": "Severe drought declared in parts of southern England",
+   "summary": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+   "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-15T14:37:39+00:00"
+  },
+  {
+   "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+   "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through. But a storm is comingAn...",
+   "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-15T14:33:12+00:00"
+  },
+  {
+   "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+   "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
+   "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-15T14:25:48+00:00"
+  },
+  {
+   "title": "'Stunned': Rahul urges Prez to hold Dushyant Gautam’s appointment as Sikkim guv",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/stunned-rahul-urges-president-murmu-to-put-dushyant-gautams-appointment-as-sikkim-governor-on-hold/articleshow/134970095.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T14:15:43+00:00"
+  },
+  {
+   "title": "Meet Gabriella Rothberg, 17, co-inventor of patented genetically engineered tomato",
+   "summary": "A sandwich idea at 15 led Miami student Gabriella Rothberg to develop genetically engineered tomatoes designed to produce heme, an iron-containing molecule associated with meat flavour. Now 17, she is listed alongside...",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/meet-gabriella-rothberg-the-17-year-old-miami-student-who-began-with-a-sandwich-idea-at-15-and-became-co-inventor-on-a-us-patent-for-genetically-engineered-tomatoes-designed-to-produce-meat-linked-heme/articleshow/134966877.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T14:00:00+00:00"
+  },
+  {
+   "title": "A persistent war machine: How Houthis are threatening MBS's Vision 2030",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/a-cash-strapped-country-a-persistent-war-machine-how-houthis-are-risking-mbss-vision-2030/articleshow/134969480.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T13:57:04+00:00"
   },
   {
    "title": "Delhi Ramlila to burn 30-foot 'cockroach' effigy alongside Ravan",
@@ -34,14 +106,6 @@
    "published": "2026-10-15T13:39:51+00:00"
   },
   {
-   "title": "UK threatens to ban Eritreans over migrant return policy",
-   "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-   "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-15T13:35:08+00:00"
-  },
-  {
    "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
    "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
    "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
@@ -50,12 +114,20 @@
    "published": "2026-10-15T13:32:56+00:00"
   },
   {
-   "title": "EC announces Special Summary Revision of voters' list in 17 states amid SIR row",
-   "summary": "While a Summary Revision focuses on new eligibles and routine corrections, SIR goes far deeper, involving statewide house-to-house verification, detailed scrutiny of entries, and large-scale data audits. For instance,...",
-   "link": "https://timesofindia.indiatimes.com/india/ec-announces-special-summary-revision-of-voters-list-in-17-states-amid-sir-row/articleshow/134969117.cms",
+   "title": "Ex-IAS Divya launches party: 10 civil servants who quit service to enter politics",
+   "summary": "Divya Mittal, an ex-IAS officer, has established the Jan Neeti Bharat party in preparation for the forthcoming elections. With a focus on enhancing citizen participation in policymaking rather than adhering to...",
+   "link": "https://timesofindia.indiatimes.com/india/ex-ias-divya-mittal-launches-own-party-10-civil-servants-who-quit-service-to-enter-politics/articleshow/134969157.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-15T13:25:31+00:00"
+   "published": "2026-10-15T13:31:31+00:00"
+  },
+  {
+   "title": "Indian-American teen wins US young scientist title and $25,000 prize",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/a-13-year-old-indian-american-student-invented-a-system-to-fight-ocean-acidification-she-won-americas-top-young-scientist-title-and-a-25000-prize-while-two-other-indian-origin-girls-took-the-remaining-top-honours/articleshow/134965263.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T13:30:00+00:00"
   },
   {
    "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
@@ -66,52 +138,12 @@
    "published": "2026-10-15T13:25:17+00:00"
   },
   {
-   "title": "President accepts L Murugan’s resignation amid buzz over Union Cabinet reshuffle",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/president-murmu-accepts-l-murugans-resignation-amid-buzz-over-union-cabinet-reshuffle/articleshow/134969144.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T13:20:47+00:00"
-  },
-  {
    "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
    "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
    "link": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-15T13:13:26+00:00"
-  },
-  {
-   "title": "Lula or Bolsonaro: Why Brazil's presidential election matters for Brics and India",
-   "summary": "Brics began with five members and grew to eleven after the 2024 expansion, with Indonesia the newest, joining in 2025. Brazil opposed the enlargement, particularly because of the one nation. Iran. It feared that adding...",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/lula-or-bolsonaro-why-brazils-presidential-election-matters-for-brics-and-india/articleshow/134968029.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T13:08:21+00:00"
-  },
-  {
-   "title": "'We all want regime change, anything wrong with that?' Prashant Bhushan attacks govt",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/government-hell-bent-on-crushing-electoral-democracy-prashant-bhushan-calls-for-regime-change-amid-anti-cec-protests/articleshow/134968731.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T13:02:15+00:00"
-  },
-  {
-   "title": "George Lucas’ 23-acre San Francisco campus now has 4 buildings and 17-acre meadow",
-   "summary": "In the heart of San Francisco, the former military hospital site has been ingeniously repurposed into the Letterman Digital Arts Center. This vibrant digital arts hub, established by George Lucas in 2005...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2005-george-lucas-opened-an-850000-sq-ft-digital-arts-campus-on-23-acres-of-a-former-army-hospital-in-san-francisco-21-years-later-it-has-four-buildings-and-a-17-acre-public-meadow/articleshow/134966887.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T13:01:06+00:00"
-  },
-  {
-   "title": "California man turned discarded bottles and scrap into Route 66 desert art forest",
-   "summary": "California cement worker Elmer Long transformed discarded glass bottles and scrap metal into an unusual art forest along Route 66. His two-acre Bottle Tree Ranch, featuring around 200 trees and over 1,000 bottles,...",
-   "link": "https://timesofindia.indiatimes.com/world/us/california-cement-worker-elmer-long-turned-discarded-bottles-and-scrap-metal-into-a-desert-art-forest-as-route-66-turns-100-his-two-acre-ranch-has-200-trees-1000-bottles-and-visitors-from-around-the-world/articleshow/134964715.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T13:00:00+00:00"
   },
   {
    "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
@@ -122,20 +154,12 @@
    "published": "2026-10-15T12:45:22+00:00"
   },
   {
-   "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-   "summary": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
-   "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-15T12:28:26+00:00"
-  },
-  {
-   "title": "'Tryst with Rubio?' Cong flags govt's silence over US envoy's 'expect' remark",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/us-expects-jaishankar-to-meet-rubio-in-mumbai-cong-questions-govts-silence-over-sergio-gors-remark/articleshow/134966099.cms",
+   "title": "Stage 4 oral cancer survivor, 57, rebuilds strength and now deadlifts 80 kg",
+   "summary": "After battling stage 4 oral cancer while enduring pain for years, Javitri Shakya found strength through the unwavering support of her son, Manish. He paused his singing career to focus on her recovery, even crafting...",
+   "link": "https://timesofindia.indiatimes.com/women/voices-of-power/doctors-said-her-jaw-had-to-be-removed-57-year-old-stage-4-oral-cancer-survivor-rebuilds-her-strength-deadlifts-80-kg-as-son-gives-up-singing-career-to-care-for-her/articleshow/134965834.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-15T12:17:54+00:00"
+   "published": "2026-10-15T12:28:45+00:00"
   },
   {
    "title": "'Final warning, go home': UK vigilante group confronts Indian students, sparks row",
@@ -152,14 +176,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-15T12:03:51+00:00"
-  },
-  {
-   "title": "‘Anarchic, immature’: BJP targets Rahul over anti-CEC protests",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/anarchic-immature-bjp-targets-rahul-over-anti-cec-protests-claims-misconduct-with-women-cop/articleshow/134966997.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T11:50:10+00:00"
   },
   {
    "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
@@ -186,14 +202,6 @@
    "published": "2026-10-15T11:26:12+00:00"
   },
   {
-   "title": "Watch: Harry and Meghan at first joint engagement since UK return",
-   "summary": "The Duke and Duchess of Sussex are making several public appearances in Nottingham.",
-   "link": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-15T11:10:59+00:00"
-  },
-  {
    "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
    "summary": "The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments — even as the next stage of the anti-fraud effort is underway.",
    "link": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
@@ -208,14 +216,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-15T10:56:25+00:00"
-  },
-  {
-   "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-   "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through. But a storm is comingAn...",
-   "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-15T10:38:26+00:00"
   },
   {
    "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
@@ -234,7 +234,7 @@
    "published": "2026-10-15T10:00:00+00:00"
   },
   {
-   "title": "Essential items to stock in your medicine cabinet for cold and flu season",
+   "title": "Make a 'sick day' kit for cold and flu season before your household gets hit",
    "summary": "Cold and flu season is here. Before someone in your household gets hit, make sure you have these essential meds and comfort items in your medicine cabinet.",
    "link": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
    "source": "NPR",
@@ -250,12 +250,20 @@
    "published": "2026-10-15T09:00:00+00:00"
   },
   {
-   "title": "For some Christians, Hegseth's plan for public execution fits a biblical mandate",
+   "title": "Trump cancels public execution, but a line may already have been crossed",
    "summary": "Defense Secretary Hegseth's announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it's not an outlier.",
    "link": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-15T09:00:00+00:00"
+  },
+  {
+   "title": "Meta AI head Alexandr Wang praises Mark Zuckerberg leaving Meta CEO flattered",
+   "summary": "Alexandr Wang recently shared his admiration for Mark Zuckerberg, highlighting his exceptional leadership and decision-making skills. Wang pointed out Zuckerberg's readiness to make bold strategic changes grounded in...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-head-alexandr-wang-praises-mark-zuckerberg-he-replies-i-have-never-gotten-such-a-nice/articleshow/134962521.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-15T08:47:46+00:00"
   },
   {
    "title": "Morning news brief",
@@ -298,14 +306,6 @@
    "published": "2026-10-15T07:25:54+00:00"
   },
   {
-   "title": "Sara Blakely put $5,000 into Spanx; 21 years later, it was valued at $1.2bn",
-   "summary": "Sara Blakely founded Spanx in 2000 with $5,000 in savings while working as a door-to-door fax machine salesperson. Despite having no formal business training or outside investment, she built the company into a global...",
-   "link": "https://timesofindia.indiatimes.com/world/us/sara-blakely-was-selling-fax-machines-door-to-door-when-she-put-5000-of-her-savings-into-spanx-21-years-later-blackstone-bought-a-majority-stake-in-the-company-at-a-1-2-billion-valuation/articleshow/134958489.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-15T06:05:54+00:00"
-  },
-  {
    "title": "Tiny critically endangered puddle frogs hatch at London Zoo",
    "summary": "The Afia Birago’s puddle frogs are a recently identified species from a single Ghanaian forest.",
    "link": "https://www.bbc.co.uk/news/articles/cr2keqxggx0wo?at_medium=RSS&at_campaign=rss",
@@ -336,6 +336,14 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-15T02:45:42+00:00"
+  },
+  {
+   "title": "My son wants to try protein powders - I asked experts how safe it was",
+   "summary": "Are protein supplements recommended for pre-teens and teenagers or is a big, juicy steak just as good?",
+   "link": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-15T00:00:35+00:00"
   },
   {
    "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
@@ -458,17 +466,17 @@
    "published": "2026-10-14T11:04:12+00:00"
   },
   {
-   "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
-   "summary": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U.S.",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
+   "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
+   "summary": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them.",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-10-14T09:00:00+00:00"
   },
   {
-   "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
-   "summary": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them.",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
+   "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
+   "summary": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U.S.",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-10-14T09:00:00+00:00"
@@ -736,14 +744,6 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-09T15:32:30+00:00"
-  },
-  {
-   "title": "Anthropic bans users from being 'cruel' to its AI systems",
-   "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-   "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-09T12:34:27+00:00"
   },
   {
    "title": "Meet India's feisty Gen Z protester who is taking on Modi",
