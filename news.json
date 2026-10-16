@@ -1,13 +1,101 @@
 {
- "updated": "2026-10-16T11:02:11.028907+00:00",
+ "updated": "2026-10-16T11:57:02.645136+00:00",
  "stories": [
   {
-   "title": "Action needed to save water, minister urges",
+   "title": "Norwegian teen 'hitman' detained for UK murder plot",
+   "summary": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-16T11:48:44+00:00"
+  },
+  {
+   "title": "India's 'cockroach' party founder detained ahead of protest",
+   "summary": "The youth-led movement planned a fresh Delhi protest after mass detentions last week and the jailing of two leaders.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
+   "category": "India",
+   "published": "2026-10-16T11:44:31+00:00"
+  },
+  {
+   "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+   "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
+   "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-16T11:41:58+00:00"
+  },
+  {
+   "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+   "summary": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
+   "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-16T11:40:41+00:00"
+  },
+  {
+   "title": "Minister warns people to save water amid drought",
    "summary": "Severe drought was declared across parts of southern England after months of low rainfall.",
    "link": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-16T11:00:22+00:00"
+   "published": "2026-10-16T11:37:42+00:00"
+  },
+  {
+   "title": "'I am alone': Dipke argues with cops as they take him in custody - watch",
+   "summary": "Dipke, earlier today, had defended the party's protests, asserting that peaceful demonstrations were a democratic right. He accused the government of restricting citizens' freedoms and disrupting business activities...",
+   "link": "https://timesofindia.indiatimes.com/india/i-am-alone-cjps-dipke-argues-with-cops-during-detention-ahead-of-tiranga-march-watch/articleshow/134993030.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T11:37:37+00:00"
+  },
+  {
+   "title": "Pakistan to chair IMF, World Bank boards in 2027; first time in over 70 years",
+   "summary": "Pakistan will assume the chairmanship of the IMF and World Bank Group boards in 2027, marking a significant return. This follows a long absence from the position that last occurred in 1953. The role will allow Pakistan...",
+   "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-to-chair-imf-world-bank-boards-in-2027-first-time-in-over-70-years-/articleshow/134993350.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T11:36:24+00:00"
+  },
+  {
+   "title": "Sally Rooney's books will no longer be sold in UK after Palestinian Action support",
+   "summary": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
+   "link": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-16T11:30:31+00:00"
+  },
+  {
+   "title": "UK shopper paid £1 for first-edition James Bond book; it later sold for £10,000",
+   "summary": "A woman bought a book at a car boot sale in Yorkshire for just £1 ten years ago. She later discovered it was a rare first edition of Casino Royale by Ian Fleming. The book retained its original dust jacket and was...",
+   "link": "https://timesofindia.indiatimes.com/world/uk/a-shopper-paid-just-1-at-a-uk-car-boot-sale-for-a-1953-first-edition-casino-royale-in-its-original-dust-jacket-after-experts-recognised-the-rare-james-bond-book-it-sold-at-auction-for-10000/articleshow/134991543.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T11:30:00+00:00"
+  },
+  {
+   "title": "Staying connected under fire: How GSAT-7C will boost IAF's fighting edge",
+   "summary": "The Indian Air Force signed a deal for the GSAT-7C satellite to boost its communications capabilities. This satellite aims to enhance secure communications for network-centric warfare beyond traditional networks. It is...",
+   "link": "https://timesofindia.indiatimes.com/defence/news/staying-connected-under-fire-how-gsat-7c-will-boost-iafs-fighting-edge/articleshow/134992454.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T11:21:43+00:00"
+  },
+  {
+   "title": "Husband strangled, snake placed beside body: UP court awards death penalty to wife, lover",
+   "summary": "Ravita and Amardeep received the death penalty for the murder of Amit Kashyap in Meerut. They staged the crime scene to resemble a snakebite, raising initial suspicions among family members. A post-mortem revealed that...",
+   "link": "https://timesofindia.indiatimes.com/city/meerut/husband-strangled-live-snake-placed-beside-body-meerut-court-awards-death-penalty-to-wife-lover/articleshow/134992894.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T11:18:15+00:00"
+  },
+  {
+   "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
+   "summary": "A teen opened fire at an Oregon elementary school, leaving three kids and one teacher dead. And, the Justice Department is suing California over alleged noncitizen voters.",
+   "link": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-16T11:03:57+00:00"
   },
   {
    "title": "What this bankruptcy says about AI startups",
@@ -18,12 +106,12 @@
    "published": "2026-10-16T11:00:00+00:00"
   },
   {
-   "title": "Norwegian teen 'hitman' detained for UK murder plot",
-   "summary": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
-   "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
+   "title": "Sex was 'huge preoccupation for Russell Brand', ex-flatmate tells trial",
+   "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault, which he denies.",
+   "link": "https://www.bbc.co.uk/news/articles/ck8dz6m1d2n6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-16T10:57:45+00:00"
+   "published": "2026-10-16T10:59:05+00:00"
   },
   {
    "title": "Police officer who raped two women jailed for 12 years",
@@ -42,14 +130,6 @@
    "published": "2026-10-16T10:45:01+00:00"
   },
   {
-   "title": "UAE visa fraud alert: Indian embassy warns nationals against agencies promising jobs, residency",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-visa-fraud-alert-indian-embassy-warns-nationals-against-agencies-promising-jobs-residency/articleshow/134991888.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T10:43:50+00:00"
-  },
-  {
    "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
    "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
    "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
@@ -58,28 +138,12 @@
    "published": "2026-10-16T10:37:47+00:00"
   },
   {
-   "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-   "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
-   "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-16T10:36:50+00:00"
-  },
-  {
-   "title": "Japan issued a 9.9 magnitude earthquake alert, but ground didn't shake: What happened",
-   "summary": "An \"alert\" indicating a massive magnitude-9.9 earthquake sent shockwaves of fear across Japan on Friday afternoon. Just eight minutes after its issuance, the Japan Meteorological Agency retracted the warning, which had...",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/japan-issued-alert-for-largest-recorded-9-9-magnitude-earthquake-but-ground-didnt-shake-what-happened/articleshow/134991207.cms",
+   "title": "Google co-founder Sergey Brin says AI models are helping build its own successors",
+   "summary": "Sergey Brin highlighted the remarkable acceleration of Google's AI advancements, focusing on the creation of models that learn and improve themselves. He shared insights on how these models work closely with researchers...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-co-founder-sergey-brin-says-companys-ai-is-helping-build-its-own-successors-hinting-no-slowing-down-of-ai-development/articleshow/134991666.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-16T10:34:49+00:00"
-  },
-  {
-   "title": "Miley Cyrus foundation gives $1m toward 97 permanent homes for women in LA",
-   "summary": "Miley Cyrus' foundation has pledged $1 million towards Rosa's Place, a housing project in Los Angeles that will provide 97 permanent apartments for women and survivors of violence experiencing homelessness. The donation...",
-   "link": "https://timesofindia.indiatimes.com/world/us/miley-cyrus-foundation-gave-1-million-toward-97-permanent-homes-for-women-on-los-angeles-skid-row-the-project-will-nearly-double-the-downtown-womens-centers-housing-there-when-it-opens-in-2027/articleshow/134989978.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T10:34:37+00:00"
+   "published": "2026-10-16T10:37:16+00:00"
   },
   {
    "title": "Tennessee man turns backyard pool into 500,000-gallon water playground",
@@ -98,19 +162,11 @@
    "published": "2026-10-16T10:28:56+00:00"
   },
   {
-   "title": "'Don't try to bulldoze delimitation bill': Kharge tells PM Modi to hold all-party meet",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/dont-try-to-bulldoze-another-constitutional-amendment-bill-kharge-writes-to-pm-modi/articleshow/134990356.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T10:24:50+00:00"
-  },
-  {
    "title": "Banks expect to be hit with higher taxes in Budget",
    "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
    "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-10-16T10:16:27+00:00"
   },
   {
@@ -130,14 +186,6 @@
    "published": "2026-10-16T10:00:02+00:00"
   },
   {
-   "title": "New York pays $28.25m to protect nearly 750 acres once reserved for nuclear plant",
-   "summary": "New York has purchased nearly 750 acres surrounding the former Shoreham Nuclear Power Plant on Long Island for $28.25 million. The acquisition, the largest in the history of the state's Department of Environmental...",
-   "link": "https://timesofindia.indiatimes.com/world/us/land-once-reserved-for-new-yorks-shoreham-nuclear-plant-has-become-long-islands-largest-dec-acquisition-with-the-state-paying-28-25-million-to-permanently-protect-nearly-750-coastal-acres/articleshow/134988354.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T10:00:00+00:00"
-  },
-  {
    "title": "Mother of Henry Nowak's killer could be released early",
    "summary": "Kiran Kaur, 53, was found guilty of assisting an offender and was jailed for three years in July.",
    "link": "https://www.bbc.co.uk/news/articles/cqze4l9l2eywo?at_medium=RSS&at_campaign=rss",
@@ -146,12 +194,12 @@
    "published": "2026-10-16T09:40:37+00:00"
   },
   {
-   "title": "Community 'heartbroken and horrified' after Oregon school shooting",
-   "summary": "A 16-year-old killed three children and a teacher at a primary school in Oregon before he was killed by a bystander, police say.",
-   "link": "https://www.bbc.co.uk/news/videos/cjy56wl6l90ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-16T09:24:19+00:00"
+   "title": "Texas woman turned homemade soda into Poppi; PepsiCo later bought it for $1.95bn",
+   "summary": "Allison Ellsworth began making homemade soda in her Texas kitchen to address her digestive concerns before selling it at farmers’ markets. After appearing on Shark Tank and building Poppi through social media, her...",
+   "link": "https://timesofindia.indiatimes.com/world/us/allison-ellsworth-began-mixing-a-homemade-soda-in-her-texas-kitchen-then-took-it-from-farmers-markets-to-shark-tank-10-years-later-pepsico-acquired-poppi-in-a-1-95-billion-deal/articleshow/134986284.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T09:25:00+00:00"
   },
   {
    "title": "'Jagga Jasoos': Congress mocks Rajnath Singh over opposition demanding regime change",
@@ -160,14 +208,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-16T09:20:13+00:00"
-  },
-  {
-   "title": "India's 'cockroach' protesters set to return despite police crackdown",
-   "summary": "The youth-led movement plans a fresh Delhi protest after mass detentions last week and the jailing of two leaders.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-10-16T09:18:51+00:00"
   },
   {
    "title": "Remembering Oscar-winning actor Eva Marie Saint",
@@ -210,6 +250,14 @@
    "published": "2026-10-16T08:58:56+00:00"
   },
   {
+   "title": "Public health nurse talks about the moment she learned to ask for help",
+   "summary": "For StoryCorps, a public health nurse in Minnesota speaks with her college mentor about a moment when she almost gave up on her career aspirations.",
+   "link": "https://www.npr.org/2026/10/16/nx-s1-5998634/public-health-nurse-talks-about-the-moment-she-learned-to-ask-for-help",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-16T08:48:52+00:00"
+  },
+  {
    "title": "'She’s in power because of me': Rekha Arya’s husband releases video, calls her 'corrupt'",
    "summary": "Rekha Arya, a cabinet minister in Uttarakhand, has filed a police complaint against her husband Girdhari Lal Sahu. She accused him of physical assault, harassment, and making death threats towards her. In response, Sahu...",
    "link": "https://timesofindia.indiatimes.com/city/dehradun/you-are-in-power-because-of-me-minister-rekha-aryas-husband-releases-video-calls-her-corrupt/articleshow/134988340.cms",
@@ -218,28 +266,12 @@
    "published": "2026-10-16T08:47:02+00:00"
   },
   {
-   "title": "‘I was terrified’: Chahal on being hung from balcony by ‘heavily drunk’ cricketer",
-   "summary": "Yuzvendra Chahal shared a chilling memory from his IPL journey that involved an Australian cricketer back in 2013. During a Royal Challengers Bengaluru party, he found himself dangerously suspended over a hotel balcony...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-was-terrified-yuzvendra-chahal-opens-up-on-being-hung-from-hotel-balcony-by-heavily-drunk-cricketer/articleshow/134988381.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T08:45:39+00:00"
-  },
-  {
    "title": "Doctor regrets not going to police earlier about Lucy Letby",
    "summary": "Dr Stephen Brearey was the lead neonatal consultant at the hospital where the nurse worked.",
    "link": "https://www.bbc.co.uk/news/articles/cwg7x1prldedo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-16T08:28:22+00:00"
-  },
-  {
-   "title": "Court tells US to process Green Card applications for up to 55k people",
-   "summary": "A federal judge has ordered the reopening of the diversity visa lottery for 2027, allowing 55,000 applicants. The ruling came after a lawsuit filed against Secretary of State Marco Rubio regarding the lottery's...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/court-to-us-government-allow-up-to-55000-people-from-around-the-world-to-apply-for-green-card-approve-and-process-by-these-dates/articleshow/134986925.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T07:55:58+00:00"
   },
   {
    "title": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
@@ -256,14 +288,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-16T06:27:30+00:00"
-  },
-  {
-   "title": "Brewers sweep the Dodgers to reach the World Series for the first time since 1982",
-   "summary": "Propelled by a lockdown bullpen and repeated comebacks, the Brewers swept the two-time defending champion LA Dodgers out of the playoffs Thursday in Game 4 of the National League Championship Series.",
-   "link": "https://www.npr.org/2026/10/16/nx-s1-6004787/brewers-sweep-dodgers-mlb",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-16T06:12:04+00:00"
   },
   {
    "title": "Snapchat and Instagram grooming becoming 'easier'",
@@ -328,22 +352,6 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-15T21:41:19+00:00"
-  },
-  {
-   "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
-   "summary": "As part of her new podcast and newsletter Your Turn with Allison Aubrey, NPR's Allison Aubrey went in search of tools to help navigate midlife — starting with this survey to rank one's character strengths.",
-   "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-15T20:50:53+00:00"
-  },
-  {
-   "title": "Suspicious mailings to election officials, congressional offices under investigation",
-   "summary": "The FBI and U.S. Postal Inspection Service are looking into the mailings, some of which included an unidentified powdery white substance.",
-   "link": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-15T19:54:15+00:00"
   },
   {
    "title": "Fish gasp for oxygen in ‘cleanest’ Yamuna stretch, greens raise a stink",
@@ -509,8 +517,8 @@
    "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
    "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
    "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-10-14T15:54:04+00:00"
   },
   {
@@ -666,14 +674,6 @@
    "published": "2026-10-12T15:03:42+00:00"
   },
   {
-   "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
-   "summary": "Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation.",
-   "link": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-10-12T08:35:16+00:00"
-  },
-  {
    "title": "AI is less regulated than milk, says Microsoft president",
    "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
    "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
@@ -800,14 +800,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-06T23:07:44+00:00"
-  },
-  {
-   "title": "Tech Life",
-   "summary": "What is a supercomputer for? How does it work? And who gets to use it? We explain all",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-06T19:30:00+00:00"
   }
  ]
 }
