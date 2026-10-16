@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-16T10:30:08.616162+00:00",
+ "updated": "2026-10-16T11:02:11.028907+00:00",
  "stories": [
+  {
+   "title": "Action needed to save water, minister urges",
+   "summary": "Severe drought was declared across parts of southern England after months of low rainfall.",
+   "link": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-16T11:00:22+00:00"
+  },
+  {
+   "title": "What this bankruptcy says about AI startups",
+   "summary": "Character.AI collected millions of users, making it a very appealing acquisition. Google took a unique route to \"acquiring\" it, hiring away its founders and licensing its technology. Now Character.AI is filing for...",
+   "link": "https://www.npr.org/sections/planet-money/2026/10/16/nx-s1-6001828/what-this-bankruptcy-says-about-ai-startups",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-16T11:00:00+00:00"
+  },
+  {
+   "title": "Norwegian teen 'hitman' detained for UK murder plot",
+   "summary": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-16T10:57:45+00:00"
+  },
+  {
+   "title": "Police officer who raped two women jailed for 12 years",
+   "summary": "Campbell Petrie was found guilty of physical and sexual abuse towards the women between 2006 and 2023.",
+   "link": "https://www.bbc.co.uk/news/articles/cqkg53v29005o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-16T10:54:24+00:00"
+  },
+  {
+   "title": "'Things got excessive after divorce': Yuzvendra Chahal opens up on alcohol addiction",
+   "summary": "Yuzvendra Chahal revealed his struggles with alcohol following his divorce and the importance of rehabilitation. He checked into a rehab centre for 26 days to regain control over his life. Chahal emphasized that he...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/things-got-excessive-after-my-divorce-yuzvendra-chahal-opens-up-on-alcohol-addiction/articleshow/134991851.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T10:45:01+00:00"
+  },
+  {
+   "title": "UAE visa fraud alert: Indian embassy warns nationals against agencies promising jobs, residency",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-visa-fraud-alert-indian-embassy-warns-nationals-against-agencies-promising-jobs-residency/articleshow/134991888.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T10:43:50+00:00"
+  },
+  {
+   "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+   "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-16T10:37:47+00:00"
+  },
+  {
+   "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+   "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
+   "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-16T10:36:50+00:00"
+  },
+  {
+   "title": "Japan issued a 9.9 magnitude earthquake alert, but ground didn't shake: What happened",
+   "summary": "An \"alert\" indicating a massive magnitude-9.9 earthquake sent shockwaves of fear across Japan on Friday afternoon. Just eight minutes after its issuance, the Japan Meteorological Agency retracted the warning, which had...",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/japan-issued-alert-for-largest-recorded-9-9-magnitude-earthquake-but-ground-didnt-shake-what-happened/articleshow/134991207.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T10:34:49+00:00"
+  },
+  {
+   "title": "Miley Cyrus foundation gives $1m toward 97 permanent homes for women in LA",
+   "summary": "Miley Cyrus' foundation has pledged $1 million towards Rosa's Place, a housing project in Los Angeles that will provide 97 permanent apartments for women and survivors of violence experiencing homelessness. The donation...",
+   "link": "https://timesofindia.indiatimes.com/world/us/miley-cyrus-foundation-gave-1-million-toward-97-permanent-homes-for-women-on-los-angeles-skid-row-the-project-will-nearly-double-the-downtown-womens-centers-housing-there-when-it-opens-in-2027/articleshow/134989978.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T10:34:37+00:00"
+  },
+  {
+   "title": "Tennessee man turns backyard pool into 500,000-gallon water playground",
+   "summary": "In Covington, Tennessee, Micky Thornton transformed a childhood aspiration into reality by building a vast backyard pool. Initially a family retreat, this impressive space evolved into a gathering hub, hosting...",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-1993-micky-thornton-began-digging-a-backyard-pool-in-covington-tennessee-nearly-three-decades-later-it-had-grown-into-a-500000-gallon-water-playground-using-40000-pounds-of-rebar-and-320-yards-of-gunite/articleshow/134990327.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T10:30:00+00:00"
+  },
   {
    "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
    "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
@@ -10,20 +98,20 @@
    "published": "2026-10-16T10:28:56+00:00"
   },
   {
+   "title": "'Don't try to bulldoze delimitation bill': Kharge tells PM Modi to hold all-party meet",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/dont-try-to-bulldoze-another-constitutional-amendment-bill-kharge-writes-to-pm-modi/articleshow/134990356.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-16T10:24:50+00:00"
+  },
+  {
    "title": "Banks expect to be hit with higher taxes in Budget",
    "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
    "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-16T10:16:27+00:00"
-  },
-  {
-   "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-   "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
-   "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-16T10:14:32+00:00"
   },
   {
    "title": "Museum releases historical photos of island where Amelia Earhart may have crashed",
@@ -42,20 +130,12 @@
    "published": "2026-10-16T10:00:02+00:00"
   },
   {
-   "title": "Dharmendra Pradhan attacks Rahul Gandhi over regime change remark",
-   "summary": "Dharmendra Pradhan criticized Rahul Gandhi for allegedly exploiting student protests to undermine India's democratic structure. He claimed these actions indicated a desire to create instability comparable to the...",
-   "link": "https://timesofindia.indiatimes.com/india/true-character-of-protests-exposed-dharmendra-pradhan-attacks-rahul-gandhi-over-regime-change-remark/articleshow/134990382.cms",
+   "title": "New York pays $28.25m to protect nearly 750 acres once reserved for nuclear plant",
+   "summary": "New York has purchased nearly 750 acres surrounding the former Shoreham Nuclear Power Plant on Long Island for $28.25 million. The acquisition, the largest in the history of the state's Department of Environmental...",
+   "link": "https://timesofindia.indiatimes.com/world/us/land-once-reserved-for-new-yorks-shoreham-nuclear-plant-has-become-long-islands-largest-dec-acquisition-with-the-state-paying-28-25-million-to-permanently-protect-nearly-750-coastal-acres/articleshow/134988354.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-16T09:56:35+00:00"
-  },
-  {
-   "title": "Police officer who raped two women jailed for 12 years",
-   "summary": "Campbell Petrie was found guilty of physical and sexual abuse towards the women between 2006 and 2023.",
-   "link": "https://www.bbc.co.uk/news/articles/cqkg53v29005o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-16T09:50:43+00:00"
+   "published": "2026-10-16T10:00:00+00:00"
   },
   {
    "title": "Mother of Henry Nowak's killer could be released early",
@@ -64,22 +144,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-16T09:40:37+00:00"
-  },
-  {
-   "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-   "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
-   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-16T09:34:30+00:00"
-  },
-  {
-   "title": "Texas woman turned homemade soda into Poppi; PepsiCo later bought it for $1.95bn",
-   "summary": "Allison Ellsworth began making homemade soda in her Texas kitchen to address her digestive concerns before selling it at farmers’ markets. After appearing on Shark Tank and building Poppi through social media, her...",
-   "link": "https://timesofindia.indiatimes.com/world/us/allison-ellsworth-began-mixing-a-homemade-soda-in-her-texas-kitchen-then-took-it-from-farmers-markets-to-shark-tank-10-years-later-pepsico-acquired-poppi-in-a-1-95-billion-deal/articleshow/134986284.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T09:25:00+00:00"
   },
   {
    "title": "Community 'heartbroken and horrified' after Oregon school shooting",
@@ -104,14 +168,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-16T09:18:51+00:00"
-  },
-  {
-   "title": "Spotting drones before it's too late: US Army eyes wearable detection tech",
-   "summary": "The US Army is currently examining innovative wearable tech that provides soldiers with real-time alerts about incoming hostile drones during engagements. This compact sensor leverages unique acoustic signatures for...",
-   "link": "https://timesofindia.indiatimes.com/defence/international/spotting-drones-before-its-too-late-us-army-develops-plan-for-wearable-tech-to-detect-hostile-drones/articleshow/134989159.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T09:14:14+00:00"
   },
   {
    "title": "Remembering Oscar-winning actor Eva Marie Saint",
@@ -154,30 +210,6 @@
    "published": "2026-10-16T08:58:56+00:00"
   },
   {
-   "title": "Bhuvneshwar Kumar added to India squad after Arshdeep Singh suffers shoulder injury",
-   "summary": "India has added veteran pacer Bhuvneshwar Kumar to their lineup for the upcoming T20I match. This decision follows an injury sustained by Arshdeep Singh during the fourth match of the series. The final T20I will be held...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/bhuvneshwar-kumar-added-to-india-squad-after-arshdeep-singh-suffers-shoulder-injury/articleshow/134988545.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T08:56:38+00:00"
-  },
-  {
-   "title": "Tesla's 'flying car' Roadster stuns in demo: How high can it fly & what will it cost?",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/teslas-flying-car-roadster-stuns-in-demo-how-high-can-it-fly-and-what-will-it-cost/articleshow/134987217.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T08:50:36+00:00"
-  },
-  {
-   "title": "'Orchestrated at Elon Musk's behest': Brij Bhushan on CJP's Tiranga march",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/entire-movement-orchestrated-at-elon-musks-behest-brij-bhushan-singh-on-cjps-tiranga-march/articleshow/134988283.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T08:49:34+00:00"
-  },
-  {
    "title": "'She’s in power because of me': Rekha Arya’s husband releases video, calls her 'corrupt'",
    "summary": "Rekha Arya, a cabinet minister in Uttarakhand, has filed a police complaint against her husband Girdhari Lal Sahu. She accused him of physical assault, harassment, and making death threats towards her. In response, Sahu...",
    "link": "https://timesofindia.indiatimes.com/city/dehradun/you-are-in-power-because-of-me-minister-rekha-aryas-husband-releases-video-calls-her-corrupt/articleshow/134988340.cms",
@@ -208,14 +240,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-16T07:55:58+00:00"
-  },
-  {
-   "title": "‘Not in keeping with expected standards’: J&K CM takes note of IAS ‘abusing’ colleague",
-   "summary": "Omar Abdullah has raised concerns regarding the misconduct of IAS officer Kumar Rajeev Ranjan towards junior JKAS officer Beenish Wani. A video surfaced showing Ranjan's abusive behavior during an online meeting, which...",
-   "link": "https://timesofindia.indiatimes.com/city/srinagar/ive-taken-this-up-in-strongest-terms-omar-abdullah-on-ias-officers-viral-video-assures-no-retributive-action-on-woman-jkas-officer/articleshow/134985193.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-16T07:05:10+00:00"
   },
   {
    "title": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
@@ -253,8 +277,8 @@
    "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
    "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-10-16T05:00:17+00:00"
   },
   {
@@ -269,8 +293,8 @@
    "title": "Porn showing choking or incest to be banned from early November, government says",
    "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
    "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-10-15T23:27:57+00:00"
   },
   {
@@ -320,14 +344,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-15T19:54:15+00:00"
-  },
-  {
-   "title": "U.S. historic preservation law faces the most serious threat in its 60-year history",
-   "summary": "Congress and a federal agency are threatening to weaken the country's historic preservation law, fueling a backlash that critics say is as fiery as the one that led to the law's creation 60 years ago.",
-   "link": "https://www.npr.org/2026/10/15/nx-s1-6001504/section-106-historic-preservation-act-threats-anniversary",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-15T18:38:05+00:00"
   },
   {
    "title": "Fish gasp for oxygen in ‘cleanest’ Yamuna stretch, greens raise a stink",
@@ -520,14 +536,6 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-14T13:00:00+00:00"
-  },
-  {
-   "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-   "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-   "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-14T11:04:12+00:00"
   },
   {
    "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
@@ -800,14 +808,6 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-06T19:30:00+00:00"
-  },
-  {
-   "title": "Tech Life",
-   "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-09-29T19:30:00+00:00"
   }
  ]
 }
