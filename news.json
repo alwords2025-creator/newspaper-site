@@ -1,13 +1,53 @@
 {
- "updated": "2026-10-18T07:53:54.681918+00:00",
+ "updated": "2026-10-18T08:17:31.606263+00:00",
  "stories": [
   {
-   "title": "Police officer injured in city centre shooting",
+   "title": "The playground murder: Trauma, loss and a love that endured",
+   "summary": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
+   "link": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-18T08:11:45+00:00"
+  },
+  {
+   "title": "Several dead or injured in major fire at Canada military base",
+   "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+   "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-18T08:05:49+00:00"
+  },
+  {
+   "title": "Police officer in hospital after being shot in Nottingham",
    "summary": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
    "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-18T07:46:52+00:00"
+   "published": "2026-10-18T08:00:26+00:00"
+  },
+  {
+   "title": "Major fire breaks out in Alberta after deadly incident at military base",
+   "summary": "Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire.",
+   "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-18T07:56:08+00:00"
+  },
+  {
+   "title": "FPIs hit the sell button again: Rs 3.12 lakh crore exits Indian equities in 2026",
+   "summary": "In October, foreign investors pulled out Rs 52,100 crore from Indian equity markets, contributing to overall outflows this year. Escalating crude oil prices and elevated US bond yields have swayed this selling behavior....",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/fpis-hit-the-sell-button-again-rs-3-12-lakh-crore-exits-indian-equities-in-2026/articleshow/135025596.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-18T07:53:07+00:00"
+  },
+  {
+   "title": "Driver, owner arrested after speeding truck rams devotees near Gwalior temple; 15 killed",
+   "summary": "In a heartbreaking incident, 15 pilgrims lost their lives and 26 were injured when a truck crashed into them near Sheetla Mata Temple in Gwalior at 1:30 am. The police have arrested the driver and the truck owner,...",
+   "link": "https://timesofindia.indiatimes.com/city/bhopal/driver-owner-arrested-after-speeding-truck-rams-devotees-near-gwalior-temple-15-killed/articleshow/135025582.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-18T07:35:08+00:00"
   },
   {
    "title": "Marilyn Monroe-linked Palm Springs home sells for $2.8m",
@@ -18,22 +58,6 @@
    "published": "2026-10-18T07:31:44+00:00"
   },
   {
-   "title": "Market recap: Top-10 firms add Rs 3.65 lakh crore in mcap; TCS leads the gains",
-   "summary": "This past week witnessed a remarkable surge in the stock market, with India's top-10 firms enjoying a collective increase of Rs 3.65 lakh crore. TCS emerged as the star performer, enhancing its market capitalisation by...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/market-recap-top-10-firms-add-rs-3-65-lakh-crore-in-mcap-tcs-leads-the-gains/articleshow/135025500.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-18T07:25:29+00:00"
-  },
-  {
-   "title": "Can hackers get into your fridge? Your smart home may be less safe than you think",
-   "summary": "As the prevalence of internet-connected devices grows, so do the vulnerabilities they present to consumers. Everyday items like refrigerators, surveillance cameras, and smart cars are at risk of cyber intrusion. Hackers...",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/can-hackers-get-into-your-fridge-your-smart-home-may-be-less-safe-than-you-think/articleshow/135025299.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-18T07:14:53+00:00"
-  },
-  {
    "title": "‘RR are at the top of the list’: Ashwin makes big revelation on Hardik Pandya trade",
    "summary": "With the IPL season looming, the chatter about Hardik Pandya's future at Mumbai Indians is heating up. Renowned former cricketer Ravichandran Ashwin suggested that a move to Chennai Super Kings could be advantageous for...",
    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/rr-are-at-the-top-of-the-list-ashwin-makes-big-revelation-on-hardik-pandya-trade/articleshow/135025373.cms",
@@ -42,12 +66,12 @@
    "published": "2026-10-18T07:11:45+00:00"
   },
   {
-   "title": "Several dead or injured in major fire at Canada military base",
-   "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-   "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-18T07:09:23+00:00"
+   "title": "Watch: ‘Anti-India Ravana’ posters put up in Lucknow with Rahul, Musk among faces",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/anti-india-ravana-posters-put-up-in-lucknow-with-rahul-gandhi-elon-musk-among-faces-watch/articleshow/135024972.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-18T07:08:41+00:00"
   },
   {
    "title": "NHS faces more challenging winter than normal, health secretary warns",
@@ -56,14 +80,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-18T07:05:37+00:00"
-  },
-  {
-   "title": "'Don't stand on roof, balconies': India urges nationals in Saudi amid Houthi strikes",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/dont-stand-on-roof-balconies-india-urges-nationals-in-saudi-amid-houthi-strikes/articleshow/135025053.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-18T07:01:25+00:00"
   },
   {
    "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
@@ -104,14 +120,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-18T05:04:31+00:00"
-  },
-  {
-   "title": "How Indian couples are spending crores to have a baby boy",
-   "summary": "Affluent Indian couples are increasingly opting for foreign IVF and surrogacy packages to ensure the birth of male children. Destinations such as the UAE, US, and Colombia offer advanced gender selection technologies, a...",
-   "link": "https://timesofindia.indiatimes.com/city/hyderabad/baby-boy-hunt-takes-indians-to-foreign-shores/articleshow/135023380.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-18T04:42:16+00:00"
   },
   {
    "title": "What is CXMT's 'Chinese chip bomb' that has wiped billions off the US stock market",
@@ -170,14 +178,6 @@
    "published": "2026-10-17T23:07:57+00:00"
   },
   {
-   "title": "The playground murder: Trauma, loss and a love that endured",
-   "summary": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
-   "link": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-17T23:04:50+00:00"
-  },
-  {
    "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
    "summary": "NPR's Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon.",
    "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
@@ -202,20 +202,20 @@
    "published": "2026-10-17T22:09:50+00:00"
   },
   {
+   "title": "Gurgaon road rage: SUV rams car, driver 'grabs' woman by neck and pulls her T-shirt",
+   "summary": "A courageous woman in Gurgaon confronted an SUV driver after he crashed into her car, injuring her and her family. The encounter turned violent when the reportedly intoxicated driver attacked her, leading to bystanders...",
+   "link": "https://timesofindia.indiatimes.com/city/gurgaon/scorpio-rams-car-in-gurgaon-its-driver-grabs-woman-by-neck-pulls-her-t-shirt/articleshow/135020245.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-17T20:38:53+00:00"
+  },
+  {
    "title": "No further action against government adviser's wife over Palestine Action post, police say",
    "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
    "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-17T20:24:32+00:00"
-  },
-  {
-   "title": "CJP protest: Police file FIR against 300 for anti-Hindutva slogans",
-   "summary": "Goa police registered an FIR against 300 unidentified protesters involved in a Cockroach Janata Party protest. The protesters allegedly raised slogans that hurt Hindu sentiments, promoting religious disharmony. Chief...",
-   "link": "https://timesofindia.indiatimes.com/city/goa/cjp-protest-police-file-fir-against-300-for-anti-hindutva-slogans/articleshow/135019965.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-17T19:39:32+00:00"
   },
   {
    "title": "At least 17 dead in crush at Hindu festival event in India",
@@ -240,6 +240,14 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-17T15:57:40+00:00"
+  },
+  {
+   "title": "Indians to benefit as Canada moves to award points for job offers",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/nri/us-canada-news/canada-to-award-extra-express-entry-points-under-new-high-wage-rules-indian-professionals-could-benefit/articleshow/135010465.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-17T15:30:00+00:00"
   },
   {
    "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
@@ -301,14 +309,6 @@
    "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
    "summary": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street.",
    "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-17T09:00:00+00:00"
-  },
-  {
-   "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
-   "summary": "President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans.",
-   "link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-17T09:00:00+00:00"
