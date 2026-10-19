@@ -1,12 +1,36 @@
 {
- "updated": "2026-10-18T23:46:39.628607+00:00",
+ "updated": "2026-10-19T00:20:46.850972+00:00",
  "stories": [
+  {
+   "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+   "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+   "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-19T00:06:25+00:00"
+  },
+  {
+   "title": "Phone on speaker in train? You may be fined, jailed",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/phone-on-speaker-in-train-you-may-be-fined-jailed/articleshow/135037007.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-18T23:54:30+00:00"
+  },
+  {
+   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+   "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire...",
+   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-18T23:53:13+00:00"
+  },
   {
    "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
    "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
    "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC News",
+   "category": "Top",
    "published": "2026-10-18T23:28:45+00:00"
   },
   {
@@ -66,14 +90,6 @@
    "published": "2026-10-18T22:40:00+00:00"
   },
   {
-   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-   "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire...",
-   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-18T22:26:15+00:00"
-  },
-  {
    "title": "North Carolina school becomes 53 senior apartments; former student moves back",
    "summary": "Cassandra Henderson has returned to her old school, now transformed into Dillard School Senior Apartments. After sitting empty for twenty years, this historic building has emerged as a vital haven for seniors, featuring...",
    "link": "https://timesofindia.indiatimes.com/world/us/in-1968-cassandra-henderson-graduated-from-a-north-carolina-school-nearly-60-years-later-she-moved-back-into-the-same-building-after-it-was-restored-from-20-years-of-vacancy-into-53-senior-apartments/articleshow/135014464.cms",
@@ -82,28 +98,12 @@
    "published": "2026-10-18T22:26:00+00:00"
   },
   {
-   "title": "'Like a war movie': 4 killed, 19 critical after fire at Canada military base",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/like-a-war-movie-4-killed-19-critical-after-fire-at-canada-military-base/articleshow/135036349.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-18T22:24:09+00:00"
-  },
-  {
    "title": "'Those who destroyed must pay': Macron's warning to France rioters; 2,400 arrested",
    "summary": "",
    "link": "https://timesofindia.indiatimes.com/world/europe/those-who-destroyed-must-pay-macrons-warning-to-france-rioters-2400-arrested/articleshow/135036819.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-18T22:22:41+00:00"
-  },
-  {
-   "title": "What we know so far about deadly fire at Canadian military base",
-   "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-   "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-18T21:37:56+00:00"
   },
   {
    "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
@@ -232,14 +232,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-18T12:55:01+00:00"
-  },
-  {
-   "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-   "summary": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-18T12:09:04+00:00"
   },
   {
    "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
@@ -512,6 +504,14 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-16T05:12:48+00:00"
+  },
+  {
+   "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+   "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+   "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-16T05:00:17+00:00"
   },
   {
    "title": "Porn showing choking or incest to be banned from early November, government says",
