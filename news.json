@@ -1,13 +1,37 @@
 {
- "updated": "2026-10-19T20:31:35.162042+00:00",
+ "updated": "2026-10-19T21:20:15.891355+00:00",
  "stories": [
+  {
+   "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+   "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+   "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-19T21:14:53+00:00"
+  },
+  {
+   "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+   "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-19T21:12:30+00:00"
+  },
   {
    "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
    "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
    "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-19T20:13:27+00:00"
+   "published": "2026-10-19T20:49:00+00:00"
+  },
+  {
+   "title": "25 Florida students turn 9-year-old girl's wheelchair into Halloween throne",
+   "summary": "Nine-year-old Kaelyn Goodman from Florida wanted to dress as a princess angel for Halloween but worried about how her wheelchair would fit into the costume. Twenty-five eighth-grade students at her school stepped in,...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-9-year-old-florida-girl-worried-her-wheelchair-would-get-in-the-way-of-her-halloween-dream-25-eighth-grade-stem-students-turned-it-into-an-angel-throne-with-wings-lights-and-her-favourite-colours/articleshow/135045262.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-19T20:26:00+00:00"
   },
   {
    "title": "'State-sponsored terrorism': Mamata demands release of CJP's Das, Ranka",
@@ -16,14 +40,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-19T20:06:14+00:00"
-  },
-  {
-   "title": "Bigg Boss 20: Rohit Shetty to host Weekend Ka Vaar in Salman Khan's absence",
-   "summary": "Salman Khan has announced that he will skip hosting the upcoming Weekend Ka Vaar episode of Bigg Boss 20 due to prior engagements. Rohit Shetty will step in to host, a familiar role as he’s taken over from Salman in...",
-   "link": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-rohit-shetty-to-host-weekend-ka-vaar-in-salman-khans-absence-fans-demand-action-against-mahhi-vij/articleshow/135055901.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-19T20:00:20+00:00"
   },
   {
    "title": "Watch: Japan launches historic mission to explore Mars’ moons and bring back samples",
@@ -50,14 +66,6 @@
    "published": "2026-10-19T19:24:25+00:00"
   },
   {
-   "title": "Emilia Clarke's charity helps over 1,200 brain injury survivors in 7 years",
-   "summary": "In 2019, Emilia Clarke established SameYou, a charity dedicated to enhancing rehabilitation options for brain injury survivors. With over £3.8 million raised, the initiative has positively impacted more than 1,200...",
-   "link": "https://timesofindia.indiatimes.com/world/uk/after-surviving-two-life-threatening-brain-haemorrhages-emilia-clarke-founded-sameyou-in-2019-seven-years-later-it-has-raised-over-3-8-million-and-helped-more-than-1200-survivors-access-online-rehabilitation/articleshow/135046839.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-19T19:23:00+00:00"
-  },
-  {
    "title": "400-plus Indian-origin scholars, alumni from 27 countries warn against ‘anarchy’",
    "summary": "",
    "link": "https://timesofindia.indiatimes.com/india/400-plus-indian-origin-scholars-alumni-from-27-countries-warn-against-anarchy/articleshow/135055030.cms",
@@ -77,8 +85,8 @@
    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
    "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
    "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-10-19T18:21:54+00:00"
   },
   {
@@ -122,14 +130,6 @@
    "published": "2026-10-19T16:26:20+00:00"
   },
   {
-   "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-   "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
-   "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-19T16:22:12+00:00"
-  },
-  {
    "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
    "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutorsA Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of...",
    "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
@@ -152,6 +152,14 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-19T15:43:57+00:00"
+  },
+  {
+   "title": "Ohio couple spent $30,000 on friend's home; court revives eviction bid",
+   "summary": "An Ohio couple who moved into a friend's house in 2020 and spent $30,000 renovating its kitchen have lost their claim to purchase the property for $215,000. On Wednesday, an appeals court ruled that the renovations did...",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2020-an-ohio-couple-moved-into-a-friends-home-and-spent-30000-on-its-kitchen-six-years-later-an-appeals-court-rejected-their-215000-purchase-claim-and-revived-the-owners-eviction-bid/articleshow/135044725.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-19T15:32:16+00:00"
   },
   {
    "title": "Drone attack near market kills 80 in Sudan",
@@ -378,20 +386,20 @@
    "published": "2026-10-19T06:08:02+00:00"
   },
   {
+   "title": "Tiger Shroff shooting: The Salman connection & a trail of threats linked to Bishnoi",
+   "summary": "The firing at Tiger Shroff’s car in Mumbai has brought the Lawrence Bishnoi gang’s alleged threats against Bollywood personalities back into focus. A purported claim of responsibility linked the attack to Shroff’s...",
+   "link": "https://timesofindia.indiatimes.com/india/tiger-shroff-shooting-the-salman-khan-connection-and-a-trail-of-threats-linked-to-lawrence-bishnoi/articleshow/135040995.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-19T06:04:09+00:00"
+  },
+  {
    "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
    "summary": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
    "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-19T05:35:39+00:00"
-  },
-  {
-   "title": "The portraits that helped bring the lost Aberfan children home",
-   "summary": "An artist living hundreds of miles away felt compelled to help the village that lost its children.",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5y832v8ddo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-19T05:28:02+00:00"
   },
   {
    "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
@@ -442,14 +450,6 @@
    "published": "2026-10-18T23:24:59+00:00"
   },
   {
-   "title": "London woman loses 48cm boundary fight over neighbour’s kitchen extension",
-   "summary": "In a surprising turn of events, a homeowner in Surbiton, London, lost a legal dispute concerning a narrow 48-centimetre strip of land. It was determined that the neighbours' kitchen extension had effectively claimed...",
-   "link": "https://timesofindia.indiatimes.com/world/uk/london-woman-bought-a-600000-semi-detached-home-in-2021-a-year-later-she-challenged-her-neighbours-kitchen-for-crossing-the-boundary-by-48cm-but-a-tribunal-has-now-ruled-the-tiny-strip-belongs-to-them/articleshow/135015367.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-18T18:20:00+00:00"
-  },
-  {
    "title": "Microsoft pulls out of UK's largest AI data centre",
    "summary": "Tech firm Nscale says it is still committed to building the site in Essex.",
    "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
@@ -488,14 +488,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-18T04:00:49+00:00"
-  },
-  {
-   "title": "There's a crackdown on sports piracy - but is it already out of control?",
-   "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-18T00:11:09+00:00"
   },
   {
    "title": "No further action against government adviser's wife over Palestine Action post, police say",
@@ -808,6 +800,14 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-09-29T19:30:00+00:00"
+  },
+  {
+   "title": "Tech Life",
+   "summary": "China is competing with the United States and other nations to develop AI.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-09-22T20:00:00+00:00"
   }
  ]
 }
