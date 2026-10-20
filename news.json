@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-20T08:03:12.471626+00:00",
+ "updated": "2026-10-20T09:03:29.965265+00:00",
  "stories": [
+  {
+   "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+   "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+   "source": "NPR Technology",
+   "category": "Technology",
+   "published": "2026-10-20T09:00:00+00:00"
+  },
+  {
+   "title": "Three children injured after school bus crashes into railway bridge",
+   "summary": "Gwent Police received a report of a school bus crash on Tregare Street, Newport, on Tuesday morning.",
+   "link": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T08:59:12+00:00"
+  },
+  {
+   "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+   "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
+   "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T08:55:02+00:00"
+  },
+  {
+   "title": "Morning news brief",
+   "summary": "Trump presses to find an end to the war in Ukraine while courting Russia, campaigning reaches fever pitch with Election Day two weeks away, DOJ charges 28 people in California with voting crimes.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-20T08:50:27+00:00"
+  },
+  {
+   "title": "Job vacancies fall as small firms cut back on recruitment",
+   "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+   "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-20T08:49:49+00:00"
+  },
+  {
+   "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+   "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+   "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T08:46:00+00:00"
+  },
+  {
+   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+   "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+   "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T08:44:56+00:00"
+  },
+  {
+   "title": "‘Release Epstein files’: Man heckles Vance at rally, VP calls him ‘illegal immigrant’",
+   "summary": "During a Republican rally in Hendersonville, North Carolina, Vice-President JD Vance was interrupted by a protester calling for the release of the Epstein files. Security quickly intervened, but Vance humorously...",
+   "link": "https://timesofindia.indiatimes.com/world/us/release-epstein-files-protester-heckles-vance-at-rally-vice-prez-calls-him-an-illegal-immigrant/articleshow/135065221.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T08:38:12+00:00"
+  },
+  {
+   "title": "Why has Shafali Verma been reprimanded by ICC after India's win over Zimbabwe?",
+   "summary": "India vice-captain Shafali Verma has received an official reprimand for throwing the ball to the ground in frustration after dropping a catch during the second T20I against Zimbabwe. The incident took place during...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/why-has-shafali-verma-been-reprimanded-by-the-icc-after-indias-win-over-zimbabwe/articleshow/135064527.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T08:30:41+00:00"
+  },
+  {
+   "title": "US court revives Nashville developer's suit over 4-year permit freeze",
+   "summary": "A federal appeals court has reinstated the lawsuit of SW Nashville EB Owner, LLC against the city of Nashville regarding a stalled building permit. The developer faced an indefinite delay on their application,...",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2022-a-nashville-developer-bought-a-vacant-lot-but-the-city-held-its-building-permit-for-four-years-while-weighing-a-future-road-a-federal-appeals-court-has-now-revived-its-lawsuit-over-the-freeze/articleshow/135063840.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T08:30:00+00:00"
+  },
+  {
+   "title": "Rhode Island waterfront social club lists for $9.75m after $1.2m price cut",
+   "summary": "The Reading Room, an iconic establishment in Narragansett, has hit the market, presenting a unique opportunity for discerning buyers. This beautifully restored five-bedroom residence retains its historic charm after...",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/iconic-1880s-rhode-island-waterfront-social-club-is-being-offered-for-the-first-time-in-50-years-after-a-1-2-million-price-cut-the-historic-five-bedroom-property-now-asks-9-75-million/articleshow/135063908.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T08:27:05+00:00"
+  },
+  {
+   "title": "Kentucky sinks 1,700 discarded Christmas trees in lake to shelter fish",
+   "summary": "Kentucky collected around 5,000 discarded Christmas trees in 2026 to restore underwater habitats in its ageing lakes. As part of the state's 'Christmas for the Fishes' programme, approximately 1,700 trees were submerged...",
+   "link": "https://timesofindia.indiatimes.com/science/wildlife/kentucky-collected-about-5000-discarded-christmas-trees-in-2026-instead-of-sending-them-to-landfills-officials-sank-1700-in-a-single-lake-to-replace-lost-underwater-shelter-for-fish/articleshow/135063031.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T08:15:00+00:00"
+  },
   {
    "title": "‘We’ve got our plans’: New Zealand plot to stop Sooryavanshi ahead of India T20Is",
    "summary": "As New Zealand gear up to face India in the upcoming T20I series, focus shifts to young batter Vaibhav Sooryavanshi. Jacob Duffy acknowledges Sooryavanshi's impressive hitting skills exhibited during the IPL. The series...",
@@ -8,30 +104,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-20T07:45:39+00:00"
-  },
-  {
-   "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-   "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
-   "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T07:44:52+00:00"
-  },
-  {
-   "title": "India-New Zealand FTA kicks in: Zero duty, more opportunities - what's in it for India?",
-   "summary": "The India-New Zealand Free Trade Agreement is now officially active, opening up exciting trade avenues for Indian businesses and exporters. With this agreement in place, Indian products gain duty-free access to the New...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/india-new-zealand-fta-kicks-in-zero-duty-more-opportunities-whats-in-it-for-india/articleshow/135064049.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T07:44:34+00:00"
-  },
-  {
-   "title": "Job vacancies fall as small firms cut back on recruitment",
-   "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-   "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T07:44:14+00:00"
   },
   {
    "title": "Criminals detained in hospital set to lose benefits",
@@ -50,62 +122,6 @@
    "published": "2026-10-20T07:29:01+00:00"
   },
   {
-   "title": "UK villagers knit police officers after 11 crashes; motorists hit the brakes",
-   "summary": "Villagers in Fillongley, England, spent four months knitting life-sized traffic officers, fake speed cameras and roadside figures after 11 accidents were recorded at a junction over four years. Installed on October 13,...",
-   "link": "https://timesofindia.indiatimes.com/world/uk/after-11-road-accidents-in-four-years-villagers-in-england-spent-four-months-knitting-life-sized-police-officers-and-fake-speed-cameras-their-handmade-decoys-are-now-making-some-drivers-hit-the-brakes/articleshow/135062416.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T07:00:00+00:00"
-  },
-  {
-   "title": "400-year-old Mughal portrait sold for £571,500, nearly 5 times estimate",
-   "summary": "A remarkable Mughal-era album page depicting a courtier has fetched an impressive £571,500 at a London auction. Attributed to the talented artist Manohar, and enhanced by calligraphy from Abdullah al-Husayni around...",
-   "link": "https://timesofindia.indiatimes.com/life-style/the-arts/in-1608-09-a-mughal-calligrapher-signed-the-reverse-of-a-courtiers-portrait-after-entering-a-british-barons-collection-by-1937-the-album-page-sold-in-london-for-571500-in-2026-nearly-five-times-its-top-estimate/articleshow/135063132.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T06:59:43+00:00"
-  },
-  {
-   "title": "‘No double standards on terrorism’: Rajnath’s warning at SCO meet with Pakistan present",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/no-double-standards-on-terrorism-rajnath-singhs-stern-warning-at-sco-meet-with-pakistan-at-the-table/articleshow/135063137.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T06:59:42+00:00"
-  },
-  {
-   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-   "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-   "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T06:50:52+00:00"
-  },
-  {
-   "title": "Prime Video added ads to paid plan, demanded Rs 699 extra; court orders payout",
-   "summary": "In a landmark decision, the Telangana consumer commission has mandated that Amazon refund Rs 1,499 for incorporating advertisements into its Prime Video service. The commission determined that this change breached the...",
-   "link": "https://timesofindia.indiatimes.com/legal/news/amazon-prime-video-introduced-ads-despite-paid-subscription-asked-rs-699-extra-for-ad-free-viewing-court-orders-payout/articleshow/135063044.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T06:49:39+00:00"
-  },
-  {
-   "title": "Nepal bans Priyagold biscuit after FSSAI finds serious hygiene deficiencies",
-   "summary": "In a significant move, Nepal's Food Technology and Quality Control Department has officially banned Priyagold biscuits produced by Surya Food and Agro Ltd. This action follows alarming food safety concerns raised by the...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/nepal-bans-priyagold-biscuit-after-fssai-finds-serious-hygiene-deficiencies/articleshow/135062783.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T06:41:14+00:00"
-  },
-  {
-   "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
-   "summary": "Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.",
-   "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T06:35:57+00:00"
-  },
-  {
    "title": "Colorado judge rejects utility's $19,000 bid for 550-foot farm easement",
    "summary": "A contentious legal battle has arisen between Xcel Energy and the Dickey family regarding land essential for renewable energy initiatives. Xcel is contesting a recent ruling that restricts its eminent domain authority...",
    "link": "https://timesofindia.indiatimes.com/world/us/in-2022-a-fourth-generation-colorado-farming-family-sold-90-acres-to-xcel-energy-for-585000-four-years-later-the-utility-sought-a-550-foot-easement-for-19000-but-a-judge-rejected-its-condemnation-bid/articleshow/135042353.cms",
@@ -122,28 +138,20 @@
    "published": "2026-10-20T06:28:10+00:00"
   },
   {
-   "title": "'Values that inspired Capt Smit': RSS chief hails flydubai pilot",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/values-that-inspired-captain-smit-machchharrss-chief-mohan-bhagwat-cites-flydubai-pilot-in-vijayadashami-speech/articleshow/135062684.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T06:21:30+00:00"
-  },
-  {
-   "title": "'Vote Chori Ki Raasleela’: Youth Congress burns Ravan effigy with Gyanesh's face",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/vote-chori-ki-raasleela-youth-congress-burns-ravan-effigy-with-gyaneshs-face-watch/articleshow/135062429.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T06:12:04+00:00"
-  },
-  {
    "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
    "summary": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity.",
    "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-20T06:02:40+00:00"
+  },
+  {
+   "title": "How the attack on an Australian MP unfolded",
+   "summary": "BBC's Katy Watson is in Wangaratta visiting the scene of the incident and the church where the community has held a vigil for the independent MP.",
+   "link": "https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T06:02:05+00:00"
   },
   {
    "title": "Alberta voters reject plan for referendum to leave Canada, CBC projects",
@@ -178,20 +186,36 @@
    "published": "2026-10-20T05:00:14+00:00"
   },
   {
-   "title": "US church on frontline of battle against drug known as 'tranq'",
+   "title": "Trump approval rating hits record low of 31% as midterms near",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-approval-hits-record-low-of-31-as-midterms-near-democrats-lead-by-12-points/articleshow/135060566.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T03:29:58+00:00"
+  },
+  {
+   "title": "For 12 yrs, they went to temples praying for a son. Then, lost 2 at one in Gwalior",
+   "summary": "A speeding truck lost control and struck devotees near Gwalior's Sheetla Mata Temple, leading to a tragic accident. The crash resulted in the deaths of fifteen individuals, including two sons and their uncle. Vidyaram...",
+   "link": "https://timesofindia.indiatimes.com/city/bhopal/for-12-years-they-went-from-temple-to-temple-praying-for-a-son-then-lost-2-at-one-in-gwalior/articleshow/135059765.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T02:11:56+00:00"
+  },
+  {
+   "title": "9 heads, 300 years of worship: Ravana gets police protection in this MP town",
+   "summary": "In Madhya Pradesh's Satna district, a 300-year-old Ravana idol is preserved inside the Kothi police station. Local priest Ramesh Mishra continues a family tradition of worshiping this nine-headed idol on Dussehra....",
+   "link": "https://timesofindia.indiatimes.com/city/bhopal/9-heads-300-years-of-worship-ravana-gets-police-protection-in-this-mp-town-not-a-pyre/articleshow/135059466.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T01:47:20+00:00"
+  },
+  {
+   "title": "US church on front line of battle against drug known as 'tranq'",
    "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
    "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-20T00:02:32+00:00"
-  },
-  {
-   "title": "I have a condition people are too embarrassed to talk about",
-   "summary": "Women share their experience of lichen sclerosus.",
-   "link": "https://www.bbc.co.uk/news/articles/c9vgr43l7pdpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-19T23:11:13+00:00"
   },
   {
    "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
@@ -250,8 +274,8 @@
    "published": "2026-10-19T21:56:37+00:00"
   },
   {
-   "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-   "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+   "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+   "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
    "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
@@ -282,16 +306,8 @@
    "published": "2026-10-19T20:00:43+00:00"
   },
   {
-   "title": "After ditching Didi, Yusuf Pathan gets a gift from Gujarat govt",
-   "summary": "The state government approved the allotment of a disputed 978 sqm plot in Vadodara to Yusuf Pathan. The allotment includes 500 sqm for residential use and 478 sqm at a reduced rate. This decision follows a long-standing...",
-   "link": "https://timesofindia.indiatimes.com/city/vadodara/disputed-plot-now-govt-togift-yusuf-pathan-500sqm/articleshow/135055710.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-19T19:18:12+00:00"
-  },
-  {
-   "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-   "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+   "title": "US bans China's DeepSeek from government in race for AI dominance",
+   "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
    "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
@@ -304,6 +320,14 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-19T16:46:35+00:00"
+  },
+  {
+   "title": "'You’re not even able to speak': Minister scolds ‘drunk’ Daler Mehndi on stage",
+   "summary": "Daler Mehndi's performance at the Kunjapuri Fair in Narendra Nagar was criticized due to his apparent intoxication. Minister Subodh Uniyal confronted Mehndi on stage, expressing disappointment over his inability to sing...",
+   "link": "https://timesofindia.indiatimes.com/city/dehradun/youre-not-even-able-to-speak-how-will-you-sing-ukhand-min-scolds-daler-mehndi-on-stage-for-drunken-performance/articleshow/135052106.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-19T16:11:23+00:00"
   },
   {
    "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
@@ -418,14 +442,6 @@
    "published": "2026-10-19T09:08:34+00:00"
   },
   {
-   "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-   "summary": "A large underwater wave moved up the West Coast, raising sea levels. Scientists say it's driven by El Niño and it's going to happen again.",
-   "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-19T09:00:00+00:00"
-  },
-  {
    "title": "The real reason it's going to take a while to know who won in some midterm races",
    "summary": "Hint: It's not only because California counts slowly.",
    "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
@@ -434,12 +450,12 @@
    "published": "2026-10-19T09:00:00+00:00"
   },
   {
-   "title": "Morning news brief",
-   "summary": "Ukraine and Russia exchange strikes as relations between U.S. and Ukraine deteriorate, the midterms are on track to be the most expensive on record, French president denounces violent protests.",
-   "link": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
+   "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+   "summary": "A large underwater wave moved up the West Coast, raising sea levels. Scientists say it's driven by El Niño and it's going to happen again.",
+   "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
    "source": "NPR",
    "category": "Top",
-   "published": "2026-10-19T08:46:44+00:00"
+   "published": "2026-10-19T09:00:00+00:00"
   },
   {
    "title": "AI models are changing how forecasters predict the paths of hurricanes",
@@ -480,14 +496,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-18T23:53:13+00:00"
-  },
-  {
-   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-   "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
-   "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-18T23:28:45+00:00"
   },
   {
    "title": "Don't fall for this - how to protect yourself from AI scams",
@@ -634,14 +642,6 @@
    "published": "2026-10-15T16:45:02+00:00"
   },
   {
-   "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-   "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
-   "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-15T14:25:48+00:00"
-  },
-  {
    "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
    "summary": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
    "link": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
@@ -746,12 +746,12 @@
    "published": "2026-10-10T11:40:46+00:00"
   },
   {
-   "title": "Kalshi taps former FBI agent to fight against money laundering",
-   "summary": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
-   "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
-   "source": "NPR Technology",
+   "title": "Tech Now",
+   "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
    "category": "Technology",
-   "published": "2026-10-09T22:23:11+00:00"
+   "published": "2026-10-10T01:00:00+00:00"
   },
   {
    "title": "Meet India's feisty Gen Z protester who is taking on Modi",
