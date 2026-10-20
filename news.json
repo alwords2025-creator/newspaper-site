@@ -1,13 +1,29 @@
 {
- "updated": "2026-10-20T21:59:05.114490+00:00",
+ "updated": "2026-10-20T22:28:04.079885+00:00",
  "stories": [
   {
    "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
-   "summary": "Musk says a mega merger would have many benefits to his companies.",
+   "summary": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
    "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-20T21:50:41+00:00"
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T22:06:48+00:00"
+  },
+  {
+   "title": "Hacker group claims access to 3.8 lakh SBI data entries",
+   "summary": "The claim was highlighted by cybersecurity monitoring account CyberPulse56 in a post on social media platform X. According to the account, the group purportedly possesses about 3.8 lakh data entries in CSV format and...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/hacker-group-claims-access-to-3-8-lakh-sbi-data-entries/articleshow/135076898.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T21:52:56+00:00"
+  },
+  {
+   "title": "Smartphone shipments slip, Chinese brands lose ground",
+   "summary": "Vivo’s shipments dropped 34% to 6.4 million — the sharpest decline among the top five. Repeated price increases disrupted retailers’ inventory planning, while limited supplies of entry-level phones weakened its...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/smartphone-shipments-slip-chinese-brands-lose-ground/articleshow/135076901.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T21:47:32+00:00"
   },
   {
    "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
@@ -42,14 +58,6 @@
    "published": "2026-10-20T21:10:38+00:00"
   },
   {
-   "title": "India & US to boost defence, energy ties, Marco Rubio says trade deal close",
-   "summary": "Rubio’s second visit to India comes against the backdrop of the US’s Sanctioning Russia and Iran Act, which is intended to penalise countries purchasing Russian oil, and Trump’s subsequent temporary suspension of...",
-   "link": "https://timesofindia.indiatimes.com/india/india-united-states-to-boost-defence-energy-ties-marco-rubio-says-trade-deal-close/articleshow/135076521.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T20:57:36+00:00"
-  },
-  {
    "title": "Audit regulator looking into Manchester City accounting",
    "summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
    "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
@@ -72,14 +80,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-20T20:49:50+00:00"
-  },
-  {
-   "title": "India, US ‘perfectly aligned’ on key issues: Rubio; defends ties with Pakistan",
-   "summary": "Addressing a gathering of India Inc’s leading business figures, Rubio said the relationship between the two countries could help shape the future of the global economy, particularly as advances in artificial...",
-   "link": "https://timesofindia.indiatimes.com/india/india-us-perfectly-aligned-on-key-issues-marco-rubio-defends-ties-with-pakistan/articleshow/135076530.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T20:45:39+00:00"
   },
   {
    "title": "In talks with Reliance to refine more Venezuelan oil: Marco Rubio",
@@ -106,7 +106,7 @@
    "published": "2026-10-20T20:19:16+00:00"
   },
   {
-   "title": "'Russia is a big machine': Trump says Ukraine 'has to want' to settle war with Putin",
+   "title": "'Russia a big machine': Trump says Ukraine 'has to want' to settle war with Putin",
    "summary": "US president Trump pointed to Russia's ability to sustain its military campaign and capture territory, portraying Moscow as having the upper hand in the conflict. \"Russia is a big machine - they just keep grinding...",
    "link": "https://timesofindia.indiatimes.com/world/europe/russia-is-a-big-machine-trump-says-ukraine-has-to-want-to-settle-war-with-putin/articleshow/135076395.cms",
    "source": "Times of India",
@@ -250,14 +250,6 @@
    "published": "2026-10-20T14:50:19+00:00"
   },
   {
-   "title": "Student who stabbed housemate 30 times admits murder",
-   "summary": "Jamie Collins is described as a \"sensitive and caring young man\" after his killer admits murder.",
-   "link": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T14:35:14+00:00"
-  },
-  {
    "title": "Florida couple missed 66 mortgage payments; man's bank lawsuit rejected",
    "summary": "A Florida couple missed 66 monthly mortgage payments on their Naples property, triggering a foreclosure dispute that began in 2009. During the legal battle, Gregory Brian Myers agreed to deposit $5,000 monthly while...",
    "link": "https://timesofindia.indiatimes.com/world/us/a-florida-couple-missed-66-mortgage-payments-on-their-naples-property-the-husband-later-agreed-to-deposit-5000-monthly-during-an-appeal-but-an-october-19-federal-ruling-rejected-his-lawsuit-against-the-bank/articleshow/135068652.cms",
@@ -346,14 +338,6 @@
    "published": "2026-10-20T09:01:48+00:00"
   },
   {
-   "title": "Can the new federal voucher program help public schools? Democrats are torn",
-   "summary": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.",
-   "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-20T09:00:00+00:00"
-  },
-  {
    "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
    "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
    "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
@@ -365,6 +349,14 @@
    "title": "Why these 5 everyday items fluctuate in price at the grocery store",
    "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
    "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-20T09:00:00+00:00"
+  },
+  {
+   "title": "Can the new federal voucher program help public schools? Democrats are torn",
+   "summary": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-20T09:00:00+00:00"
@@ -461,8 +453,8 @@
    "title": "US bans China's DeepSeek from government in race for AI dominance",
    "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
    "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-10-19T18:21:54+00:00"
   },
   {
@@ -712,6 +704,14 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-14T13:00:00+00:00"
+  },
+  {
+   "title": "Tech Life",
+   "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-13T19:45:00+00:00"
   },
   {
    "title": "Boardroom feud tests trusted Indian business empire",
