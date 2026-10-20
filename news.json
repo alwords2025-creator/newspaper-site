@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-20T19:10:04.284805+00:00",
+ "updated": "2026-10-20T19:57:08.710165+00:00",
  "stories": [
+  {
+   "title": "Tech Life",
+   "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-20T19:45:00+00:00"
+  },
+  {
+   "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+   "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+   "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-20T19:42:32+00:00"
+  },
+  {
+   "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+   "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+   "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T19:38:11+00:00"
+  },
+  {
+   "title": "Trump sued over Canadian tariffs in latest legal challenge",
+   "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+   "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-20T19:30:05+00:00"
+  },
+  {
+   "title": "Florida county rejects 126-home deal on 51 acres, weighs buying land",
+   "summary": "In a unanimous decision, Sarasota County officials have turned down a settlement allowing residential development next to the Celery Fields. Instead, they are considering acquiring the 51-acre contested land for...",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/a-florida-developer-floated-864-apartments-near-sarasotas-celery-fields-then-offered-a-126-home-settlement-on-the-same-51-acres-county-commissioners-rejected-the-deal-and-voted-to-explore-buying-the-land-instead/articleshow/135061485.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T19:25:00+00:00"
+  },
+  {
+   "title": "California swimmer completes 900-mile coastal swim in stages over 111 days",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-33-year-old-california-swimmer-spent-111-days-covering-900-miles-of-coastline-in-stages-battling-seven-foot-waves-and-polluted-water-catherine-breed-has-now-completed-her-journey-from-oregon-to-mexico/articleshow/135071628.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T19:20:00+00:00"
+  },
+  {
+   "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+   "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newbornsControversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and...",
+   "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-20T19:18:03+00:00"
+  },
   {
    "title": "Schools should recognise antisemitism as distinct form of harm, review says",
    "summary": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell.",
@@ -10,20 +66,12 @@
    "published": "2026-10-20T18:52:32+00:00"
   },
   {
-   "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+   "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
    "summary": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
    "link": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-20T18:32:14+00:00"
-  },
-  {
-   "title": "Harry Warner's Beverly Hills mansion listed for nearly $40m, sold for $27.25m",
-   "summary": "A legendary mansion in Beverly Hills, originally built for Harry Warner, has changed hands for $27.25 million after an extended listing. Initially priced at nearly $40 million in 2016, the estate received extensive...",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/a-beverly-hills-mansion-once-owned-by-warner-bros-co-founder-harry-warner-was-restored-with-its-old-hollywood-details-intact-first-listed-for-nearly-40-million-in-2016-it-finally-sold-for-27-25-million/articleshow/135062004.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T18:24:00+00:00"
   },
   {
    "title": "Google resolves cloud outage affecting UK banks and websites",
@@ -53,8 +101,8 @@
    "title": "UK government to make Jackdaw gas field announcement",
    "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
    "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC News",
+   "category": "Top",
    "published": "2026-10-20T17:33:42+00:00"
   },
   {
@@ -72,14 +120,6 @@
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-20T16:45:35+00:00"
-  },
-  {
-   "title": "Teenagers tell BBC of their hopes and fears as they prepare to start work",
-   "summary": "Follow four students from Newcastle as they try out roles for the first time as part of their work experience placements.",
-   "link": "https://www.bbc.co.uk/news/videos/cm93z0w7weeno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T16:28:43+00:00"
   },
   {
    "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
@@ -200,14 +240,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-20T14:35:14+00:00"
-  },
-  {
-   "title": "Huge setback for Alberta's separatist movement after decisive defeat",
-   "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
-   "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T13:39:11+00:00"
   },
   {
    "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
@@ -346,14 +378,6 @@
    "published": "2026-10-20T08:31:36+00:00"
   },
   {
-   "title": "Kentucky sinks 1,700 discarded Christmas trees in lake to shelter fish",
-   "summary": "Kentucky collected around 5,000 discarded Christmas trees in 2026 to restore underwater habitats in its ageing lakes. As part of the state's 'Christmas for the Fishes' programme, approximately 1,700 trees were submerged...",
-   "link": "https://timesofindia.indiatimes.com/science/wildlife/kentucky-collected-about-5000-discarded-christmas-trees-in-2026-instead-of-sending-them-to-landfills-officials-sank-1700-in-a-single-lake-to-replace-lost-underwater-shelter-for-fish/articleshow/135063031.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T08:15:00+00:00"
-  },
-  {
    "title": "Rays will face Brewers in World Series to produce a first-time champion",
    "summary": "The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980.",
    "link": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
@@ -421,8 +445,8 @@
    "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
    "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
    "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-10-19T21:12:30+00:00"
   },
   {
@@ -546,14 +570,6 @@
    "published": "2026-10-18T16:30:00+00:00"
   },
   {
-   "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
-   "summary": "Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowdsFor the 2015 freshmen cohort of the history degree programme at the University of Lagos, their...",
-   "link": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-18T09:00:55+00:00"
-  },
-  {
    "title": "No further action against government adviser's wife over Palestine Action post, police say",
    "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
    "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
@@ -632,14 +648,6 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-16T05:12:48+00:00"
-  },
-  {
-   "title": "Porn showing choking or incest to be banned from early November, government says",
-   "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
-   "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-15T23:27:57+00:00"
   },
   {
    "title": "To train robots, AI companies are paying people in India to film themselves doing chores",
@@ -760,14 +768,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-06T23:07:44+00:00"
-  },
-  {
-   "title": "Tech Life",
-   "summary": "What is a supercomputer for? How does it work? And who gets to use it? We explain all",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-06T19:30:00+00:00"
   }
  ]
 }
