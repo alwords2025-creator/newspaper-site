@@ -1,21 +1,93 @@
 {
- "updated": "2026-10-20T09:03:29.965265+00:00",
+ "updated": "2026-10-20T09:59:32.669692+00:00",
  "stories": [
   {
-   "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-   "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
-   "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-10-20T09:00:00+00:00"
-  },
-  {
-   "title": "Three children injured after school bus crashes into railway bridge",
+   "title": "Three children injured after school bus roof ripped off in crash",
    "summary": "Gwent Police received a report of a school bus crash on Tregare Street, Newport, on Tuesday morning.",
    "link": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-20T08:59:12+00:00"
+   "published": "2026-10-20T09:44:27+00:00"
+  },
+  {
+   "title": "Watch: In a first, Ukraine drone 'evacuates' wounded soldier from frontline",
+   "summary": "In a remarkable innovation, Ukraine leveraged a heavy-lift hexacopter drone to successfully evacuate a wounded soldier from a perilous frontline area. This operation, executed in alliance with Gurzuf Defence, involved...",
+   "link": "https://timesofindia.indiatimes.com/defence/international/worlds-first-ukraine-claims-heavy-lift-drone-rescued-wounded-soldier-from-frontline/articleshow/135066696.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T09:35:00+00:00"
+  },
+  {
+   "title": "Trump’s remark on Melania’s signature draws awkward laughter at White House",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/dont-know-if-it-means-anything-trumps-quip-about-melanias-sign-sparks-awkward-white-house-moment/articleshow/135066624.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T09:33:04+00:00"
+  },
+  {
+   "title": "Jobless rate falls but small firms cut back hiring",
+   "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+   "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-20T09:31:29+00:00"
+  },
+  {
+   "title": "Rubio lands in India; Jaishankar talks, Jamnagar trip on agenda",
+   "summary": "US secretary of state Marco Rubio commenced his three-day visit to India on Tuesday, landing in Mumbai to engage in meaningful discussions with external affairs minister S Jaishankar. The agenda focuses on fortifying...",
+   "link": "https://timesofindia.indiatimes.com/india/rubio-lands-in-mumbai-for-3-day-india-visit-jaishankar-talks-and-jamnagar-trip-on-agenda/articleshow/135066350.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T09:25:41+00:00"
+  },
+  {
+   "title": "Kharge to raise SIR, delimitation concerns with PM Modi tomorrow",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/will-explain-everything-to-him-kharge-to-raise-sir-delimitation-concerns-with-pm-modi-tomorrow/articleshow/135066484.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T09:23:12+00:00"
+  },
+  {
+   "title": "Alberta voters reject plan for referendum to leave Canada",
+   "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the...",
+   "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-20T09:02:43+00:00"
+  },
+  {
+   "title": "Jensen Huang and his wife donated $75 million to Vanderbilt",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-and-his-wife-donated-75-million-to-vanderbilt-the-gift-helped-push-funding-for-its-planned-san-francisco-campus-past-100-million/articleshow/135065870.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T09:01:48+00:00"
+  },
+  {
+   "title": "Can the new federal voucher program help public schools? Democrats are torn",
+   "summary": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-20T09:00:00+00:00"
+  },
+  {
+   "title": "Why are some food prices up and others down? Here are the stories of 5 items",
+   "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-20T09:00:00+00:00"
+  },
+  {
+   "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+   "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-20T09:00:00+00:00"
   },
   {
    "title": "Burnham vows end to 'rip-off parking charges' under new rules",
@@ -34,14 +106,6 @@
    "published": "2026-10-20T08:50:27+00:00"
   },
   {
-   "title": "Job vacancies fall as small firms cut back on recruitment",
-   "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-   "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-20T08:49:49+00:00"
-  },
-  {
    "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
    "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
    "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
@@ -58,20 +122,12 @@
    "published": "2026-10-20T08:44:56+00:00"
   },
   {
-   "title": "‘Release Epstein files’: Man heckles Vance at rally, VP calls him ‘illegal immigrant’",
-   "summary": "During a Republican rally in Hendersonville, North Carolina, Vice-President JD Vance was interrupted by a protester calling for the release of the Epstein files. Security quickly intervened, but Vance humorously...",
-   "link": "https://timesofindia.indiatimes.com/world/us/release-epstein-files-protester-heckles-vance-at-rally-vice-prez-calls-him-an-illegal-immigrant/articleshow/135065221.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T08:38:12+00:00"
-  },
-  {
-   "title": "Why has Shafali Verma been reprimanded by ICC after India's win over Zimbabwe?",
-   "summary": "India vice-captain Shafali Verma has received an official reprimand for throwing the ball to the ground in frustration after dropping a catch during the second T20I against Zimbabwe. The incident took place during...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/why-has-shafali-verma-been-reprimanded-by-the-icc-after-indias-win-over-zimbabwe/articleshow/135064527.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T08:30:41+00:00"
+   "title": "What is the Budget and what could be in it?",
+   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-20T08:31:36+00:00"
   },
   {
    "title": "US court revives Nashville developer's suit over 4-year permit freeze",
@@ -98,14 +154,6 @@
    "published": "2026-10-20T08:15:00+00:00"
   },
   {
-   "title": "‘We’ve got our plans’: New Zealand plot to stop Sooryavanshi ahead of India T20Is",
-   "summary": "As New Zealand gear up to face India in the upcoming T20I series, focus shifts to young batter Vaibhav Sooryavanshi. Jacob Duffy acknowledges Sooryavanshi's impressive hitting skills exhibited during the IPL. The series...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/weve-got-our-plans-new-zealand-plot-to-stop-vaibhav-sooryavanshi-ahead-of-india-t20is/articleshow/135064286.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T07:45:39+00:00"
-  },
-  {
    "title": "Criminals detained in hospital set to lose benefits",
    "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
    "link": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
@@ -120,14 +168,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-20T07:29:01+00:00"
-  },
-  {
-   "title": "Colorado judge rejects utility's $19,000 bid for 550-foot farm easement",
-   "summary": "A contentious legal battle has arisen between Xcel Energy and the Dickey family regarding land essential for renewable energy initiatives. Xcel is contesting a recent ruling that restricts its eminent domain authority...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2022-a-fourth-generation-colorado-farming-family-sold-90-acres-to-xcel-energy-for-585000-four-years-later-the-utility-sought-a-550-foot-easement-for-19000-but-a-judge-rejected-its-condemnation-bid/articleshow/135042353.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T06:35:52+00:00"
   },
   {
    "title": "Rays will face Brewers in World Series to produce a first-time champion",
@@ -152,22 +192,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-20T06:02:05+00:00"
-  },
-  {
-   "title": "Alberta voters reject plan for referendum to leave Canada, CBC projects",
-   "summary": "Projection delivers a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process toward independence, the national...",
-   "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-20T05:50:03+00:00"
-  },
-  {
-   "title": "US govt bans American tech firm from Green Card programme for 2 yrs; fines $1.4 mn",
-   "summary": "Cloudera, a data management company, has been banned from the Permanent Labor Certification program for two years. This decision follows allegations of discrimination against qualified U.S. workers during its...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-bans-american-technology-company-from-green-card-programme-for-two-years-fines-1-4-million-doj-says-violated-immigration-and-nationality-act-by-/articleshow/135061789.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T05:06:56+00:00"
   },
   {
    "title": "How is the US economy really doing under President Trump?",
@@ -202,12 +226,12 @@
    "published": "2026-10-20T02:11:56+00:00"
   },
   {
-   "title": "9 heads, 300 years of worship: Ravana gets police protection in this MP town",
-   "summary": "In Madhya Pradesh's Satna district, a 300-year-old Ravana idol is preserved inside the Kothi police station. Local priest Ramesh Mishra continues a family tradition of worshiping this nine-headed idol on Dussehra....",
-   "link": "https://timesofindia.indiatimes.com/city/bhopal/9-heads-300-years-of-worship-ravana-gets-police-protection-in-this-mp-town-not-a-pyre/articleshow/135059466.cms",
+   "title": "Tata Trusts row: Noel's voting rights, son Neville's appointment under scrutiny",
+   "summary": "Sir Dorabji Tata Trust responded to governance complaints regarding trustee appointments, specifically mentioning Noel Tata. The complaints, filed by trustees Venu Srinivasan and Vijay Singh, claimed exclusion from key...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/tata-trusts-row-sir-dorabji-tata-trust-files-response-to-commissioner/articleshow/135059462.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-20T01:47:20+00:00"
+   "published": "2026-10-20T01:44:42+00:00"
   },
   {
    "title": "US church on front line of battle against drug known as 'tranq'",
@@ -272,6 +296,14 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-19T21:56:37+00:00"
+  },
+  {
+   "title": "Between the coasts, populist Democrats see room to reclaim lost ground in red states",
+   "summary": "In parts of the Great Plains and Midwest, Democrats are betting that harnessing anger at corporate power and both parties might succeed when voters believe the economy and government are not working.",
+   "link": "https://www.npr.org/2026/10/19/nx-s1-5985862/democrats-prairie-populism-montana-sam-forstag",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-19T21:14:26+00:00"
   },
   {
    "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
@@ -386,36 +418,12 @@
    "published": "2026-10-19T12:16:32+00:00"
   },
   {
-   "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-   "summary": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
-   "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-19T11:38:43+00:00"
-  },
-  {
-   "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-   "summary": "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country.",
-   "link": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-19T11:15:43+00:00"
-  },
-  {
    "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
    "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in GreeceIn contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with...",
    "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-19T10:07:09+00:00"
-  },
-  {
-   "title": "People playing loud music on buses could face £100 fine",
-   "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
-   "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-19T09:49:58+00:00"
   },
   {
    "title": "Musk and Anthropic pledge public share giveaways",
@@ -440,22 +448,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-19T09:08:34+00:00"
-  },
-  {
-   "title": "The real reason it's going to take a while to know who won in some midterm races",
-   "summary": "Hint: It's not only because California counts slowly.",
-   "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-19T09:00:00+00:00"
-  },
-  {
-   "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-   "summary": "A large underwater wave moved up the West Coast, raising sea levels. Scientists say it's driven by El Niño and it's going to happen again.",
-   "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-19T09:00:00+00:00"
   },
   {
    "title": "AI models are changing how forecasters predict the paths of hurricanes",
@@ -688,22 +680,6 @@
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-10-14T09:00:00+00:00"
-  },
-  {
-   "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
-   "summary": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U.S.",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-10-14T09:00:00+00:00"
-  },
-  {
-   "title": "CNN, MS NOW and Politico prevail against White House — for now",
-   "summary": "A federal judge ruled late Tuesday that President Trump cannot ban news organizations from covering him at the White House because he does not like the nature of their coverage - at least, not until the matter goes to a...",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-10-14T07:16:02+00:00"
   },
   {
    "title": "Tech Life",
