@@ -1,24 +1,80 @@
 {
- "updated": "2026-10-20T15:03:58.424567+00:00",
+ "updated": "2026-10-20T16:01:36.637075+00:00",
  "stories": [
-  {
-   "title": "Google says services recovering after cloud outage hits UK banks and websites",
-   "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-   "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-20T15:03:30+00:00"
-  },
   {
    "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
    "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
    "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
-   "published": "2026-10-20T14:53:02+00:00"
+   "published": "2026-10-20T15:53:13+00:00"
   },
   {
-   "title": "Union attacks NatWest plans to reduce working from home",
+   "title": "Harry says he wants to 'reconcile' with his family",
+   "summary": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
+   "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T15:49:54+00:00"
+  },
+  {
+   "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+   "summary": "Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his...",
+   "link": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-20T15:41:44+00:00"
+  },
+  {
+   "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+   "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+   "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T15:39:04+00:00"
+  },
+  {
+   "title": "'Enough drama': Prince Harry says he wants to reconcile with family after years of rift",
+   "summary": "Prince Harry recently opened up about the need for reconciliation with his family, sharing his personal experiences that resonate with many who struggle with familial conflicts. He conveyed his aspirations for nurturing...",
+   "link": "https://timesofindia.indiatimes.com/world/uk/enough-drama-in-the-world-prince-harry-says-he-wants-to-reconcile-with-family-after-years-of-rift/articleshow/135072445.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T15:38:39+00:00"
+  },
+  {
+   "title": "Google says services recovering after cloud outage hits UK banks and websites",
+   "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+   "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-20T15:37:26+00:00"
+  },
+  {
+   "title": "'Youth on streets are revolutionaries': Uddhav Thackeray calls for 'regime change'",
+   "summary": "During the vibrant Dussehra rally at Shivaji Park in Mumbai, Uddhav Thackeray rallied his supporters, highlighting the significance of youth activism in addressing the alleged electoral irregularities impacting the...",
+   "link": "https://timesofindia.indiatimes.com/india/youth-on-streets-are-revolutionaries-uddhav-thackeray-calls-for-regime-change/articleshow/135072727.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T15:35:20+00:00"
+  },
+  {
+   "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+   "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T15:32:36+00:00"
+  },
+  {
+   "title": "Identify, defeat forces against India: PM Modi calls for unity, self-reliance",
+   "summary": "PM urges parties, institutions to put nation first; says national self-respect and strength key to overcoming challenges",
+   "link": "https://timesofindia.indiatimes.com/india/identify-defeat-forces-against-india-modi-calls-for-unity-self-reliance/articleshow/135072362.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T15:05:12+00:00"
+  },
+  {
+   "title": "Union attacks NatWest plans to get workers back to the office",
    "summary": "The bank says workers will be required to attend the office at least two days a week from February.",
    "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -32,6 +88,14 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-20T14:35:14+00:00"
+  },
+  {
+   "title": "Tiger Shroff wasn’t original target, shooters switched due to tight security: Cops",
+   "summary": "Mumbai Crime Branch revealed Tiger Shroff was not the shooters' intended target as they aimed for another celebrity. Due to tight security around the intended target, the shooters shifted focus to Shroff instead. The...",
+   "link": "https://timesofindia.indiatimes.com/city/mumbai/tiger-shroff-wasnt-original-target-shooters-switched-focus-due-to-tight-security-says-mumbai-crime-branch/articleshow/135071567.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T14:22:50+00:00"
   },
   {
    "title": "Memo from New Delhi: Make America India Again?",
@@ -50,14 +114,6 @@
    "published": "2026-10-20T14:16:22+00:00"
   },
   {
-   "title": "PM Modi invokes 'Ram Rajya' on Dussehra, warns against people hurting India's image",
-   "summary": "Prime Minister Narendra Modi addressed the Dussehra celebrations and highlighted the importance of public welfare. He emphasized the need for social justice and self-reliance as central to national development. Modi...",
-   "link": "https://timesofindia.indiatimes.com/india/pm-modi-invokes-ram-rajya-warns-against-people-hurting-indias-image-top-quotes-from-dussehra-event/articleshow/135071521.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T13:58:37+00:00"
-  },
-  {
    "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
    "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
    "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
@@ -66,28 +122,12 @@
    "published": "2026-10-20T13:54:35+00:00"
   },
   {
-   "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-   "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
-   "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T13:51:40+00:00"
-  },
-  {
    "title": "Woman describes alleged assault by Russell Brand as 'frenzied' and 'violent'",
    "summary": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
    "link": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-20T13:46:33+00:00"
-  },
-  {
-   "title": "Watch: UP MLA Raja Bhaiyya worships 500+ guns on Dusshera",
-   "summary": "Raja Bhaiya conducted a Shastra Puja ceremony at his Benti Palace, displaying more than 500 weapons. His twin sons participated alongside block chiefs and hundreds of supporters carrying licensed weapons. This tradition...",
-   "link": "https://timesofindia.indiatimes.com/city/allahabad/different-tusks-for-display-eating-raja-bhaiya-worships-500-plus-weapons-on-dussehra/articleshow/135071262.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T13:46:08+00:00"
   },
   {
    "title": "Huge setback for Alberta's separatist movement after decisive defeat",
@@ -106,12 +146,12 @@
    "published": "2026-10-20T13:36:17+00:00"
   },
   {
-   "title": "Annamalai backs CJP leaders, questions their continued custody",
+   "title": "Bangladesh furious as Saudi prison list omitted death sentences for 2 citizens",
    "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/doing-a-real-disservice-annamalai-backs-cjp-leaders-questions-their-continued-custody/articleshow/135070878.cms",
+   "link": "https://timesofindia.indiatimes.com/world/south-asia/names-on-saudi-prison-list-death-sentences-missing-bangladesh-furious-over-executions-of-two-citizens/articleshow/135070582.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-20T13:17:28+00:00"
+   "published": "2026-10-20T13:34:37+00:00"
   },
   {
    "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
@@ -136,14 +176,6 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-20T12:29:24+00:00"
-  },
-  {
-   "title": "Does Trump’s 60-day tariff waiver really give relief to India?",
-   "summary": "For India, the immediate relief is for its crude supply basket and exporters. If India decided to give up Russian crude oil, its single largest supplier would have gone off the table, with no easy replacement amid...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/does-trumps-60-day-tariff-waiver-really-give-relief-to-india-what-it-means-for-us-trade-deal-oil-prices/articleshow/135065802.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T12:12:00+00:00"
   },
   {
    "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
@@ -178,14 +210,6 @@
    "published": "2026-10-20T11:45:49+00:00"
   },
   {
-   "title": "Qing dynasty bowl spent 87 years in Chicago museum, then sold for $2.048m",
-   "summary": "A stunning porcelain bowl from the Qing dynasty recently fetched $2.048 million at a Christie's auction. Crafted during Emperor Yongzheng's reign, the bowl is adorned with auspicious symbols, hinting it was a birthday...",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/between-1723-and-1735-qing-artisans-made-a-porcelain-bowl-painted-with-bats-and-peaches-after-passing-through-a-paris-dealer-and-spending-87-years-at-a-chicago-museum-it-sold-for-2-048-million-in-new-york/articleshow/135068919.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T11:36:04+00:00"
-  },
-  {
    "title": "Jobless rate falls but small firms cut back hiring",
    "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
    "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
@@ -210,14 +234,6 @@
    "published": "2026-10-20T11:04:49+00:00"
   },
   {
-   "title": "BJP’s delimitation gambit: Will it isolate Cong, puncture opposition’s SIR unity?",
-   "summary": "As the government gears up for a new delimitation effort, Congress’s quest for opposition unity faces hurdles. Congress chief Mallikarjun Kharge raised alarms about the government's legislative strategies pertaining to...",
-   "link": "https://timesofindia.indiatimes.com/india/bjps-delimitation-gambit-how-it-can-isolate-congress-puncture-oppositions-sir-unity/articleshow/135063073.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T10:45:51+00:00"
-  },
-  {
    "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
    "summary": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
    "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
@@ -237,9 +253,17 @@
    "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
    "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
    "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-10-20T10:06:34+00:00"
+  },
+  {
+   "title": "Kerala man gets Rs 54,500 payout after cruise cancelled without notice",
+   "summary": "A family's dream cruise was abruptly canceled without warning, leaving them in distress. The District Consumer Disputes Redressal Commission in Kerala found both the holiday company and cruise operator at fault. Despite...",
+   "link": "https://timesofindia.indiatimes.com/legal/news/after-paying-rs-29500-for-a-family-cruise-a-kerala-sbi-manager-travelled-from-thiruvananthapuram-to-kochi-only-to-find-the-trip-cancelled-without-notice-consumer-commission-orders-rs-54500-payout-plus-interest/articleshow/135067429.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T10:05:15+00:00"
   },
   {
    "title": "Storm Austen to bring severe gales to UK as weather warning issued",
@@ -266,17 +290,17 @@
    "published": "2026-10-20T09:01:48+00:00"
   },
   {
-   "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-   "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
-   "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+   "title": "Can the new federal voucher program help public schools? Democrats are torn",
+   "summary": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-20T09:00:00+00:00"
   },
   {
-   "title": "Can the new federal voucher program help public schools? Democrats are torn",
-   "summary": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.",
-   "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+   "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+   "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-20T09:00:00+00:00"
@@ -328,14 +352,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-20T06:02:40+00:00"
-  },
-  {
-   "title": "Race, illness, injury, repeat - the devastating syndrome threatening athletic careers",
-   "summary": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
-   "link": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T05:45:34+00:00"
   },
   {
    "title": "How is the US economy really doing under President Trump?",
@@ -458,14 +474,6 @@
    "published": "2026-10-19T12:58:39+00:00"
   },
   {
-   "title": "Home sellers cut asking prices on 3,000 properties a day",
-   "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-   "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-19T12:54:03+00:00"
-  },
-  {
    "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
    "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in GreeceIn contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with...",
    "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
@@ -528,14 +536,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-19T05:00:22+00:00"
-  },
-  {
-   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-   "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire...",
-   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-18T23:53:13+00:00"
   },
   {
    "title": "Don't fall for this - how to protect yourself from AI scams",
