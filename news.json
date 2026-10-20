@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-20T17:56:54.644988+00:00",
+ "updated": "2026-10-20T18:27:52.044362+00:00",
  "stories": [
+  {
+   "title": "Google resolves cloud outage affecting UK banks and websites",
+   "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+   "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T18:03:19+00:00"
+  },
+  {
+   "title": "Tiger Shroff Firing Case: Delhi Police nab four more accused; Mumbai cops get transit remand",
+   "summary": "In a significant breakthrough, the Delhi Police Special Cell has detained four suspects—Kunal, Sumit, Radha, and Babita—as part of an ongoing probe. These individuals have been transferred to the Mumbai Police, who are...",
+   "link": "https://timesofindia.indiatimes.com/city/delhi/tiger-shroff-firing-case-delhi-police-detain-3-women-suspected-of-supplying-arms-to-shooter/articleshow/135074830.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T17:54:54+00:00"
+  },
+  {
+   "title": "Shinde calls INDIA bloc ‘ten-headed Ravana’, accuses Uddhav of ‘vote theft’",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/shinde-calls-india-bloc-ten-headed-ravana-accuses-uddhav-of-vote-theft/articleshow/135074840.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T17:52:13+00:00"
+  },
   {
    "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
    "summary": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
@@ -8,6 +32,14 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-20T17:44:00+00:00"
+  },
+  {
+   "title": "UK government to make Jackdaw gas field announcement",
+   "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+   "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-20T17:33:42+00:00"
   },
   {
    "title": "Harmanpreet Kaur’s 91 powers India to 3-0 T20I series sweep against Zimbabwe",
@@ -114,28 +146,12 @@
    "published": "2026-10-20T15:41:44+00:00"
   },
   {
-   "title": "AAP demands FIR over 30ft cockroach effigy burned alongside Ravan in Delhi",
-   "summary": "AAP Delhi president Saurabh Bharadwaj lodged a complaint against the Shri Keshav Ramlila Committee for burning a cockroach effigy. He claimed the act hurt religious sentiments and demanded the registration of an FIR...",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/religious-sentiments-hurt-aap-demands-fir-over-30ft-cockroach-effigy-burned-alongside-ravan-in-delhi/articleshow/135072737.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T15:39:28+00:00"
-  },
-  {
    "title": "'Enough drama': Prince Harry says he wants to reconcile with family after years of rift",
    "summary": "Prince Harry recently opened up about the need for reconciliation with his family, sharing his personal experiences that resonate with many who struggle with familial conflicts. He conveyed his aspirations for nurturing...",
    "link": "https://timesofindia.indiatimes.com/world/uk/enough-drama-in-the-world-prince-harry-says-he-wants-to-reconcile-with-family-after-years-of-rift/articleshow/135072445.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-20T15:38:39+00:00"
-  },
-  {
-   "title": "Google says services recovering after cloud outage hits UK banks and websites",
-   "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-   "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T15:37:26+00:00"
   },
   {
    "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
@@ -176,14 +192,6 @@
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-20T14:35:14+00:00"
-  },
-  {
-   "title": "'Where are the fans?' Warner calls out lack of fans at South Africa-Australia Tests",
-   "summary": "David Warner is voicing alarm over the dismal attendance during the ongoing Test series between South Africa and Australia. Both teams hold the top two positions in Test cricket rankings, yet crowds have been sparse....",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/where-are-the-fans-david-warner-fumes-over-sparse-crowds-in-south-africa-australia-test-series/articleshow/135071963.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T14:33:19+00:00"
   },
   {
    "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
@@ -306,17 +314,17 @@
    "published": "2026-10-20T09:00:00+00:00"
   },
   {
-   "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-   "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
-   "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+   "title": "Why these 5 everyday items fluctuate in price at the grocery store",
+   "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-20T09:00:00+00:00"
   },
   {
-   "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-   "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
-   "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+   "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+   "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
+   "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-20T09:00:00+00:00"
@@ -440,14 +448,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-19T16:08:14+00:00"
-  },
-  {
-   "title": "Bikes 'not for jousting,' says Lime after duel video",
-   "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
-   "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-19T15:44:53+00:00"
   },
   {
    "title": "Drone attack near market kills 80 in Sudan",
