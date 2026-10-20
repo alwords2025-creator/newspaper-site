@@ -1,21 +1,53 @@
 {
- "updated": "2026-10-20T14:25:22.708941+00:00",
+ "updated": "2026-10-20T15:03:58.424567+00:00",
  "stories": [
+  {
+   "title": "Google says services recovering after cloud outage hits UK banks and websites",
+   "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+   "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-20T15:03:30+00:00"
+  },
   {
    "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
    "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
    "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
-   "published": "2026-10-20T14:23:02+00:00"
+   "published": "2026-10-20T14:53:02+00:00"
+  },
+  {
+   "title": "Union attacks NatWest plans to reduce working from home",
+   "summary": "The bank says workers will be required to attend the office at least two days a week from February.",
+   "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-20T14:50:19+00:00"
   },
   {
    "title": "Student who stabbed housemate 30 times admits murder",
-   "summary": "Zack Coughlan changes his plea and admits murdering Jamie Collins near their Bristol home.",
+   "summary": "Zack Coughlan changes his plea and admits murdering Jamie Collins (pictured) near their Bristol home.",
    "link": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-20T14:20:14+00:00"
+   "published": "2026-10-20T14:35:14+00:00"
+  },
+  {
+   "title": "Memo from New Delhi: Make America India Again?",
+   "summary": "Donald Trump proposed renaming New Mexico to New America, claiming it would enhance pride among residents and change election integrity. Political representatives from New Mexico opposed the idea, emphasizing the...",
+   "link": "https://timesofindia.indiatimes.com/world/us/memo-from-new-delhi-make-america-india-again/articleshow/135071707.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T14:17:22+00:00"
+  },
+  {
+   "title": "Why India slipped in Asian Games standings despite 24 medals as China extend lead",
+   "summary": "India achieved 24 medals, achieving five golds on Day 2 of the Asian Para Games 2026. Nishad Kumar and Deepthi Jeevanji led the country with outstanding athletic performances, contributing significantly to the medal...",
+   "link": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/why-india-slipped-in-asian-para-games-standings-despite-24-medals-five-golds-as-china-extend-lead/articleshow/135071633.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T14:16:22+00:00"
   },
   {
    "title": "PM Modi invokes 'Ram Rajya' on Dussehra, warns against people hurting India's image",
@@ -34,8 +66,8 @@
    "published": "2026-10-20T13:54:35+00:00"
   },
   {
-   "title": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
-   "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
+   "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+   "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
    "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
@@ -58,28 +90,20 @@
    "published": "2026-10-20T13:46:08+00:00"
   },
   {
+   "title": "Huge setback for Alberta's separatist movement after decisive defeat",
+   "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
+   "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T13:39:11+00:00"
+  },
+  {
    "title": "Florida couple missed 66 mortgage payments; man's bank lawsuit rejected",
    "summary": "A Florida couple missed 66 monthly mortgage payments on their Naples property, triggering a foreclosure dispute that began in 2009. During the legal battle, Gregory Brian Myers agreed to deposit $5,000 monthly while...",
    "link": "https://timesofindia.indiatimes.com/world/us/a-florida-couple-missed-66-mortgage-payments-on-their-naples-property-the-husband-later-agreed-to-deposit-5000-monthly-during-an-appeal-but-an-october-19-federal-ruling-rejected-his-lawsuit-against-the-bank/articleshow/135068652.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-20T13:36:17+00:00"
-  },
-  {
-   "title": "Bangladesh furious as Saudi prison list omitted death sentences for 2 citizens",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/south-asia/names-on-saudi-prison-list-death-sentences-missing-bangladesh-furious-over-executions-of-two-citizens/articleshow/135070582.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T13:34:37+00:00"
-  },
-  {
-   "title": "Asian Para Games: India’s medal storm! 24 medals, 5 golds as Nishad, Deepthi shine",
-   "summary": "India experienced a significant medal rush during Day 2 of the Asian Para Games 2026. The country won 24 medals, including five golds, primarily in athletics. Notable athletes like Nishad Kumar and Deepthi Jeevanji...",
-   "link": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/indias-medal-storm-24-medals-five-golds-as-nishad-kumar-deepthi-jeevanji-shine-at-asian-para-games/articleshow/135071078.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-20T13:33:37+00:00"
   },
   {
    "title": "Annamalai backs CJP leaders, questions their continued custody",
@@ -114,28 +138,12 @@
    "published": "2026-10-20T12:29:24+00:00"
   },
   {
-   "title": "Key takeaways from Covid report on care homes",
-   "summary": "From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.",
-   "link": "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T12:16:38+00:00"
-  },
-  {
    "title": "Does Trump’s 60-day tariff waiver really give relief to India?",
    "summary": "For India, the immediate relief is for its crude supply basket and exporters. If India decided to give up Russian crude oil, its single largest supplier would have gone off the table, with no easy replacement amid...",
    "link": "https://timesofindia.indiatimes.com/business/india-business/does-trumps-60-day-tariff-waiver-really-give-relief-to-india-what-it-means-for-us-trade-deal-oil-prices/articleshow/135065802.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-20T12:12:00+00:00"
-  },
-  {
-   "title": "Google Cloud says 'power event' behind outage hitting UK banks and websites",
-   "summary": "It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday morning.",
-   "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-20T12:09:25+00:00"
   },
   {
    "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
@@ -274,7 +282,7 @@
    "published": "2026-10-20T09:00:00+00:00"
   },
   {
-   "title": "Why are some food prices up and others down? Here are the stories of 5 items",
+   "title": "Why these 5 everyday items fluctuate in price at the grocery store",
    "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
    "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
    "source": "NPR",
@@ -322,20 +330,20 @@
    "published": "2026-10-20T06:02:40+00:00"
   },
   {
+   "title": "Race, illness, injury, repeat - the devastating syndrome threatening athletic careers",
+   "summary": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
+   "link": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-20T05:45:34+00:00"
+  },
+  {
    "title": "How is the US economy really doing under President Trump?",
    "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
    "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-20T05:00:45+00:00"
-  },
-  {
-   "title": "US church on front line of battle against drug known as 'tranq'",
-   "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-   "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T00:02:32+00:00"
   },
   {
    "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
@@ -469,8 +477,8 @@
    "title": "Musk and Anthropic pledge public share giveaways",
    "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
    "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-10-19T09:38:25+00:00"
   },
   {
@@ -760,14 +768,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-06T23:07:44+00:00"
-  },
-  {
-   "title": "Tech Life",
-   "summary": "What is a supercomputer for? How does it work? And who gets to use it? We explain all",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-06T19:30:00+00:00"
   }
  ]
 }
