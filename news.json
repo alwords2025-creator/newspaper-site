@@ -1,65 +1,257 @@
 {
- "updated": "2026-10-21T11:06:50.545524+00:00",
+ "updated": "2026-10-21T16:01:26.228299+00:00",
  "stories": [
   {
-   "title": "Masked teenager found guilty of trying to murder 15-year-old schoolgirl",
+   "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+   "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
+   "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-21T15:58:05+00:00"
+  },
+  {
+   "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
+   "summary": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
+   "link": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-21T15:56:03+00:00"
+  },
+  {
+   "title": "Rs 50k bond, no Jantar Mantar protests: What are the conditions of CJP leaders' release?",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/rs-50k-bond-no-jantar-mantar-protest-call-what-are-the-conditions-of-cjp-leaders-release/articleshow/135095991.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-21T15:55:28+00:00"
+  },
+  {
+   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+   "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-21T15:53:32+00:00"
+  },
+  {
+   "title": "Teenage boy guilty of trying to murder girl, 15, in school",
    "summary": "The school went into lockdown and parents gathered at the gates as they waited for news about their children.",
    "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-21T11:06:24+00:00"
+   "published": "2026-10-21T15:47:51+00:00"
   },
   {
-   "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
-   "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
-   "link": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
+   "title": "Websites taken down worldwide as critical cyber-security update issued",
+   "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+   "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-21T10:55:32+00:00"
+   "published": "2026-10-21T15:47:13+00:00"
   },
   {
-   "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
-   "summary": "The former teacher has been released without any \"swap\" required, according to the president.",
-   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+   "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
+   "summary": "The Supreme Court ruled Wednesday that the Trump administration has to continue providing gender-affirming care to inmates in federal prisons as litigation on efforts to change the policy continues.",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-21T15:46:27+00:00"
+  },
+  {
+   "title": "Google experiences resignation backlash over AI military contracts",
+   "summary": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+   "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-21T10:52:00+00:00"
+   "published": "2026-10-21T15:41:25+00:00"
   },
   {
-   "title": "Virginia sinks 951 tons of bridge concrete to build habitat for fish",
-   "summary": "The Hampton Roads Bridge-Tunnel expansion project involves dismantling an old bridge and using the concrete for artificial reefs. This initiative helps divert demolition waste from landfills while enhancing underwater...",
-   "link": "https://timesofindia.indiatimes.com/world/us/virginia-is-dismantling-100000-tons-of-concrete-from-its-3-9-billion-hampton-roads-bridge-tunnel-expansion-951-tons-have-already-been-placed-underwater-as-part-of-a-project-to-build-fish-habitat-in-chesapeake-bay/articleshow/135062470.cms",
+   "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+   "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+   "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-21T15:36:31+00:00"
+  },
+  {
+   "title": "Vivek Ramaswamy goes low in Ohio's race to the bottom",
+   "summary": "Vivek Ramaswamy's campaign in Ohio has stirred controversy with an ad that leverages his rival Amy Acton's difficult past. This ad includes allegations from Acton's estranged mother, leading to significant backlash from...",
+   "link": "https://timesofindia.indiatimes.com/world/us/vivek-ramaswamy-goes-low-in-ohios-race-to-the-bottom/articleshow/135095761.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-21T10:36:00+00:00"
+   "published": "2026-10-21T15:35:08+00:00"
   },
   {
-   "title": "Delhi AQI jumps from 179 to 244 in a day; GRAP-1 restrictions kick in across NCR",
-   "summary": "Delhi's air quality deteriorated to the 'poor' category, triggering Stage 1 measures under the Graded Response Action Plan. The Commission for Air Quality Management announced restrictions due to rising pollution levels...",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-aqi-jumps-from-179-to-244-in-a-day-grap-1-restrictions-kick-in-across-ncr/articleshow/135089434.cms",
+   "title": "New human data hints at psychedelics' potential to combat inflammation",
+   "summary": "Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first data in humans that signals this holds...",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-21T15:33:18+00:00"
+  },
+  {
+   "title": "Glastonbury coach tickets oversold in admin error",
+   "summary": "Bookings will automatically be converted into a general admission ticket and coach fare refunded.",
+   "link": "https://www.bbc.co.uk/news/articles/cm5ynqkgwr69o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-21T15:30:57+00:00"
+  },
+  {
+   "title": "Tyler Perry cuts $3.5m off Wyoming mansion price, now asks $36m",
+   "summary": "Tyler Perry has reduced the asking price of his Wyoming mansion by $3.5 million, bringing it down to $36 million after reportedly buying a $30 million home in Puerto Rico. Built in 2019, the 37-acre estate features nine...",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/tyler-perry-slashes-3-5-million-from-wyoming-mansion-price-to-36-million-after-buying-30-million-puerto-rico-home-2019-built-estate-spans-37-acres-with-9-bedrooms-and-8-5-bathrooms/articleshow/135095622.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-21T10:33:54+00:00"
+   "published": "2026-10-21T15:26:38+00:00"
   },
   {
-   "title": "Swiss brothers build miniature Greek village in garden for £10,000",
+   "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
+   "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust.",
+   "link": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-21T15:24:23+00:00"
+  },
+  {
+   "title": "Sentenced to death at 17, at 68, quilt artist receives solo museum exhibition",
+   "summary": "A quilt artist who spent decades on death row now has his first solo exhibit at the Grand Rapids Art Museum.",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6003634/sentenced-to-death-at-17-at-68-quilt-artist-receives-solo-museum-exhibition",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-21T15:21:47+00:00"
+  },
+  {
+   "title": "'Shouldn't have come if unwell': Subodh Uniyal defends public reprimand of Daler Mehndi",
    "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/europe/two-swiss-brothers-spent-about-10000-turning-a-15-by-15-metre-section-of-their-garden-into-a-miniature-greek-village-with-blue-shutters-stone-lanes-and-a-bar-the-wider-backyard-attraction-cost-20000/articleshow/135088607.cms",
+   "link": "https://timesofindia.indiatimes.com/india/shouldnt-have-come-if-unwell-subodh-uniyal-defends-public-reprimand-of-daler-mehndi/articleshow/135095325.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-21T10:30:00+00:00"
+   "published": "2026-10-21T15:08:15+00:00"
   },
   {
-   "title": "Tiger Shroff firing case: 3 accused remanded in police custody till October 31",
-   "summary": "Three individuals connected to a shooting incident with actor Tiger Shroff have been presented in court. Police reports indicated that additional suspects were arrested in Haryana and Delhi. The prosecution is...",
-   "link": "https://timesofindia.indiatimes.com/city/mumbai/tiger-shroff-firing-weapons-yet-to-be-recovered-accused-destroyed-phones-police-tell-mumbai-court/articleshow/135089045.cms",
+   "title": "Sacramento jury awards $33.3m to jogger struck by dead tree limb",
+   "summary": "In a landmark decision, a jury in Sacramento awarded Michael Flynn $33.3 million after he sustained a brain injury from a dead branch falling during his jog in McKinley Park. The city was found wholly negligent in their...",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-30-foot-dead-tree-limb-fell-on-a-28-year-old-physics-student-jogging-in-a-sacramento-park-six-years-later-a-jury-awarded-him-33-3-million-after-finding-the-city-responsible/articleshow/135076377.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-21T10:25:02+00:00"
+   "published": "2026-10-21T14:49:51+00:00"
+  },
+  {
+   "title": "Jalaj Saxena equals Bishan Bedi as Kerala notch up innings win against Odisha",
+   "summary": "This was Jalaj’s 35th five-wicket haul in the Ranji Trophy, a phenomenal number that puts him level with the great Bishan Singh Bedi for the joint fifth-most five-fors in the tournament’s history. Odisha, meanwhile,...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-domestic/ranji-trophy/jalaj-saxena-equals-bishan-singh-bedi-as-kerala-notch-up-innings-win-against-odisha-in-ranji-trophy/articleshow/135094690.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-21T14:41:27+00:00"
+  },
+  {
+   "title": "Don't Stop Believin' - high school musical Glee set for reboot",
+   "summary": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-21T14:38:22+00:00"
+  },
+  {
+   "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+   "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+   "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-21T14:26:24+00:00"
+  },
+  {
+   "title": "Reba McEntire's Texas charity has helped over 35,000 families since 1992",
+   "summary": "Established in 1992 by Reba McEntire, Reba's Ranch House serves as a sanctuary for families of hospitalized patients, having provided aid to over 35,000 families. The house offers not just accommodation and meals but...",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-1992-reba-mcentire-helped-open-a-guest-house-for-families-sleeping-in-hospital-chairs-and-cars-the-texas-charity-reports-it-has-since-welcomed-more-than-35000-families-needing-support/articleshow/135094020.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-21T14:06:55+00:00"
+  },
+  {
+   "title": "Netflix Co-CEO admits US streaming platform needs better shows after 1,000 layoffs",
+   "summary": "Netflix recently laid off around 1,000 employees and replaced key leadership amidst declining revenue growth. Chief Content Officer Bela Bajaria was replaced by Peter Rice, who will also manage the film division....",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/hours-after-laying-off-1000-and-firing-two-top-execs-netflix-co-ceo-ted-sarandos-tells-analysts-i-know-that-we-could-/articleshow/135093850.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-21T13:42:08+00:00"
+  },
+  {
+   "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+   "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport...",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-21T13:40:08+00:00"
+  },
+  {
+   "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
+   "summary": "Democratic congressional candidate Brad Lander along with about 80 American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-21T13:28:04+00:00"
+  },
+  {
+   "title": "Russian roulette: Trump bites the bullet with Putin in bid to survive US midterms",
+   "summary": "For Trump, the political calculation appears straightforward. If Russian supplies arrive quickly and in sufficient quantities, they could help ease fuel prices and give his party a political boost. If deliveries fall...",
+   "link": "https://timesofindia.indiatimes.com/world/us/trumps-russian-roulette-a-high-stakes-juggle-between-vladimir-putin-and-the-polls/articleshow/135092262.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-21T12:54:10+00:00"
+  },
+  {
+   "title": "Sri Lanka’s dilemma: Iranian ships at its doorstep, US sanctions in the shadows",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/south-asia/stranded-iranian-tankers-american-pressure-why-sri-lanka-faces-a-difficult-choice/articleshow/135071911.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-21T12:11:09+00:00"
+  },
+  {
+   "title": "Trump leans into unprecedented power ahead of midterm elections",
+   "summary": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term.",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-21T12:09:41+00:00"
+  },
+  {
+   "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+   "summary": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
+   "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-21T11:46:59+00:00"
+  },
+  {
+   "title": "Shark trapped for a month in South Korean canal is finally freed",
+   "summary": "Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubersIn South Korea, they call them jagyeongdan, a word whose meaning sits somewhere between vigilante group and...",
+   "link": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-21T11:41:48+00:00"
+  },
+  {
+   "title": "'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster",
+   "summary": "Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.",
+   "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-21T11:21:58+00:00"
+  },
+  {
+   "title": "Pakistan signs Badr accord with Turkey, Qatar & Indonesia; what it means for India",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/turkey-pakistan-qatar-and-indonesia-sign-defence-pact-to-boost-joint-arms-production/articleshow/135089701.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-21T10:52:24+00:00"
   },
   {
    "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-   "summary": "Russian President Vladimir Putin says he has freed an American, Stephen Hubbard, from a Russian prison following a request from President Trump.",
+   "summary": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the war in Ukraine.",
    "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
    "source": "NPR",
    "category": "Top",
@@ -74,52 +266,12 @@
    "published": "2026-10-21T10:20:15+00:00"
   },
   {
-   "title": "India crosses 50 medals at Asian Para Games: Simran and Gavit sprint to 100m golds",
-   "summary": "Simran, who won bronze at the 2024 Paris Paralympics, is working her way back with new guide Shivam after her previous guide, Umar Saifi, was banned for a doping violation.",
-   "link": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-2026-india-races-past-50-medals-as-simran-and-dilip-gavit-deliver-gold-in-100m-events/articleshow/135088847.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-21T10:18:08+00:00"
-  },
-  {
    "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
    "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
    "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-21T10:16:17+00:00"
-  },
-  {
-   "title": "‘Like Ravana in disguise’: BJP accuses oppn forces of plotting 'regime change'",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/forces-working-to-destabilise-india-have-3-core-agendas-bjp-blames-oppn-draws-ravana-comparison/articleshow/135088936.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-21T10:15:19+00:00"
-  },
-  {
-   "title": "'Then, you are not Gen Z?' HC's quip during hearing of CJP leaders; Dipke reacts",
-   "summary": "During a hearing, the Delhi High Court engaged in a light-hearted exchange about Generation Z with Cockroach Janta Party leaders. The court questioned the legal approach taken by the petitioners against the custody...",
-   "link": "https://timesofindia.indiatimes.com/india/then-you-are-not-gen-z-delhi-high-courts-light-hearted-exchange-with-cjp-leaders-dipke-reacts/articleshow/135088235.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-21T10:04:45+00:00"
-  },
-  {
-   "title": "Jio IPO bids cross Rs 50k cr after full subscription in 100 minutes",
-   "summary": "Jio IPO: Data from the stock exchanges, updated at 2:45 PM, showed bids for 46.50 crore shares against the 19.75 crore shares on offer. The response establishes a new record for the speed at which an Indian public issue...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/jio-ipo-sets-new-records-bids-cross-rs-50000-crore-after-full-subscription-in-100-minutes/articleshow/135088256.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-21T09:54:58+00:00"
-  },
-  {
-   "title": "Missouri court overturns ruling giving couple ownership of neighbour's road",
-   "summary": "In a notable case from Missouri, a couple gained legal rights to their isolated property via their neighbor's land. Although the court initially granted them ownership of the access road, it later corrected this...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-missouri-a-couple-bought-land-with-no-road-access-and-sought-a-40-foot-strip-through-their-neighbours-property-a-2026-appeals-court-reversed-the-ruling-that-would-have-given-them-ownership-of-the-road/articleshow/135087381.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-21T09:10:07+00:00"
   },
   {
    "title": "2025 policing trend: Fewer serious crimes, more minor arrests",
@@ -136,22 +288,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-21T09:00:00+00:00"
-  },
-  {
-   "title": "Pakistan's elite want out? Khawaja Asif flags 'exit plans' of senior officers",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistans-elite-want-out-khawaja-asif-flags-bureaucrats-alleged-exit-plans-to-foreign-shores/articleshow/135087384.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-21T08:59:19+00:00"
-  },
-  {
-   "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
-   "summary": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.",
-   "link": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-21T08:49:44+00:00"
   },
   {
    "title": "Morning news brief",
@@ -186,38 +322,6 @@
    "published": "2026-10-21T08:35:47+00:00"
   },
   {
-   "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
-   "summary": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
-   "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-21T08:19:32+00:00"
-  },
-  {
-   "title": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
-   "summary": "Steve Witkoff has landed in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
-   "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-21T08:18:53+00:00"
-  },
-  {
-   "title": "Australian MP loses both legs after alleged car attack, husband says",
-   "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
-   "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-21T07:56:30+00:00"
-  },
-  {
-   "title": "Crystal Palace urged to retire bald eagle mascot",
-   "summary": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\".",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-21T07:24:35+00:00"
-  },
-  {
    "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
    "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
    "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
@@ -226,44 +330,12 @@
    "published": "2026-10-21T06:36:39+00:00"
   },
   {
-   "title": "LeBron James talks smack with Knicks fans in victorious 76ers debut",
-   "summary": "The Sixers got a first look at the potent lineup they put together this summer in hopes of winning their first title since 1983.",
-   "link": "https://www.npr.org/2026/10/21/nx-s1-6010350/lebron-knicks-76ers",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-21T06:07:16+00:00"
-  },
-  {
    "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
    "summary": "Nearly a decade after Boeing unveiled its largest 737 Max jet, the company has cleared a major hurdle in its effort to bring the plane to airlines.",
    "link": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-10-21T06:05:18+00:00"
-  },
-  {
-   "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
-   "summary": "Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio.",
-   "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-21T05:43:24+00:00"
-  },
-  {
-   "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
-   "summary": "Fresh curfews were being imposed across the city centers of Paris and Lyon on Tuesday after the first quiet night since France's most destructive rioting in years.",
-   "link": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-21T05:37:28+00:00"
-  },
-  {
-   "title": "The Aberfan disaster through the eyes of those who survived, 60 years on",
-   "summary": "It was one of Wales' darkest days that changed a mining community forever.",
-   "link": "https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-21T05:22:15+00:00"
   },
   {
    "title": "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
@@ -274,52 +346,12 @@
    "published": "2026-10-21T05:16:44+00:00"
   },
   {
-   "title": "Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
-   "summary": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
-   "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-21T05:00:54+00:00"
-  },
-  {
    "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
    "summary": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
    "link": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-21T05:00:35+00:00"
-  },
-  {
-   "title": "United Nations report highlights significant increase in U.S. climate pollution",
-   "summary": "The U.S. is the only major economy where planet-warming pollution dramatically increased last year. The United Nations warns the planet is on track for catastrophic warming.",
-   "link": "https://www.npr.org/2026/10/21/nx-s1-6003553/america-oil-gas-coal-climate-change-trump-carbon-emissions",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-21T05:00:00+00:00"
-  },
-  {
-   "title": "Zuckerberg’s wife Priscilla Chan marks 10 years in Hawaii, donates $1.48m to hospital",
-   "summary": "In a remarkable gesture of generosity, Mark Zuckerberg and Priscilla Chan have contributed $1.48 million to the Wilcox Medical Center in Kauaʻi. This donation will be utilized to purchase a mobile MRI unit and a 3D...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-who-gave-1-48-million-to-a-hawaii-hospital-through-chan-zuckerberg-initiative-on-10-years-of-association-with-the-island-community-wrote-what-began-as-a-desire-to-/articleshow/135081738.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-21T03:59:46+00:00"
-  },
-  {
-   "title": "Qualcomm layoffs: CEO says job cuts target areas falling short of expectations",
-   "summary": "Qualcomm plans to implement global layoffs in response to performance evaluations and organizational needs. CEO Cristiano Amon has stated that job cuts will start in November this year. The company aims to create a...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/qualcomm-layoffs-to-hit-employees-worldwide-ceo-cristiano-amon-says-in-memo-job-cuts-are-to-address-situations-where-the-company-/articleshow/135081284.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-21T03:34:27+00:00"
-  },
-  {
-   "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
-   "summary": "Election officials in Los Angeles County say their preliminary analysis of the federal government's list of 20,000 \"likely\" noncitizens registered to vote in California shows the list is \"unreliable.\"",
-   "link": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-21T02:15:50+00:00"
   },
   {
    "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
@@ -336,14 +368,6 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-20T23:13:24+00:00"
-  },
-  {
-   "title": "I left state secrets on the train - I'm proof you can recover from the biggest mistake of your life",
-   "summary": "Top civil servant Richard Jackson recounts that fateful day and how he recovered in the aftermath.",
-   "link": "https://www.bbc.co.uk/news/articles/cmwyz4g4ln4no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-20T23:05:05+00:00"
   },
   {
    "title": "Audit regulator looking into Manchester City accounting",
@@ -394,6 +418,14 @@
    "published": "2026-10-20T18:03:19+00:00"
   },
   {
+   "title": "How much debt is too much for Tamil Nadu?",
+   "summary": "The debt dynamics in Tamil Nadu present a perplexing scenario of borrowing intertwined with fiscal strategies. By 2026-2027, the burden of interest payments is expected to significantly eat into state revenue. The...",
+   "link": "https://timesofindia.indiatimes.com/city/chennai/how-much-debt-is-too-much-for-tamil-nadu/articleshow/135074001.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-20T16:56:36+00:00"
+  },
+  {
    "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
    "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory...",
    "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
@@ -426,14 +458,6 @@
    "published": "2026-10-20T15:41:44+00:00"
   },
   {
-   "title": "Union attacks NatWest plans to get workers back to the office",
-   "summary": "The bank says workers will be required to attend the office at least two days a week from February.",
-   "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-20T14:50:19+00:00"
-  },
-  {
    "title": "UK asks Apple to widen access to its payment tech",
    "summary": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
    "link": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
@@ -458,14 +482,6 @@
    "published": "2026-10-20T10:30:00+00:00"
   },
   {
-   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-   "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-   "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-20T10:06:34+00:00"
-  },
-  {
    "title": "Why these 5 everyday items fluctuate in price at the grocery store",
    "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
    "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
@@ -480,6 +496,14 @@
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-10-20T09:00:00+00:00"
+  },
+  {
+   "title": "What is the Budget and what could be in it?",
+   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-20T08:31:36+00:00"
   },
   {
    "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
@@ -538,14 +562,6 @@
    "published": "2026-10-19T16:08:14+00:00"
   },
   {
-   "title": "Drone attack near market kills 80 in Sudan",
-   "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of warA drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides...",
-   "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-19T14:45:53+00:00"
-  },
-  {
    "title": "Uber wins bid to throw out £200m black cab claims",
    "summary": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
    "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
@@ -576,14 +592,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-19T09:27:04+00:00"
-  },
-  {
-   "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
-   "summary": "Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local...",
-   "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-19T09:08:34+00:00"
   },
   {
    "title": "AI models are changing how forecasters predict the paths of hurricanes",
@@ -624,14 +632,6 @@
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-10-18T16:30:00+00:00"
-  },
-  {
-   "title": "No further action against government adviser's wife over Palestine Action post, police say",
-   "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
-   "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-17T20:24:32+00:00"
   },
   {
    "title": "At least 17 dead in crush at Hindu festival event in India",
@@ -784,6 +784,14 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-06T19:30:00+00:00"
+  },
+  {
+   "title": "Tech Life",
+   "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-09-29T19:30:00+00:00"
   }
  ]
 }
