@@ -1,93 +1,205 @@
 {
- "updated": "2026-10-24T06:10:26.876914+00:00",
+ "updated": "2026-10-24T11:23:25.375324+00:00",
  "stories": [
   {
-   "title": "£8,000 painting from old English manor sells for £70,000 after Pot attribution",
-   "summary": "A charming oil painting, thought to be created by Hendrik Gerritsz Pot, surfaced during an October auction after being held within a family collection for years. This artwork, illustrating a woman with a lute...",
-   "link": "https://timesofindia.indiatimes.com/world/uk/a-little-known-painting-from-a-familys-old-english-manor-collection-went-to-auction-with-an-8000-estimate-specialists-attributed-it-to-dutch-artist-hendrik-gerritsz-pot-and-bidders-pushed-its-final-price-to-70000/articleshow/135162865.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-24T05:28:43+00:00"
-  },
-  {
-   "title": "Watch: Paris shops increase security, board up windows, as France braces for protests",
-   "summary": "Shopkeepers in Paris are taking measures to secure their businesses against possible renewed protests and violence. Authorities are increasing police presence, with around 70,000 officers deployed this weekend across...",
-   "link": "https://timesofindia.indiatimes.com/world/europe/watch-paris-shops-increase-security-board-up-windows-as-france-braces-for-weekend-protests/articleshow/135162163.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-24T05:08:32+00:00"
-  },
-  {
-   "title": "Zoho founder Sridhar Vembu: India must 'build, build and build' to earn global respect",
-   "summary": "Sridhar Vembu has emphasized the need for India to develop its own talent and technology for global respect. He responded to Eric Weinstein's concerns about growing hostility towards Indians on social media. Vembu...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-says-india-must-build-build-and-build-to-earn-global-respect-until-india-develops-we-will-/articleshow/135162332.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-24T04:56:13+00:00"
-  },
-  {
-   "title": "Mumbai Indians appoint Kieron Pollard as head coach ahead of IPL 2027",
-   "summary": "Kieron Pollard has been named the head coach of Mumbai Indians ahead of the IPL 2027 season. He takes over the position from Mahela Jayawardene, who has stepped down. Pollard expressed his gratitude for the opportunity...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mumbai-indians-appoint-kieron-pollard-as-head-coach-ahead-of-ipl-2027/articleshow/135162088.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-24T04:44:50+00:00"
-  },
-  {
-   "title": "Watch: Iran shows Trump behind bars on live billboard on busy Tehran street",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/watch-iran-mocks-trump-on-busy-tehran-street-shows-us-president-taking-nap-behind-bars/articleshow/135161253.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-24T04:18:23+00:00"
-  },
-  {
-   "title": "‘Dissatisfied? You're not alone’: FIR filed over posters in Delhi Metro questioning govt",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/disappointed-youre-not-alone-fir-filed-over-posters-in-delhi-metro-questioning-govt/articleshow/135161021.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-24T04:14:12+00:00"
-  },
-  {
-   "title": "France prepares for day of protest a week after nationwide riots",
-   "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
-   "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+   "title": "Ukraine says Starlink connection 'now stable' after network limits",
+   "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+   "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-24T04:03:46+00:00"
+   "published": "2026-10-24T11:17:35+00:00"
   },
   {
-   "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+   "title": "Between quick wins and big dreams lies Burnham's biggest test",
+   "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+   "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-24T11:03:57+00:00"
+  },
+  {
+   "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+   "summary": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+   "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-24T11:00:48+00:00"
+  },
+  {
+   "title": "Pollard doesn't want to see 'yellows and reds', urges MI to put 'team above self'",
+   "summary": "Pollard, who was Mumbai Indians' batting coach for the last four IPL seasons, takes over from Mahela Jayawardene, who parted ways with the franchise last week. The former West Indies all-rounder has been associated with...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kieron-pollard-doesnt-want-to-see-yellows-and-reds-at-wankhede-in-ipl-urges-mi-players-to-put-team-above-self/articleshow/135168237.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T10:45:07+00:00"
+  },
+  {
+   "title": "Australian reporter rescues driver moments before SUV sinks in floodwaters",
+   "summary": "Will Murray, an ABC reporter, was covering heavy rain and flooding in Morayfield when a four-wheel drive got submerged. As the driver began to sink, Murray swiftly called for emergency services and then jumped in to...",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/an-australian-tv-reporter-was-filming-floods-when-he-spotted-a-sinking-four-wheel-drive-swam-out-with-a-bystander-and-forced-open-a-rear-door-to-rescue-the-driver-moments-before-the-vehicle-disappeared-underwater/articleshow/135167371.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T10:36:54+00:00"
+  },
+  {
+   "title": "Wisconsin mother and son, 9, spot century-old tugboat in Lake Superior",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-wisconsin-mother-and-her-9-year-old-son-spotted-a-century-old-tugboat-beneath-lake-superior-after-visiting-the-same-beach-for-years-unusually-clear-water-revealed-the-a-h-pitz-abandoned-near-the-amnicon-river-in-1951/articleshow/135167993.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T10:35:31+00:00"
+  },
+  {
+   "title": "Virginia protects 480 Potomac acres, linking to 7,000 acres of conserved land",
+   "summary": "Virginia's Kentucky Hills land, along the Potomac River, has recently received a permanent conservation easement to protect it. This easement covers 480 acres and aims to preserve significant wildlife habitats and...",
+   "link": "https://timesofindia.indiatimes.com/world/us/at-a-historic-virginia-plantation-linked-to-the-lee-family-480-acres-along-the-potomac-river-have-been-permanently-protected-the-new-easement-connects-with-around-7000-acres-of-conserved-landscapes/articleshow/135165101.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T10:34:33+00:00"
+  },
+  {
+   "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
+   "summary": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-24T10:30:08+00:00"
+  },
+  {
+   "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
    "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
    "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-24T03:51:25+00:00"
+   "published": "2026-10-24T10:22:34+00:00"
   },
   {
-   "title": "Met investigates reports of letter detailing claims about Meghan's father",
-   "summary": "Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing \"disturbing allegations\".",
-   "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-24T03:17:24+00:00"
-  },
-  {
-   "title": "Kerala guv's 'veg-only kitchen' diktat on first day of assuming office sparks row",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/kerala-governor-om-prakash-mathurs-veg-only-kitchen-diktat-on-first-day-of-assuming-office-sparks-row/articleshow/135160310.cms",
+   "title": "US on alert as Iran's plan to target Americans abroad in 'advanced stages': Report",
+   "summary": "Amid escalating violence in the region, the United States is curtailing its embassy staff levels in Jordan, Lebanon, Qatar, and the United Arab Emirates. This step follows alarming threats from Iran towards U.S....",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-on-alert-iran-plots-to-target-american-personnel-abroad-reach-advanced-stages-report/articleshow/135167534.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-24T03:08:56+00:00"
+   "published": "2026-10-24T10:21:10+00:00"
   },
   {
-   "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
-   "summary": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.",
-   "link": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
+   "title": "1 dead after massive fire in Noida's Sector 126; several shops engulfed",
+   "summary": "A fire broke out at five temporary shops in Raipur village, Noida on Saturday afternoon. Fire brigade teams responded promptly and worked to bring the blaze under control. During the firefighting efforts, firefighters...",
+   "link": "https://timesofindia.indiatimes.com/city/noida/man-dies-after-fire-breaks-out-at-5-temporary-shops-in-noidas-raipur/articleshow/135167811.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T10:16:31+00:00"
+  },
+  {
+   "title": "Why do some women uphold the very patriarchy that restricts them",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/why-do-some-women-become-the-strongest-defenders-of-patriarchy/articleshow/135165441.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T10:13:21+00:00"
+  },
+  {
+   "title": "Sooryavanshi's return ends in disappointment against New Zealand - Watch",
+   "summary": "Vaibhav Sooryavanshi made his long-awaited return to India's playing XI in the second T20I against New Zealand, stepping in for the injured Ishan Kishan. Unfortunately, he couldn't seize the moment, managing just four...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/vaibhav-sooryavanshis-return-ends-in-disappointment-during-2nd-t20i-against-new-zealand-watch/articleshow/135167591.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T10:11:45+00:00"
+  },
+  {
+   "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+   "summary": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+   "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-24T10:00:00+00:00"
+  },
+  {
+   "title": "U.S. birth rate drops to record low, but older women are having more babies",
+   "summary": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are having more children.",
+   "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-24T10:00:00+00:00"
+  },
+  {
+   "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+   "summary": "The children were subsequently rescued from the water, police say.",
+   "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-24T02:52:10+00:00"
+   "published": "2026-10-24T09:45:47+00:00"
+  },
+  {
+   "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+   "summary": "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police sayA British woman has died in the Bahamas while trying to rescue her two sons after a current swept them...",
+   "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-24T09:43:09+00:00"
+  },
+  {
+   "title": "Kim Jong-un crosses over newly opened bridge into China",
+   "summary": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a yearKim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first...",
+   "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-24T09:34:40+00:00"
+  },
+  {
+   "title": "This decade has been missing its big-impact midterm",
+   "summary": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.",
+   "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-24T09:00:00+00:00"
+  },
+  {
+   "title": "Mystery surrounds death of Class 12 student found burnt behind Delhi school",
+   "summary": "An 18-year-old girl was discovered burnt behind the guard room of a school in Krishna Nagar. Police received a call regarding the fire incident and promptly arrived at the scene. They conducted preliminary proceedings...",
+   "link": "https://timesofindia.indiatimes.com/city/delhi/mystery-surrounds-death-of-class-12-student-found-burnt-behind-delhi-school-guard-room/articleshow/135166056.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T08:43:35+00:00"
+  },
+  {
+   "title": "'Why Nov 1?' BJP questions Rahul over rally date coinciding with 1984 riots anniversary",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/rubbing-salt-into-wounds-bjp-targets-rahul-over-nov-1-rally-recalls-1984-anti-sikh-riots/articleshow/135165913.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T08:25:35+00:00"
+  },
+  {
+   "title": "Jeff Bezos’s parents bet $245,573 on Amazon; their early stake worth billions today",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezoss-parents-invested-245573-in-amazon-when-it-was-an-uncertain-online-bookstore-that-early-family-investment-is-worth-billions-today-as-the-companys-valuation-passes-2-trillion/articleshow/135165080.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T07:37:47+00:00"
+  },
+  {
+   "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+   "summary": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in...",
+   "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-24T07:04:13+00:00"
+  },
+  {
+   "title": "‘838’ number plate, pool of blood, screams: Chilling video captures daylight murder",
+   "summary": "In a shocking act of violence in Chhatrapati Sambhajinagar, bystanders witnessed a murder as Devesh Dixit was pursued and collided with a vehicle. His friend-turned-assailant, Pawan Parashar, went on to deliver a fatal...",
+   "link": "https://timesofindia.indiatimes.com/city/aurangabad/838-number-plate-pool-of-blood-screams-chilling-video-captures-daylight-murder-in-maharashtras-chhatrapati-sambhajinagar/articleshow/135164176.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-24T06:56:05+00:00"
+  },
+  {
+   "title": "The convicted £33m tax fraudster evading justice and living it up in Dubai",
+   "summary": "Arif Patel \"should not be beyond the reach of the justice system,\" says the PM’s anti-corruption champion.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy83v286571o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-24T06:32:35+00:00"
   },
   {
    "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
@@ -96,22 +208,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-24T02:22:32+00:00"
-  },
-  {
-   "title": "As foam builds up in Yamuna, questions raised over how work was allotted",
-   "summary": "A defoaming operation is set to begin in Yamuna near Kalindi Kunj, with equipment already in place. The Aam Aadmi Party has raised concerns about the tender allocation process favoring a specific contractor. Allegations...",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/as-foam-builds-up-in-yamuna-questions-raised-over-how-work-was-allotted/articleshow/135159761.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-24T02:02:33+00:00"
-  },
-  {
-   "title": "Australian MP's condition improves after alleged car attack",
-   "summary": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-   "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-24T01:55:15+00:00"
   },
   {
    "title": "Severe flooding hits Four Corners region, more expected through the weekend",
@@ -149,17 +245,49 @@
    "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
    "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
    "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-10-24T00:05:45+00:00"
   },
   {
-   "title": "Are California voters about to impose world's first 'tax on billionaires'?",
+   "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+   "summary": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+   "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-23T23:50:45+00:00"
+  },
+  {
+   "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
+   "summary": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
+   "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-23T23:15:47+00:00"
+  },
+  {
+   "title": "Are California voters about to impose 'world's first' tax on billionaires?",
    "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
    "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-23T23:11:31+00:00"
+  },
+  {
+   "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+   "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
+   "link": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-23T23:09:16+00:00"
+  },
+  {
+   "title": "The artist dropping her debut album after a billion streams",
+   "summary": "Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.",
+   "link": "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-23T23:08:55+00:00"
   },
   {
    "title": "Britain's posh schools are heading to India for students and profits",
@@ -170,20 +298,12 @@
    "published": "2026-10-23T23:02:25+00:00"
   },
   {
-   "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
-   "summary": "A newly earned special power left one contestant with a big decision to make in Friday's episode.",
-   "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
+   "title": "Russia steps up election influence efforts in final stretch of midterms",
+   "summary": "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they've used to sow distrust and discord in previous elections in the U.S. and around the world.",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
+   "source": "NPR",
    "category": "Top",
-   "published": "2026-10-23T22:52:40+00:00"
-  },
-  {
-   "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
-   "summary": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
-   "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-23T22:47:07+00:00"
+   "published": "2026-10-23T21:40:02+00:00"
   },
   {
    "title": "Fired OpenAI researchers say independent safety audits aren't going well",
@@ -194,44 +314,12 @@
    "published": "2026-10-23T21:33:31+00:00"
   },
   {
-   "title": "Why is John Travolta's old luxury jet in a small Australian town?",
-   "summary": "The BBC goes on board Travolta’s old Boeing 707 which is being reassembled in a small coastal town.",
-   "link": "https://www.bbc.co.uk/news/videos/cmze483zj1zlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-23T21:19:17+00:00"
-  },
-  {
    "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
    "summary": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.",
    "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-23T19:31:15+00:00"
-  },
-  {
-   "title": "GP says she was forced out of job after raising concerns about gender treatment",
-   "summary": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
-   "link": "https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-23T19:23:10+00:00"
-  },
-  {
-   "title": "Prince William on how he once dreamed of becoming 'DJ Xara'",
-   "summary": "The Prince of Wales made a surprise appearance on the Graham Norton Show as part of a special edition to mark the Earthshot Prize.",
-   "link": "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-23T18:42:38+00:00"
-  },
-  {
-   "title": "Woman medical officer assaulted, slapped and abused in police presence; video viral",
-   "summary": "A woman medical officer was assaulted and verbally abused by an accused during a medical examination. The accused was reportedly under the influence of alcohol when he attacked the doctor. Medical officers in Wardha...",
-   "link": "https://timesofindia.indiatimes.com/city/nagpur/woman-medical-officer-assaulted-in-police-presence-at-phc-in-talegaon/articleshow/135153743.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-23T18:33:06+00:00"
   },
   {
    "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
@@ -242,44 +330,12 @@
    "published": "2026-10-23T18:30:00+00:00"
   },
   {
-   "title": "Jason Momoa's water firm says 6m bottles removed; hotel refillers do 500/hour",
-   "summary": "Mananalu, founded by Jason Momoa, aims to eliminate single-use plastic bottles through innovative refill systems. The newly implemented technology connects to local water sources and fills reusable containers. This...",
-   "link": "https://timesofindia.indiatimes.com/science/nature/jason-momoa-launched-a-water-brand-to-fight-plastic-pollution-after-reporting-more-than-6-million-plastic-bottles-removed-his-company-introduced-hotel-machines-that-can-refill-up-to-500-bottles-an-hour/articleshow/135119843.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-23T18:25:00+00:00"
-  },
-  {
-   "title": "‘Noise protest’ rocks Manipur valley districts, police fire tear gas",
-   "summary": "In a powerful display of unity, thousands of demonstrators took to the streets in various valley districts of Manipur, articulating their concerns over the escalating crisis. Using traditional means of noise-making,...",
-   "link": "https://timesofindia.indiatimes.com/city/guwahati/noise-protest-rocks-manipur-valley-dists/articleshow/135152317.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-23T17:36:10+00:00"
-  },
-  {
    "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
    "summary": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
    "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-23T17:35:14+00:00"
-  },
-  {
-   "title": "Rwanda gorilla campus welcomes 40,000 visitors including schoolchildren",
-   "summary": "Portia de Rossi gifted Ellen DeGeneres a conservation project which led to the Ellen DeGeneres Campus opening in Rwanda. The campus supports wildlife protection and offers educational opportunities for local students...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2018-portia-de-rossi-surprised-ellen-degeneres-with-a-gorilla-conservation-project-by-september-2023-its-rwanda-campus-had-welcomed-over-40000-visitors-including-more-than-7500-local-schoolchildren/articleshow/135151560.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-23T17:21:54+00:00"
-  },
-  {
-   "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-   "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met policeThe Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her...",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-23T17:14:16+00:00"
   },
   {
    "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
@@ -298,28 +354,12 @@
    "published": "2026-10-23T15:15:13+00:00"
   },
   {
-   "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
-   "summary": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
-   "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-23T14:16:10+00:00"
-  },
-  {
    "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
    "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a...",
    "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-23T13:57:11+00:00"
-  },
-  {
-   "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-   "summary": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.",
-   "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-23T12:41:39+00:00"
   },
   {
    "title": "What is PHP and why did it spark a global cyber-security scramble?",
@@ -346,28 +386,12 @@
    "published": "2026-10-23T11:48:04+00:00"
   },
   {
-   "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
-   "summary": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
-   "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-23T11:22:25+00:00"
-  },
-  {
    "title": "Why Meta is charging to post more hyperlinks",
    "summary": "Social media sites aren't the biggest fans of people leaving via hyperlinks. In fact, Meta has made it subscription-worthy for a Facebook Page to post more than two hyperlinks per month. What's the rationale for...",
    "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-10-23T11:00:00+00:00"
-  },
-  {
-   "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-   "summary": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were injured, including some critically.",
-   "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-23T09:40:32+00:00"
   },
   {
    "title": "Hacking attempts rise after flaws found in program affecting 70% of websites",
@@ -458,6 +482,14 @@
    "published": "2026-10-22T21:53:28+00:00"
   },
   {
+   "title": "How America's mahjong craze is throwing a Chinese manufacturing town a lifeline",
+   "summary": "Shoppers in the U.S. are willing to spend hundreds of dollars for a mahjong set. In the eastern Chinese city of Taixing, manufacturers can barely keep up with the demand.",
+   "link": "https://www.npr.org/2026/10/22/nx-s1-6000127/china-mahjong-tile-game-taixing-manufacturing",
+   "source": "NPR Business",
+   "category": "Business",
+   "published": "2026-10-22T20:53:12+00:00"
+  },
+  {
    "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
    "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
    "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
@@ -512,14 +544,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-22T13:46:33+00:00"
-  },
-  {
-   "title": "Tank barrel production returns to UK after 20 years",
-   "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
-   "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-22T13:45:19+00:00"
   },
   {
    "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
@@ -698,28 +722,12 @@
    "published": "2026-10-20T16:24:05+00:00"
   },
   {
-   "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
-   "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old birdA Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy...",
-   "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-20T16:11:21+00:00"
-  },
-  {
    "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
    "summary": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
    "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-10-20T10:30:00+00:00"
-  },
-  {
-   "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-   "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
-   "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-10-20T09:00:00+00:00"
   },
   {
    "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
