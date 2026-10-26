@@ -1,77 +1,325 @@
 {
- "updated": "2026-10-26T06:49:36.861693+00:00",
+ "updated": "2026-10-26T13:50:55.909491+00:00",
  "stories": [
   {
-   "title": "E100 cars get regulatory green light ahead of planned launches",
-   "summary": "The government has amended the Central Motor Vehicles Rules to facilitate the registration of flex-fuel vehicles capable of running on 85% to 100% ethanol blended petrol. As car manufacturers gear up to introduce their...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/e100-cars-get-regulatory-green-light-ahead-of-planned-launches/articleshow/135204532.cms",
+   "title": "AI giant Anthropic unveils plans for blockbuster share listing",
+   "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+   "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-26T13:46:14+00:00"
+  },
+  {
+   "title": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+   "summary": "Devin Jacob Ballard, 20, denies charges that he fatally strangled Anna Yagi, 39, in a hotel on the island of OkinawaProsecutors in Japan have filed formal charges against a US marine suspected of murdering and robbing a...",
+   "link": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-26T13:41:41+00:00"
+  },
+  {
+   "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+   "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive termFull report: Lula wins fourth term as Brazil’s president over Flávio...",
+   "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-26T13:39:38+00:00"
+  },
+  {
+   "title": "Massachusetts gun owners face Oct 28 registration deadline before repeal vote",
+   "summary": "Gun legislation is making headlines as the U.S. elections approach, with Massachusetts taking a strict stance while Idaho opts for a more symbolic gesture. Massachusetts enforces a deadline for firearm registration as...",
+   "link": "https://timesofindia.indiatimes.com/world/us/massachusetts-gun-owners-face-an-october-28-registration-deadline-six-days-before-voters-decide-whether-to-repeal-the-law-behind-it-while-idaho-voters-will-choose-an-official-state-gun-from-six-historic-firearms/articleshow/135212463.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-26T06:37:35+00:00"
+   "published": "2026-10-26T13:27:34+00:00"
+  },
+  {
+   "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
+   "summary": "Andre McKechnie, 55, is serving a life sentence for murder. He took his battle for the salty, sticky, black-brown byproduct of brewing beer to the court last year. He argued being refused Vegemite breached the Charter...",
+   "link": "https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-26T13:25:33+00:00"
+  },
+  {
+   "title": "What to know about China's plenum as Xi seeks stronger party discipline",
+   "summary": "This closed-door gathering that started Monday comes about a year before Xi is expected to secure a fourth term and personnel changes to key leadership bodies.",
+   "link": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-26T13:20:38+00:00"
+  },
+  {
+   "title": "AI giant Anthropic files for IPO, mega Wall Street debut next month - key details",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/business/international-business/ai-giant-anthropic-to-make-wall-street-debut-next-month-could-be-biggest-ever-initial-public-sale-of-stock-key-details-from-claude-makers-filing/articleshow/135212910.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T13:18:37+00:00"
+  },
+  {
+   "title": "Defence minister shares vision on Phase 2 of Atmanirbharta",
+   "summary": "Defence minister Rajnath Singh has signaled a significant shift towards enhanced self-reliance in India's defence sector. This transformative phase aims to weave advanced technologies into military capabilities. Navy...",
+   "link": "https://timesofindia.indiatimes.com/defence/news/beyond-making-weapons-rajnath-wants-india-to-become-a-next-gen-military-tech-powerhouse/articleshow/135212697.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T13:06:14+00:00"
+  },
+  {
+   "title": "Broke locks, scaled walls: Congress MPs named in Jamia FIR amid students' unrest",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/broke-locks-scaled-walls-congress-mps-named-in-jamia-fir-amid-students-unrest/articleshow/135212570.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T13:02:15+00:00"
+  },
+  {
+   "title": "As Kohli, Rohit's era winds down, Klusener sees Sooryavanshi as 'next superstar'",
+   "summary": "Lance Klusener is optimistic about the future of Indian cricket, emphasizing that the legacy will endure even after legends like Virat Kohli and Rohit Sharma step back. He sees Shubman Gill as a viable leader for the...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/as-virat-kohli-rohit-sharmas-era-winds-down-lance-klusener-sees-vaibhav-sooryavanshi-as-indias-next-superstar/articleshow/135212360.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T13:00:24+00:00"
+  },
+  {
+   "title": "'Modi kahi nahi jaayega': BJP taunts 'anti-Indian' forces ahead of INDIA bloc rally",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/modi-kahi-nahi-jaayega-bjps-message-to-anti-indian-forces-ahead-of-india-blocs-rally-on-nov-1/articleshow/135212427.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T12:53:30+00:00"
+  },
+  {
+   "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+   "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+   "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-26T12:52:16+00:00"
+  },
+  {
+   "title": "Judge orders halt to Trump voter probes in 9 states, stays ruling for appeal",
+   "summary": "v A federal judge in California issued a temporary halt on federal investigations into suspected noncitizen voter registration. This ruling follows concerns regarding the reliance on flawed data by federal agents during...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-california-federal-judge-ordered-a-pause-in-trump-administration-investigations-of-suspected-noncitizen-voter-registration-across-nine-states-citing-unreliable-data-but-put-her-own-order-on-hold-to-allow-an-appeal/articleshow/135211769.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T12:51:29+00:00"
+  },
+  {
+   "title": "'Rising runoff, flood risks': Fresh warning over China’s mega Brahmaputra dam",
+   "summary": "Chinese researchers highlight potential increases in runoff and flood risks for the Brahmaputra River this century. Their study uses tree-ring data to model future climate scenarios affecting runoff. The implications of...",
+   "link": "https://timesofindia.indiatimes.com/world/china/rising-runoff-flood-risks-fresh-warning-over-chinas-mega-brahmaputra-dam/articleshow/135212072.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T12:39:47+00:00"
+  },
+  {
+   "title": "Burnham leaves door open to referendum on EU free movement",
+   "summary": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.",
+   "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-26T12:20:41+00:00"
+  },
+  {
+   "title": "Meet Siddharth Vikram: Brother's accident inspired $25,000-winning app idea",
+   "summary": "Siddharth Vikram has crafted ReHappy, a groundbreaking app that turns the monotony of physical therapy into exciting game-based challenges for young patients. Inspired by his brother's recovery journey, Siddharth's...",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/meet-siddharth-vikram-the-massachusetts-eighth-grader-who-turned-his-brothers-car-accident-and-recovery-into-an-idea-for-a-game-based-rehabilitation-app-winning-a-25000-national-prize/articleshow/135211183.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T12:15:16+00:00"
+  },
+  {
+   "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+   "summary": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
+   "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-26T12:00:20+00:00"
+  },
+  {
+   "title": "What is walking down the newly pedestrianised Oxford Street like?",
+   "summary": "The first phase of the overhaul is expected to be finished by spring 2027.",
+   "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-26T11:50:34+00:00"
+  },
+  {
+   "title": "Consultant doctors in England to strike next month",
+   "summary": "Senior doctors to stage 48-hour walkout, beginning on 25 November, in dispute over pay and pensions.",
+   "link": "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-26T11:45:48+00:00"
+  },
+  {
+   "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+   "summary": "Republicans are spending millions on the midterms, and they still may not win districts drawn to favor them. And, Brazil's Luiz Inácio Lula da Silva won a fourth term in a stunning political comeback.",
+   "link": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-26T11:11:00+00:00"
+  },
+  {
+   "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+   "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military...",
+   "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-26T11:00:40+00:00"
+  },
+  {
+   "title": "'Party funds' for DMK? Ex-Tamil Nadu minister held in Rs 100 crore 'school scam' case",
+   "summary": "A CCB team reached his apartment in Aminjikarai and arrested him after Madras high court dismissed his anticipatory bail application.",
+   "link": "https://timesofindia.indiatimes.com/city/chennai/former-tamil-nadu-minister-anbil-mahesh-poyyamozhi-arrested/articleshow/135209781.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T10:54:41+00:00"
+  },
+  {
+   "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+   "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+   "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-26T10:48:46+00:00"
+  },
+  {
+   "title": "Healey to shield low-income pensioners from income tax in the Budget",
+   "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+   "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-26T10:28:12+00:00"
+  },
+  {
+   "title": "Scarlett Johansson and Colin Jost bought $27.5m-listed NYC penthouse for $13m",
+   "summary": "Scarlett Johansson and Colin Jost have purchased a co-op penthouse in Manhattan, which took seven years to sell. The property was initially listed at $27.5 million and underwent several price reductions before the sale....",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2018-a-six-bedroom-manhattan-penthouse-was-listed-for-27-5-million-seven-years-later-scarlett-johansson-and-colin-jost-bought-the-6000-sq-ft-home-for-13-million-less-than-half-its-original-asking-price/articleshow/135208606.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T10:27:52+00:00"
+  },
+  {
+   "title": "Bill Gates says Meta’s Muse is the first great consumer AI product, but has one worry",
+   "summary": "Microsoft co-founder Bill Gates has called Meta's Muse \"the first truly great consumer AI product\" in an interview with The Verge, revealing he congratulated chief AI officer Alexandr Wang on the personal AI agent....",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-is-a-fan-of-metas-ai-agent-muse-says-i-talked-to-alexandr-wang-about-it-congratulated-him-and-even-though-/articleshow/135208987.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-26T10:22:49+00:00"
+  },
+  {
+   "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+   "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese armySudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass...",
+   "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-26T09:59:27+00:00"
+  },
+  {
+   "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
+   "summary": "Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an...",
+   "link": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-26T09:47:14+00:00"
+  },
+  {
+   "title": "Crowds welcome Venezuela's María Machado after months in exile",
+   "summary": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
+   "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-26T09:31:12+00:00"
+  },
+  {
+   "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+   "summary": "President Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his loyalty to the United States.",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-26T09:22:36+00:00"
+  },
+  {
+   "title": "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
+   "summary": "What makes special education teaching jobs so hard to fill? NPR set out to find some answers by talking to more than a dozen teachers who do this work every day.",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-26T09:00:00+00:00"
+  },
+  {
+   "title": "How AI is transforming hurricane forecasts",
+   "summary": "Hurricane forecasters are increasingly using artificial intelligence to make predictions.",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-26T09:00:00+00:00"
+  },
+  {
+   "title": "Loggers say Roadless Rule repeal won't solve their biggest challenges",
+   "summary": "President Trump is planning to open up some of the nation's last pristine forests to road building and timber companies. But those who work in the woods say it won't do enough to revive the industry.",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6009247/loggers-say-roadless-rule-repeal-wont-solve-their-biggest-challenges",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-26T09:00:00+00:00"
+  },
+  {
+   "title": "Court ruling fails to end wait for thousands of immigrants stuck abroad without visas",
+   "summary": "A federal judge struck down a Trump administration ban on issuing immigrant visas to people from 75 countries, but immigrants continue to be stuck in their countries.",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-5991896/court-ruling-fails-to-end-wait-for-thousands-of-immigrants-stuck-abroad-without-visas",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-26T09:00:00+00:00"
+  },
+  {
+   "title": "Republicans are spending millions and still may not win districts drawn to favor them",
+   "summary": "Republicans redrew Congressional district lines to try to tilt the midterms in their favor. But now they are facing expensive and competitive races they had hoped to outmaneuver.",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6008167/republican-redistricting-midterms-competitive-map",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-26T09:00:00+00:00"
+  },
+  {
+   "title": "Morning news brief",
+   "summary": "Republicans' gerrymandering efforts have led to expensive and competitive races, Brazil's President Lula elected for fourth term, protests sweep parts of Europe.",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6012093/morning-news-brief",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-26T08:42:53+00:00"
+  },
+  {
+   "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
+   "summary": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipatedThe UK is on course to miss its target of spending 0.3% of national income on international aid by an...",
+   "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-26T06:59:36+00:00"
+  },
+  {
+   "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+   "summary": "In today’s newsletter: As Luiz Inácio Lula da Silva secured victory in the presidential race, we look the implications for democracy, the environment and international relationsGood morning. Chances are you woke this...",
+   "link": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-26T06:44:33+00:00"
   },
   {
    "title": "Daughter wins £127k claim for caring for mum at home",
-   "summary": "A woman describes \"phenomenal\" relief after a ruling that she is entitled to be paid for the care.",
+   "summary": "Bern Rogers says the row with her siblings since her elderly mother died was \"harrowing and deeply sad\".",
    "link": "https://www.bbc.co.uk/news/articles/cr93zp78g580o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-26T06:23:01+00:00"
   },
   {
-   "title": "Gukesh vs Sindarov: What do world's top GMs think about the match?",
-   "summary": "With less than a month remaining for the World Championship match in Geneva, D Gukesh faces a confident Javokhir Sindarov, who tore through the Candidates Tournament in Cyprus. While Gukesh has struggled to rediscover...",
-   "link": "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-vs-javokhir-sindarov-what-do-the-worlds-top-gms-think-about-the-upcoming-world-chess-championship-match/articleshow/135204329.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-26T06:19:24+00:00"
-  },
-  {
-   "title": "Brazil runoff live updates: Lula supporters celebrate historic election win as Bolsonaro refuses to concede",
-   "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive termFull report: Lula wins fourth term as Brazil’s president over Flávio...",
-   "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-26T06:18:56+00:00"
-  },
-  {
-   "title": "Indian woman, 25, turns Ireland deportation notice into comedy routine",
-   "summary": "An Indian woman who moved to Ireland in 2022 to study at Trinity College Dublin is now using her real deportation notice in stand-up comedy performances. Jaishree Malik, 25, lost her job after delays in extending her...",
-   "link": "https://timesofindia.indiatimes.com/world/uk/in-2022-an-indian-woman-moved-to-ireland-to-study-at-trinity-college-dublin-four-years-later-now-25-she-is-using-her-real-deportation-notice-in-a-comedy-act-after-visa-delays-cost-her-a-job/articleshow/135203000.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-26T06:15:00+00:00"
-  },
-  {
-   "title": "Rahul Gandhi acquitted in 2018 defamation case over remarks on Amit Shah",
-   "summary": "A special MP/MLA court in Sultanpur dismissed a defamation case against Congress MP Rahul Gandhi on Monday. This case originated in 2018 due to remarks Gandhi made about Amit Shah during a rally. Vijay Mishra, a local...",
-   "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-acquitted-in-2018-defamation-case-involving-amit-shah/articleshow/135204099.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-26T06:13:18+00:00"
-  },
-  {
-   "title": "Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William",
-   "summary": "The rugby league star is \"gold dust\" and \"should have been Sir Kevin years ago,\" says the Prince of Wales.",
-   "link": "https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss",
+   "title": "Kane, Yamal or Kvaratskhelia? BBC Sport pundits on who should win the men's Ballon d'Or",
+   "summary": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-26T06:00:04+00:00"
-  },
-  {
-   "title": "Minnesota court reverses reopening of 300-acre farm estate over 1989 will",
-   "summary": "In a significant Minnesota inheritance case, the state Court of Appeals has reinstated a 2017 ruling concerning the estate of farmer Clarence Vatthauer. Disputes arose from conflicting wills dated 1982 and 1989, leading...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-1982-a-minnesota-farmer-wrote-a-will-leaving-his-300-acre-farm-to-his-son-after-his-wifes-lifetime-a-different-1989-will-later-emerged-and-a-2026-appeals-court-reversed-the-reopening-of-his-estate/articleshow/135194820.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-26T05:38:17+00:00"
-  },
-  {
-   "title": "Rahul Gandhi's convoy involved in minor accident on Purvanchal Expressway",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-convoy-on-way-to-up-crashes-on-purvanchal-expressway/articleshow/135203352.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-26T05:33:12+00:00"
+   "published": "2026-10-26T06:19:12+00:00"
   },
   {
    "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
@@ -80,54 +328,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-26T05:27:12+00:00"
-  },
-  {
-   "title": "Venezuelan opposition leader María Machado returns after months in exile",
-   "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-   "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-26T05:20:19+00:00"
-  },
-  {
-   "title": "Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027",
-   "summary": "Official forecast indicates shortfall below 0.3% of national income in promised official development assistanceThe UK is on course to miss its target of spending 0.3% of national income on international aid by an...",
-   "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-26T05:00:22+00:00"
-  },
-  {
-   "title": "After 2 decades, Jamia Millia Islamia announces resumption of student union elections",
-   "summary": "Jamia Millia Islamia has ordered the holding of students' union elections within 15 days after constitutional approval. The university revoked disciplinary actions taken against students during recent protests and...",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/after-two-decades-jamia-millia-islamia-orders-student-union-polls-within-15-days-of-constitution-approval-students-reject-move-vow-to-continue-stir/articleshow/135202862.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-26T04:48:51+00:00"
-  },
-  {
-   "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-   "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
-   "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-26T04:41:36+00:00"
-  },
-  {
-   "title": "You will not survive AI layoffs if you are one of these: Airbnb CEO's warning",
-   "summary": "Airbnb CEO Brian Chesky highlighted the need for managers to evolve with AI technology during a recent podcast. He stated that traditional people management roles may become obsolete in the AI era. Chesky suggested that...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/airbnb-ceo-brian-chesky-to-everyone-you-will-not-survive-ai-layoffs-if-you-are-one-of-these/articleshow/135202441.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-26T04:06:27+00:00"
-  },
-  {
-   "title": "Crocodile meat bite in Thailand lands Ujjain official in hot water",
-   "summary": "Rajkumar Rathore, an officer of the Ujjain Municipal Corporation, was seen in a viral video sampling crocodile meat. The clip, reportedly shared by his wife, sparked controversy regarding his foreign travel. Rathore...",
-   "link": "https://timesofindia.indiatimes.com/city/indore/crocodile-meat-bite-in-thailand-lands-ujjain-official-in-hot-water-video-emerges/articleshow/135201290.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-26T02:58:28+00:00"
   },
   {
    "title": "Watch: How Lula turned it around to beat former president's son",
@@ -146,60 +346,12 @@
    "published": "2026-10-26T02:16:37+00:00"
   },
   {
-   "title": "Actress arrested over Rs 5 crore extortion from ex-BJP MLA’s daughter",
-   "summary": "Urmila Sanawar was arrested by police in Haridwar after allegations of extortion surfaced. The complaints involved demands for Rs 5 crore and property transfer from Suresh Rathore's daughter. Sanawar allegedly made...",
-   "link": "https://timesofindia.indiatimes.com/city/dehradun/actress-urmila-sanawar-arrested-over-rs-5-crore-extortion-from-ex-bjp-mlas-daughter-days-after-vip-audio-tapes-in-rishikesh-murder-case-surface/articleshow/135200553.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-26T02:02:07+00:00"
-  },
-  {
-   "title": "Rs 1L penalty on Shangri-La for service charge",
-   "summary": "The Central Consumer Protection Authority has fined Shangri-La Eros hotel in New Delhi for an illegal service charge. The hotel had automatically added a 10% service charge to bills, which was considered unfair. After...",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/delhis-shangri-la-eros-hotel-fined-rs-1-lakh-for-automatically-adding-10-service-charge-to-food-bills-at-mister-chai-restaurant-ccpa-orders-restaurant-to-stop-collecting-it-by-default-after-finding-customers-were-also-charged-gst-on-the-added-amount-despite-the-hotel-claiming-the-charge-was-optional/articleshow/135200467.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-26T01:43:17+00:00"
-  },
-  {
-   "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
-   "summary": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.",
-   "link": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-26T01:40:39+00:00"
-  },
-  {
    "title": "India's cartoonists built an audience online - now their posts are being restricted",
    "summary": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
    "link": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-26T01:09:41+00:00"
-  },
-  {
-   "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-   "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-   "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-26T01:07:05+00:00"
-  },
-  {
-   "title": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
-   "summary": "The fifth plenum comes against a backdrop of years of purges that have had some analysts wondering if the issue is corruption or a lack of loyaltyWhen Xi Jinping came to power in 2012, he pledged to stamp out corruption...",
-   "link": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-26T00:58:25+00:00"
-  },
-  {
-   "title": "Brazil's left-wing President Lula elected for fourth term",
-   "summary": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-26T00:35:00+00:00"
   },
   {
    "title": "Faisal Islam: Healey's Budget needs to sustain the stronger economy through gathering clouds",
@@ -210,7 +362,7 @@
    "published": "2026-10-26T00:26:49+00:00"
   },
   {
-   "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+   "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
    "summary": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election resultLula wins election in stunning comeback – live updatesLuiz Inácio Lula da Silva, the...",
    "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
    "source": "The Guardian",
@@ -226,100 +378,12 @@
    "published": "2026-10-26T00:15:36+00:00"
   },
   {
-   "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+   "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
    "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
    "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-25T23:44:34+00:00"
-  },
-  {
-   "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-   "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
-   "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-25T23:33:19+00:00"
-  },
-  {
-   "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-   "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
-   "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-25T22:37:36+00:00"
-  },
-  {
-   "title": "Deeply divided Israel braces for pivotal election",
-   "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-   "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-25T22:11:13+00:00"
-  },
-  {
-   "title": "EC refuses to give details of SIR software, cites ‘trade secrets, IPR'",
-   "summary": "Election Commission of India declined to share the name of the software used for identifying electoral roll errors. The request for information was made under the Right to Information Act. A social activist from...",
-   "link": "https://timesofindia.indiatimes.com/india/ec-refuses-to-give-details-of-sir-software-cites-trade-secrets-ipr/articleshow/135197575.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-25T21:34:41+00:00"
-  },
-  {
-   "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
-   "summary": "Pennsylvania is the worst hit state, with at least 1,338 cases of measles confirmed in 44 counties so far this year, according to the Pennsylvania Department of Health.",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-25T20:35:35+00:00"
-  },
-  {
-   "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-   "summary": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
-   "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-25T18:38:17+00:00"
-  },
-  {
-   "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-   "summary": "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-25T17:50:35+00:00"
-  },
-  {
-   "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-   "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-25T16:18:41+00:00"
-  },
-  {
-   "title": "Israelis have changed. Will they change their leadership?",
-   "summary": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
-   "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-25T16:00:00+00:00"
-  },
-  {
-   "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
-   "summary": "Horror writer Stephen Graham Jones says horror's current moment is powered by more than just fear.",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-25T15:03:17+00:00"
-  },
-  {
-   "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-   "summary": "Incumbent president lost in first round to senator and son of convicted ex-president Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, Luiz Inácio Lula da...",
-   "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-25T14:41:17+00:00"
   },
   {
    "title": "Netflix lays off 6% of workforce amidst slowing growth",
@@ -328,22 +392,6 @@
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-10-25T12:25:29+00:00"
-  },
-  {
-   "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
-   "summary": "Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse imagesAll signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a...",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-25T11:52:45+00:00"
-  },
-  {
-   "title": "This College of Magic turns ordinary kids into cool magicians",
-   "summary": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
-   "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-25T11:24:58+00:00"
   },
   {
    "title": "Budget to include £1bn for social and affordable housing",
@@ -357,25 +405,9 @@
    "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
    "summary": "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy.",
    "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Technology",
+   "category": "Technology",
    "published": "2026-10-25T10:00:00+00:00"
-  },
-  {
-   "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
-   "summary": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kids is unaffordable.",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-25T09:00:00+00:00"
-  },
-  {
-   "title": "Independent candidates sense a moment. Some Democrats hope they're right.",
-   "summary": "As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own brand is hurting.",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-25T09:00:00+00:00"
   },
   {
    "title": "Rosebank: Life on the oil field at the centre of a political storm",
@@ -474,14 +506,6 @@
    "published": "2026-10-23T21:33:31+00:00"
   },
   {
-   "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-   "summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
-   "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-23T15:15:13+00:00"
-  },
-  {
    "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
    "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a...",
    "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
@@ -546,7 +570,7 @@
    "published": "2026-10-23T08:43:57+00:00"
   },
   {
-   "title": "Rubio turns to small Indian town as US faces high oil prices",
+   "title": "Rubio turns to small Indian city as US faces high oil prices",
    "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
    "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC India",
@@ -682,36 +706,12 @@
    "published": "2026-10-21T23:06:37+00:00"
   },
   {
-   "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-   "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-   "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-21T23:04:03+00:00"
-  },
-  {
    "title": "AI is shaking up the field of mathematics. But what comes next?",
    "summary": "AI-written mathematical proofs have saddled the community with a lot of extra homework.",
    "link": "https://www.npr.org/2026/10/21/nx-s1-5995392/ai-is-shaking-up-the-field-of-mathematics-but-what-comes-next",
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-21T21:35:52+00:00"
-  },
-  {
-   "title": "Controversial US-backed vaccine trial in African newborns halted",
-   "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the...",
-   "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-21T17:18:56+00:00"
-  },
-  {
-   "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-   "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailSend us your questions about immigration and the midtermsRelatives of gravely ill detainees at two Florida...",
-   "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-21T13:40:08+00:00"
   },
   {
    "title": "An AI chatbot files for bankruptcy. Is it a bad omen for the industry?",
@@ -768,6 +768,14 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-12T23:10:32+00:00"
+  },
+  {
+   "title": "Tech Now",
+   "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-10T01:00:00+00:00"
   },
   {
    "title": "Why Elon Musk is taking on India's richest man over Starlink",
