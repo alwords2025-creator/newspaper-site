@@ -1,9 +1,241 @@
 {
- "updated": "2026-10-28T10:19:20.599175+00:00",
+ "updated": "2026-10-28T16:45:07.179068+00:00",
  "stories": [
   {
-   "title": "At least 10 dead in crash between 2 trains in Spain",
-   "summary": "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 10 people on Wednesday in central Spain, authorities said.",
+   "title": "How the Budget affects you",
+   "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+   "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T16:43:35+00:00"
+  },
+  {
+   "title": "Will I get the £100 energy payment and when will I receive it?",
+   "summary": "Here is what you need to know about the payment that millions will receive from January.",
+   "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T16:30:53+00:00"
+  },
+  {
+   "title": "Scientists discover giant new fungus in China, 20 inches tall and nearly 5lb",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/scientists-have-discovered-a-giant-new-fungus-in-china-that-grows-up-to-20-inches-tall-and-weighs-nearly-five-pounds-making-it-the-largest-known-of-its-kind-and-a-surprising-new-find-in-a-well-studied-group/articleshow/135272095.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T16:27:07+00:00"
+  },
+  {
+   "title": "WPL 2027 full squads: How MI, RCB, DC, GG, UPW stack up after the auction",
+   "summary": "The five franchises — Royal Challengers Bengaluru, Mumbai Indians, Delhi Capitals, Gujarat Giants and UP Warriorz — had a total of 27 slots to fill.",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-2027-full-squads-how-mi-rcb-dc-gg-upw-stack-up-after-the-auction/articleshow/135272090.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T16:15:12+00:00"
+  },
+  {
+   "title": "Watch: What are the main points from the Budget and how will they be funded?",
+   "summary": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
+   "link": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T16:12:57+00:00"
+  },
+  {
+   "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+   "summary": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T16:10:43+00:00"
+  },
+  {
+   "title": "Meet Toran Sheikh: Bengal road worker has donated blood 105 times in 28 years",
+   "summary": "Toran Sheikh, a dedicated road worker hailing from West Bengal, has made an impressive mark in the realm of philanthropy by donating blood over 100 times since he turned 18. His altruistic journey began when he helped a...",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/after-donating-blood-to-an-injured-colleague-in-1998-bengal-road-worker-toran-sheikh-kept-helping-strangers-28-years-later-the-daily-wage-labourer-has-donated-blood-105-times-and-runs-village-camps/articleshow/135271806.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T16:08:46+00:00"
+  },
+  {
+   "title": "Blindfolded wife 'felt stranger's hand' during sex with husband, court told",
+   "summary": "Four men are currently on trial accused of sexual offences against Joanne Young, which they deny.",
+   "link": "https://www.bbc.co.uk/news/articles/cmzxlr570xgro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T16:07:13+00:00"
+  },
+  {
+   "title": "Tommy Robinson guilty of harassing two Daily Mail journalists",
+   "summary": "The 43-year-old is convicted after a week-long trial at Southwark Crown Court.",
+   "link": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T15:53:16+00:00"
+  },
+  {
+   "title": "Russell Brand tells court allegations made friends and colleagues turn against him",
+   "summary": "The entertainer is giving evidence at his trial on charges including rape and assault, which he denies.",
+   "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T15:49:22+00:00"
+  },
+  {
+   "title": "The one thing that didn't change that will affect your pay the most",
+   "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+   "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-28T15:48:03+00:00"
+  },
+  {
+   "title": "Key points at a glance",
+   "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T15:37:50+00:00"
+  },
+  {
+   "title": "What we know about the crash so far",
+   "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+   "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T15:36:11+00:00"
+  },
+  {
+   "title": "'Dissident republicans may be responsible' for hotel explosive device, police say",
+   "summary": "The package was discovered at about 15:20 GMT on Tuesday at Ebrington Square in the Waterside.",
+   "link": "https://www.bbc.co.uk/news/articles/c6lykg0nkll0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T15:19:24+00:00"
+  },
+  {
+   "title": "Cyclone Arnab leaves trail of destruction in Andhra, 8 killed",
+   "summary": "In the wake of severe cyclonic storm Arnab, eight fatalities have been reported across Andhra Pradesh. The cyclone caused extensive damage, uprooting trees and downing power lines, leaving many communities in despair...",
+   "link": "https://timesofindia.indiatimes.com/city/vijayawada/8-dead-as-cyclone-arnab-batters-andhra-coast-uproots-trees-poles-damages-homes/articleshow/135270547.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T15:09:05+00:00"
+  },
+  {
+   "title": "How much is the minimum wage going up by?",
+   "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+   "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-28T14:53:29+00:00"
+  },
+  {
+   "title": "How could Israel break election deadlock? Here are four scenarios",
+   "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T14:30:31+00:00"
+  },
+  {
+   "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+   "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed websiteLina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada...",
+   "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-28T14:16:24+00:00"
+  },
+  {
+   "title": "SC says legality of EC's 'logical discrepancy' checks in SIR remains undecided",
+   "summary": "A bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V Mohana said its earlier decision allowing the Election Commission to use the category in West Bengal was only an interim measure....",
+   "link": "https://timesofindia.indiatimes.com/india/supreme-court-says-legality-of-ecs-logical-discrepancy-checks-in-sir-remains-undecided/articleshow/135268027.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T13:47:04+00:00"
+  },
+  {
+   "title": "Flávio Bolsonaro lands in Miami after Brazil election loss",
+   "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via EcuadorA jet carrying the Brazilian far-right senator Flávio Bolsonaro has landed in Miami, Florida, where the losing...",
+   "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-28T13:39:01+00:00"
+  },
+  {
+   "title": "What's gone up even faster than gas or rent? The cost of caregiving",
+   "summary": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T13:05:33+00:00"
+  },
+  {
+   "title": "Indian-American candidates in US midterms: Key races, latest polling & what's at stake",
+   "summary": "From Ro Khanna's re-election bid in Silicon Valley to Vivek Ramaswamy's gubernatorial contest in Ohio, Indian-American politicians are competing in some of the most closely watched congressional, statewide and mayoral...",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/indian-american-candidates-in-2026-us-midterms-key-races-profiles-latest-polling-whats-at-stake/articleshow/135164500.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T13:03:08+00:00"
+  },
+  {
+   "title": "Spain train crash: Drone footage captures twisted carriages as toll tops 60",
+   "summary": "The crash occurred along the Madrid-Seville high-speed railway line in Toledo province, where two trains carrying hundreds of passengers were travelling in the same direction towards Seville in southwestern Spain,...",
+   "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-accident-drone-view-shows-tilted-carriages-twisted-rail-body-at-site/articleshow/135265093.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T13:02:29+00:00"
+  },
+  {
+   "title": "'Commit to ballot paper': Congress dares PM Modi after his swipe over MLC results",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/guess-how-many-seats-congress-won-pm-modis-ballot-taunt-on-mlc-results/articleshow/135264651.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T12:02:25+00:00"
+  },
+  {
+   "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+   "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
+   "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T11:28:55+00:00"
+  },
+  {
+   "title": "Overturned carriages and makeshift medical tents at crash site",
+   "summary": "Dozens of people are feared dead after a high-speed train collided with another train south of Madrid.",
+   "link": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T11:13:55+00:00"
+  },
+  {
+   "title": "You may get the right to find out what your colleagues earn - here's why",
+   "summary": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
+   "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-28T10:42:39+00:00"
+  },
+  {
+   "title": "'Not a concern': 118 runs, no fifty in tri-series but Babar still has Pakistan's backing",
+   "summary": "Pakistan suffered their first defeat of the series on Tuesday, losing to Sri Lanka by eight wickets in Lahore. Babar top-scored for Pakistan with 29, but the team's batting lineup collapsed as they were bowled out for...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/not-a-concern-118-runs-in-four-innings-no-fifty-in-tri-series-but-babar-azam-still-has-pakistans-backing/articleshow/135261450.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T10:32:57+00:00"
+  },
+  {
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T10:31:22+00:00"
+  },
+  {
+   "title": "Dozens are dead in a high-speed train crash in Spain",
+   "summary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
    "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
    "source": "NPR",
    "category": "Top",
@@ -26,16 +258,8 @@
    "published": "2026-10-28T09:56:49+00:00"
   },
   {
-   "title": "10 dead as high-speed train rams another in Spain; videos show gutted carriages",
-   "summary": "Spain's rail infrastructure operator ADIF confirmed the accident and announced the suspension of services on the affected routes. According to Spanish state broadcaster TVE, the collision involved two high-speed trains...",
-   "link": "https://timesofindia.indiatimes.com/world/europe/10-killed-as-two-high-speed-trains-collide-in-spains-toledo-many-feared-injured-services-disrupted/articleshow/135259381.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T09:44:08+00:00"
-  },
-  {
-   "title": "Festive cheer for central govt employees! Cabinet approves 3% DA increase",
-   "summary": "",
+   "title": "'Diwali gift from PM Modi': Cabinet approves 3% DA increase for central govt employees",
+   "summary": "In a significant move ahead of the Diwali celebrations, the Union Cabinet has approved a 3 percent increase in Dearness Allowance and Dearness Relief for central government employees and pensioners, impacting more than...",
    "link": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-3-da-increase-for-central-govt-employees/articleshow/135259780.cms",
    "source": "Times of India",
    "category": "India",
@@ -50,57 +274,9 @@
    "published": "2026-10-28T09:37:49+00:00"
   },
   {
-   "title": "Italian farmer plants attic seeds, discovers wheat with seven ears on one stalk",
-   "summary": "In a remarkable find, Claudio Grossi, an Italian farmer, unearthed an ancient wheat variety known as Triticum turgidum, which is believed to be over a century old. This heritage wheat demonstrated impressive drought...",
-   "link": "https://timesofindia.indiatimes.com/science/discovery/italian-farmer-planted-mysterious-seeds-found-in-attic-discovered-ancient-biblical-wheat-with-seven-ears-on-one-stalk-that-could-help-crops-survive-drought-and-climate-change/articleshow/135257644.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T09:30:52+00:00"
-  },
-  {
-   "title": "What could be in the Budget?",
-   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T09:25:19+00:00"
-  },
-  {
-   "title": "Washington tenant keeps $75,000 award over paint fumes; extra damages reversed",
-   "summary": "Eric Christiansen faced a significant dilemma when paint fumes from a neighboring workshop rendered his apartment unlivable, prompting him to take legal action. Health authorities confirmed the apartment's hazardous...",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-washington-man-rented-an-apartment-beside-a-car-painting-workshop-where-fumes-made-him-ill-after-a-95904-damages-judgment-an-october-26-appeals-court-preserved-75000-but-overturned-the-extra-damages/articleshow/135255592.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T09:25:00+00:00"
-  },
-  {
-   "title": "Nepal faces days of rain, snow and storms as Cyclone Arnab wreaks havoc in India",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/nepal-faces-days-of-rain-snow-and-storms-as-cyclone-arnab-wreaks-havoc-in-india/articleshow/135259326.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T09:21:46+00:00"
-  },
-  {
-   "title": "MLC polls: Congress faces setback across 4 states; state-wise results and key wins",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-sp-trade-wins-as-congress-faces-setback-in-four-states-top-development/articleshow/135258597.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T09:14:45+00:00"
-  },
-  {
-   "title": "Jadeja loses No. 1 Test all-rounder crown after 4 years; Abhishek tops T20I rankings",
-   "summary": "Jansen's rise to the top in two categories follows his performance in South Africa's comprehensive victory over Australia in the second Test in Gqeberha.",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-loses-no-1-test-all-rounder-crown-after-four-years-abhishek-sharma-dethrones-kishan-to-top-t20i-batting-rankings/articleshow/135258889.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T09:13:16+00:00"
-  },
-  {
-   "title": "How a lifelong Republican came to lead the data center battle in Ohio",
-   "summary": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+   "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
+   "summary": "In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-28T09:00:00+00:00"
@@ -114,25 +290,9 @@
    "published": "2026-10-28T09:00:00+00:00"
   },
   {
-   "title": "Partnerships between ICE and local police surge, report finds",
-   "summary": "The number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration reform advocacy group FWD.us.",
-   "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-28T09:00:00+00:00"
-  },
-  {
    "title": "Here's how Democrats in Congress are preparing for election fraud claims",
    "summary": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud.",
    "link": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-28T09:00:00+00:00"
-  },
-  {
-   "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
-   "summary": "In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-28T09:00:00+00:00"
@@ -146,60 +306,20 @@
    "published": "2026-10-28T09:00:00+00:00"
   },
   {
+   "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+   "summary": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T09:00:00+00:00"
+  },
+  {
    "title": "New teachers union president wants to steer educators away from partisan politics",
    "summary": "NEA President Princess Moss wants to move her organization, the nation's largest labor union, toward issue-based advocacy — and away from party politics.",
    "link": "https://www.npr.org/2026/10/28/nx-s1-5953069/national-education-association-nea-president-princess-moss-politics",
    "source": "NPR",
    "category": "Top",
    "published": "2026-10-28T09:00:00+00:00"
-  },
-  {
-   "title": "Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador",
-   "summary": "The defeated presidential candidate's whereabouts are unclear, as Argentina says he boarded a flight to Ecuador.",
-   "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T08:55:49+00:00"
-  },
-  {
-   "title": "'The twin bond never dies': Vikram Batra's brother on life 27 years after Kargil",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/defence/news/the-twin-bond-never-dies-vikram-batras-brother-on-life-27-years-after-kargil/articleshow/135258565.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T08:51:01+00:00"
-  },
-  {
-   "title": "Morning news brief",
-   "summary": "President Trump crisscrosses the country with scattershot closing messages midterms approach, deadlock after Israeli election shows no clear winner, Fed expected to hold interest rates steady.",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6012226/morning-news-brief",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-28T08:47:33+00:00"
-  },
-  {
-   "title": "Grandmother's Rs 200 coupon wins Rs 50 lakh SUV for 6-year-old grandson",
-   "summary": "During a lively Garba event, Kiran Raikwar made a simple gesture by purchasing a lottery ticket for her grandson Vedansh. To their astonishment, this small act led to a brand-new Toyota Fortuner, realizing a dream...",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/she-bought-a-200-coupon-at-a-garba-event-and-wrote-her-6-year-old-grandsons-name-on-it-a-year-later-grandmother-kiran-raikwars-family-received-the-50-lakh-suv-they-had-dreamed-of-owning-for-years/articleshow/135257700.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T08:31:41+00:00"
-  },
-  {
-   "title": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
-   "summary": "The Odyssey set sail two years ago on a three-year voyage to the seven continents marketed as combining long-term living at sea with global travel.",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-28T07:57:51+00:00"
-  },
-  {
-   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T07:53:20+00:00"
   },
   {
    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
@@ -218,44 +338,12 @@
    "published": "2026-10-28T06:36:14+00:00"
   },
   {
-   "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-   "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-   "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T04:32:36+00:00"
-  },
-  {
    "title": "Zuckerberg & wife give California $50 mn weeks after donation shift announcement",
    "summary": "In a generous move, Mark Zuckerberg and Priscilla Chan have pledged $50 million to Sacramento State University. The contribution will assist in the conversion of three state office buildings into an innovative campus,...",
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-announced-in-late-2025-that-they-are-shifting-their-donations-just-weeks-later-meta-ceo-gifted-state-of-california-50-million-to-fund-abatement-demolition-and-/articleshow/135251878.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-10-28T04:26:20+00:00"
-  },
-  {
-   "title": "Watch: What happens now after close vote in Israeli election?",
-   "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
-   "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T04:22:59+00:00"
-  },
-  {
-   "title": "Microsoft employees in India can now opt for a buyout: Who qualifies and what it pays",
-   "summary": "Microsoft is offering buyouts to around 60,000 employees, over a quarter of its workforce, in India, the US, the UK and Canada. HR head Amy Coleman announced the Voluntary Exit Offer in a memo to staff. The package...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T02:23:35+00:00"
-  },
-  {
-   "title": "'Biggest night in club's history' as fearless Fleetwood stun Arsenal in EFL Cup",
-   "summary": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T00:39:30+00:00"
   },
   {
    "title": "India and China were easing tensions - then a border official spoke out",
@@ -266,28 +354,12 @@
    "published": "2026-10-28T00:06:27+00:00"
   },
   {
-   "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-   "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T00:03:05+00:00"
-  },
-  {
    "title": "'An annoying buzz': The search for stealthier drones",
    "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
    "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-28T00:01:10+00:00"
-  },
-  {
-   "title": "Multiple sclerosis patient living in 'horrific pain' due to UK-wide drugs shortage",
-   "summary": "Jill Kenning says she has been unable to get a drug she uses to manage her condition.",
-   "link": "https://www.bbc.co.uk/news/articles/cr20w5vx39peo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T00:01:03+00:00"
   },
   {
    "title": "China's families are now supporting more old people than kids",
@@ -306,27 +378,11 @@
    "published": "2026-10-27T23:07:06+00:00"
   },
   {
-   "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
-   "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
-   "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-27T22:30:09+00:00"
-  },
-  {
-   "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-   "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
-   "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-27T21:46:43+00:00"
-  },
-  {
-   "title": "Landline switchover could cut people off in emergency, MPs warn",
+   "title": "Landline switchover could cut people off in emergency, minister warned",
    "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
    "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-10-27T20:54:48+00:00"
   },
   {
@@ -336,14 +392,6 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-27T20:30:00+00:00"
-  },
-  {
-   "title": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
-   "summary": "Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad BradfordThe mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent transit...",
-   "link": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-27T20:23:46+00:00"
   },
   {
    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
@@ -445,8 +493,8 @@
    "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
    "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
    "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-10-26T16:27:17+00:00"
   },
   {
@@ -474,28 +522,12 @@
    "published": "2026-10-26T11:00:40+00:00"
   },
   {
-   "title": "Healey to shield low-income pensioners from income tax in the Budget",
-   "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-   "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-26T10:28:12+00:00"
-  },
-  {
    "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
    "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese armySudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass...",
    "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-10-26T09:59:27+00:00"
-  },
-  {
-   "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
-   "summary": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipatedThe UK is on course to miss its target of spending 0.3% of national income on international aid by an...",
-   "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-26T06:59:36+00:00"
   },
   {
    "title": "India's cartoonists built an audience online - now their posts are being restricted",
@@ -528,14 +560,6 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-25T10:00:00+00:00"
-  },
-  {
-   "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-   "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
-   "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-25T06:00:15+00:00"
   },
   {
    "title": "Trade tariffs cause whiplash at Port Milwaukee",
@@ -650,14 +674,6 @@
    "published": "2026-10-23T08:04:17+00:00"
   },
   {
-   "title": "Americans can't get enough of mahjong. These traditional makers are cashing in",
-   "summary": "Shoppers in the U.S. are willing to spend hundreds of dollars for a mahjong set. In the eastern Chinese city of Taixing, manufacturers can barely keep up with the demand.",
-   "link": "https://www.npr.org/2026/10/22/nx-s1-6000127/china-mahjong-tile-game-taixing-manufacturing",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-10-22T20:53:12+00:00"
-  },
-  {
    "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
    "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
    "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
@@ -672,6 +688,14 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-22T17:12:51+00:00"
+  },
+  {
+   "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+   "summary": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
+   "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
+   "category": "India",
+   "published": "2026-10-22T14:08:10+00:00"
   },
   {
    "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
@@ -698,28 +722,12 @@
    "published": "2026-10-22T09:00:00+00:00"
   },
   {
-   "title": "The grads ditching the UK for a fresh start abroad",
-   "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
-   "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-21T23:12:06+00:00"
-  },
-  {
    "title": "Trump's green card curbs test Indian tech workers' American dream",
    "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
    "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-21T23:06:37+00:00"
-  },
-  {
-   "title": "The tech helping crack decades-old cold cases",
-   "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-   "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-20T23:13:24+00:00"
   },
   {
    "title": "Tech Life",
@@ -760,22 +768,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-12T23:10:32+00:00"
-  },
-  {
-   "title": "Tech Now",
-   "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
-   "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-10T01:00:00+00:00"
-  },
-  {
-   "title": "Why Elon Musk is taking on India's richest man over Starlink",
-   "summary": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
-   "link": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-10-09T06:42:37+00:00"
   },
   {
    "title": "Tech Life",
