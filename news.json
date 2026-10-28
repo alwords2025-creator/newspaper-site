@@ -1,133 +1,237 @@
 {
- "updated": "2026-10-28T03:52:32.995548+00:00",
+ "updated": "2026-10-28T10:19:20.599175+00:00",
  "stories": [
   {
-   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "summary": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
-   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
+   "title": "At least 10 dead in crash between 2 trains in Spain",
+   "summary": "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 10 people on Wednesday in central Spain, authorities said.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+   "source": "NPR",
    "category": "Top",
-   "published": "2026-10-28T03:43:38+00:00"
+   "published": "2026-10-28T10:09:46+00:00"
   },
   {
-   "title": "Thick fog to create dangerous driving conditions for UK commuters",
-   "summary": "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week.",
-   "link": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&at_campaign=rss",
+   "title": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
+   "summary": "Mexican police had said they found Shayna Feinman in Tijuana, raising the hopes of missing Arizonan’s familyArizona authorities say their Mexican counterparts were resoundingly mistaken when they publicly claimed...",
+   "link": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-28T10:00:05+00:00"
+  },
+  {
+   "title": "Disabled flyer stranded 24 hrs at airport without wheelchair, airlines to pay Rs 60k",
+   "summary": "A 65-year-old disabled passenger, Kirpal Singh, faced issues during his air travel from Amritsar to London. Singh did not receive the requested wheelchair assistance at Istanbul airport, leaving him stranded for nearly...",
+   "link": "https://timesofindia.indiatimes.com/legal/news/a-65-year-old-with-55-disability-was-left-stranded-at-istanbul-airport-without-wheelchair-assistance-after-a-24-hour-wait-and-delayed-baggage-disrupted-his-onward-journey-a-consumer-court-ordered-indigo-and-turkish-airlines-to-pay-rs-60000-for-the-ordeal/articleshow/135260016.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T09:56:49+00:00"
+  },
+  {
+   "title": "10 dead as high-speed train rams another in Spain; videos show gutted carriages",
+   "summary": "Spain's rail infrastructure operator ADIF confirmed the accident and announced the suspension of services on the affected routes. According to Spanish state broadcaster TVE, the collision involved two high-speed trains...",
+   "link": "https://timesofindia.indiatimes.com/world/europe/10-killed-as-two-high-speed-trains-collide-in-spains-toledo-many-feared-injured-services-disrupted/articleshow/135259381.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T09:44:08+00:00"
+  },
+  {
+   "title": "Festive cheer for central govt employees! Cabinet approves 3% DA increase",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-3-da-increase-for-central-govt-employees/articleshow/135259780.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T09:38:17+00:00"
+  },
+  {
+   "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+   "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatmentThe “unprecedented” spread of the Ebola outbreak means it could...",
+   "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-28T09:37:49+00:00"
+  },
+  {
+   "title": "Italian farmer plants attic seeds, discovers wheat with seven ears on one stalk",
+   "summary": "In a remarkable find, Claudio Grossi, an Italian farmer, unearthed an ancient wheat variety known as Triticum turgidum, which is believed to be over a century old. This heritage wheat demonstrated impressive drought...",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/italian-farmer-planted-mysterious-seeds-found-in-attic-discovered-ancient-biblical-wheat-with-seven-ears-on-one-stalk-that-could-help-crops-survive-drought-and-climate-change/articleshow/135257644.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T09:30:52+00:00"
+  },
+  {
+   "title": "What could be in the Budget?",
+   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-28T03:29:29+00:00"
+   "published": "2026-10-28T09:25:19+00:00"
+  },
+  {
+   "title": "Washington tenant keeps $75,000 award over paint fumes; extra damages reversed",
+   "summary": "Eric Christiansen faced a significant dilemma when paint fumes from a neighboring workshop rendered his apartment unlivable, prompting him to take legal action. Health authorities confirmed the apartment's hazardous...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-washington-man-rented-an-apartment-beside-a-car-painting-workshop-where-fumes-made-him-ill-after-a-95904-damages-judgment-an-october-26-appeals-court-preserved-75000-but-overturned-the-extra-damages/articleshow/135255592.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T09:25:00+00:00"
+  },
+  {
+   "title": "Nepal faces days of rain, snow and storms as Cyclone Arnab wreaks havoc in India",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/nepal-faces-days-of-rain-snow-and-storms-as-cyclone-arnab-wreaks-havoc-in-india/articleshow/135259326.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T09:21:46+00:00"
+  },
+  {
+   "title": "MLC polls: Congress faces setback across 4 states; state-wise results and key wins",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-sp-trade-wins-as-congress-faces-setback-in-four-states-top-development/articleshow/135258597.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T09:14:45+00:00"
+  },
+  {
+   "title": "Jadeja loses No. 1 Test all-rounder crown after 4 years; Abhishek tops T20I rankings",
+   "summary": "Jansen's rise to the top in two categories follows his performance in South Africa's comprehensive victory over Australia in the second Test in Gqeberha.",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-loses-no-1-test-all-rounder-crown-after-four-years-abhishek-sharma-dethrones-kishan-to-top-t20i-batting-rankings/articleshow/135258889.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T09:13:16+00:00"
+  },
+  {
+   "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+   "summary": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T09:00:00+00:00"
+  },
+  {
+   "title": "Why many student voters have a right to choose where to register to vote",
+   "summary": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students' rights.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T09:00:00+00:00"
   },
   {
    "title": "Partnerships between ICE and local police surge, report finds",
    "summary": "The number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration reform advocacy group FWD.us.",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6014746/287g-local-police-immigration-ice",
+   "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
    "source": "NPR",
    "category": "Top",
-   "published": "2026-10-28T03:19:32+00:00"
+   "published": "2026-10-28T09:00:00+00:00"
   },
   {
-   "title": "'Brings the worst out of us’: Ex-cricketer on trolling after Ind's NZ demolition",
-   "summary": "Aakash Chopra found himself the target of social media trolls after his prediction for India's chase in Wellington. With a witty tone, he clarified that he was referring to a 10-over target, which he deemed challenging....",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/brings-the-worst-out-of-all-of-us-ex-india-cricketer-reacts-to-trolling-after-indias-nz-demolition/articleshow/135249964.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T02:55:20+00:00"
+   "title": "Here's how Democrats in Congress are preparing for election fraud claims",
+   "summary": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud.",
+   "link": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T09:00:00+00:00"
   },
   {
-   "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
-   "summary": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
+   "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
+   "summary": "In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T09:00:00+00:00"
+  },
+  {
+   "title": "Are you an organ donor? Here are some rule changes you may want to know",
+   "summary": "Transplant teams can talk to families about organ donation before they've decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T09:00:00+00:00"
+  },
+  {
+   "title": "New teachers union president wants to steer educators away from partisan politics",
+   "summary": "NEA President Princess Moss wants to move her organization, the nation's largest labor union, toward issue-based advocacy — and away from party politics.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-5953069/national-education-association-nea-president-princess-moss-politics",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T09:00:00+00:00"
+  },
+  {
+   "title": "Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador",
+   "summary": "The defeated presidential candidate's whereabouts are unclear, as Argentina says he boarded a flight to Ecuador.",
    "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-28T02:47:45+00:00"
+   "published": "2026-10-28T08:55:49+00:00"
   },
   {
-   "title": "Neil Young again sues Trump campaign for playing Rockin' in the Free World at rally",
-   "summary": "The Canadian-American musician sued Trump in 2020 over unauthorised use of song at a political event.",
-   "link": "https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T02:44:50+00:00"
-  },
-  {
-   "title": "Watch: High tides, uprooted trees as Cyclone Arnab makes landfall along Andhra coast",
+   "title": "'The twin bond never dies': Vikram Batra's brother on life 27 years after Kargil",
    "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/watch-high-tides-uprooted-trees-as-cyclone-arnab-makes-landfall-along-andhra-coast/articleshow/135249584.cms",
+   "link": "https://timesofindia.indiatimes.com/defence/news/the-twin-bond-never-dies-vikram-batras-brother-on-life-27-years-after-kargil/articleshow/135258565.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-28T02:42:21+00:00"
+   "published": "2026-10-28T08:51:01+00:00"
   },
   {
-   "title": "Bradley Cooper's family home bought for $38,000 now worth $700,000",
-   "summary": "Bradley Cooper's family residence in Pennsylvania, originally acquired for $38,000 in 1970, now commands an impressive value of nearly $700,000. This home carries deep sentimental value for Cooper as he reflects on his...",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-1970-bradley-coopers-parents-bought-a-pennsylvania-home-for-38000-decades-later-the-family-still-held-the-house-estimated-at-nearly-700000-while-the-actor-bought-a-33-acre-estate-nearby-for-6-5-million/articleshow/135239742.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T02:25:00+00:00"
-  },
-  {
-   "title": "‘Raped by Rohingya refugees’: Landlord finds woman held captive for 5 months",
-   "summary": "A young Rohingya woman was trafficked from Bangladesh and confined in Hyderabad for five months. During her confinement, she was raped multiple times by four men, including one who falsely married her. The case came to...",
-   "link": "https://timesofindia.indiatimes.com/city/hyderabad/raped-by-other-rohingya-refugees-landlord-breaks-lock-over-unpaid-rent-finds-woman-held-captive-for-5-months-in-hyderabad/articleshow/135249424.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T02:21:54+00:00"
-  },
-  {
-   "title": "Amazon updates AI usage rules for engineers in new memo",
-   "summary": "Amazon's engineering executives have revised the guidelines for Software Development Engineers, emphasizing the necessity of achieving tangible results in the real world. They urge engineers to seamlessly integrate AI...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-updates-ai-usage-rules-for-engineers-sends-memo-we-are-seeing-the-beginning-of-ais-effect-on-software-engineering/articleshow/135249517.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T02:21:09+00:00"
-  },
-  {
-   "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-   "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
-   "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T02:20:25+00:00"
-  },
-  {
-   "title": "Upset Palmer Luckey is not leaving California over 'Billionaire tax'",
-   "summary": "Although the proposed billionaire wealth tax looms over California, Palmer Luckey, the founder of Anduril Industries, remains steadfast in the state. He stands against the tax, arguing that it could drive away residents...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/upset-palmer-luckey-is-not-leaving-california-over-billionaire-tax-making-it-very-clear-that-he-will-stay-as-wants-to-/articleshow/135249466.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-28T02:17:29+00:00"
-  },
-  {
-   "title": "Israeli exit polls suggest no clear winner in pivotal general election",
-   "summary": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
-   "link": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-28T02:09:11+00:00"
-  },
-  {
-   "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
-   "summary": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family.",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+   "title": "Morning news brief",
+   "summary": "President Trump crisscrosses the country with scattershot closing messages midterms approach, deadlock after Israeli election shows no clear winner, Fed expected to hold interest rates steady.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6012226/morning-news-brief",
    "source": "NPR",
    "category": "Top",
-   "published": "2026-10-28T01:58:08+00:00"
+   "published": "2026-10-28T08:47:33+00:00"
   },
   {
-   "title": "Abhishek Sharma scripts history, breaks Rohit Sharma's all-time world record",
-   "summary": "Abhishek Sharma dazzled in the third T20I against New Zealand, smashing 85 sixes in 2026 and breaking Rohit Sharma's former record of 80 sixes from 2023. His scorching performance, scoring 113 runs off 38 balls, led...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/abhishek-sharma-scripts-history-breaks-rohit-sharmas-all-time-world-record/articleshow/135248941.cms",
+   "title": "Grandmother's Rs 200 coupon wins Rs 50 lakh SUV for 6-year-old grandson",
+   "summary": "During a lively Garba event, Kiran Raikwar made a simple gesture by purchasing a lottery ticket for her grandson Vedansh. To their astonishment, this small act led to a brand-new Toyota Fortuner, realizing a dream...",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/she-bought-a-200-coupon-at-a-garba-event-and-wrote-her-6-year-old-grandsons-name-on-it-a-year-later-grandmother-kiran-raikwars-family-received-the-50-lakh-suv-they-had-dreamed-of-owning-for-years/articleshow/135257700.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-10-28T01:36:28+00:00"
+   "published": "2026-10-28T08:31:41+00:00"
+  },
+  {
+   "title": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
+   "summary": "The Odyssey set sail two years ago on a three-year voyage to the seven continents marketed as combining long-term living at sea with global travel.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-10-28T07:57:51+00:00"
+  },
+  {
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T07:53:20+00:00"
   },
   {
    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-   "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talksKing Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he...",
+   "summary": "Royal tour of Caribbean comes as poll suggests majority support among younger Britons for dialogue on slavery reparationsKing Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth...",
    "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
    "source": "The Guardian",
    "category": "Top",
-   "published": "2026-10-28T00:07:22+00:00"
+   "published": "2026-10-28T06:55:35+00:00"
+  },
+  {
+   "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+   "summary": "Far-right senator and his family boarded private plane to Ecuador after crossing border to Argentina, Argentina’s government confirmsThe far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to...",
+   "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-10-28T06:36:14+00:00"
+  },
+  {
+   "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+   "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T04:32:36+00:00"
+  },
+  {
+   "title": "Zuckerberg & wife give California $50 mn weeks after donation shift announcement",
+   "summary": "In a generous move, Mark Zuckerberg and Priscilla Chan have pledged $50 million to Sacramento State University. The contribution will assist in the conversion of three state office buildings into an innovative campus,...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-announced-in-late-2025-that-they-are-shifting-their-donations-just-weeks-later-meta-ceo-gifted-state-of-california-50-million-to-fund-abatement-demolition-and-/articleshow/135251878.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T04:26:20+00:00"
   },
   {
    "title": "Watch: What happens now after close vote in Israeli election?",
@@ -135,15 +239,31 @@
    "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-28T00:04:29+00:00"
+   "published": "2026-10-28T04:22:59+00:00"
   },
   {
-   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-   "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-10-28T00:03:10+00:00"
+   "title": "Microsoft employees in India can now opt for a buyout: Who qualifies and what it pays",
+   "summary": "Microsoft is offering buyouts to around 60,000 employees, over a quarter of its workforce, in India, the US, the UK and Canada. HR head Amy Coleman announced the Voluntary Exit Offer in a memo to staff. The package...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-10-28T02:23:35+00:00"
+  },
+  {
+   "title": "'Biggest night in club's history' as fearless Fleetwood stun Arsenal in EFL Cup",
+   "summary": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T00:39:30+00:00"
+  },
+  {
+   "title": "India and China were easing tensions - then a border official spoke out",
+   "summary": "India-China ties were on a cautious recovery path until a border official’s remarks raised fresh doubts about ground realities.",
+   "link": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
+   "category": "India",
+   "published": "2026-10-28T00:06:27+00:00"
   },
   {
    "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
@@ -162,12 +282,12 @@
    "published": "2026-10-28T00:01:10+00:00"
   },
   {
-   "title": "Flavio Bolsonaro flees Brazil after Lula defeat, US offers visas to family",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/flavio-bolsonaro-flees-brazil-after-lula-defeat-us-offers-visas-to-family/articleshow/135247888.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-27T23:20:21+00:00"
+   "title": "Multiple sclerosis patient living in 'horrific pain' due to UK-wide drugs shortage",
+   "summary": "Jill Kenning says she has been unable to get a drug she uses to manage her condition.",
+   "link": "https://www.bbc.co.uk/news/articles/cr20w5vx39peo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-28T00:01:03+00:00"
   },
   {
    "title": "China's families are now supporting more old people than kids",
@@ -186,14 +306,6 @@
    "published": "2026-10-27T23:07:06+00:00"
   },
   {
-   "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-   "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-   "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-27T22:34:02+00:00"
-  },
-  {
    "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
    "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
    "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
@@ -202,52 +314,20 @@
    "published": "2026-10-27T22:30:09+00:00"
   },
   {
-   "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-   "summary": "Far-right senator en route to US after missing deadline to hand over his passport since loss to LulaThe far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing...",
-   "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-   "source": "The Guardian",
+   "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+   "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
+   "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
    "category": "Top",
-   "published": "2026-10-27T22:03:00+00:00"
+   "published": "2026-10-27T21:46:43+00:00"
   },
   {
-   "title": "India invites Pakistan for SCO civilisational dialogue forum meet next month",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/india-invites-pakistan-for-sco-civilisational-dialogue-forum-meet-next-month/articleshow/135245703.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-27T21:37:20+00:00"
-  },
-  {
-   "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-   "summary": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-27T21:17:57+00:00"
-  },
-  {
-   "title": "Landline switchover could cut people off in emergency, minister warned",
+   "title": "Landline switchover could cut people off in emergency, MPs warn",
    "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
    "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-10-27T20:54:48+00:00"
-  },
-  {
-   "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
-   "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-27T20:45:39+00:00"
-  },
-  {
-   "title": "Solar leases revive unprofitable Massachusetts cranberry bogs",
-   "summary": "In Massachusetts, a groundbreaking approach has emerged as two cranberry bogs have implemented solar panels above their crops. This eco-friendly strategy not only cuts farming expenses but also creates extra revenue...",
-   "link": "https://timesofindia.indiatimes.com/world/us/two-massachusetts-cranberry-bogs-were-too-unprofitable-to-farm-until-owners-installed-solar-fields-10-feet-above-the-vines-income-from-solar-land-leases-helped-restore-berry-production-without-abandoning-agriculture/articleshow/135245299.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-27T20:41:11+00:00"
   },
   {
    "title": "Tech Life",
@@ -266,76 +346,12 @@
    "published": "2026-10-27T20:23:46+00:00"
   },
   {
-   "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
-   "summary": "Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed.",
-   "link": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-10-27T19:56:02+00:00"
-  },
-  {
-   "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-   "summary": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
-   "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-27T19:53:12+00:00"
-  },
-  {
-   "title": "Appeals court overturns $1.55M judgment in $1.275M Michigan home sale",
-   "summary": "In an intriguing legal twist, a Michigan appeals court has vacated a $1.55 million judgment against a couple who pulled out of purchasing a home over unresolved ownership concerns. The court uncovered notable procedural...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-michigan-couple-agreed-to-buy-a-1-275-million-home-for-their-growing-family-but-the-seller-cited-his-ex-wifes-name-on-the-title-after-a-1-55-million-judgment-against-the-buyers-an-appeals-court-overturned-it/articleshow/135245204.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-27T19:49:28+00:00"
-  },
-  {
-   "title": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
-   "summary": "US military says it carried out an airstrike on an alleged drug-trafficking boat in latest attack in regionThe US ⁠military ⁠said on ​Tuesday ⁠it killed ⁠five ​people ‌after ‌an airstrike on a ‌suspected...",
-   "link": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-27T17:35:50+00:00"
-  },
-  {
-   "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-   "summary": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-27T17:01:37+00:00"
-  },
-  {
    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
    "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-10-27T15:01:27+00:00"
-  },
-  {
-   "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
-   "summary": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-27T14:41:17+00:00"
-  },
-  {
-   "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-   "summary": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: Is the rap mogul's self-selection a crowning achievement or a final affront?",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-27T14:15:21+00:00"
-  },
-  {
-   "title": "A 'Green Army' is out to thwart El Niño flooding",
-   "summary": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Niño arrives.",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-27T14:12:35+00:00"
   },
   {
    "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
@@ -346,12 +362,12 @@
    "published": "2026-10-27T13:25:54+00:00"
   },
   {
-   "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-   "summary": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership.",
-   "link": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-10-27T11:39:52+00:00"
+   "title": "Abhishek hits 35-ball ton as India hammer New Zealand",
+   "summary": "Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
+   "category": "India",
+   "published": "2026-10-27T11:26:17+00:00"
   },
   {
    "title": "How Aldi is pushing down grocery prices",
@@ -360,14 +376,6 @@
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-10-27T10:30:00+00:00"
-  },
-  {
-   "title": "Waited 3 months for silver Royal Enfield, got blue; dealer ordered to pay Rs 28,000",
-   "summary": "A Kerala consumer commission has taken a firm stand against a Royal Enfield dealer for unfair practices following a delayed motorcycle delivery. After an arduous wait of three months, the buyer received a different...",
-   "link": "https://timesofindia.indiatimes.com/legal/news/man-waited-3-months-for-a-silver-royal-enfield-classic-350-but-got-a-blue-one-consumer-commission-found-dealer-guilty-and-ordered-it-to-pay-rs-28000-with-interest/articleshow/135230108.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-10-27T09:58:52+00:00"
   },
   {
    "title": "Apple to replace iPhone Duos affected by screen problem",
@@ -522,6 +530,14 @@
    "published": "2026-10-25T10:00:00+00:00"
   },
   {
+   "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+   "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-10-25T06:00:15+00:00"
+  },
+  {
    "title": "Trade tariffs cause whiplash at Port Milwaukee",
    "summary": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
    "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
@@ -568,14 +584,6 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-23T21:33:31+00:00"
-  },
-  {
-   "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-   "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a...",
-   "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-23T13:57:11+00:00"
   },
   {
    "title": "What is PHP and why did it spark a global cyber-security scramble?",
@@ -642,14 +650,6 @@
    "published": "2026-10-23T08:04:17+00:00"
   },
   {
-   "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
-   "summary": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry.",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-10-22T23:55:39+00:00"
-  },
-  {
    "title": "Americans can't get enough of mahjong. These traditional makers are cashing in",
    "summary": "Shoppers in the U.S. are willing to spend hundreds of dollars for a mahjong set. In the eastern Chinese city of Taixing, manufacturers can barely keep up with the demand.",
    "link": "https://www.npr.org/2026/10/22/nx-s1-6000127/china-mahjong-tile-game-taixing-manufacturing",
@@ -674,14 +674,6 @@
    "published": "2026-10-22T17:12:51+00:00"
   },
   {
-   "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-   "summary": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
-   "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-10-22T14:08:10+00:00"
-  },
-  {
    "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
    "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
    "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
@@ -693,8 +685,8 @@
    "title": "Achy from sitting at a desk all day? Try doing this",
    "summary": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
    "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
-   "source": "NPR Business",
-   "category": "Business",
+   "source": "NPR Technology",
+   "category": "Technology",
    "published": "2026-10-22T09:01:00+00:00"
   },
   {
@@ -704,14 +696,6 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-22T09:00:00+00:00"
-  },
-  {
-   "title": "Oracle's debt is growing. The tech giant's investors are concerned",
-   "summary": "Oracle, the multinational tech giant has taken on a lot of loans to build up its AI capacity. But Oracle's investors are not happy with this piling debt load.",
-   "link": "https://www.npr.org/2026/10/22/nx-s1-6007863/oracles-debt-is-growing-the-tech-giants-investors-are-concerned",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-10-22T08:57:19+00:00"
   },
   {
    "title": "The grads ditching the UK for a fresh start abroad",
@@ -728,6 +712,14 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-10-21T23:06:37+00:00"
+  },
+  {
+   "title": "The tech helping crack decades-old cold cases",
+   "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+   "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-10-20T23:13:24+00:00"
   },
   {
    "title": "Tech Life",
