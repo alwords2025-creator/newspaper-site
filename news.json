@@ -1,37 +1,253 @@
 {
- "updated": "2026-11-03T11:35:56.553032+00:00",
+ "updated": "2026-11-03T18:59:51.682302+00:00",
  "stories": [
   {
-   "title": "UK food supply chain affected by European freezer hacks, cyber chief says",
-   "summary": "Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.",
-   "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-03T11:32:47+00:00"
+   "title": "Georgia firm pays $220,000 for nonexistent land, loses bid for refund",
+   "summary": "Talon Assets, LLC acquired land in Atlanta for $220,000 at a county tax sale. Doubts about the property led them to request a refund and tax deed cancellation. However, Fulton County dismissed their case, invoking...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-georgia-company-paid-220000-at-a-tax-auction-for-an-atlanta-parcel-it-says-does-not-exist-after-demanding-its-money-back-it-lost-an-october-30-appeal-because-the-county-was-protected-by-sovereign-immunity/articleshow/135489294.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-03T18:29:00+00:00"
   },
   {
-   "title": "Two planes face threats en route to Warsaw, and one airport is briefly closed",
-   "summary": "A LOT flight out of Heathrow made an unscheduled landing, and a Warsaw-bound SAS plane landed as scheduled after making an alert.",
+   "title": "Texas school's 640-acre farm raises $400,000 a year for scholarships",
+   "summary": "A 640-acre farmland donation made to a Texas school district in 1984 has become a source of college scholarships for hundreds of students. Local farmers in Gruver volunteer their labour and equipment to grow crops,...",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-1984-a-texas-school-district-received-640-acres-of-farmland-decades-later-volunteer-farmers-are-using-its-harvests-to-raise-about-400000-a-year-for-college-scholarships-helping-around-300-students/articleshow/135490407.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-03T18:25:00+00:00"
+  },
+  {
+   "title": "Years of 'rotten egg' smell in Florida prompt county to move against landfill",
+   "summary": "Residents near a landfill in Florida’s Lake County have complained of a persistent rotten-egg smell for years. Now, county commissioners have voted to move ahead with legal action against landfill operator Hubbard...",
+   "link": "https://timesofindia.indiatimes.com/world/us/rotten-egg-smell-has-plagued-florida-residents-for-years-now-county-moves-to-sue-landfill-operator-and-state-agency-after-study-points-to-mount-dora-site-as-likely-source/articleshow/135510267.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-03T18:24:57+00:00"
+  },
+  {
+   "title": "Seven flights across Europe targeted by suspected bomb threats",
+   "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-11-03T11:22:42+00:00"
+   "published": "2026-11-03T17:56:03+00:00"
   },
   {
-   "title": "Gujarat horror: 2 farm labourers burnt alive inside vehicle over Rs 30,000 dispute",
-   "summary": "In the early hours, two farm labourers were killed when a vehicle was set on fire in Amreli. The victims, aged 16 and 21, were sleeping inside the van when it was ignited. Authorities arrested two suspects believed to...",
-   "link": "https://timesofindia.indiatimes.com/city/rajkot/gujarat-horror-2-farm-labourers-burnt-alive-inside-vehicle-over-rs-30000-dues/articleshow/135494328.cms",
+   "title": "Widow faces tax notice for Rs 60 lakh cash deposits; why ITAT gave ‘gift’ relief",
+   "summary": "The Income Tax Department discovered that a woman had deposited Rs 60,07,500 in cash into her bank account during the financial year 2015-16. However, she had not filed an income tax return (ITR) for the corresponding...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/widow-faced-tax-demand-over-rs-60-lakh-cash-deposit-in-her-bank-account-itat-pune-accepts-explanation-that-it-was-a-gift-from-husband-and-deletes-addition/articleshow/135490535.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-03T11:21:18+00:00"
+   "published": "2026-11-03T17:33:39+00:00"
+  },
+  {
+   "title": "Rajkumari Chanu scripts history with maiden Wushu bronze at Youth Olympics Games",
+   "summary": "Rajkumari Lanchenbi Chanu created history at the Dakar 2026 Youth Olympic Games by winning India's first-ever Wushu medal, claiming bronze in the women's Changquan combined event with 18.039 points. Her achievement took...",
+   "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/rajkumari-chanu-scripts-history-with-maiden-wushu-bronze-at-youth-olympics-games/articleshow/135507751.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-03T17:22:15+00:00"
+  },
+  {
+   "title": "Asim Munir flags Hindu-Jewish ties threat to Pakistan and Muslim world, reveals Iran",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/pakistan/asim-munir-flags-growing-hindu-jewish-ties-threat-to-pakistan-and-muslim-world-reveals-iran/articleshow/135507774.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-03T17:12:57+00:00"
+  },
+  {
+   "title": "When caring for aging family members becomes cost prohibitive",
+   "summary": "AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-03T17:09:56+00:00"
+  },
+  {
+   "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+   "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+   "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-03T17:04:02+00:00"
+  },
+  {
+   "title": "'There are no words': Messi, Mbappé lead football's tributes to Jesús de Miguel",
+   "summary": "In a tragic incident, Jesús de Miguel, a forward for CD Tenerife, passed away following a collision with FC Andorra's goalkeeper Jesús Owono during a second-division match. This collision led to cardiac arrest. The...",
+   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/there-are-no-words-messi-mbapp-lead-footballs-tributes-to-jess-de-miguel-after-fatal-on-field-collision/articleshow/135506832.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-03T16:58:09+00:00"
+  },
+  {
+   "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+   "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+   "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-03T16:57:41+00:00"
+  },
+  {
+   "title": "Reform UK councillor charged with rape and sexual assault",
+   "summary": "The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.",
+   "link": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-03T16:43:50+00:00"
+  },
+  {
+   "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+   "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
+   "link": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-03T16:34:33+00:00"
+  },
+  {
+   "title": "Ladakh admin asks Sonam Wangchuk's school to halt activities amid pending HC case",
+   "summary": "The Ladakh administration on Tuesday issued a notice to the Himalayan Institute of Alternatives (HIAL), founded by Sonam Wangchuk, asking it not to undertake any further activities at Desert Flower School in Phyang...",
+   "link": "https://timesofindia.indiatimes.com/city/srinagar/ladakh-admin-asks-sonam-wangchuks-school-to-halt-activities-amid-pending-hc-case/articleshow/135505719.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-03T16:26:36+00:00"
+  },
+  {
+   "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+   "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-03T16:19:29+00:00"
+  },
+  {
+   "title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
+   "summary": "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.",
+   "link": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-03T16:13:45+00:00"
+  },
+  {
+   "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+   "summary": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+   "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-03T15:54:39+00:00"
+  },
+  {
+   "title": "'Want Rahul vs PM Modi debate?' Cong MP runs X poll; asks BJP to make it happen",
+   "summary": "On Monday, Rahul had challenged the Prime Minister to an open debate on the allegations of him of becoming Prime Minister with \"foreign help\" saying the latter would not dare to accept it. The whole showdown began after...",
+   "link": "https://timesofindia.indiatimes.com/india/do-you-want-rahul-vs-pm-modi-open-debate-congress-leader-runs-up-public-poll-asks-bjp-top-brass-to-convince/articleshow/135504251.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-03T15:35:00+00:00"
+  },
+  {
+   "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+   "summary": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-03T15:12:35+00:00"
+  },
+  {
+   "title": "Mining giant joins fight to stop killer toad march across Australia",
+   "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+   "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-03T15:05:01+00:00"
+  },
+  {
+   "title": "Third teen arrested after Halloween party stabbings",
+   "summary": "Five teenage boys, aged 16 and 17, were found with stab wounds at the party on Saturday night.",
+   "link": "https://www.bbc.co.uk/news/articles/ckpdg7l2nd9wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-03T14:40:00+00:00"
+  },
+  {
+   "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+   "summary": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
+   "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-03T14:13:58+00:00"
+  },
+  {
+   "title": "Trump’s troubles with Iran could open the door to China",
+   "summary": "Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the regionChina has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the...",
+   "link": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-03T13:13:50+00:00"
+  },
+  {
+   "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+   "summary": "Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-11-03T13:07:00+00:00"
+  },
+  {
+   "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
+   "summary": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for...",
+   "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-03T13:00:07+00:00"
   },
   {
    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
    "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-03T12:07:59+00:00"
+  },
+  {
+   "title": "Republicans feel the blues as US midterms begin: Key races and faces to watch",
+   "summary": "Current polling trends show that Republicans might encounter difficulties during the midterm elections on November 3, largely due to dissatisfaction among voters. This election is being viewed as a crucial test of the...",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-feeling-blue-as-us-midterms-get-under-way-key-races-indian-americans-in-fray-states-to-watch/articleshow/135491521.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-03T11:58:29+00:00"
+  },
+  {
+   "title": "Drivers may get compensation offers before car finance saga ends",
+   "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+   "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-03T11:56:31+00:00"
+  },
+  {
+   "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+   "summary": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+   "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
+   "category": "India",
+   "published": "2026-11-03T11:51:08+00:00"
+  },
+  {
+   "title": "US Elections 2026: Four Indian-origin candidates chase key milestones",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/vivek-ramaswamy-to-nithya-raman-4-indian-origin-candidates-eye-historic-firsts-in-us-elections-2026/articleshow/135494397.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-03T11:45:04+00:00"
+  },
+  {
+   "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
+   "summary": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
+   "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
+   "source": "NPR",
    "category": "Top",
-   "published": "2026-11-03T11:18:17+00:00"
+   "published": "2026-11-03T11:43:49+00:00"
   },
   {
    "title": "'Quiet quitting' could be hitting the economy - here's why",
@@ -58,14 +274,6 @@
    "published": "2026-11-03T11:03:45+00:00"
   },
   {
-   "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
-   "summary": "MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment \"underlines MI5's serious failures in this case\".",
-   "link": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-03T11:02:47+00:00"
-  },
-  {
    "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
    "summary": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
    "link": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
@@ -82,56 +290,8 @@
    "published": "2026-11-03T11:00:00+00:00"
   },
   {
-   "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
-   "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-03T11:00:00+00:00"
-  },
-  {
-   "title": "Andhra chainsaw attack: Accused loses right leg; schoolgirl taken off ventilator",
-   "summary": "A Class 10 schoolgirl is recovering in a Bengaluru hospital after being injured in a brutal chainsaw attack. The attacker, Hemanth, had to undergo an emergency amputation following police gunfire in self-defense....",
-   "link": "https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-chainsaw-attack-horror-hemanths-right-leg-amputated-schoolgirl-taken-off-ventilator/articleshow/135493413.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-03T10:57:56+00:00"
-  },
-  {
-   "title": "Drivers may get compensation offers before car finance saga ends",
-   "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
-   "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-03T10:56:12+00:00"
-  },
-  {
-   "title": "Tennessee couple loses land claim despite 30 years of mowing and gardening",
-   "summary": "A couple from Tennessee faced a setback as their claim over a strip of land beside their house was overturned by the court. They believed their usage spanning almost 30 years sufficed for establishing ownership through...",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-tennessee-couple-said-nearly-30-years-of-mowing-gardening-and-holding-yard-sales-gave-them-ownership-of-a-strip-next-to-their-home-on-october-29-an-appeals-court-ruled-that-the-developer-owned-the-disputed-land/articleshow/135485818.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-03T10:36:12+00:00"
-  },
-  {
-   "title": "Arnold Schwarzenegger's charity night raises record $9.75m for US students",
-   "summary": "Arnold Schwarzenegger's yearly charity gala has made a remarkable impact, raising $9.75 million for After-School All-Stars. This initiative plays a crucial role in offering educational and extracurricular activities to...",
-   "link": "https://timesofindia.indiatimes.com/world/us/arnold-schwarzeneggers-october-charity-night-raised-a-record-9-75-million-for-after-school-all-stars-which-provides-free-programmes-for-nearly-150000-students-across-the-united-states/articleshow/135484202.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-03T10:35:52+00:00"
-  },
-  {
-   "title": "James Patterson has donated over $220m to literacy and education",
-   "summary": "James Patterson has dedicated over $220 million to improve literacy and education in various sectors. His charitable contributions have resulted in more than 1,000 scholarships for students across the country. By...",
-   "link": "https://timesofindia.indiatimes.com/world/us/best-selling-author-james-patterson-has-given-more-than-220-million-to-literacy-and-education-endowing-over-1000-scholarships-his-giving-now-reaches-students-teachers-libraries-and-independent-bookseller/articleshow/135488113.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-03T10:35:46+00:00"
-  },
-  {
-   "title": "Anthony Zurcher: Three scenarios for how the US midterm results could unfold",
-   "summary": "Democratic wave or Republican resilience? Here are three possible outcomes after Americans have their say.",
+   "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+   "summary": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
    "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
@@ -146,41 +306,17 @@
    "published": "2026-11-03T10:15:35+00:00"
   },
   {
-   "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-   "summary": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
-   "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-03T10:02:48+00:00"
-  },
-  {
-   "title": "'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day",
-   "summary": "One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they're rating his presidency and deciding who to support when he's not on the ballot.",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump",
+   "title": "New restrictions at Texas Tech are changing what professors can teach",
+   "summary": "The rules have led to changes in course materials, prompted accusations of censorship and fueled pushback from faculty and students, including faculty departures, student protests and a federal lawsuit.",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-5963883/texas-tech-academic-sb17-odyssey",
    "source": "NPR",
    "category": "Top",
-   "published": "2026-11-03T10:00:00+00:00"
+   "published": "2026-11-03T10:01:00+00:00"
   },
   {
    "title": "How NPR makes race calls in the 2026 election",
    "summary": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.",
    "link": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-03T10:00:00+00:00"
-  },
-  {
-   "title": "It's Election Day. Control of Congress is on the line, and what else you need to know",
-   "summary": "There are a lot of variables for how things will go today. Results will start to come in at 6 p.m. ET in Kentucky and Indiana, and then it will be off to the races.",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-03T10:00:00+00:00"
-  },
-  {
-   "title": "A new cold war: hackers target fridges across the globe",
-   "summary": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
    "source": "NPR",
    "category": "Top",
    "published": "2026-11-03T10:00:00+00:00"
@@ -194,28 +330,20 @@
    "published": "2026-11-03T10:00:00+00:00"
   },
   {
+   "title": "A new cold war: hackers target fridges across the globe",
+   "summary": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-03T10:00:00+00:00"
+  },
+  {
    "title": "Billionaire Mark Cuban to Gen Z: Listen to Jeff Bezos’ advice; just get a job",
    "summary": "Mark Cuban advises young workers to seek any job to gain practical experience and manage workplace expectations. Both Cuban and Jeff Bezos believe that initial employment develops valuable skills like responsibility and...",
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/billionaire-mark-cubans-message-to-genz-listen-to-amazon-founder-jeff-bezos-advice-i-always-tell-young-people-go-work-at-/articleshow/135491303.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-11-03T09:45:17+00:00"
-  },
-  {
-   "title": "How Indian-Americans plan to vote in the 2026 US midterms: Explained in 5 charts",
-   "summary": "Donald Trump’s second-term policies have triggered a backlash among Indian-Americans, with immigration, economic concerns and relations with India emerging as important fault lines ahead of the midterms. But a resurgent...",
-   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/immigration-economy-us-india-ties-what-is-weighing-on-indian-american-voters-as-us-heads-into-midterms/articleshow/135488581.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-03T09:34:37+00:00"
-  },
-  {
-   "title": "'Very small issue': Fadnavis says Dia Mirza video row not at his level",
-   "summary": "In response to the controversy over the Brihanmumbai Municipal Corporation's removal of Dia Mirza's Diwali firecracker awareness video, Maharashtra Chief Minister Devendra Fadnavis stated that the BMC has the authority...",
-   "link": "https://timesofindia.indiatimes.com/city/mumbai/very-small-issue-cm-devendra-fadnavis-says-dia-mirza-video-row-not-at-his-level-after-bombay-high-court-order-backs-bmc/articleshow/135490713.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-03T09:27:27+00:00"
   },
   {
    "title": "Spanish footballer dies after collision with goalkeeper during match",
@@ -234,14 +362,6 @@
    "published": "2026-11-03T08:33:20+00:00"
   },
   {
-   "title": "Sensex ends over 1,200 points up, Nifty50 crosses 23,800: Top 5 reasons for rally",
-   "summary": "Stock market rally today: BSE Sensex ended the day at 76,917.85, up 1,225 points or 1.62%. Nifty50 closed at 23,810.85, up 370 points or 1.58%. The rally added nearly Rs 4 lakh crore to the combined market...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-why-bse-sensex-nifty50-are-rallying-on-november-03-2026-top-reasons-for-bull-run-ltcg-tax-rupee-oil-prices/articleshow/135488376.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-03T08:07:23+00:00"
-  },
-  {
    "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
    "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
    "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
@@ -250,52 +370,12 @@
    "published": "2026-11-03T07:50:14+00:00"
   },
   {
-   "title": "Watch: Just how small is the zeptoverse?",
-   "summary": "BBC science correspondent, Pallab Ghosh, takes us into the zeptoverse and explains how it could change our ideas of how the universe works.",
-   "link": "https://www.bbc.co.uk/news/videos/cwdr8veexkrzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-03T07:33:41+00:00"
-  },
-  {
-   "title": "Google's Sundar Pichai rejects OpenAI president’s vision for future AI interface",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-does-not-fully-agree-with-openai-co-founder-greg-brockman-on-future-of-ai-interface/articleshow/135486103.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-03T06:51:22+00:00"
-  },
-  {
-   "title": "Scientists detect signals from the zeptoverse - the smallest scale of nature ever explored",
-   "summary": "Researchers have detected signals from the smallest distances ever probed.",
-   "link": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-03T06:01:23+00:00"
-  },
-  {
-   "title": "India-Pakistan WC clash draws 84 lakh ticket requests for 34,000 capacity stadium",
-   "summary": "According to the International Cricket Council (ICC), the match has received 8,397,294 requests through the ongoing ticket ballot. The demand far exceeds the stadium's capacity.",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/india-pakistan-2027-world-cup-clash-draws-84-lakh-ticket-requests-for-34000-capacity-stadium/articleshow/135482670.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-03T05:40:54+00:00"
-  },
-  {
    "title": "Christmas 2026 stamps unveiled by Royal Mail",
    "summary": "The annual Christmas collection of five stamps feature scenes from the Nativity.",
    "link": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-11-03T02:27:50+00:00"
-  },
-  {
-   "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
-   "summary": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated.",
-   "link": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-03T01:52:28+00:00"
   },
   {
    "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
@@ -322,19 +402,11 @@
    "published": "2026-11-02T22:27:07+00:00"
   },
   {
-   "title": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others?",
-   "summary": "Researchers have been chasing the dream of a cancer vaccine for decades. Some recent successes with mRNA technology are garnering excitement from patients, doctors, government and investors.",
-   "link": "https://www.npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-02T21:31:10+00:00"
-  },
-  {
    "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
    "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
    "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Technology",
+   "category": "Technology",
    "published": "2026-11-02T20:02:41+00:00"
   },
   {
@@ -344,14 +416,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-02T20:00:27+00:00"
-  },
-  {
-   "title": "From selling juice to Rs 200cr Dubai wedding: The rise & fall of Mahadev kingpin",
-   "summary": "Sourabh Chandrakar, who previously operated a juice shop, transformed into an online betting syndicate head. He allegedly managed Mahadev Online Book, an illegal betting empire that expanded internationally. Following...",
-   "link": "https://timesofindia.indiatimes.com/city/raipur/from-selling-juice-in-bhilai-to-a-rs-200cr-dubai-wedding-the-rise-fall-of-mahadev-app-kingpin-sourabh-chandrakar/articleshow/135472327.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-02T18:48:12+00:00"
   },
   {
    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
@@ -405,17 +469,9 @@
    "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
    "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
    "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-11-02T07:42:33+00:00"
-  },
-  {
-   "title": "Don't get caught out by new Buy Now Pay Later rules",
-   "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
-   "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-01T23:34:49+00:00"
   },
   {
    "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
@@ -426,28 +482,12 @@
    "published": "2026-11-01T22:26:11+00:00"
   },
   {
-   "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-   "summary": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
-   "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-01T16:57:14+00:00"
-  },
-  {
    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
    "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilitiesDonald Trump’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from...",
    "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-01T12:00:12+00:00"
-  },
-  {
-   "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-   "summary": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitorThe cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the...",
-   "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-01T11:54:23+00:00"
   },
   {
    "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
@@ -595,7 +635,7 @@
   },
   {
    "title": "Who could be behind the Binance hack and what we know so far",
-   "summary": "Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far",
+   "summary": "Binance has been hit by be the biggest crypto hack ever - here's what we know so far.",
    "link": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Technology",
    "category": "Technology",
@@ -616,22 +656,6 @@
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-10-30T11:21:56+00:00"
-  },
-  {
-   "title": "The two most interesting risks to Anthropic",
-   "summary": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out.",
-   "link": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-10-30T11:00:00+00:00"
-  },
-  {
-   "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-   "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few...",
-   "link": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-10-30T10:07:16+00:00"
   },
   {
    "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
@@ -656,14 +680,6 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-10-30T09:00:00+00:00"
-  },
-  {
-   "title": "How video game remakes tap the power of nostalgia",
-   "summary": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
-   "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-30T07:45:00+00:00"
   },
   {
    "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -754,6 +770,14 @@
    "published": "2026-10-27T20:30:00+00:00"
   },
   {
+   "title": "Polymarket has investigated 'dozens' of election-related cases",
+   "summary": "The prediction market has hired a former FBI official to make sure political insiders don't use the platform for profit from confidential election information.",
+   "link": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
+   "source": "NPR Technology",
+   "category": "Technology",
+   "published": "2026-10-27T09:00:00+00:00"
+  },
+  {
    "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
    "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implicated in a “campaign...",
    "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
@@ -778,28 +802,12 @@
    "published": "2026-10-23T23:02:25+00:00"
   },
   {
-   "title": "The Indian workers filming their work to train AI",
-   "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-   "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-10-23T08:04:17+00:00"
-  },
-  {
    "title": "Tech Life",
    "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
    "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-20T19:45:00+00:00"
-  },
-  {
-   "title": "Tech Life",
-   "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-13T19:45:00+00:00"
   }
  ]
 }
