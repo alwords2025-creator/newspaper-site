@@ -1,21 +1,205 @@
 {
- "updated": "2026-11-05T01:00:09.881621+00:00",
+ "updated": "2026-11-05T08:10:58.145506+00:00",
  "stories": [
   {
-   "title": "Australia's oldest department store David Jones collapses after 188 years",
+   "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+   "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-05T08:07:22+00:00"
+  },
+  {
+   "title": "'Spreading anarchy': Amit Shah hits out at Rahul's 'tactics', warns of 'fitting reply'",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/spreading-anarchy-amit-shah-hits-out-at-rahuls-tactics-warns-of-fitting-reply-amid-vote-chori-row/articleshow/135564648.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T08:01:20+00:00"
+  },
+  {
+   "title": "Italian chef fired after refusing to put pineapple on pizza",
+   "summary": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
+   "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-05T07:56:53+00:00"
+  },
+  {
+   "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+   "summary": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security lawExclusive: Joshua Wong laments city’s fate from inside maximum security prisonThe Hong Kong activist Joshua Wong...",
+   "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-05T07:56:21+00:00"
+  },
+  {
+   "title": "'You can't see me': Virat Kohli gives Glenn Phillips a John Cena moment - WATCH",
+   "summary": "Virat Kohli welcomed Glenn Phillips by mimicking John Cena's gesture during the first ODI match. This incident occurred when Phillips entered the field while John Cena's entrance music played. Kohli performed this...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/you-cant-see-me-virat-kohli-gives-glenn-phillips-a-john-cena-moment-watch/articleshow/135564278.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T07:53:32+00:00"
+  },
+  {
+   "title": "Killer's appeal 'ludicrous', says family of Henry Nowak",
+   "summary": "Vickrum Digwa, who was sentenced to life in prison for murdering Henry Nowak, appeals his sentence.",
+   "link": "https://www.bbc.co.uk/news/articles/cqn06j20pjl8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-05T07:48:32+00:00"
+  },
+  {
+   "title": "Michael Dell loses $10 billion-plus in hours after Dell CEO sees biggest fall in a day",
+   "summary": "After the US midterm elections, Michael Dell's wealth suffered due to a drastic fall in Dell Technologies' stock, fueled by fears around new data center regulations. Meanwhile, Mark Zuckerberg enjoyed a boost in his net...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/michael-dell-loses-10-billion-plus-in-hours-after-dell-ceo-sees-biggest-fall-in-a-day-in-his-fortune-as-/articleshow/135564025.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T07:43:15+00:00"
+  },
+  {
+   "title": "Wedding plans collapse; 11 strangers join woman for Northern Ireland trip",
+   "summary": "After her fiance suffered a medical emergency and their wedding plans fell apart, Bridget Devaney invited 11 women she had never met to join her on a trip to Northern Ireland. The women, from the US, Canada and Wales,...",
+   "link": "https://timesofindia.indiatimes.com/world/uk/after-her-fiances-medical-emergency-ended-their-plans-to-elope-in-northern-ireland-bridget-devaney-posted-an-invite-online-11-women-she-had-never-met-joined-her-for-a-week-from-the-giants-causeway-to-the-dark-hedges/articleshow/135560922.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T07:30:34+00:00"
+  },
+  {
+   "title": "Kanye West's 6,713-acre Wyoming ranch bought back by family that once owned it",
+   "summary": "In 2019, Kanye West acquired the Bighorn Mountain Ranch, visualizing it as an exclusive retreat. However, with shifting priorities, the Flitner family reacquired the property in 2025. Concerns over potential subdivision...",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2019-kanye-west-bought-a-6713-acre-wyoming-ranch-for-about-14-5-million-six-years-later-the-family-who-had-owned-the-land-for-generations-bought-it-back-fearing-it-might-be-carved-into-subdivisions/articleshow/135563034.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T07:25:31+00:00"
+  },
+  {
+   "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+   "summary": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
+   "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-05T07:02:12+00:00"
+  },
+  {
+   "title": "Kia dealer delays delivery of Rs 39L Carnival; commission awards Rs 2.33L to customer",
+   "summary": "After placing an order for a Kia Carnival, a company experienced significant setbacks when the dealer failed to deliver on time. This delay resulted in considerable financial losses. The commission found the dealer...",
+   "link": "https://timesofindia.indiatimes.com/legal/news/after-booking-a-rs-38-98-lakh-kia-carnival-a-company-waited-months-for-delivery-despite-repeated-assurances-consumer-commission-orders-dealer-to-refund-rs-1-08-lakh-with-9-interest-pay-rs-1-lakh-compensation-and-rs-25000-legal-costs/articleshow/135562755.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T06:59:18+00:00"
+  },
+  {
+   "title": "Poundland owner in crunch talks as retailer's collapse looms",
+   "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+   "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-05T06:58:03+00:00"
+  },
+  {
+   "title": "UP man ties wife to chair, burns her alive over suspected affair",
+   "summary": "In a shocking incident in Jagatpur village, Uttar Pradesh, a 30-year-old woman named Sonam was reportedly murdered by her husband over alleged suspicions of cheating. He tied her to a chair and ignited the flames that...",
+   "link": "https://timesofindia.indiatimes.com/city/lucknow/up-man-ties-wife-to-chair-burns-her-alive-over-suspected-affair-flees-with-children/articleshow/135562785.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T06:54:31+00:00"
+  },
+  {
+   "title": "New £200m fleet of publicly funded trains barely used after three years",
+   "summary": "The final piece in a £2bn rail project is late, with less than half of the trains tested.",
+   "link": "https://www.bbc.co.uk/news/articles/cv62kwg0k038o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-05T06:02:41+00:00"
+  },
+  {
+   "title": "Democrats won on affordability. Can they deliver it?",
+   "summary": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-05T06:01:05+00:00"
+  },
+  {
+   "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+   "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
+   "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-05T05:29:56+00:00"
+  },
+  {
+   "title": "Pope Leo XIV meets Bob Dylan at the Vatican",
+   "summary": "Pope Leo XIV met renowned American musician Bob Dylan at the Vatican's Apostolic Palace last week. Dylan, currently on his 'Rough and Rowdy Ways' tour in Italy, exchanged gifts with the Pope. The Pontiff gifted Dylan a...",
+   "link": "https://timesofindia.indiatimes.com/entertainment/english/music/news/pope-leo-xiv-meets-bob-dylan-at-the-vatican-singer-gifts-pontiff-his-autobiography-receives-a-rosary-in-return/articleshow/135560402.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T05:27:42+00:00"
+  },
+  {
+   "title": "Diwali bonanza: Investors get Rs 7.3 L cr richer - top reasons behind stock market rally",
+   "summary": "Dalal Street witnessed a major surge as Sensex soared over 1,600 points and Nifty50 gained 2%. This rise in the market was supported by a decline in crude oil prices and returning foreign investor interest. The US...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/diwali-bonanza-on-dalal-street-bse-sensex-nse-nifty50-rise-on-november-5-2026-top-reasons-why-stock-market-is-rising/articleshow/135559225.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T05:01:34+00:00"
+  },
+  {
+   "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+   "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military,...",
+   "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-05T05:00:55+00:00"
+  },
+  {
+   "title": "UK-based techie found dead in Gurgaon hotel jacuzzi after shopping with female friend",
+   "summary": "Pranjal Pathak, a 37-year-old man from Agra, was found dead in a hotel jacuzzi in Gurgaon. He was working for a Zurich-based R&D firm and had been living in Manchester. Pathak arrived in India on October 24 and stayed...",
+   "link": "https://timesofindia.indiatimes.com/city/gurgaon/uk-based-techie-found-dead-floating-face-down-in-gurgaon-hotel-jacuzzi-after-shopping-with-female-friend-pills-recovered/articleshow/135559083.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T04:44:38+00:00"
+  },
+  {
+   "title": "Pound rises to its highest level since the Brexit referendum",
+   "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+   "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-05T04:21:35+00:00"
+  },
+  {
+   "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
+   "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+   "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-05T03:47:56+00:00"
+  },
+  {
+   "title": "A drug, custom-made in The Hague, for 7 kids in India",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/a-drug-custom-made-in-the-hague-for-7-kids-in-india/articleshow/135556871.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T03:04:54+00:00"
+  },
+  {
+   "title": "Democrats’ win may galvanise India baiters but they are unlikely to go beyond rhetoric",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrats-win-may-galvanise-india-baiters-but-they-are-unlikely-to-go-beyond-rhetoric/articleshow/135556751.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-05T03:00:38+00:00"
+  },
+  {
+   "title": "Australia's oldest department store David Jones folds after 188 years",
    "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
    "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-11-05T00:59:22+00:00"
-  },
-  {
-   "title": "Bengaluru boy, 4, reads 1,676 words, enters India Book of Records",
-   "summary": "At just four years and eleven months old, Atharva Kirti Sagar from Bengaluru has made headlines by reading an impressive 1,676 words from a chapter called 'A Send-off Party' in under 27 minutes. This remarkable...",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/bengaluru-boy-atharva-kirti-sagar-read-1676-english-words-from-sudha-murtys-the-magic-of-the-lost-temple-at-age-four-earning-india-book-of-records-recognition/articleshow/135536073.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-05T00:36:25+00:00"
   },
   {
    "title": "The NHS is relying more on charities - and that might be creating problems for patients",
@@ -26,60 +210,12 @@
    "published": "2026-11-05T00:12:30+00:00"
   },
   {
-   "title": "10 SDRF personnel missing as boats capsize during Telangana rescue operation",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/10-sdrf-personnel-feared-missing-as-boats-capsize-during-telangana-rescue-operation/articleshow/135554916.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-05T00:07:30+00:00"
-  },
-  {
-   "title": "Five reasons why Republicans lost so badly",
-   "summary": "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.",
-   "link": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-05T00:07:19+00:00"
-  },
-  {
    "title": "Interest rates expected to rise for first time in over three years",
    "summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-11-05T00:00:09+00:00"
-  },
-  {
-   "title": "Is Pete Hegseth on his way out? Trump weighs Pentagon leadership after GOP setback",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/is-pete-hegseth-on-his-way-out-trump-weighs-pentagon-leadership-after-gop-setback/articleshow/135554718.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-04T23:44:51+00:00"
-  },
-  {
-   "title": "SC says population control laws need review as fertility rate falls",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/tfr-down-need-relook-at-popn-control-laws-like-2-child-norm-for-polls-sc/articleshow/135554711.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-04T23:40:19+00:00"
-  },
-  {
-   "title": "Supreme Court says it cannot interfere in criteria for SC/ST reserved constituencies",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/sc-cant-become-third-chamber-of-parliament/articleshow/135554691.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-04T23:36:11+00:00"
-  },
-  {
-   "title": "Pound rises to its highest level since the Brexit referendum",
-   "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
-   "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-04T23:30:28+00:00"
   },
   {
    "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
@@ -90,20 +226,12 @@
    "published": "2026-11-04T23:12:47+00:00"
   },
   {
-   "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-   "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-   "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+   "title": "'Hopefully things get done': Americans react to historic political shift",
+   "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
+   "link": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-11-04T22:48:43+00:00"
-  },
-  {
-   "title": "Hakeem Jeffries launches bid for US House Speaker after Democratic sweep",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/who-is-hakeem-jeffries-democratic-leader-poised-to-become-first-black-us-house-speaker/articleshow/135554337.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-04T22:34:30+00:00"
+   "published": "2026-11-04T22:34:08+00:00"
   },
   {
    "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
@@ -130,14 +258,6 @@
    "published": "2026-11-04T21:11:23+00:00"
   },
   {
-   "title": "Chris Mason: The US elections will change Trump – how will Burnham react?",
-   "summary": "The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?",
-   "link": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-04T21:02:58+00:00"
-  },
-  {
    "title": "Democratic leaders reflect on midterm results and what's next for the party",
    "summary": "Democratic party leaders and political analysts spoke with Morning Edition about the results of the midterm elections, the effects of mid-decade redistricting efforts, and the next steps for the party.",
    "link": "https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways",
@@ -154,12 +274,12 @@
    "published": "2026-11-04T20:46:26+00:00"
   },
   {
-   "title": "'Largely true': Trump admits Iran war played role in GOP midterm losses",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/largely-true-trump-backs-vances-claim-that-iran-war-cost-gop-midterms-says-hed-do-it-again/articleshow/135551312.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-04T20:24:39+00:00"
+   "title": "Anthony Zurcher: Trump is weakened but still wields power for now",
+   "summary": "Trump has given conflicting messages about how he might deal with Democrats in Congress after his party's resounding defeat.",
+   "link": "https://www.bbc.co.uk/news/articles/cmpdg093e589o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-04T20:35:07+00:00"
   },
   {
    "title": "Navajo voters hop tractors, make extraordinary efforts to vote after widespread flooding",
@@ -170,36 +290,12 @@
    "published": "2026-11-04T20:24:30+00:00"
   },
   {
-   "title": "How voter shifts in Texas helped elect a Democratic senator and governor",
-   "summary": "The BBC's Ros Atkins looks at the state's long track record of voting Republican and what was different in this year's election.",
-   "link": "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-04T20:21:14+00:00"
-  },
-  {
    "title": "Herbert Blomstedt, conductor of great orchestras for seven decades, dies at 99",
    "summary": "Modest in his demeanor but remarkably enduring, the American-born, Swedish conductor continually fell in love with music, leading orchestras with no-nonsense insight and integrity well into his 90s.",
    "link": "https://www.npr.org/2026/11/04/nx-s1-5740271/herbert-blomstedt-conductor-dead",
    "source": "NPR",
    "category": "Top",
    "published": "2026-11-04T20:11:14+00:00"
-  },
-  {
-   "title": "Govt paves way for all Agniveers' absorption into armed forces",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/defence/news/govt-opens-absorption-path-for-all-agniveers-rajnath-says-move-aimed-at-creating-younger-fitter-future-ready-military/articleshow/135550905.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-04T19:49:56+00:00"
-  },
-  {
-   "title": "Poundland owner in crunch talks as retailer's collapse looms",
-   "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-   "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-04T19:44:46+00:00"
   },
   {
    "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
@@ -218,28 +314,12 @@
    "published": "2026-11-04T19:38:53+00:00"
   },
   {
-   "title": "‘Call me Senator’: First Muslim elected to Senate has an India link",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/habibi-make-room-for-the-radicals/articleshow/135550299.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-04T19:10:44+00:00"
-  },
-  {
    "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
    "summary": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
    "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
    "source": "NPR",
    "category": "Top",
    "published": "2026-11-04T18:37:34+00:00"
-  },
-  {
-   "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
-   "summary": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
-   "link": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-04T18:35:07+00:00"
   },
   {
    "title": "British man infected with Ebola in DR Congo to be flown back to UK",
@@ -266,52 +346,12 @@
    "published": "2026-11-04T18:14:13+00:00"
   },
   {
-   "title": "What Democrats can and can't do with their new power after taking Congress",
-   "summary": "Democrats can vote legislation through. But Trump still has veto power.",
-   "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-04T18:01:27+00:00"
-  },
-  {
-   "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
-   "summary": "Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump's business interests may all come under the microscope.",
-   "link": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-04T17:38:36+00:00"
-  },
-  {
-   "title": "US job openings rise by 333,000 to 7.52 million as layoffs fall, data shows",
-   "summary": "By September 2026, job vacancies in the United States climbed to an astonishing 7.52 million, demonstrating resilient hiring across various sectors, especially in public services. Interestingly, layoffs dropped while...",
-   "link": "https://timesofindia.indiatimes.com/world/us/us-job-openings-rise-by-333000-to-7-52-million-in-september-while-layoffs-fall-by-127000-fresh-government-data-shows-although-economists-caution-that-the-labor-market-remains-slow-to-hire/articleshow/135544539.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-04T17:12:04+00:00"
-  },
-  {
-   "title": "French fried: Texas Republican pays the price for anti-Indian politics",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/french-fried-texas-republican-pays-the-price-for-anti-indian-politics/articleshow/135545787.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-04T16:37:20+00:00"
-  },
-  {
    "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
    "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
    "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-11-04T16:26:15+00:00"
-  },
-  {
-   "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
-   "summary": "The Methodist pastor who flipped a Republican Senate seat says voters want more than political change. He tells NPR what he heard from Kansans about decency, faith and finding common ground.",
-   "link": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-04T16:08:41+00:00"
   },
   {
    "title": "ANC faces anger over poor services as South Africans vote in local elections",
@@ -322,28 +362,12 @@
    "published": "2026-11-04T14:50:47+00:00"
   },
   {
-   "title": "29+ US communities curb new AI data centres; Texas elects pro-pause governor",
-   "summary": "Communities in the US have recently voted on measures to limit the development of new data centres. These measures reflect a growing concern about the impact of data centres on power and water use, and noise. In Texas,...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/at-least-29-us-communities-vote-to-ban-or-restrict-new-ai-data-centres-with-ohio-approving-10-local-measures-and-texas-electing-a-governor-who-supports-a-construction-pause-challenging-the-industrys-rapid-expansion/articleshow/135542353.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-04T14:29:31+00:00"
-  },
-  {
    "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
    "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
    "link": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-11-04T11:00:00+00:00"
-  },
-  {
-   "title": "How America voted in maps and charts",
-   "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-04T09:53:18+00:00"
   },
   {
    "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
@@ -458,14 +482,6 @@
    "published": "2026-11-03T15:05:01+00:00"
   },
   {
-   "title": "Trump’s troubles with Iran could open the door to China",
-   "summary": "Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the regionChina has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the...",
-   "link": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-03T13:13:50+00:00"
-  },
-  {
    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
    "summary": "Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.",
    "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
@@ -512,14 +528,6 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-11-03T08:33:20+00:00"
-  },
-  {
-   "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-   "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
-   "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-03T07:50:14+00:00"
   },
   {
    "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
@@ -600,14 +608,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-01T22:26:11+00:00"
-  },
-  {
-   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-   "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilitiesDonald Trump’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from...",
-   "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-01T12:00:12+00:00"
   },
   {
    "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
