@@ -1,69 +1,197 @@
 {
- "updated": "2026-11-07T23:46:56.366516+00:00",
+ "updated": "2026-11-08T04:18:08.109693+00:00",
  "stories": [
+  {
+   "title": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
+   "summary": "Police say more than 30 vehicles were involved in the incident on the M20 around 18:40 on Saturday.",
+   "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-08T04:09:21+00:00"
+  },
+  {
+   "title": "Sam Altman may have just revealed why ‘smartest people’ at OpenAI quit",
+   "summary": "In a recent discussion, Sam Altman highlighted the exodus of pivotal researchers from OpenAI, attributing it to challenges in trust and disagreements on AI's development direction. He emphasized that growing concerns...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-may-have-just-revealed-why-smartest-people-at-openai-quit-to-build-their-own-ai/articleshow/135650695.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-08T03:55:10+00:00"
+  },
+  {
+   "title": "23 years after Srinath, Gurnoor Brar achieves rare Indian bowling feat in NZ",
+   "summary": "Gurnoor Brar made waves in the second ODI against New Zealand, achieving remarkable bowling figures of 4/30. This stat positions him as the second-best Indian fast bowler in ODIs in New Zealand history. The match,...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/23-years-after-javagal-srinath-gurnoor-brar-achieves-rare-indian-bowling-feat-in-new-zealand/articleshow/135650313.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-08T03:35:45+00:00"
+  },
+  {
+   "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+   "summary": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
+   "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-08T03:34:22+00:00"
+  },
+  {
+   "title": "Is saving Rs 25,000 worth 4 hours in traffic daily? Gurgaon debate erupts",
+   "summary": "In Gurgaon, a man is weighing the prospect of relocating closer to his workplace to combat his lengthy daily commute. Despite the increased rent of a new flat, he reflects on the potential time savings each day. His...",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/is-saving-25000-worth-spending-4-hours-in-traffic-every-day-creator-shares-dilemma-of-a-gurgaon-worker-video-sparks-debate-on-rent-travel-and-quality-of-life/articleshow/135637932.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-08T03:29:00+00:00"
+  },
+  {
+   "title": "Watch: Shattered glass, scattered books after strong earthquake rattles Japan",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-shattered-glass-scattered-books-after-strong-earthquake-rattles-japan/articleshow/135650135.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-08T03:14:51+00:00"
+  },
+  {
+   "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+   "summary": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China from Thailand would...",
+   "link": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-08T03:00:28+00:00"
+  },
+  {
+   "title": "‘Nothing wrong’: Gavaskar shuts down criticism of Gambhir's decision to bat Axar at 5",
+   "summary": "Legendary India batter Sunil Gavaskar endorsed the decision to promote Axar Patel during the second ODI against New Zealand. India faced early challenges while chasing a modest target of 135 after losing key wickets....",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/there-was-nothing-wrong-sunil-gavaskar-shuts-down-criticism-of-gautam-gambhirs-decision-to-bat-axar-patel-at-no-5/articleshow/135649980.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-08T02:56:16+00:00"
+  },
+  {
+   "title": "'Ever seen a widow?' Accused's threat to Tech Mahindra ex-APAC head before murder",
+   "summary": "A parking dispute escalated into a shooting incident in Faridabad, where Monu Sharma allegedly killed his neighbor Paramjeet Dhankhar. The confrontation stemmed from a broken parking gate and threats were exchanged at a...",
+   "link": "https://timesofindia.indiatimes.com/city/gurgaon/accuseds-chilling-threats-to-tech-mahindra-ex-apac-head-paramjeet-dhankhar-hours-before-murder-ever-seen-what-a-widow-looks-like/articleshow/135649713.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-08T02:37:44+00:00"
+  },
+  {
+   "title": "33 killed in reported Saudi airstrikes on Yemen village; women, children among dead",
+   "summary": "On Saturday, a series of Saudi airstrikes struck a village near Sanaa, resulting in a tragic loss of life and numerous injuries. This marks one of the worst incidents since the resumption of hostilities between the...",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/at-least-33-killed-in-saudi-airstrikes-on-yemen-village-most-casualties-women-children/articleshow/135649654.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-08T02:18:42+00:00"
+  },
+  {
+   "title": "Another setback for Trump as Dana White rejects White House press secretary offer",
+   "summary": "Donald Trump had offered UFC chief Dana White the position of White House press secretary. White, who is a close friend of Trump, declined the job offer due to existing responsibilities. Trump expressed hope that White...",
+   "link": "https://timesofindia.indiatimes.com/world/us/dana-white-declines-trumps-offer-to-become-white-house-press-secretary-report/articleshow/135649493.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-08T02:13:59+00:00"
+  },
+  {
+   "title": "Netanyahu's comeback bid: What happens if Eisenkot fails to form govt in Israel",
+   "summary": "Gadi Eisenkot has been tasked with forming a new government after the recent elections. His coalition currently lacks the required seats for a majority, presenting significant challenges. Possible support from Arab...",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/can-netanyahu-stage-a-comeback-in-israel-what-if-eisenkot-fails-to-form-govt/articleshow/135649553.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-08T02:00:23+00:00"
+  },
+  {
+   "title": "Royal Family join veterans and families at Festival of Remembrance",
+   "summary": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
+   "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-08T01:24:58+00:00"
+  },
+  {
+   "title": "My parents chose to die together and I was left to grieve alone",
+   "summary": "Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child.",
+   "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-08T01:10:21+00:00"
+  },
+  {
+   "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+   "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its...",
+   "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-08T01:00:48+00:00"
+  },
+  {
+   "title": "75+ Diwali messages, wishes and quotes to spread joy and light 2026",
+   "summary": "Diwali is approaching, and many people will exchange festive greetings with family, friends, and colleagues. The article provides a variety of messages suitable for different recipients, including family, friends, and...",
+   "link": "https://timesofindia.indiatimes.com/etimes/trending/75-happy-diwali-messages-greetings-card-wishes-images-pictures-gif-ai-prompt-instagram-facebook-story-and-quotes-to-spread-joy-and-light-2026/articleshow/135526230.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-08T00:56:08+00:00"
+  },
   {
    "title": "Briton among six killed in 'far-right' shooting in Krakow",
    "summary": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
    "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-11-07T23:41:00+00:00"
+   "published": "2026-11-08T00:55:17+00:00"
   },
   {
-   "title": "What we know so far after Krakow gun attack",
-   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "title": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors",
+   "summary": "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.",
+   "link": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-11-07T22:58:49+00:00"
+   "published": "2026-11-08T00:49:00+00:00"
   },
   {
-   "title": "Congress donations plunge 75% to Rs 131 cr, lowest in 3 years",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/congress-donations-plunge-75-to-rs-131-cr-lowest-in-3years/articleshow/135648682.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T22:56:44+00:00"
+   "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+   "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+   "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-08T00:48:59+00:00"
   },
   {
-   "title": "Ahead of summit, Beijing tells Quad: Don't rake up South China sea row",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/china/ahead-of-summit-beijing-tells-quad-dont-rake-up-south-china-sea-row/articleshow/135648667.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T22:51:35+00:00"
+   "title": "The rise of microdramas: The 'snackable' shows made for the scrolling age",
+   "summary": "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK.",
+   "link": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-08T00:45:45+00:00"
+  },
+  {
+   "title": "Can the Zelda remake capture the magic of the original?",
+   "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+   "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-08T00:37:45+00:00"
   },
   {
    "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-   "summary": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
+   "summary": "It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.",
    "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-11-07T22:29:37+00:00"
+   "published": "2026-11-08T00:31:53+00:00"
   },
   {
-   "title": "Emma Watson's £1m gift helps fund reach 46,100 women and girls",
-   "summary": "Emma Watson's active involvement with the Justice and Equality Fund has significantly bolstered initiatives combating sexual harassment across the UK. The fund has empowered over 20,000 professionals and donated almost...",
-   "link": "https://timesofindia.indiatimes.com/world/uk/emma-watson-donated-1-million-to-a-uk-fund-fighting-sexual-harassment-its-impact-report-later-recorded-46100-women-and-girls-reached-over-20000-professionals-trained-and-59-grants-awarded/articleshow/135578193.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T22:22:00+00:00"
+   "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+   "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
+   "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-08T00:19:52+00:00"
   },
   {
-   "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-   "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+   "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+   "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-11-07T22:19:59+00:00"
-  },
-  {
-   "title": "Leonora Carrington painting kept by family for 70 years heads to auction",
-   "summary": "Fil d'Or is a unique artwork by Leonora Carrington with a fascinating backstory. It was purchased way back in 1953 and remained treasured by a single family for many years. This painting showcases a cool technique known...",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-1953-leonora-carrington-painting-bought-from-a-mexico-city-gallery-the-year-it-was-made-has-stayed-with-one-family-for-more-than-70-years-now-authenticated-fil-dor-goes-up-for-auction-on-november-10/articleshow/135636224.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T22:15:00+00:00"
+   "published": "2026-11-07T23:02:35+00:00"
   },
   {
    "title": "The surprising and often forgotten history of economic populism in Texas",
@@ -74,38 +202,6 @@
    "published": "2026-11-07T22:12:07+00:00"
   },
   {
-   "title": "Sonia’s Babri claim exposes Cong’s anti-Ram face: BJP",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/sonias-babri-claim-exposes-congs-anti-ram-face-bjp/articleshow/135646452.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T21:59:15+00:00"
-  },
-  {
-   "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-   "summary": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
-   "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-07T21:50:58+00:00"
-  },
-  {
-   "title": "Poland shooting: PM reveals 3 bodies at suspect’s home; min flags far-right influence",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/europe/poland-mass-shooting-pm-says-footage-shows-3-bodies-at-suspects-home-minister-cites-far-right-influence/articleshow/135646464.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T21:42:07+00:00"
-  },
-  {
-   "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-   "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-07T21:36:16+00:00"
-  },
-  {
    "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
    "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
    "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
@@ -114,31 +210,7 @@
    "published": "2026-11-07T20:18:18+00:00"
   },
   {
-   "title": "Israel's president picks Netanyahu's rival Gadi Eisenkot to form next government",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-president-taps-opposition-leader-eisenkot-to-form-government-challenging-netanyahu/articleshow/135646065.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T20:06:06+00:00"
-  },
-  {
-   "title": "‘Dana, please take the job!’: Trump offers UFC chief White House press secy post",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/dana-please-take-the-job-trump-offers-ufc-chief-white-house-press-secretary-post/articleshow/135645729.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T19:43:59+00:00"
-  },
-  {
-   "title": "Neighbour fires 15 rounds, kills Singapore-based IT VP after parking spat in Faridabad",
-   "summary": "Families Fought Over Pet Dog Too; Exec Had Returned Home For Nephew’s Wedding",
-   "link": "https://timesofindia.indiatimes.com/city/gurgaon/neighbour-fires-15-rounds-kills-singapore-based-it-vp-after-parking-spat-in-faridabad/articleshow/135645563.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T19:17:35+00:00"
-  },
-  {
-   "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+   "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
    "summary": "A gunman targeted random people as he drove into Krakow's Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight.",
    "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
    "source": "NPR",
@@ -146,12 +218,12 @@
    "published": "2026-11-07T18:37:36+00:00"
   },
   {
-   "title": "IAF Gajraj makes world-record landing at 13,629ft in Ladakh",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/defence/news/iaf-gajraj-makes-world-record-landing-at-13629ft-in-ladakh/articleshow/135644558.cms",
+   "title": "Wangchuk accuses Ladakh admin of witch-hunt & smear campaign",
+   "summary": "Sonam Wangchuk has alleged that he is being witch-hunted by the Ladakh administration for his advocacy. He claims that the administration is harassing educational institutions linked to him and suppressing dissent....",
+   "link": "https://timesofindia.indiatimes.com/india/wangchuk-accuses-ladakh-admin-of-witch-hunt-smear-campaign/articleshow/135644611.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-07T18:19:43+00:00"
+   "published": "2026-11-07T18:22:12+00:00"
   },
   {
    "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
@@ -170,28 +242,12 @@
    "published": "2026-11-07T17:14:36+00:00"
   },
   {
-   "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-   "summary": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
-   "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-07T16:25:55+00:00"
-  },
-  {
-   "title": "No clear winner after tight New Zealand general election",
-   "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-   "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-07T15:56:28+00:00"
-  },
-  {
-   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-   "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-   "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-07T15:19:35+00:00"
+   "title": "Failed gas pump receipt leads North Carolina student to $2m Powerball win",
+   "summary": "Bram Dunehew, a college student, experienced a life-changing moment when a gas pump malfunction led him to purchase a $2 million Powerball ticket. While waiting for his receipt at a convenience store, he decided on a...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-north-carolina-student-went-inside-a-convenience-store-after-a-gas-pump-failed-to-print-his-receipt-the-3-powerball-ticket-he-bought-there-won-him-2-million/articleshow/135639985.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-07T16:52:10+00:00"
   },
   {
    "title": "A promising new medicine against heart disease fails unexpectedly",
@@ -202,28 +258,12 @@
    "published": "2026-11-07T14:50:00+00:00"
   },
   {
-   "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
-   "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its...",
-   "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-07T13:48:18+00:00"
-  },
-  {
    "title": "Democrats plan to widen their probes of fatal ICE shootings",
    "summary": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their deaths at the hands of immigration agents...",
    "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
    "source": "NPR",
    "category": "Top",
    "published": "2026-11-07T13:19:09+00:00"
-  },
-  {
-   "title": "New Zealand election coalition talks will likely take weeks – as it happened",
-   "summary": "This blog is closed, you can read our report on the New Zealand election hereAnother update here with 8% of the vote counted.\n \n \n National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ First 9.6%, Opportunity...",
-   "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-07T13:12:22+00:00"
   },
   {
    "title": "Perspective: Simon Winchester was here to tell a story",
@@ -250,30 +290,6 @@
    "published": "2026-11-07T11:50:21+00:00"
   },
   {
-   "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-   "summary": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
-   "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-07T11:31:10+00:00"
-  },
-  {
-   "title": "Zuckerberg pledged to donate 99% Meta shares; here’s the open letter they wrote",
-   "summary": "Mark Zuckerberg and Priscilla Chan have committed to donate a significant portion of their wealth to philanthropy. Their initiative focuses on advancing human potential and promoting equality for future generations....",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-have-pledged-to-donate-99-of-their-meta-shares-heres-the-open-letter-they-wrote-to-their-eldest-daughter-maxima-in-2015-it-makes-a-promises-that-/articleshow/135635095.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T11:21:51+00:00"
-  },
-  {
-   "title": "AI, electricity bills and voter anger: How data centres tanked Trump's midterm hopes",
-   "summary": "As the midterm elections approach, mounting opposition against data centres is creating a political stir across the United States. Local communities are voicing concerns over soaring electricity costs, excessive water...",
-   "link": "https://timesofindia.indiatimes.com/world/us/ai-electricity-bills-and-voter-anger-how-data-centres-tanked-trumps-midterm-hopes/articleshow/135634353.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-07T10:53:14+00:00"
-  },
-  {
    "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
    "summary": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who'd been evicted after a pay cut and became a leader of a community effort that blocked a vast project.",
    "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
@@ -288,14 +304,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-07T01:55:11+00:00"
-  },
-  {
-   "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-   "summary": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-07T00:31:54+00:00"
   },
   {
    "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
@@ -320,14 +328,6 @@
    "source": "NPR Business",
    "category": "Business",
    "published": "2026-11-06T21:58:09+00:00"
-  },
-  {
-   "title": "The economy propelled Democrats to victory. What can they actually do about it?",
-   "summary": "The party's success was fueled by frustrations over the cost of living. But in divided government, they'll face opposition from Republicans in Congress and a president vowing to use his veto pen.",
-   "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-06T21:53:10+00:00"
   },
   {
    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
@@ -714,14 +714,6 @@
    "published": "2026-11-02T20:02:41+00:00"
   },
   {
-   "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-   "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
-   "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-02T18:25:01+00:00"
-  },
-  {
    "title": "Shock and anger in India after eight-year-old beats six-year-old in classroom",
    "summary": "The girl, who was seriously injured, is out of danger, but remains traumatised by her assault, her family said.",
    "link": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
@@ -808,6 +800,14 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-20T19:45:00+00:00"
+  },
+  {
+   "title": "Tech Life",
+   "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-13T19:45:00+00:00"
   }
  ]
 }
