@@ -1,37 +1,325 @@
 {
- "updated": "2026-11-12T07:29:52.576938+00:00",
+ "updated": "2026-11-12T16:09:37.053542+00:00",
  "stories": [
+  {
+   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+   "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T16:02:10+00:00"
+  },
+  {
+   "title": "Mississippi woman loses insurance appeal after $440,092 fire damage estimate",
+   "summary": "A Mississippi homeowner faced disappointment when her appeal for full insurance coverage following a 2023 fire was denied by a federal appeals court. Despite presenting 1,385 pages of evidence to contest her insurer's...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-mississippi-womans-home-caught-fire-in-2023-and-her-insurer-estimated-440092-in-structural-damage-after-she-sought-full-coverage-and-filed-1385-pages-of-evidence-a-federal-appeals-court-rejected-her-claims/articleshow/135747295.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T15:54:46+00:00"
+  },
+  {
+   "title": "Texas man loses home ownership claim despite $287,000 transfer to partner",
+   "summary": "A legal battle came to an end for a Texas entrepreneur who aimed to claim ownership of a property. The appellate court upheld the original ruling, stating that the evidence presented was inadequate to support a...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-texas-businessman-said-he-bought-a-home-in-2015-with-a-partners-help-while-abroad-but-she-died-and-her-children-inherited-it-an-appeals-court-rejected-his-ownership-challenge-despite-a-287000-bank-transfer/articleshow/135747755.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T15:53:32+00:00"
+  },
+  {
+   "title": "Russian empress's 197-carat sapphire sells for $4.9m, beats $2m estimate",
+   "summary": "In Geneva, a remarkable 197.80-carat gemstone, the Romanov Sapphire from the Russian Crown Jewels, fetched an impressive $4.9 million. This piece of history, once worn by Dowager Empress Maria Feodorovna, encapsulates...",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-197-80-carat-sapphire-once-worn-by-russias-last-imperial-familys-dowager-empress-at-a-1903-royal-ball-has-sold-for-4-9-million-in-geneva-far-above-its-presale-estimate-of-up-to-2-million/articleshow/135774885.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T15:53:18+00:00"
+  },
+  {
+   "title": "'Legend replaces a legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang",
+   "summary": "In light of Jensen Huang's sudden resignation from Nvidia, alleged personal conduct issues have arisen. Donald Trump has proposed Tim Cook as a fitting successor. The Nvidia board swiftly acknowledged Huang's...",
+   "link": "https://timesofindia.indiatimes.com/business/international-business/legend-replaces-a-legend-trump-wants-tim-cook-to-replace-nvidia-ceo-jensen-huang/articleshow/135775422.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T15:50:46+00:00"
+  },
+  {
+   "title": "Chinese 'spy' Alice Huang's firms invested in DeepSeek, promised Nvidia's Blackwell chips",
+   "summary": "Alice Huang, associated with Nvidia CEO Jensen Huang, has drawn scrutiny over her data centre ventures. Companies linked to her invested in DeepSeek to secure Nvidia's Blackwell chips, which are crucial for AI...",
+   "link": "https://timesofindia.indiatimes.com/business/international-business/chinese-spy-alice-huangs-companies-invested-in-deepseek-promised-nvidias-blackwell-chips/articleshow/135774367.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T15:28:29+00:00"
+  },
+  {
+   "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+   "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T15:26:39+00:00"
+  },
+  {
+   "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+   "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-12T15:26:34+00:00"
+  },
+  {
+   "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T15:16:39+00:00"
+  },
+  {
+   "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+   "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-12T15:10:32+00:00"
+  },
+  {
+   "title": "'Need more clarity': Moshin Naqvi shares big update on Rizwan, Imam probe",
+   "summary": "Pakistan Cricket Board chairman Mohsin Naqvi confirmed that investigations into players Mohammad Rizwan and Imam-ul-Haq are nearing completion and findings are expected soon. Both players are allowed to continue...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/need-more-clarity-mohsin-naqvi-shares-big-update-on-mohammad-rizwan-imam-ul-haq-probe/articleshow/135774133.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T14:59:45+00:00"
+  },
+  {
+   "title": "Jensen Huang biographer reacts to the Nvidia CEO's resignation",
+   "summary": "NPR's A Martinez speaks with Stephen Witt, author of a Jensen Huang biography, about his resignation from his role as CEO of Nvidia.",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6038695/jensen-huang-biographer-reacts-to-the-nvidia-ceos-resignation",
+   "source": "NPR Business",
+   "category": "Business",
+   "published": "2026-11-12T14:58:24+00:00"
+  },
+  {
+   "title": "Nvidia without Huang: Who takes over & why the crisis may just be beginning",
+   "summary": "Jensen Huang has resigned as Nvidia CEO after reports of two affairs, including one with alleged Chinese spy Alice Huang. CFO Colette Kress is interim CEO while the board searches for a permanent successor. Here is who...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-resigns-as-nvidia-ceo-who-takes-over-what-lies-ahead-and-why-the-trouble-isnt-over-for-huang-and-nvidia/articleshow/135773398.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T14:32:20+00:00"
+  },
+  {
+   "title": "Nvidia shares crash 13% in opening trade; market value dips below $4 trillion",
+   "summary": "The company said on Thursday that Chief Financial Officer Colette Kress would serve as interim CEO while it searches for a permanent replacement. Nvidia also appointed former Synopysys CEO and board member Harvey Jones...",
+   "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-share-price-today-ceo-jensen-huang-resigns-colette-hress-interim-ceo-november-12-2026-outlook-stock-highlights/articleshow/135772530.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T14:32:02+00:00"
+  },
+  {
+   "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+   "summary": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-12T14:29:59+00:00"
+  },
+  {
+   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T14:27:30+00:00"
+  },
+  {
+   "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+   "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
+   "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-12T14:22:50+00:00"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+   "summary": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-12T14:17:20+00:00"
+  },
+  {
+   "title": "CEO Jensen Huang exits amid spy row; Nvidia hails his 'immeasurable contribution'",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-ceo-jensen-huang-resigns-cfo-colette-kress-to-take-over-as-interim-chief/articleshow/135772633.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T14:04:26+00:00"
+  },
+  {
+   "title": "At least 1 dead, 4 hurt in firing near White House; gunman shoots self",
+   "summary": "On Thursday, Five individuals were shot in Washington DC's Logan Circle area, prompting a significant police response. Authorities cordoned off businesses, a church, and residential buildings during their investigation...",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-shooting-4-people-shot-in-neighbourhood-near-white-house-area-cordoned-off/articleshow/135772622.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T14:02:56+00:00"
+  },
+  {
+   "title": "Gina Hinojosa says she can work with Elon Musk & his companies, but has a condition",
+   "summary": "Gina Hinojosa, Texas' newly elected governor, has stated that collaboration with Elon Musk must prioritize Texans' interests. She previously criticized the outgoing governor for proposals involving public land...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/new-texas-governor-elect-gina-hinojosa-who-campaigned-against-spacex-deal-says-ready-to-have-a-strong-working-relationship-with-elon-musk-and-his-companies-but-has-a-condition/articleshow/135771794.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-12T13:38:37+00:00"
+  },
+  {
+   "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+   "summary": "The UK is seeing impressive growth, but will it last?",
+   "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T13:27:09+00:00"
+  },
+  {
+   "title": "Some under-25s should get fewer benefits, Milburn review to say",
+   "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T13:16:59+00:00"
+  },
+  {
+   "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+   "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to...",
+   "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-12T13:14:38+00:00"
+  },
+  {
+   "title": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
+   "summary": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service.",
+   "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T13:06:12+00:00"
+  },
+  {
+   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+   "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+   "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T13:02:46+00:00"
+  },
+  {
+   "title": "Teenage girl admits murder in row over boy",
+   "summary": "Kayla Smith, 18, pleads guilty to the murder of Chloe Watson Dransfield, who she stabbed to death.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x28e243gg9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T12:49:46+00:00"
+  },
+  {
+   "title": "Schools, libraries and parents face 'difficult decision' over David Walliams books",
+   "summary": "Some schools remove the children's author's books from their libraries after allegations against him.",
+   "link": "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T12:42:43+00:00"
+  },
+  {
+   "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+   "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
+   "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-12T12:15:48+00:00"
+  },
   {
    "title": "UK economy grows at fastest rate for more than two years",
    "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
-   "published": "2026-11-12T07:27:24+00:00"
+   "published": "2026-11-12T11:20:25+00:00"
   },
   {
-   "title": "Owaisi's AIMIM, Chandrashekhar Azad's party announce alliance for 2027 UP polls",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/owaisis-aimim-chandrashekhar-azads-party-announce-alliance-for-2027-up-polls/articleshow/135759434.cms",
-   "source": "Times of India",
+   "title": "Five new miniature frog species found in eastern Himalayas",
+   "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+   "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
    "category": "India",
-   "published": "2026-11-12T07:12:05+00:00"
+   "published": "2026-11-12T11:07:19+00:00"
   },
   {
-   "title": "Kejriwal, daughter get death threats; Rs 7cr demanded in Bishnoi gang's name",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/arvind-kejriwal-daughter-get-death-threat-in-bishnoi-gangs-name-over-rs-7-crore-extortion/articleshow/135759194.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-12T07:01:29+00:00"
+   "title": "'You're triggering me': How to understand your therapy-speak teen",
+   "summary": "Words most often heard in the therapist's chair have made their way into day-to-day conversation - here's a parents' guide to understanding it.",
+   "link": "https://www.bbc.co.uk/news/articles/c962y743y458o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T10:16:54+00:00"
   },
   {
-   "title": "'Mithai khilao': PM Modi recalls how journalists told him he was Gujarat CM",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/mithai-khilao-you-are-gujarat-cm-now-pm-modi-recalls-how-journalists-broke-the-news-to-him/articleshow/135759170.cms",
-   "source": "Times of India",
+   "title": "At least 23 states considered laws governing ICE and schools this year",
+   "summary": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-12T10:00:00+00:00"
+  },
+  {
+   "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+   "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-12T10:00:00+00:00"
+  },
+  {
+   "title": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
+   "summary": "The Kennedy Center's former president Richard Grenell was a paid board member of Ticketmaster's parent company at the same time the two parties were negotiating.",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6031461/kennedy-center-ticketmaster-conflict-of-interest",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-12T10:00:00+00:00"
+  },
+  {
+   "title": "Trump proposed a 'secret weapon' to police colleges. It will soon become reality",
+   "summary": "In a 2023 campaign speech, Trump pledged to reclaim universities from what he called the radical left. His Education Department just finalized a rule to help him do it.",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-12T10:00:00+00:00"
+  },
+  {
+   "title": "How Scott Colom defied the odds to go from DA to Mississippi's Democratic U.S. Senator",
+   "summary": "In a state that hasn't had a Democrat in office since 1980 and hasn't sent a Black Senator to Washington since the 1870s, Colom's win represents a massive upset in state politics.",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-12T10:00:00+00:00"
+  },
+  {
+   "title": "Senators don't always share bill text online before votes. They should, advocates say",
+   "summary": "The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change.",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-12T10:00:00+00:00"
+  },
+  {
+   "title": "Was Delhi pollution data during Diwali misleading?",
+   "summary": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be.",
+   "link": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
    "category": "India",
-   "published": "2026-11-12T07:00:52+00:00"
+   "published": "2026-11-12T09:01:56+00:00"
+  },
+  {
+   "title": "Watch: 'Life-changing moment' boy turns on Tourette syndrome device to help stop tics",
+   "summary": "The wrist device, which has been developed by researchers in Nottingham, has been described as \"life-changing\".",
+   "link": "https://www.bbc.co.uk/news/videos/c94gnv5e31gno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-12T08:27:02+00:00"
   },
   {
    "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
@@ -42,204 +330,12 @@
    "published": "2026-11-12T06:43:31+00:00"
   },
   {
-   "title": "Jeff Bezos' father fled Cuba with 3 shirts, later invested $250,000 in Amazon",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-father-fled-cuba-with-3-shirts-at-16-33-years-later-he-and-his-wife-invested-250000-of-their-savings-in-amazon-a-bet-that-could-now-be-worth-more-than-the-gdp-of-100-countries/articleshow/135699637.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-12T06:31:29+00:00"
-  },
-  {
-   "title": "Rejected by mother and bullied, monkey raised with toy now cares for baby macaque",
-   "summary": "Punch, a Japanese macaque, faced a rough start when he was separated from his mother. He found solace in a stuffed orangutan, which offered him companionship during his early struggles. As time progressed, Punch...",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/rejected-by-his-mother-bullied-by-older-monkeys-and-raised-with-a-stuffed-toy-punch-is-now-showing-a-softer-side-of-care-towards-a-younger-macaque/articleshow/135755869.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-12T06:30:00+00:00"
-  },
-  {
-   "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-   "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-12T06:12:05+00:00"
-  },
-  {
-   "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-   "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-   "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-12T05:59:18+00:00"
-  },
-  {
-   "title": "Woman objects to molestation, gets pushed off Mumbai local train, loses left arm",
-   "summary": "On November 4, a 20-year-old woman was pushed off a local train at Naigaon railway station. She lost her left arm after the incident and is currently receiving treatment. The accused, a 53-year-old man, allegedly...",
-   "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-local-horror-woman-objects-to-molestation-in-compartment-gets-pushed-off-train-loses-left-arm/articleshow/135756172.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-12T05:26:41+00:00"
-  },
-  {
    "title": "US proposes rule change that could affect thousands of H-1B visa extensions",
    "summary": "A proposed rule by the Department of Homeland Security could change how H-1B visa extensions are processed. If enforced, it would remove the requirement for USCIS to give deference to previous approvals. This change...",
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-is-proposing-uscis-to-bring-a-new-rule-that-could-mean-thousands-of-employees-on-h-1b-visa-losing-their-visa-approval/articleshow/135755319.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-11-12T04:33:46+00:00"
-  },
-  {
-   "title": "Who Is Kimberly Powell, the Nvidia executive linked to CEO Jensen Huang",
-   "summary": "Nvidia's CEO Jensen Huang is under fire due to a reported affair with Vice President Kimberly Powell, who has significantly contributed to the company's healthcare operations for nearly two decades. Investigations are...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/who-is-kimberly-powell-the-nvidia-executive-that-ceo-jensen-huang-is-reported-to-be-having-another-affair-with/articleshow/135755198.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-12T04:25:54+00:00"
-  },
-  {
-   "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-   "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
-   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-12T04:18:33+00:00"
-  },
-  {
-   "title": "Government could force media industry to improve safeguards after Walliams allegations",
-   "summary": "Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands.",
-   "link": "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-12T04:01:50+00:00"
-  },
-  {
-   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-   "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-12T04:00:30+00:00"
-  },
-  {
-   "title": "'No room for Taiwan independence': Xi doubles down on reunification push",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/china/no-room-for-taiwan-independence-xi-jinping-doubles-down-on-reunification-push/articleshow/135754408.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-12T03:52:01+00:00"
-  },
-  {
-   "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
-   "summary": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life.",
-   "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-12T03:10:32+00:00"
-  },
-  {
-   "title": "Axar Patel reluctant to lead, Delhi Capitals in a fix ahead of IPL auction",
-   "summary": "TOI has learnt that incumbent captain Axar Patel has expressed his reluctance to lead the team after going through two tough seasons.",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/axar-patel-reluctant-to-lead-delhi-capitals-in-a-fix-ahead-of-ipl-auction/articleshow/135752666.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-12T02:35:09+00:00"
-  },
-  {
-   "title": "Survivor pulled from rubble of deadly building collapse in New York",
-   "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
-   "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-12T02:33:12+00:00"
-  },
-  {
-   "title": "'Happy Diwali': Accused shouted after killing ex-Tech Mahindra regional head",
-   "summary": "An altercation between Mohan Sharma and his neighbor Paramjeet Dhankar led to escalating hostility. Sharma, unable to bear the humiliation, decided to murder Dhankar. On November 6, Sharma lured Dhankar downstairs and...",
-   "link": "https://timesofindia.indiatimes.com/city/faridabad/after-killing-ex-tech-mahindra-regional-head-paramjeet-dhankar-accused-shouted-happy-diwali-i-will-kill-the-whole-family-today/articleshow/135752250.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-12T02:02:58+00:00"
-  },
-  {
-   "title": "How much art does your council own and is it locked away or on display?",
-   "summary": "More than 500,000 pieces of art are owned by 225 councils, the BBC finds, but most of it is storage.",
-   "link": "https://www.bbc.co.uk/news/articles/crgqwgzxeexno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-12T01:03:53+00:00"
-  },
-  {
-   "title": "'You're triggering me': How to understand your therapy-speak teen",
-   "summary": "Words most often heard in the therapist's chair have made their way into day-to-day conversation - here's a parents' guide to understanding it.",
-   "link": "https://www.bbc.co.uk/news/articles/c962y743y458o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-12T00:51:19+00:00"
-  },
-  {
-   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-   "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-12T00:49:05+00:00"
-  },
-  {
-   "title": "Burnham's push for closer EU ties causes ripples in his party and others",
-   "summary": "Ahead of a week which will focus minds on the UK's relationship with the bloc, the prime minister's stance on Europe is causing MPs to think about their leaders' individual strategy.",
-   "link": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-12T00:30:48+00:00"
-  },
-  {
-   "title": "Are max strength cold and flu pills worth the money?",
-   "summary": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.",
-   "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-12T00:12:28+00:00"
-  },
-  {
-   "title": "From Paris to DC - why offices are being turned into apartments",
-   "summary": "Office buildings with low occupancy rates are being transformed into flats.",
-   "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-12T00:05:40+00:00"
-  },
-  {
-   "title": "Democrat Scott Colom wins the closest Senate race in the country",
-   "summary": "Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.",
-   "link": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-11T23:33:59+00:00"
-  },
-  {
-   "title": "Nephew lives rent-free for 14 years, claims aunt's house; court backs uncle",
-   "summary": "A Washington appeals court upheld an uncle's ownership of a family home after his nephew, who had lived there rent-free for 14 years and made several improvements, failed to establish adverse possession. The court found...",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-washington-nephew-lived-rent-free-for-14-years-in-a-house-owned-by-his-aunt-and-uncle-then-claimed-ownership-after-his-aunt-died-a-november-9-appeals-court-upheld-the-uncles-right-to-remove-him/articleshow/135727805.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-11T23:25:00+00:00"
-  },
-  {
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-11T23:22:04+00:00"
-  },
-  {
-   "title": "Democrat Scott Colom wins Mississippi Senate race",
-   "summary": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.",
-   "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-11T23:04:51+00:00"
   },
   {
    "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
@@ -253,24 +349,16 @@
    "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
    "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
    "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-11-11T22:26:18+00:00"
-  },
-  {
-   "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-   "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-   "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-11T21:43:35+00:00"
   },
   {
    "title": "Why is gasoline suddenly under $4 a gallon?",
    "summary": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
    "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-11-11T19:59:14+00:00"
   },
   {
@@ -282,30 +370,6 @@
    "published": "2026-11-11T19:00:33+00:00"
   },
   {
-   "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-   "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
-   "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-11T17:23:10+00:00"
-  },
-  {
-   "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-   "summary": "Nine members of the Kennedy family have joined the legal fight against Trump's D.C. arch, arguing it would disrupt views and cast shadows over their ancestors' graves at Arlington National Cemetery.",
-   "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-11T16:59:32+00:00"
-  },
-  {
-   "title": "What's behind democratic socialists' historic victories in the midterms?",
-   "summary": "Historian and The New Yorker writer Jill Lepore says the DSA, once maligned, is no longer \"beyond the political pale.\" She discusses the history of socialism in America, and its current resurgence.",
-   "link": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-11T16:41:48+00:00"
-  },
-  {
    "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
    "summary": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceansBritain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland...",
    "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
@@ -314,36 +378,12 @@
    "published": "2026-11-11T16:05:45+00:00"
   },
   {
-   "title": "Following big Democratic wins, these swing voters are looking for results",
-   "summary": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
-   "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-11T14:19:42+00:00"
-  },
-  {
    "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
    "summary": "Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violentTomás Beltrán was manoeuvring his car into his garage on Sunday night when the Ecuadorian journalist was...",
    "link": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-11T14:00:52+00:00"
-  },
-  {
-   "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-   "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
-   "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-11T13:30:00+00:00"
-  },
-  {
-   "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-   "summary": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
-   "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-11T12:21:59+00:00"
   },
   {
    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
@@ -578,14 +618,6 @@
    "published": "2026-11-10T00:27:37+00:00"
   },
   {
-   "title": "Nvidia shares tumble as the company says it's investigating CEO Jensen Huang",
-   "summary": "Nvidia's share price falls after the company begins an investigation into CEO Jensen Huang's alleged relationship with a woman accused of being a Chinese spy.",
-   "link": "https://www.npr.org/2026/11/09/nx-s1-6034478/nvidia-shares-tumble-as-the-company-says-its-investigating-ceo-jensen-huang",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-11-09T22:01:47+00:00"
-  },
-  {
    "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
    "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
    "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
@@ -594,28 +626,12 @@
    "published": "2026-11-09T21:52:28+00:00"
   },
   {
-   "title": "The business of El Niño",
-   "summary": "El Niño is expected to bring wild weather, but it's also business opportunity for some. Contractors are booked up as homeowners prepare for heavy rains and ski resorts gear up to cash in on snow.",
-   "link": "https://www.npr.org/2026/11/09/nx-s1-6022405/the-business-of-el-nino",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-11-09T21:21:28+00:00"
-  },
-  {
    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
    "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
    "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-11-09T19:58:01+00:00"
-  },
-  {
-   "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-   "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
-   "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-09T14:50:35+00:00"
   },
   {
    "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
@@ -650,14 +666,6 @@
    "published": "2026-11-08T17:51:17+00:00"
   },
   {
-   "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-   "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-   "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-08T15:37:25+00:00"
-  },
-  {
    "title": "Homes and temples glow across India to mark Diwali",
    "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
    "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
@@ -672,14 +680,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-08T12:00:39+00:00"
-  },
-  {
-   "title": "Can the Zelda remake capture the magic of the original?",
-   "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
-   "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-08T00:37:45+00:00"
   },
   {
    "title": "Google, Meta and TikTok sue to block California youth social media law",
@@ -722,36 +722,12 @@
    "published": "2026-11-06T15:08:43+00:00"
   },
   {
-   "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-   "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 resultThe African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once...",
-   "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-06T12:48:37+00:00"
-  },
-  {
-   "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-   "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
-   "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-11-05T23:16:53+00:00"
-  },
-  {
    "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
    "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
    "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
    "source": "BBC India",
    "category": "India",
    "published": "2026-11-05T09:04:42+00:00"
-  },
-  {
-   "title": "Elon Musk will face scrutiny from Democrats after midterms",
-   "summary": "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts",
-   "link": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-11-04T21:11:23+00:00"
   },
   {
    "title": "Tech Life",
@@ -786,14 +762,6 @@
    "published": "2026-10-30T00:02:35+00:00"
   },
   {
-   "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-   "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
-   "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-10-28T23:11:59+00:00"
-  },
-  {
    "title": "Tech Life",
    "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
    "link": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
@@ -808,6 +776,30 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-10-20T19:45:00+00:00"
+  },
+  {
+   "title": "Tech Now",
+   "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-10T01:00:00+00:00"
+  },
+  {
+   "title": "Tech Now",
+   "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-10-03T01:00:00+00:00"
+  },
+  {
+   "title": "Tech Now",
+   "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-09-26T01:00:13+00:00"
   }
  ]
 }
