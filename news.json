@@ -1,53 +1,197 @@
 {
- "updated": "2026-11-16T00:43:16.137923+00:00",
+ "updated": "2026-11-16T07:37:02.793101+00:00",
  "stories": [
   {
-   "title": "Russia's mega-rich are already imagining a future after Putin",
-   "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
-   "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-16T00:13:14+00:00"
-  },
-  {
-   "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-   "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-   "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-16T00:03:29+00:00"
-  },
-  {
-   "title": "Mother killed after taking son to water park; Colorado family wins $65m",
-   "summary": "A jury in Colorado awarded $65 million to the family of Megan Arneson, who was killed in 2022. Arneson died when a truck carrying an improperly loaded excavator struck an I-25 overpass. Her 10-year-old son, who was in...",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-colorado-single-mother-took-her-10-year-old-son-to-a-water-park-as-a-surprise-but-a-truck-towing-an-excavator-caused-a-fatal-crash-on-their-way-home-killing-her-four-years-later-a-jury-awarded-her-family-65-million/articleshow/135830137.cms",
+   "title": "Ratan Tata’s brother, backs Chandrasekaran’s reappointment & Tata Sons listing",
+   "summary": "Jimmy is the younger son of Naval Tata and his first wife, Sooni Commissariat. His views have come to light as the Tata group faces an intensifying battle over control. The Tata Sons board and Noel Tata, who chairs Tata...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/jimmy-tata-ratan-tatas-younger-brother-backs-n-chandrasekarans-reappointment-tata-sons-listing-noel-tata/articleshow/135875058.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-15T23:25:00+00:00"
+   "published": "2026-11-16T07:23:36+00:00"
   },
   {
-   "title": "Pannun case: US govt seeks 24-year jail, Nikhil Gupta pleads for 12",
+   "title": "BJP lodges complaint after Italian leader's 'vote chor' remark at Congress-led Summit",
+   "summary": "The BJP has lodged a complaint with the Foreigners Regional Registration Office (FRRO) in Hyderabad over alleged interference in India's internal affairs by foreign political representatives at the Congress-organised...",
+   "link": "https://timesofindia.indiatimes.com/india/bjp-lodges-complaint-after-italian-leaders-vote-chor-remark-at-congress-led-summit/articleshow/135876255.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-16T07:23:29+00:00"
+  },
+  {
+   "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+   "summary": "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.",
+   "link": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-16T07:19:11+00:00"
+  },
+  {
+   "title": "Sandpapergate: Khawaja reveals 'awkward' conversation with Steve Smith",
+   "summary": "Usman Khawaja shared details of his discussions with Steve Smith regarding his autobiography on the ball-tampering scandal. He waited until Smith's Test match was over before addressing his claims in the book. Khawaja...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/usman-khawaja-reveals-awkward-conversation-with-steve-smith-before-sandpapergate-claims/articleshow/135876037.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-16T07:13:03+00:00"
+  },
+  {
+   "title": "Ohio retiree, 78, visits 31 state fairs in quest to see all 50",
+   "summary": "At the age of 75, Jim Chew was ready for new adventures after retirement. With 31 state fairs already visited, he set a goal to explore all 50 by 2030. Each fair offers him a taste of local culture, foods, and a chance...",
+   "link": "https://timesofindia.indiatimes.com/world/us/at-75-an-ohio-man-grew-bored-in-retirement-and-set-out-to-visit-all-50-us-state-fairs-now-78-jim-chew-has-reached-31-with-19-remaining-and-hopes-to-finish-his-cross-country-adventure-in-2030/articleshow/135873708.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-16T07:00:00+00:00"
+  },
+  {
+   "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+   "summary": "The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday.",
+   "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-16T06:56:15+00:00"
+  },
+  {
+   "title": "28 Maine cyclists deliver Thanksgiving turkeys to 58 families",
+   "summary": "More than 28 cyclists participated in the eighth annual Turkey Ride to deliver Thanksgiving turkeys. They gathered at Maine Sport Rockport and picked up items from Hannaford Supermarkets. After collecting donations,...",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-maine-more-than-28-cyclists-carried-thanksgiving-turkeys-on-their-bikes-rather-than-in-cars-their-november-14-delivery-helped-58-families-receive-free-holiday-meals-through-a-camden-food-pantry/articleshow/135872047.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-16T06:30:00+00:00"
+  },
+  {
+   "title": "Gas starts flowing from Jackdaw after government green light",
+   "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+   "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-16T06:24:08+00:00"
+  },
+  {
+   "title": "US govt to designate Nvidia & others firms as 'National Champions' to 'target' China",
    "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/us-govt-seeks-24-year-jail-nikhil-gupta-pleads-for-12/articleshow/135868221.cms",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-to-designate-nvidia-microsoft-amazon-and-21-other-companies-as-national-champions-and-the-target-is-again-china/articleshow/135875051.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-15T23:23:39+00:00"
+   "published": "2026-11-16T06:17:08+00:00"
   },
   {
-   "title": "Palm Beach mansion on $9m site under $32m deal amid foreclosure suit",
-   "summary": "A mansion located at 301 Plantation Road in Palm Beach is currently listed for sale at $32 million. The property has a history of foreclosure proceedings after the seller defaulted on a $22 million mortgage. This...",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/an-investor-bought-a-palm-beach-site-for-9-million-in-2023-and-built-a-seven-bedroom-mansion-the-new-home-is-now-under-contract-for-32-million-amid-a-foreclosure-suit/articleshow/135834628.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-15T23:20:00+00:00"
+   "title": "'It felt like I was dying': Why some teenagers don't go to school",
+   "summary": "Teenagers speak to the BBC about struggling with school anxiety ahead of a landmark report on youth unemployment.",
+   "link": "https://www.bbc.co.uk/news/videos/cqe9kgegd2y4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-16T06:02:44+00:00"
   },
   {
-   "title": "Those using Form 6 to re-enroll won't be prosecuted: EC to SC",
-   "summary": "The Election Commission has committed to include every eligible citizen in the electoral rolls during the current process. No legal action will be taken against individuals for re-registering to vote through Form 6....",
-   "link": "https://timesofindia.indiatimes.com/india/those-using-form-6-to-re-enroll-wont-be-prosecuted-ec-to-sc/articleshow/135867900.cms",
+   "title": "'I'd throw up in the car park': How school anxiety is harming children's futures",
+   "summary": "As a landmark report is published, the BBC speaks to school avoiders and those trying to fix the issue.",
+   "link": "https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-16T06:01:33+00:00"
+  },
+  {
+   "title": "Chai with Sachin & gully cricket: Prince William and Kate get royal welcome in Mumbai",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/watch-william-plays-cricket-meets-sachin-tendulkar-enjoys-kulhad-tea-with-kate-in-mumbai/articleshow/135873748.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-15T22:42:24+00:00"
+   "published": "2026-11-16T05:39:51+00:00"
+  },
+  {
+   "title": "'Abusive language': What fuelled India's fierce celebrations against Pakistan",
+   "summary": "Young batter Yashveer Goud revealed that emotional reactions followed India's U19 Asia Cup final victory over Pakistan. India had previously lost to Pakistan in the group stages during Diwali and wanted to avenge that...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/abusive-language-yashveer-goud-reveals-why-india-celebrated-fiercely-after-u19-asia-cup-final-win-over-pakistan/articleshow/135873057.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-16T04:47:40+00:00"
+  },
+  {
+   "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+   "summary": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiationsThe prime minister of Canada, Mark Carney, said the country could turn to...",
+   "link": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-16T04:39:20+00:00"
+  },
+  {
+   "title": "'Insult to faith': BJP shares video of Cong leader throwing plastic bottle in Yamuna",
+   "summary": "BJP condemned Congress party leader Devendra Yadav for allegedly polluting the Yamuna River during Chhath Puja. The BJP accused Congress of disrespecting the faith of Chhath devotees amidst environmental concerns....",
+   "link": "https://timesofindia.indiatimes.com/india/insult-to-faith-bjp-shares-video-of-congress-leader-devendra-yadav-throwing-plastic-bottle-in-yamuna/articleshow/135872304.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-16T04:30:20+00:00"
+  },
+  {
+   "title": "Investors sue chip giant Intel after 29% stock plunge",
+   "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+   "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-16T03:04:01+00:00"
+  },
+  {
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-16T01:47:57+00:00"
+  },
+  {
+   "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+   "summary": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
+   "link": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-16T01:22:50+00:00"
+  },
+  {
+   "title": "Flight disruptions expected to last into Monday",
+   "summary": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more.",
+   "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-16T01:19:28+00:00"
+  },
+  {
+   "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+   "summary": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen HuangGet our breaking news email, free app or daily...",
+   "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-16T01:17:04+00:00"
+  },
+  {
+   "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+   "summary": "Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the AmazonPope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by...",
+   "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-16T01:13:44+00:00"
+  },
+  {
+   "title": "Black Friday and tax return scams  - don't fall for these",
+   "summary": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-16T00:50:39+00:00"
+  },
+  {
+   "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
+   "summary": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-16T00:47:04+00:00"
+  },
+  {
+   "title": "Is India rethinking its short-term military recruitment scheme?",
+   "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
+   "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
+   "category": "India",
+   "published": "2026-11-16T00:41:42+00:00"
   },
   {
    "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
@@ -58,36 +202,20 @@
    "published": "2026-11-15T22:41:22+00:00"
   },
   {
-   "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+   "title": "'No extradition request': Lalit Modi speaks to TOI after getting British citizenship",
+   "summary": "IPL founder Lalit Modi, who left India in 2010 amid allegations of tax evasion, money laundering and proxy ownership linked to IPL, has announced he has received British citizenship. Lalit was appearing at an event at...",
+   "link": "https://timesofindia.indiatimes.com/india/no-case-against-me-anywhere-he-claims-to-toi/articleshow/135867879.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-15T22:36:25+00:00"
+  },
+  {
+   "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
    "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
    "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-11-15T22:30:03+00:00"
-  },
-  {
-   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-15T22:24:20+00:00"
-  },
-  {
-   "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
-   "summary": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
-   "link": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-15T22:23:57+00:00"
-  },
-  {
-   "title": "Lalit Modi gets British citizenship, extradition prospects take a hit",
-   "summary": "Lalit Modi has announced his acquisition of British citizenship during an event at Oxford Union. While he claims to have faced threats and political persecution, he has refused to return to India. The Enforcement...",
-   "link": "https://timesofindia.indiatimes.com/india/lalit-gets-british-citizenship-extradition-prospects-take-a-hit/articleshow/135866282.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-15T22:22:54+00:00"
   },
   {
    "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
@@ -98,19 +226,11 @@
    "published": "2026-11-15T22:07:55+00:00"
   },
   {
-   "title": "Tories pledge to halt screen-based school exams and cut coursework",
-   "summary": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
-   "link": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-15T22:00:37+00:00"
-  },
-  {
    "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
    "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-11-15T22:00:24+00:00"
   },
   {
@@ -122,14 +242,6 @@
    "published": "2026-11-15T22:00:13+00:00"
   },
   {
-   "title": "Empty Vande Bharat allowed to run 463km despite 'poor power brake'",
-   "summary": "An empty Vande Bharat train journeyed 463 kilometers from Hatia to Deen Dayal Upadhyaya station despite brake problems. Two loco pilots had reported issues with the power brake before the journey commenced. An...",
-   "link": "https://timesofindia.indiatimes.com/india/empty-vande-bharat-allowed-to-run-463km-despite-poor-power-brake/articleshow/135865881.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-15T21:53:55+00:00"
-  },
-  {
    "title": "Trident submarine returns home after record-breaking undersea patrol",
    "summary": "Defence Secretary Wes Streeting was at HM Naval Base Clyde to welcome the crew after the longest deployment at sea for a British vessel.",
    "link": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss",
@@ -138,28 +250,12 @@
    "published": "2026-11-15T21:48:10+00:00"
   },
   {
-   "title": "'Defaming India at global platforms': Amit Shah hits back at Rahul Gandhi",
+   "title": "In a world first, China’s 10-tonne electric commercial aircraft makes crewed flight",
    "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/shah-hits-back-at-rahul-says-hes-defaming-india-at-global-platforms/articleshow/135865782.cms",
+   "link": "https://timesofindia.indiatimes.com/defence/international/in-a-world-first-chinas-10-tonne-electric-commercial-aircraft-makes-crewed-flight/articleshow/135865088.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-15T21:35:43+00:00"
-  },
-  {
-   "title": "'Everyone influential loves him': Jenson Huang discusses comeback as Nvidia CEO with allies",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/business/international-business/everyone-influential-in-tech-loves-jenson-huang-discusses-comeback-as-nvidia-ceo-with-allies-report/articleshow/135865187.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-15T20:23:25+00:00"
-  },
-  {
-   "title": "India’s 5th-gen stealth AMCA aircraft: 3 consortium submit bids, evaluation under way",
-   "summary": "Three Indian contenders, including Tata Advanced Systems Ltd, submitted bids for the Advanced Medium Combat Aircraft programme. The Defence Ministry's committee is evaluating proposals for developing five prototypes...",
-   "link": "https://timesofindia.indiatimes.com/defence/news/indias-5th-gen-stealth-amca-aircraft-bids-of-3-consortiums-submitted-evaluation-under-way/articleshow/135865050.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-15T19:43:00+00:00"
+   "published": "2026-11-15T19:48:48+00:00"
   },
   {
    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -170,20 +266,12 @@
    "published": "2026-11-15T19:32:39+00:00"
   },
   {
-   "title": "Cong suggests Army ‘friendly fire’ behind deaths of 2 SPOs in Kishtwar, BJP hits back",
-   "summary": "In Jammu and Kashmir, Congress has called for a thorough investigation into the tragic killing of two special police officers. Initial reports indicate that the officers may have been accidentally shot by Army personnel...",
-   "link": "https://timesofindia.indiatimes.com/india/congress-suggests-army-friendly-fire-behind-deaths-of-2-spos-bjp-calls-it-provocative/articleshow/135864396.cms",
+   "title": "After 400km march, anti-dam group reaches Itanagar, issues ultimatum",
+   "summary": "Outfit Seeks Scrapping Of Siang Project, Release Of Protesters",
+   "link": "https://timesofindia.indiatimes.com/city/guwahati/after-400km-march-adi-group-sets-2-day-deadline-for-arunachal-govt-to-respond-to-siang-dam-demands/articleshow/135864147.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-15T18:53:23+00:00"
-  },
-  {
-   "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-   "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-   "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-15T18:38:11+00:00"
+   "published": "2026-11-15T18:36:54+00:00"
   },
   {
    "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
@@ -192,14 +280,6 @@
    "source": "NPR",
    "category": "Top",
    "published": "2026-11-15T17:45:27+00:00"
-  },
-  {
-   "title": "Staggered age of consent to be discussed after Brand case, minister says",
-   "summary": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
-   "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-15T17:15:46+00:00"
   },
   {
    "title": "South Korea's top scorer in tax accountancy exam admits cheating",
@@ -234,25 +314,17 @@
    "published": "2026-11-15T13:06:15+00:00"
   },
   {
-   "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
-   "summary": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
-   "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-15T12:38:28+00:00"
-  },
-  {
-   "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-   "summary": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
-   "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+   "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+   "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
+   "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
    "source": "NPR",
    "category": "Top",
    "published": "2026-11-15T10:00:00+00:00"
   },
   {
-   "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-   "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
-   "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+   "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+   "summary": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
+   "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
    "source": "NPR",
    "category": "Top",
    "published": "2026-11-15T10:00:00+00:00"
@@ -266,22 +338,6 @@
    "published": "2026-11-15T10:00:00+00:00"
   },
   {
-   "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-   "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year...",
-   "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-15T08:56:11+00:00"
-  },
-  {
-   "title": "Google CEO congratulates SpaceX; says: Still feels like science fiction",
-   "summary": "Sundar Pichai congratulated SpaceX for achieving its first midair catch of a Starship spacecraft after its return. The historic event took place at SpaceX’s Starbase in Texas following the spacecraft's successful...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-congratulates-spacex-says-still-feels-like-science-fiction-gets-thanks-message-from-elon-musk/articleshow/135849718.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-15T07:06:11+00:00"
-  },
-  {
    "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
    "summary": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
    "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
@@ -290,28 +346,12 @@
    "published": "2026-11-15T04:28:45+00:00"
   },
   {
-   "title": "World leaders head to Asia for back-to-back diplomatic summits",
-   "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetingsWorld leaders will fly in to Asia for back-to-back high-level summits this week against the...",
-   "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-15T04:00:02+00:00"
-  },
-  {
    "title": "FAA ground stop disrupts college football",
    "summary": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.",
    "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
    "source": "NPR",
    "category": "Top",
    "published": "2026-11-15T01:13:59+00:00"
-  },
-  {
-   "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-   "summary": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.",
-   "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-15T00:03:52+00:00"
   },
   {
    "title": "Beauty advent calendars can cost hundreds but are they value for money?",
@@ -392,6 +432,14 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-11-14T06:42:27+00:00"
+  },
+  {
+   "title": "Tech Now",
+   "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-11-14T01:00:00+00:00"
   },
   {
    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
@@ -514,14 +562,6 @@
    "published": "2026-11-13T11:47:00+00:00"
   },
   {
-   "title": "What we know so far about the Microsoft outage",
-   "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-   "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-13T11:43:27+00:00"
-  },
-  {
    "title": "SpaceX's giant rocket may leave NASA in the dust",
    "summary": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station.",
    "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
@@ -544,14 +584,6 @@
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-11-13T09:43:44+00:00"
-  },
-  {
-   "title": "Heat pumps: How much heat does your home really need?",
-   "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
-   "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-13T09:29:25+00:00"
   },
   {
    "title": "Storm Charles causes floods and flight cancellations across southern Europe",
@@ -610,14 +642,6 @@
    "published": "2026-11-12T18:44:00+00:00"
   },
   {
-   "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-   "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-12T15:10:32+00:00"
-  },
-  {
    "title": "Jensen Huang biographer reacts to the Nvidia CEO's resignation",
    "summary": "NPR's A Martinez speaks with Stephen Witt, author of a Jensen Huang biography, about his resignation from his role as CEO of Nvidia.",
    "link": "https://www.npr.org/2026/11/12/nx-s1-6038695/jensen-huang-biographer-reacts-to-the-nvidia-ceos-resignation",
@@ -642,14 +666,6 @@
    "published": "2026-11-12T13:14:38+00:00"
   },
   {
-   "title": "Five new miniature frog species found in eastern Himalayas",
-   "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-   "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-11-12T11:07:19+00:00"
-  },
-  {
    "title": "Was Delhi pollution data during Diwali misleading?",
    "summary": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be.",
    "link": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o?at_medium=RSS&at_campaign=rss",
@@ -672,14 +688,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-11T19:00:33+00:00"
-  },
-  {
-   "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
-   "summary": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceansBritain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland...",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-11T16:05:45+00:00"
   },
   {
    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
@@ -712,14 +720,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-10T15:39:26+00:00"
-  },
-  {
-   "title": "28-Day Challenge: A heart scan made me give up everything I loved",
-   "summary": "Eleven years of experiments on myself, and my numbers are better now than when I was suffering. Here is what I got wrong.",
-   "link": "https://timesofindia.indiatimes.com/toi-blogs/wellbeing/28-day-challenge-a-heart-scan-made-me-give-up-everything-i-loved-today-i-eat-nutella-crpes/articleshow/135705404.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-10T09:01:01+00:00"
   },
   {
    "title": "Collision of two trains in Egypt kills at least seven",
