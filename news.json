@@ -1,21 +1,357 @@
 {
- "updated": "2026-11-18T09:42:24.045726+00:00",
+ "updated": "2026-11-18T18:37:39.802778+00:00",
  "stories": [
   {
-   "title": "Trump pushes ban on Chinese AI data center gear despite tech giants' pushback",
-   "summary": "In the midst of escalating tensions, the Trump administration is poised to restrict imports of Chinese optical transceivers essential for AI data centers. Tech giants warn that such a shift could lead to a decade-long...",
-   "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-is-pushing-ahead-with-restrictions-on-chinese-equipment-used-inside-us-ai-data-centres-despite-objections-from-amazon-google-and-meta-tech-firms-say-replacing-the-components-could-take-10-years/articleshow/135952007.cms",
+   "title": "Intel employees report new job cuts",
+   "summary": "Intel has reportedly initiated layoffs affecting its global IT workforce, although the exact numbers are unclear. Employees began sharing information about these job cuts on November 16, highlighting ongoing changes....",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-intel-employees-report-new-job-cuts-company-says-as-part-of-our-broader-strategy-to-become-a-more-focused-and-efficient-company-we-continually-/articleshow/135969713.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-18T09:37:22+00:00"
+   "published": "2026-11-18T18:27:50+00:00"
   },
   {
-   "title": "'B team of SP, Congress' : CM Yogi targets Owaisi-Chandrashekhar alliance",
-   "summary": "In a recent statement, Uttar Pradesh Chief Minister Yogi Adityanath condemned the collaboration between AIMIM leader Asaduddin Owaisi and Chandrashekhar Aazad, labeling it as a secondary faction for the Samajwadi Party...",
-   "link": "https://timesofindia.indiatimes.com/india/b-team-of-sp-congress-cm-yogi-targets-owaisi-chandrashekhar-alliance-ahead-of-up-polls/articleshow/135958128.cms",
+   "title": "Council wins legal fight against flags on lamp-posts",
+   "summary": "In her decision, Judge Emma Kelly says there was a \"compelling need\" to grant the interim injunction.",
+   "link": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T18:19:34+00:00"
+  },
+  {
+   "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+   "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-18T18:18:16+00:00"
+  },
+  {
+   "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+   "summary": "On NPR's Morning Edition, fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
+   "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-18T18:15:59+00:00"
+  },
+  {
+   "title": "Historic first: Democrat Hakeem Jeffries nominated to become House Speaker",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/historic-first-democrats-nominate-hakeem-jeffries-set-to-be-first-black-us-house-speaker/articleshow/135969043.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-18T09:36:14+00:00"
+   "published": "2026-11-18T17:55:57+00:00"
+  },
+  {
+   "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+   "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
+   "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T17:51:47+00:00"
+  },
+  {
+   "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+   "summary": "This blog is now closed, you can read more on this story hereYalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?That is the question the Guardian’s diplomatic correspondent Patrick...",
+   "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-18T17:48:24+00:00"
+  },
+  {
+   "title": "Regulator mistakenly sent complaints about doctors to newspaper",
+   "summary": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
+   "link": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T17:48:10+00:00"
+  },
+  {
+   "title": "2 dead, 5 seriously ill after consuming drink claimed to cure alcohol addiction in MP",
+   "summary": "Two individuals lost their lives after drinking a herbal mixture claimed to treat alcohol addiction. Five others are receiving treatment at Betul District Hospital for severe illness caused by the concoction....",
+   "link": "https://timesofindia.indiatimes.com/city/bhopal/2-dead-5-seriously-ill-after-consuming-herbal-drink-claimed-to-cure-alcohol-addiction-in-mp-3-detained/articleshow/135968826.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-18T17:43:38+00:00"
+  },
+  {
+   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+   "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-11-18T17:34:25+00:00"
+  },
+  {
+   "title": "NH homeowners' well-pollution claim against plastics plant can proceed as group",
+   "summary": "A federal appeals court has permitted New Hampshire homeowners to advance a class-action trespass claim against Saint-Gobain. However, the court denied group treatment for negligence and failure-to-warn claims due to...",
+   "link": "https://timesofindia.indiatimes.com/world/us/new-hampshire-homeowners-alleged-chemical-releases-from-a-plastics-plant-damaged-their-wells-and-property-values-a-federal-appeals-court-let-their-pollution-trespass-claim-continue-as-a-group-but-narrowed-other-claims/articleshow/135968100.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-18T17:23:23+00:00"
+  },
+  {
+   "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
+   "summary": "Flying somewhere for Thanksgiving or the holidays? Travel insiders explain what to do if your flight gets canceled or delayed — so you can quickly get to your destination.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-18T17:10:44+00:00"
+  },
+  {
+   "title": "A Puri-ious Indian twist in Nvidia's Chinese saga",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/nvidias-chinese-whispers-reach-indian-american-executive-jay-puri/articleshow/135968250.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-18T17:10:11+00:00"
+  },
+  {
+   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+   "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+   "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T17:00:40+00:00"
+  },
+  {
+   "title": "Texas man loses $349,900 home over $4,176 arrears; court upholds $116,998 award",
+   "summary": "A Texas appeals court has upheld a damages award for a homeowner who faced a wrongful foreclosure. The homeowner was not notified properly as the foreclosure notices were sent to the incorrect address, which breaches...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-texas-man-bought-a-349900-home-and-fell-4176-behind-foreclosure-warnings-went-to-an-address-where-mail-could-not-be-delivered-his-home-sold-for-166983-and-an-appeals-court-upheld-116998-in-damages/articleshow/135968158.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-18T17:00:14+00:00"
+  },
+  {
+   "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+   "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+   "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T17:00:04+00:00"
+  },
+  {
+   "title": "Police investigate death of boy, 3, after nursery incident",
+   "summary": "The boy died in hospital three days after an incident at Cosy Toes Nursery in Middleton, police say.",
+   "link": "https://www.bbc.co.uk/news/articles/cm8x0q1p2q8jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T16:51:58+00:00"
+  },
+  {
+   "title": "'Balasaheb like a deity to us': Eknath Shinde defends Shaina NC in photo row",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/balasaheb-like-a-deity-to-us-eknath-shinde-defends-shaina-nc-in-photo-row-says-she-has-clarified/articleshow/135967993.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-18T16:48:50+00:00"
+  },
+  {
+   "title": "Virginia lake house feud: Court clarifies widow's and stepchildren's shares",
+   "summary": "A legal conflict concerning a Virginia lakeside property has escalated to the state's Court of Appeals. The court determined that Joan Cabaniss holds a 50% ownership share, while her late husband's children retain the...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-virginia-familys-dispute-over-a-smith-mountain-lake-house-built-on-a-0-7-acre-lot-reached-an-appeals-court-which-clarified-a-widows-ownership-and-her-stepchildrens-inherited-shares-before-a-partition-sale/articleshow/135967896.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-18T16:47:08+00:00"
+  },
+  {
+   "title": "Prince William, Kate Middleton meet PM Modi in Delhi",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/prince-william-kate-middleton-meet-pm-modi-in-delhi-as-three-day-india-visit-concludes/articleshow/135966803.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-18T16:29:44+00:00"
+  },
+  {
+   "title": "Test cricket's sandpaper plot - who was there, who said what?",
+   "summary": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T16:13:04+00:00"
+  },
+  {
+   "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+   "summary": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-18T15:56:30+00:00"
+  },
+  {
+   "title": "Muslims will be largest religious group in the world by 2035: Pew study",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/its-the-babies-muslims-projected-to-outnumber-christians-by-2035-says-pew-study/articleshow/135966824.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-18T15:37:51+00:00"
+  },
+  {
+   "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+   "summary": "Among the recipients of letters from Robert Garcia, incoming chair of the House Oversight Committee, are Donald Trump Jr. and Eric Trump, Jared Kushner and White House Chief of Staff Stephen Miller.",
+   "link": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-18T15:01:32+00:00"
+  },
+  {
+   "title": "The seven Anthropic founders who are about to become multi-billionaires",
+   "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-18T13:55:14+00:00"
+  },
+  {
+   "title": "Beyond Nvidia scandal: The psychology of honey traps and the vulnerabilities they exploit",
+   "summary": "Honey trapping remains a pertinent issue in contemporary espionage, as personal connections are exploited to gain access to confidential data, especially from powerful business figures. The evolution of such tactics,...",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/beyond-nvidia-scandal-the-psychology-of-honey-traps-and-the-vulnerabilities-they-exploit/articleshow/135964707.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-18T13:41:48+00:00"
+  },
+  {
+   "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+   "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T13:17:06+00:00"
+  },
+  {
+   "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+   "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+   "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-11-18T13:16:53+00:00"
+  },
+  {
+   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+   "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T13:10:01+00:00"
+  },
+  {
+   "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
+   "summary": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
+   "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-18T13:03:38+00:00"
+  },
+  {
+   "title": "Gamers react as New Zealand first to see Grand Theft Auto 6",
+   "summary": "The new game has now been launched in New Zealand with countries around the world set to be able to download it from midnight local time.",
+   "link": "https://www.bbc.co.uk/news/videos/cmg4652xzexvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T13:02:43+00:00"
+  },
+  {
+   "title": "Big relief for int'l students: US court halts Trump restrictions on internships",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-court-halts-restrictions-on-internships-for-foreign-students-cpt-relief-for-universities/articleshow/135964030.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-18T12:57:28+00:00"
+  },
+  {
+   "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+   "summary": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
+   "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-18T12:14:28+00:00"
+  },
+  {
+   "title": "Minister criticises media for 'amplifying' Russell Brand's prison message",
+   "summary": "Lucy Powell says outlets shouldn't have played a clip of a message read by the jailed rapist's wife.",
+   "link": "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T12:11:39+00:00"
+  },
+  {
+   "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+   "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-18T11:00:00+00:00"
+  },
+  {
+   "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+   "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-18T11:00:00+00:00"
+  },
+  {
+   "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+   "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+   "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-18T10:53:21+00:00"
+  },
+  {
+   "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+   "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-18T10:32:03+00:00"
+  },
+  {
+   "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+   "summary": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+   "source": "NPR Technology",
+   "category": "Technology",
+   "published": "2026-11-18T10:00:00+00:00"
+  },
+  {
+   "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+   "summary": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+   "source": "NPR Technology",
+   "category": "Technology",
+   "published": "2026-11-18T10:00:00+00:00"
+  },
+  {
+   "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+   "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s...",
+   "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-18T09:58:28+00:00"
+  },
+  {
+   "title": "Nvidia hold first earnings call since former CEO's departure",
+   "summary": "Chip giant Nvidia held its first earnings call since the departure of former CEO Jensen Huang, as interim CEO Colette Kress takes over.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6042563/nvidia-hold-first-earnings-call-since-former-ceos-departure",
+   "source": "NPR Business",
+   "category": "Business",
+   "published": "2026-11-18T09:43:50+00:00"
+  },
+  {
+   "title": "Nvidia needs more than a new CEO. An expert offers a way forward",
+   "summary": "Nvidia needs a new CEO. Keeping its engineers is another story.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
+   "source": "NPR Business",
+   "category": "Business",
+   "published": "2026-11-18T09:43:44+00:00"
+  },
+  {
+   "title": "Government Accountability Office IT director discusses the recent tech outages",
+   "summary": "NPR's Leila Fadel speaks with Government Accountability Office IT and cybersecurity director Dave Hinchman about outdated government technology and the risk of system failures.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6042543/government-accountability-office-it-director-discusses-the-recent-tech-outages",
+   "source": "NPR Technology",
+   "category": "Technology",
+   "published": "2026-11-18T09:42:54+00:00"
   },
   {
    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
@@ -26,140 +362,12 @@
    "published": "2026-11-18T09:28:35+00:00"
   },
   {
-   "title": "'We all knew': Bancroft breaks silence on Sandpapergate, admits withholding truth",
-   "summary": "Cameron Bancroft has revealed that the entire Australian cricket squad was aware of the ball-tampering scheme, admitting he withheld the full truth during the Cricket Australia investigation to shield others. His...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/we-all-knew-cameron-bancroft-breaks-silence-on-sandpapergate-admits-withholding-truth-to-protect-teammates-and-cricket-australia/articleshow/135957321.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-18T09:15:35+00:00"
-  },
-  {
-   "title": "Apec summit live: Xi and Putin start talks as Trump arrives in China",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summitWhat is Apec? Explained in 30...",
-   "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-18T09:12:01+00:00"
-  },
-  {
-   "title": "'Whitewashing history': Shinde Sena leaders tear up a copy of Sonia's memoir",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/whitewashing-history-shiv-sena-shinde-faction-leaders-tear-up-a-copy-of-sonia-gandhis-memoir/articleshow/135956466.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-18T09:09:40+00:00"
-  },
-  {
-   "title": "'Lateef killed': Forces celebrate as Kashmir’s last known active terrorist falls",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/lateef-killed-forces-celebrate-in-kulgam-as-kashmirs-last-known-active-local-terrorist-falls/articleshow/135957083.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-18T09:09:27+00:00"
-  },
-  {
-   "title": "Lammy urges Burnham take UK back into the EU",
-   "summary": "The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term future.",
-   "link": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-18T09:03:15+00:00"
-  },
-  {
-   "title": "Power play: In a first, Xi welcomes Trump ahead of historic trilateral meet with Putin",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/china/trump-lands-in-china-for-historic-trilateral-summit-with-xi-putin/articleshow/135956865.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-18T08:59:43+00:00"
-  },
-  {
-   "title": "Return-to-work rush is driving India's steepest festive airfares",
-   "summary": "Airfare data from November indicates a dramatic increase in return flight prices following the Diwali festival. Fares into cities such as Pune and Ahmedabad surged significantly compared to prices earlier in the month....",
-   "link": "https://timesofindia.indiatimes.com/city/flight-price-tracker/return-to-work-rush-is-driving-indias-steepest-festive-airfares-tickets-to-pune-rose-166-ahmedabad-138-and-mumbai-84-while-fares-out-of-pune-dropped-24-between-november-14-and-17/articleshow/135956112.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-18T08:53:51+00:00"
-  },
-  {
-   "title": "AI used to find security flaw in Java, world's third-largest programming language",
+   "title": "Security flaw found in Java, world's third-largest programming language",
    "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
    "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-18T08:47:06+00:00"
-  },
-  {
-   "title": "Petrol and diesel prices push inflation to highest in a year",
-   "summary": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Business",
-   "published": "2026-11-18T08:45:38+00:00"
-  },
-  {
-   "title": "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor",
-   "summary": "Secretary of State Marco Rubio sought to calm Americans as he traveled with President Trump and they prepared for key meetings with Chinese President Xi Jinping and Russian President Vladimir Putin.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6045411/rubio-outages-malign-actor",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-18T08:27:50+00:00"
-  },
-  {
-   "title": "No Sooryavanshi, no problem! Bihar pull off thrilling win over Delhi in SMAT",
-   "summary": "Chasing a massive target of 225, Bihar reached 227 for eight in 19.5 overs, with Mayank Kumar and Prashant Singh holding their nerve in the final overs to take the team across the line. Vaibhav Sooryavanshi was missing...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/no-vaibhav-sooryavanshi-no-problem-bihar-pull-off-thrilling-two-wicket-win-over-delhi-in-syed-mushtaq-ali-trophy/articleshow/135955165.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-18T08:06:43+00:00"
-  },
-  {
-   "title": "Harry Styles, Cher, Sam Fender and Billie Eilish to headline Glastonbury 2027",
-   "summary": "The festival will also host Cher in the Sunday \"legends\" slot, the unofficial fourth headline set.",
-   "link": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-18T07:59:54+00:00"
-  },
-  {
-   "title": "Racism row! Team India approaches AFC over Palestine player's alleged gesture",
-   "summary": "The All India Football Federation has lodged a complaint regarding an alleged racist gesture during a recent match. The incident involved Palestine player Soueidan and India U17 captain Dallalmuon Gangte during the AFC...",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/racism-row-aiff-approaches-afc-over-palestine-players-alleged-gesture-towards-india-captain/articleshow/135952936.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-18T07:36:56+00:00"
-  },
-  {
-   "title": "Satya Nadella praises Jensen Huang, says his Nvidia return is not his call",
-   "summary": "Satya Nadella expressed admiration for Jensen Huang during a media roundtable at Microsoft’s Ignite conference. Huang, who recently stepped down as Nvidia CEO, indicated willingness to return. However, Nvidia's board...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-praises-jensen-huang-but-makes-it-clear-it-is-not-up-to-me-to-/articleshow/135954079.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-18T07:27:40+00:00"
-  },
-  {
-   "title": "Met on holiday in 1994, lost touch for decades; birthday text led to marriage",
-   "summary": "It was in the sun-soaked summer of 1994 when David McArdle encountered Jodie while vacationing in Kos, Greece. Their brief encounter ignited a beautiful friendship carried through pen letters for three years. Life...",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-1994-david-mcardle-and-jodie-swapped-addresses-at-a-pool-table-while-on-holiday-in-kos-and-wrote-to-each-other-monthly-for-three-years-before-losing-touch-two-decades-later-a-birthday-text-reunited-them-and-they-married/articleshow/135953578.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-18T07:24:08+00:00"
-  },
-  {
-   "title": "What's gone wrong at Britain's worst bathing site?",
-   "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
-   "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-18T06:12:44+00:00"
-  },
-  {
-   "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-   "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-   "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-18T06:07:25+00:00"
+   "published": "2026-11-18T08:47:06+00:00"
   },
   {
    "title": "How important are Nvidia and Jensen Huang to the US economy?",
@@ -168,14 +376,6 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-11-18T06:04:21+00:00"
-  },
-  {
-   "title": "Burnham promises to 'move quickly' on Neets report",
-   "summary": "The prime minister tells the BBC he wants to get \"stuck in\" after the Milburn report proposes wide-ranging changes to help unemployed young people.",
-   "link": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-18T06:00:24+00:00"
   },
   {
    "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
@@ -195,19 +395,11 @@
   },
   {
    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-   "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+   "summary": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
    "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-11-18T04:00:54+00:00"
-  },
-  {
-   "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
-   "summary": "Former Democratic Rep. Mary Peltola has narrowly won Alaska's U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press.",
-   "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-18T03:27:23+00:00"
   },
   {
    "title": "Waymo pulls driverless taxis from all US freeways",
@@ -234,14 +426,6 @@
    "published": "2026-11-18T01:18:18+00:00"
   },
   {
-   "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
-   "summary": "Andy Burnham wants \"steps\" towards a closer EU alignment. But the bloc has changed considerably since the UK left it",
-   "link": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-18T00:39:06+00:00"
-  },
-  {
    "title": "Europe plans to catch the next computer chip wave",
    "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
    "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
@@ -250,28 +434,12 @@
    "published": "2026-11-18T00:00:24+00:00"
   },
   {
-   "title": "Watch: Millions of red crabs start annual migration on Christmas Island",
-   "summary": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory.",
-   "link": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-17T23:05:39+00:00"
-  },
-  {
    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
    "summary": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-11-17T23:02:12+00:00"
-  },
-  {
-   "title": "Home secretary plans to tackle 'perception of two-tier policing'",
-   "summary": "Shabana Mahmood will announce stronger guidance on police impartiality.",
-   "link": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-17T22:31:32+00:00"
   },
   {
    "title": "Nvidia tries to get back to business",
@@ -306,22 +474,6 @@
    "published": "2026-11-17T21:40:41+00:00"
   },
   {
-   "title": "'Goldy Dhillon a petty thief': Lawrence gang on gangster who threatened Amitabh",
-   "summary": "The gang claimed Dhillon used to wash utensils at a restaurant in Germany for a living and said he lacked the wherewithal to target Bachchan or even his domestic staff.",
-   "link": "https://timesofindia.indiatimes.com/india/goldy-dhillon-a-petty-thief-lawrence-gang/articleshow/135940324.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-17T21:28:49+00:00"
-  },
-  {
-   "title": "William and Kate on Earthshot Prize green carpet in Mumbai",
-   "summary": "The pair arrived at the ceremony where five £1m prizes were awarded to projects aimed at solving climate challenges.",
-   "link": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-17T21:15:00+00:00"
-  },
-  {
    "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
    "summary": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to TexasAn eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4...",
    "link": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
@@ -354,19 +506,11 @@
    "published": "2026-11-17T18:43:05+00:00"
   },
   {
-   "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-   "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-17T18:34:31+00:00"
-  },
-  {
    "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
    "summary": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him.",
    "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-11-17T17:36:31+00:00"
   },
   {
@@ -389,8 +533,8 @@
    "title": "How new US chip restrictions on South East Asia will hit China",
    "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
    "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-11-17T14:25:45+00:00"
   },
   {
@@ -402,28 +546,12 @@
    "published": "2026-11-17T12:35:53+00:00"
   },
   {
-   "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-   "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
-   "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-17T12:20:57+00:00"
-  },
-  {
    "title": "NHS data contract to stay with Palantir until 2029",
    "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
    "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-11-17T12:00:12+00:00"
-  },
-  {
-   "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
-   "summary": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding.",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-17T11:58:42+00:00"
   },
   {
    "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
@@ -437,41 +565,17 @@
    "title": "Can Google win the AI race without killing its cash cow?",
    "summary": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?",
    "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-11-17T11:30:00+00:00"
-  },
-  {
-   "title": "US government confirms investigation into tech firm Megaspeed",
-   "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-   "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-17T11:17:32+00:00"
   },
   {
    "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
    "summary": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
    "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Technology",
+   "category": "Technology",
    "published": "2026-11-17T11:00:00+00:00"
-  },
-  {
-   "title": "Trump arrives in Philippines to kick off Asia trip",
-   "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-17T10:43:55+00:00"
-  },
-  {
-   "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-   "summary": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season.",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-17T10:00:00+00:00"
   },
   {
    "title": "She went to college to become a social worker. Now she's joined the skilled trades",
@@ -498,14 +602,6 @@
    "published": "2026-11-17T09:45:01+00:00"
   },
   {
-   "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-   "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
-   "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-17T09:41:07+00:00"
-  },
-  {
    "title": "Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts",
    "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
    "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
@@ -522,28 +618,12 @@
    "published": "2026-11-17T06:00:05+00:00"
   },
   {
-   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-   "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-17T02:37:53+00:00"
-  },
-  {
    "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
    "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’Five EU member states have announced plans to set up an offshore centre in Rwanda for people with...",
    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-17T01:10:59+00:00"
-  },
-  {
-   "title": "We couldn't afford a house alone, so we bought one with strangers",
-   "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-   "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-17T00:00:02+00:00"
   },
   {
    "title": "The AI start-ups fixing India's broken roads and messy land records",
@@ -562,30 +642,6 @@
    "published": "2026-11-16T22:08:48+00:00"
   },
   {
-   "title": "California sues OpenAI over hacking risks",
-   "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-11-16T22:06:22+00:00"
-  },
-  {
-   "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-   "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-11-16T18:49:26+00:00"
-  },
-  {
-   "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-   "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the...",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-11-16T18:04:50+00:00"
-  },
-  {
    "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
    "summary": "Suspect named as Greene Da’monte KhireeDrug smuggling carries life sentence in NigeriaAn American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the...",
    "link": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
@@ -602,28 +658,12 @@
    "published": "2026-11-16T10:19:08+00:00"
   },
   {
-   "title": "It's not just the U.S., the movement against data centers is global",
-   "summary": "Activists protesting data centers in their backyards are teaming up to learn tactics from allies around the world. \"We are coordinated and we are together,\" said one Spanish activist.",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6000601/its-not-just-the-u-s-the-movement-against-data-centers-is-global",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-11-16T09:44:39+00:00"
-  },
-  {
    "title": "Is India rethinking its short-term military recruitment scheme?",
    "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
    "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
    "source": "BBC India",
    "category": "India",
    "published": "2026-11-16T00:41:42+00:00"
-  },
-  {
-   "title": "How the tech industry and markets have responded to Jensen Huang's resignation",
-   "summary": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
-   "link": "https://www.npr.org/2026/11/15/nx-s1-6040394/how-the-tech-industry-and-markets-have-responded-to-jensen-huangs-resignation",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-11-15T13:09:19+00:00"
   },
   {
    "title": "Commerce Department under pressure for delaying export controls on Nvidia chips",
@@ -658,52 +698,12 @@
    "published": "2026-11-13T23:11:51+00:00"
   },
   {
-   "title": "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
-   "summary": "NPR's Scott Detrow talks with Dylan Patel of the AI and semiconductor research firm SemiAnalysis about Jensen Huang's departure from Nvidia, and whether it opens up the field for Nvidia's competitors.",
-   "link": "https://www.npr.org/2026/11/13/nx-s1-6040264/is-there-an-opening-for-nvidias-competitors-now-that-jensen-huang-is-out",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-11-13T21:06:10+00:00"
-  },
-  {
-   "title": "Does Europe regret its bet on U.S. defense?",
-   "summary": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
-   "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-11-13T16:17:43+00:00"
-  },
-  {
    "title": "At least 24 killed after bus collides with truck in north-east India",
    "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
    "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC India",
    "category": "India",
    "published": "2026-11-13T15:16:50+00:00"
-  },
-  {
-   "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-   "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-   "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-13T12:22:30+00:00"
-  },
-  {
-   "title": "SpaceX's giant rocket may leave NASA in the dust",
-   "summary": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station.",
-   "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-11-13T10:00:00+00:00"
-  },
-  {
-   "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-   "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to...",
-   "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-12T13:14:38+00:00"
   },
   {
    "title": "Was Delhi pollution data during Diwali misleading?",
