@@ -1,53 +1,261 @@
 {
- "updated": "2026-11-20T16:40:08.749558+00:00",
+ "updated": "2026-11-20T22:56:50.221927+00:00",
  "stories": [
   {
-   "title": "Anthropic shares fall a day after blockbuster opening",
-   "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+   "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+   "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-20T22:53:24+00:00"
+  },
+  {
+   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+   "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-11-20T16:27:47+00:00"
+   "published": "2026-11-20T22:42:47+00:00"
   },
   {
-   "title": "Rao and Patil: The two desis behind Anthropic's bang and buck",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/rao-and-patil-the-two-desis-behind-anthropics-bang-and-buck/articleshow/136032966.cms",
+   "title": "'Deserved justice': Why IND boycotted presentation after PAK won Asia Cup - Explained",
+   "summary": "Pakistan were awarded the title on the basis of a better net run rate. However, CABI general secretary Shailendra Yadav accused Pakistan of declaring themselves champions without following the position of the World...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/deserved-justice-why-india-boycotted-presentation-ceremony-after-pakistan-won-asia-cup-explained/articleshow/136039556.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-20T16:21:07+00:00"
+   "published": "2026-11-20T22:30:48+00:00"
   },
   {
-   "title": "Burnham gets his first taste of EU dealmaking and seems hungry for more",
-   "summary": "The prime minister is learning how complex EU negotiations can be - but it is unlikely to deter him from seeking closer ties, writes Henry Zeffman.",
-   "link": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo?at_medium=RSS&at_campaign=rss",
+   "title": "Louisiana couple claims dead rodents in ducts of $429k home; court revives suit",
+   "summary": "A couple in Louisiana filed a lawsuit against the sellers and brokerage after discovering defects post-purchase. They claimed that significant issues, such as a rotted air pipe and rodent remains, were concealed. The...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-louisiana-couple-paid-429000-for-a-home-in-2021-then-alleged-a-rotted-underground-air-pipe-dead-rodents-in-the-ducts-and-other-concealed-defects-an-appeals-court-has-restored-their-case-against-the-property-brokerage-for-further-hearings/articleshow/135983201.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-20T22:28:00+00:00"
+  },
+  {
+   "title": "Fake university list grows from 20 to 32 in 3 years, 18 old names still on it",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/fake-university-list-grows-from-20-to-32-in-3-years-18-old-names-still-on-it/articleshow/136039662.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-20T22:26:46+00:00"
+  },
+  {
+   "title": "Virginia woman helps 1,674 bluebirds fledge by checking 27 nest boxes since 2006",
+   "summary": "Cathi Morrison has dedicated her efforts to monitoring 27 bluebird nesting boxes since 2006. She documents every nesting attempt, egg, and fledgling, contributing valuable data to conservation organizations. Morrison...",
+   "link": "https://timesofindia.indiatimes.com/science/wildlife/a-virginia-woman-who-looks-after-27-nest-boxes-near-her-home-has-helped-1674-baby-bluebirds-take-flight-since-2006-checking-every-box-each-week-from-april-to-july-and-logging-every-single-egg/articleshow/136015759.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-20T22:24:00+00:00"
+  },
+  {
+   "title": "US court sentences Nikhil Gupta to nearly 19.5 years for plot to kill Pannun",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-court-sentences-nikhil-gupta-to-nearly-20-years-for-plot-to-kill-pannun/articleshow/136039620.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-20T22:18:59+00:00"
+  },
+  {
+   "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+   "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+   "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-20T22:11:29+00:00"
+  },
+  {
+   "title": "Consider law to curb marriage between relatives: SC to govt",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/consider-law-to-curb-marriage-between-relatives-sc-to-government/articleshow/136039466.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-20T22:03:45+00:00"
+  },
+  {
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
-   "published": "2026-11-20T16:19:08+00:00"
+   "published": "2026-11-20T21:57:07+00:00"
   },
   {
-   "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-   "summary": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-outBusiness live – latest updatesAnthropic’s shares have slumped at the start of a second day of trading, as its...",
+   "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+   "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that...",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-20T21:47:41+00:00"
+  },
+  {
+   "title": "Tech stocks end the week on a down note, despite Anthropic's mega-IPO",
+   "summary": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo",
+   "source": "NPR Technology",
+   "category": "Technology",
+   "published": "2026-11-20T21:38:32+00:00"
+  },
+  {
+   "title": "The latest from Trump's press conference",
+   "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-20T21:38:21+00:00"
+  },
+  {
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+   "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildoutWho are Anthropic’s seven co-founders, now worth $180bn?As Anthropic’s stock...",
    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
    "source": "The Guardian",
    "category": "Top",
-   "published": "2026-11-20T16:18:00+00:00"
+   "published": "2026-11-20T21:38:17+00:00"
   },
   {
-   "title": "Watch: Paper bombs, firecrackers hurled at edu ministry in Italy as protests intensify",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/europe/watch-paper-bombs-hurled-firecrackers-bursted-outside-education-ministry-in-italy-as-protests-intensify/articleshow/136032887.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-20T16:17:30+00:00"
+   "title": "Machine Gods: Anthropic's early days",
+   "summary": "In the wake of AI giant Anthropic's record-breaking IPO, Machine Gods hosts Kevin Roose and Casey Newton look back on the early days of the company, when less than 200 workers in a cramped office obsessed over AI safety...",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days",
+   "source": "NPR Technology",
+   "category": "Technology",
+   "published": "2026-11-20T21:38:14+00:00"
   },
   {
-   "title": "Sebi proposes limiting tenure of chief executives, independent directors at exchanges",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/sebi-proposes-limiting-tenure-of-chief-executives-independent-directors-at-exchanges/articleshow/136032561.cms",
+   "title": "Rising seas have forced this Quinault village to relocate",
+   "summary": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-20T21:38:13+00:00"
+  },
+  {
+   "title": "Trump's impact on an Ohio steel plant",
+   "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed...",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-20T21:38:11+00:00"
+  },
+  {
+   "title": "US market regulator probes issues in Nvidia's accounting practices: Report",
+   "summary": "Nvidia is under investigation by the SEC concerning its financial disclosures and accounting practices. Increasing scrutiny arises from potential breaches linked to a Singapore firm connected to China. Modifications in...",
+   "link": "https://timesofindia.indiatimes.com/business/international-business/us-market-regulator-probes-issues-in-nvidias-accounting-practices-report/articleshow/136039221.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-20T16:15:52+00:00"
+   "published": "2026-11-20T21:35:43+00:00"
+  },
+  {
+   "title": "Missouri official says she was fired for reporting boss's alleged $1.3m cheque",
+   "summary": "Kimberlie Miller has initiated legal action against Treasurer Chris Kendall and Platte County following her dismissal. She asserts that her firing occurred after she flagged a suspicious transaction linked to a $1.3...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-former-platte-county-missouri-deputy-treasurer-says-she-was-fired-after-reporting-that-her-boss-allegedly-wrote-a-1-3-million-cheque-from-a-county-account-to-himself-and-told-her-to-keep-it-in-a-safe-she-is-now-suing/articleshow/136022541.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-20T21:29:00+00:00"
+  },
+  {
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-20T20:54:12+00:00"
+  },
+  {
+   "title": "'Look at India', 'country of 2nd chances': 10 takeaways from Trump's White House presser",
+   "summary": "Donald Trump championed his administration's initiatives and signaled a willingness to partner with Democrats on key issues. He lauded the economic prospects of the Quad alliance, particularly India's remarkable growth...",
+   "link": "https://timesofindia.indiatimes.com/world/us/look-at-india-country-of-second-chances-10-key-takeaways-from-trumps-first-presser-since-midterm-loss/articleshow/136038820.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-20T20:25:58+00:00"
+  },
+  {
+   "title": "Gérard Depardieu and French author investigated over sexual allegations",
+   "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+   "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-20T19:45:20+00:00"
+  },
+  {
+   "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+   "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+   "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
+   "category": "India",
+   "published": "2026-11-20T19:27:49+00:00"
+  },
+  {
+   "title": "White House removes cyber-security chief after series of tech outages",
+   "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-11-20T19:03:56+00:00"
+  },
+  {
+   "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+   "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-20T18:25:09+00:00"
+  },
+  {
+   "title": "Man guilty of murdering woman he groomed on fetish site",
+   "summary": "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-20T18:17:56+00:00"
+  },
+  {
+   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+   "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+   "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-20T17:49:48+00:00"
+  },
+  {
+   "title": "‘ICJ ruling made world finally record our pain,’ say Rohingya refugees at B'desh camp",
+   "summary": "According to data on the United Nations High Commissioner for Refugees’ website, the Cox’s Bazar refugee settlement hosts around 11.7 lakh Rohingya refugees who fled violence in Myanmar.",
+   "link": "https://timesofindia.indiatimes.com/world/south-asia/icj-ruling-made-world-finally-record-our-pain-loss-say-rohingya-refugees-at-bangladesh-camp/articleshow/136035169.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-20T17:34:59+00:00"
+  },
+  {
+   "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+   "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-20T17:00:00+00:00"
+  },
+  {
+   "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+   "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-20T16:54:29+00:00"
+  },
+  {
+   "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+   "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+   "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-20T16:41:52+00:00"
+  },
+  {
+   "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+   "summary": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
+   "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-20T16:39:49+00:00"
   },
   {
    "title": "How Orchestra Noir turned classical music into a cultural movement",
@@ -58,80 +266,24 @@
    "published": "2026-11-20T16:12:18+00:00"
   },
   {
-   "title": "Ex-IAF vice-chief slams UK report claiming India has 32 Rafales instead of 36 as 'patently false'",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/ex-iaf-vice-chief-slams-uk-report-claiming-india-has-32-rafales-instead-of-36-as-patently-false/articleshow/136032707.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-20T16:08:39+00:00"
-  },
-  {
-   "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
-   "summary": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
-   "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-20T15:57:38+00:00"
-  },
-  {
-   "title": "All out for 26! India A crush Nepal by 306 runs at Asia Cup Rising Stars",
-   "summary": "India A crushed Nepal by 306 runs in their Asia Cup Rising Stars 2026 opener after bowling them out for just 26, the fourth-lowest List A total. Tilak Varma (107) and Kumar Kushagra (117) struck centuries in India's...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/india-a-vs-nepal-asia-cup-rising-stars-india-a-crush-nepal-by-306-runs-after-bowling-them-out-for-26/articleshow/136032283.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-20T15:49:00+00:00"
-  },
-  {
-   "title": "Guests no longer asked to wash up as new Airbnb rules come into force",
+   "title": "Airbnb's divisive new house rules come into force",
    "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
    "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-11-20T15:48:35+00:00"
   },
   {
-   "title": "15 dead, 150 sick after suspected methanol poisoning from liquor in Manipur",
-   "summary": "At least 15 individuals have died due to suspected methanol poisoning from locally made liquor in Chandel district. Around 150 patients are currently receiving treatment at Shija Hospitals after the incident. The Chief...",
-   "link": "https://timesofindia.indiatimes.com/city/imphal/15-dead-150-undergoing-treatment-after-suspected-methanol-poisoning-from-liquor-in-manipur/articleshow/136031627.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-20T15:24:52+00:00"
-  },
-  {
-   "title": "Jalen Brunson gives nearly 1,000 grocery bags and winter coats to NYC families",
-   "summary": "Jalen Brunson has teamed up with DREAM Charter Schools for the third consecutive year to support nearly 500 students and their families ahead of Thanksgiving. Through his Second Round Foundation, the Knicks star helped...",
-   "link": "https://timesofindia.indiatimes.com/sports/nba/nba-star-jalen-brunson-brings-thanksgiving-cheer-to-new-york-providing-nearly-1000-grocery-bags-and-winter-coats-to-bronx-and-east-harlem-families/articleshow/136031430.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-20T15:16:43+00:00"
-  },
-  {
    "title": "What we know about the latest Russian missile strikes on Ukraine",
-   "summary": "What we know about the latest Russian missile strikes on Ukraine.",
+   "summary": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
    "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-11-20T15:14:01+00:00"
   },
   {
-   "title": "Pahalgam attack: China yet to share info on how its GoPro was found on terrorists",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-beijing-yet-to-share-info-on-how-gopro-camera-us-supplied-to-china-were-found-on-terrorists/articleshow/136031503.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-20T15:11:49+00:00"
-  },
-  {
-   "title": "New emails: Trump lawyer pressed DOJ to pardon 2020 fake electors before trials",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/newly-released-emails-show-how-a-trump-lawyer-urged-the-justice-department-to-pardon-people-accused-in-the-2020-fake-elector-scheme-before-their-trials-although-federal-pardons-could-not-clear-state-charges/articleshow/136031251.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-20T15:04:27+00:00"
-  },
-  {
-   "title": "Trump to hold press conference after meeting with Xi and Putin",
-   "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
+   "title": "Trump touts meeting with Xi and Putin but offers little results",
+   "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
    "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
    "source": "NPR",
    "category": "Top",
@@ -146,52 +298,12 @@
    "published": "2026-11-20T14:56:06+00:00"
   },
   {
-   "title": "Calls for consent defence change after Joanne Young rape case",
-   "summary": "Joanne Young's daughter joins her mother in calling for a change to the law on consent.",
-   "link": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-20T13:52:37+00:00"
-  },
-  {
-   "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-   "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-20T13:52:04+00:00"
-  },
-  {
-   "title": "White House removes cyber-security chief after series of tech outages",
-   "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-   "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-20T13:28:32+00:00"
-  },
-  {
-   "title": "Owaisi-Azad alliance looks promising, but Akhilesh has little to fear: 5 reasons why",
-   "summary": "The Owaisi-Chandrashekhar Azad alliance may look like a major threat to Akhilesh Yadav's PDA formula, but the reality in Uttar Pradesh tells a different story. From Akhilesh's efforts to broaden the SP's support base to...",
-   "link": "https://timesofindia.indiatimes.com/india/owaisi-azad-alliance-looks-strong-on-paper-but-akhilesh-yadav-has-little-to-fear-5-reasons-why-sp-may-not-be-worried/articleshow/136026368.cms",
+   "title": "Rajasthan panchayat polls: Congress upsets BJP, RLP gains ground - 5 takeaways",
+   "summary": "In the 2026 Rajasthan panchayat elections, Congress emerged victorious, securing thousands of seats and highlighting its political strength. The BJP, on the other hand, faced significant setbacks in key regions, raising...",
+   "link": "https://timesofindia.indiatimes.com/india/rajasthan-panchayat-election-results-2026-5-takeaways-as-congress-beats-bjp-rlp-makes-big-gains/articleshow/136030091.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-20T13:11:47+00:00"
-  },
-  {
-   "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-   "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-20T13:08:30+00:00"
-  },
-  {
-   "title": "Texas death-row inmate screams as execution takes more than one hour",
-   "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-   "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-20T12:42:37+00:00"
+   "published": "2026-11-20T14:22:51+00:00"
   },
   {
    "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
@@ -213,17 +325,9 @@
    "title": "Just how vulnerable are we to cyberattacks?",
    "summary": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
    "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-11-20T12:00:00+00:00"
-  },
-  {
-   "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-   "summary": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-20T11:37:35+00:00"
   },
   {
    "title": "Critics are worried about Anthropic's influence after first day of public trading",
@@ -234,7 +338,7 @@
    "published": "2026-11-20T11:37:31+00:00"
   },
   {
-   "title": "‘Weak and dizzy’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+   "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
    "summary": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strikeThe text message that came from inside the Immigration and Customs Enforcement...",
    "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
    "source": "The Guardian",
@@ -242,35 +346,11 @@
    "published": "2026-11-20T11:00:31+00:00"
   },
   {
-   "title": "Senate passes bipartisan energy bill amid environmental concerns",
-   "summary": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
-   "link": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-20T11:00:28+00:00"
-  },
-  {
-   "title": "New York City unveils a bold plan to move its jails off Rikers Island",
-   "summary": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-20T10:00:00+00:00"
-  },
-  {
    "title": "How exactly did Trump get so rich on crypto? We explain",
    "summary": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
    "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-20T10:00:00+00:00"
-  },
-  {
-   "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-   "summary": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
-   "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-11-20T10:00:00+00:00"
   },
   {
@@ -306,22 +386,6 @@
    "published": "2026-11-20T09:42:24+00:00"
   },
   {
-   "title": "California investigates Nvidia over whether chip exports ended up in China",
-   "summary": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investorsCalifornia has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder...",
-   "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-20T09:18:30+00:00"
-  },
-  {
-   "title": "Police arrest protesters outside Anthropic HQ on IPO day amid AI ban demands",
-   "summary": "A crowd exceeding 100 gathered at Anthropic's headquarters, raising alarms about artificial intelligence safety. Activists demanded a halt to recursive self-improvement, citing dire potential hazards. Police detained...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/san-francisco-police-makes-arrests-outside-anthropic-headquarters-on-ipo-day-as-hundreds-protest-asking-ai-companies-to-ban-/articleshow/136020328.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-20T09:07:09+00:00"
-  },
-  {
    "title": "California’s coastal communities on alert as biggest waves in years hit state",
    "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated...",
    "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
@@ -354,6 +418,14 @@
    "published": "2026-11-20T06:00:33+00:00"
   },
   {
+   "title": "Jeff Bezos gave Dolly Parton $100 million in 2022 to choose charities of choice",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/in-2022-jeff-bezos-gave-dolly-parton-100-million-to-distribute-to-charities-of-her-choice-the-singer-had-already-spent-decades-building-a-programme-that-has-gifted-hundreds-of-millions-of-books-to-children/articleshow/136013892.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-20T05:02:03+00:00"
+  },
+  {
    "title": "Race to be next UN secretary general exposes divisions among world powers",
    "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunnerThe race to become the next UN secretary general could reach a decisive moment on Friday when a UN security...",
    "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
@@ -370,19 +442,11 @@
    "published": "2026-11-20T00:08:37+00:00"
   },
   {
-   "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-   "summary": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
-   "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-20T00:08:22+00:00"
-  },
-  {
-   "title": "Secret UK cyber operation protected tens of thousands of fridges from hackers",
+   "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
    "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
    "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-11-20T00:02:07+00:00"
   },
   {
@@ -418,14 +482,6 @@
    "published": "2026-11-19T21:19:56+00:00"
   },
   {
-   "title": "'Don't get married': Chennai techie shows up at influencer's home; dies after 'assault'",
-   "summary": "A techie named Abhinav died after being allegedly assaulted in east Delhi's Madhu Vihar. He had traveled from Chennai to meet a social media influencer he was infatuated with, after she announced her engagement. The...",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/from-insta-messages-to-fatal-confrontation-how-chennai-techie-met-influencer-lost-his-life/articleshow/136001405.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-19T17:47:31+00:00"
-  },
-  {
    "title": "Dutch watchdog tells people not to buy AI smart glasses",
    "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
    "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
@@ -440,14 +496,6 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-11-19T15:58:58+00:00"
-  },
-  {
-   "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-   "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-   "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-19T13:35:52+00:00"
   },
   {
    "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
@@ -541,8 +589,8 @@
    "title": "The seven Anthropic founders who are about to become multi-billionaires",
    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-11-18T23:42:07+00:00"
   },
   {
@@ -586,14 +634,6 @@
    "published": "2026-11-18T18:15:59+00:00"
   },
   {
-   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-   "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-   "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-18T17:34:25+00:00"
-  },
-  {
    "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
    "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
    "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
@@ -610,44 +650,12 @@
    "published": "2026-11-18T10:00:00+00:00"
   },
   {
-   "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
-   "summary": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-11-18T10:00:00+00:00"
-  },
-  {
    "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
    "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s...",
    "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-18T09:58:28+00:00"
-  },
-  {
-   "title": "Nvidia hold first earnings call since former CEO's departure",
-   "summary": "Chip giant Nvidia held its first earnings call since the departure of former CEO Jensen Huang, as interim CEO Colette Kress takes over.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6042563/nvidia-hold-first-earnings-call-since-former-ceos-departure",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-11-18T09:43:50+00:00"
-  },
-  {
-   "title": "Nvidia needs more than a new CEO. An expert offers a way forward",
-   "summary": "Nvidia needs a new CEO. Keeping its engineers is another story.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-11-18T09:43:44+00:00"
-  },
-  {
-   "title": "Government Accountability Office IT director discusses the recent tech outages",
-   "summary": "NPR's Leila Fadel speaks with Government Accountability Office IT and cybersecurity director Dave Hinchman about outdated government technology and the risk of system failures.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6042543/government-accountability-office-it-director-discusses-the-recent-tech-outages",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-11-18T09:42:54+00:00"
   },
   {
    "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
@@ -712,14 +720,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-11-13T23:11:51+00:00"
-  },
-  {
-   "title": "At least 24 killed after bus collides with truck in north-east India",
-   "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
-   "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-11-13T15:16:50+00:00"
   },
   {
    "title": "Was Delhi pollution data during Diwali misleading?",
