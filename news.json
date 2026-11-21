@@ -1,45 +1,205 @@
 {
- "updated": "2026-11-21T12:03:59.037755+00:00",
+ "updated": "2026-11-21T19:37:48.487256+00:00",
  "stories": [
   {
-   "title": "Catherine talks openly about how cancer changed her in new BBC documentary",
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-21T19:33:49+00:00"
+  },
+  {
+   "title": "Humayun, Sher Shah, one fort: Pak min highlights Purana Quila’s history at SCO summit",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/reflecting-on-purana-qilas-history-pakistan-minister-invokes-humanyun-sher-shah-suri-at-sco-civilisational-dialogue-to-assert-cultural-diversity/articleshow/136062370.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T19:20:36+00:00"
+  },
+  {
+   "title": "J'khand CM Soren writes to CJI seeking urgent appointment of HC chief justice successor",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/jharkhand-cm-hemant-soren-writes-to-cji-seeking-urgent-appointment-of-hc-chief-justice-successor/articleshow/136062275.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T19:14:10+00:00"
+  },
+  {
+   "title": "Texas man accused of posing as veteran to win $1.6m contracts, supply fake gear",
+   "summary": "Marcelo Fascino, a 24-year-old from San Antonio, Texas, stands accused of securing more than $1.6 million in federal contracts by deceitfully claiming his business was owned by veterans. He allegedly misrepresented his...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-texas-businessman-who-prosecutors-say-never-served-in-the-military-allegedly-posed-as-a-veteran-and-federal-contracting-officer-to-win-more-than-1-6-million-in-government-contracts-and-supply-counterfeit-equipment/articleshow/136054191.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T18:39:50+00:00"
+  },
+  {
+   "title": "Beverly Hills penthouse sells for $21M, with rooftop pool and $18,740 monthly dues",
+   "summary": "In a stunning real estate move, a penthouse in Beverly Hills has shattered local records by selling for $21 million within just 10 days of listing. Initially priced at $27.5 million, the luxe property ultimately changed...",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-beverly-hills-penthouse-listed-for-27-5-million-has-sold-for-21-million-after-only-10-days-on-the-market-the-nearly-4700-square-foot-home-has-a-private-rooftop-pool-and-monthly-building-dues-of-18740/articleshow/136037992.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T18:39:44+00:00"
+  },
+  {
+   "title": "Ladakh records 70% voting in panchayat polls, 52% in municpal elections",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/ladakh-records-70-voting-in-panchayat-polls-52-in-municpal-elections/articleshow/136061630.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T18:24:03+00:00"
+  },
+  {
+   "title": "Storms expected on both coasts threatens Thanksgiving travel",
+   "summary": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-21T18:22:46+00:00"
+  },
+  {
+   "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+   "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-21T18:08:55+00:00"
+  },
+  {
+   "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+   "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decadeThe Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the...",
+   "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-21T17:46:55+00:00"
+  },
+  {
+   "title": "France to take Rohingya genocide row to UN after Myanmar rejects ICJ verdict",
+   "summary": "Myanmar has rejected the International Court of Justice ruling regarding genocide against the Rohingya in 2017. France's foreign ministry plans to seek a UN Security Council meeting in response to Myanmar's refusal....",
+   "link": "https://timesofindia.indiatimes.com/world/europe/france-moves-to-take-rohingya-genocide-row-to-un-security-council-after-myanmar-rejects-icj-verdict/articleshow/136060135.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T17:31:02+00:00"
+  },
+  {
+   "title": "'Bigger than match-fixing': Legendary cricketer's explosive Sandpaper Gate claim",
+   "summary": "Geoffrey Boycott has sharply criticized Steven Smith for his inaction during the infamous 2018 ball-tampering scandal. He believes that Smith's choice to disengage from the team’s scheme is simply unacceptable. Boycott...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/bigger-than-hansie-cronjes-match-fixing-legendary-cricketer-makes-explosive-sandpaper-gate-claim/articleshow/136059670.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T17:02:23+00:00"
+  },
+  {
+   "title": "Cricketer Yuzvendra Chahal joins BJP, gets role in OBC committee",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/cricketer-yuzvendra-chahal-joins-bjp-gets-role-in-obc-morcha-executive-committee/articleshow/136059077.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T16:32:57+00:00"
+  },
+  {
+   "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+   "summary": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+   "link": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-21T16:16:29+00:00"
+  },
+  {
+   "title": "England run up record win over New Zealand in rugby union's Nations Championship",
+   "summary": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-21T16:08:59+00:00"
+  },
+  {
+   "title": "Nepal PM to reach Delhi today for first foreign bilateral trip - what's on agenda",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/india/nepal-pm-balendra-shah-to-reach-delhi-on-sunday-for-his-first-foreign-bilateral-trip-whats-on-agenda/articleshow/136057927.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T15:49:23+00:00"
+  },
+  {
+   "title": "'Working to curb India’s rise': US report flags China's support to Pak during Op Sindoor",
+   "summary": "In May 2025, China's military support for Pakistan intensified India's security dilemmas. This report reveals Beijing's ongoing strategies aimed at stifling India's strategic advancements through both military and...",
+   "link": "https://timesofindia.indiatimes.com/india/working-to-suppress-indias-rise-us-panel-report-flags-chinas-support-to-pakistan-during-operation-sindoor/articleshow/136056716.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T14:40:05+00:00"
+  },
+  {
+   "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+   "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-21T14:18:17+00:00"
+  },
+  {
+   "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+   "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-21T13:58:33+00:00"
+  },
+  {
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-21T13:17:38+00:00"
+  },
+  {
+   "title": "Perspective: Defining 'human'",
+   "summary": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-21T13:00:00+00:00"
+  },
+  {
+   "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+   "summary": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-21T12:40:17+00:00"
+  },
+  {
+   "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+   "summary": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an...",
+   "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-21T12:30:16+00:00"
+  },
+  {
+   "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+   "summary": "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November.",
+   "link": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-21T12:17:45+00:00"
+  },
+  {
+   "title": "Bihar redux in UP: Can Priyanka deliver for Rahul again in Cong-SP number game?",
+   "summary": "Akhilesh Yadav and Rahul Gandhi are negotiating a seat-sharing arrangement for the upcoming Uttar Pradesh assembly elections. The Samajwadi Party and Congress, both part of the INDIA alliance, are facing tensions over...",
+   "link": "https://timesofindia.indiatimes.com/india/bihar-alliance-redux-in-up-congress-sp-play-numbers-game-can-priyanka-do-it-for-rahul-again/articleshow/136025450.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-21T12:12:58+00:00"
+  },
+  {
+   "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
    "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
    "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "category": "Top",
    "published": "2026-11-21T12:00:03+00:00"
-  },
-  {
-   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-21T11:53:38+00:00"
-  },
-  {
-   "title": "'Turns a blind eye': BJP takes swipe at Rahul as Trump hails India's 7% GDP growth",
-   "summary": "In a recent statement, Donald Trump praised India's impressive 7% GDP growth while taking the Federal Reserve to task for its high interest rates. He opined that reducing these rates could spur US economic growth by 15...",
-   "link": "https://timesofindia.indiatimes.com/india/turns-a-blind-eye-bjp-takes-swipe-at-rahul-gandhi-as-trump-hails-indias-7-gdp-growth/articleshow/136051775.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-21T11:37:36+00:00"
-  },
-  {
-   "title": "Shubman Gill joins Gambhir, Ganguly and Laxman in unwanted Indian Test record",
-   "summary": "Shubman Gill showcased his batting prowess with a near-century, scoring 98 runs during the opening Test at Basin Reserve against New Zealand. This performance places him among distinguished Indian cricketers with four...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-joins-gautam-gambhir-sourav-ganguly-and-vvs-laxman-in-unwanted-indian-test-record/articleshow/136052216.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-21T11:22:06+00:00"
-  },
-  {
-   "title": "After Indore, Diljit Dosanjh warned of contempt plea over 4 songs in Ahmedabad",
-   "summary": "Dr. Pandit Rao Dharennavar has urged singer Diljit Dosanjh not to perform certain songs at his upcoming concert. The requested songs allegedly promote alcohol, drugs, and gun culture, which can negatively influence...",
-   "link": "https://timesofindia.indiatimes.com/city/ahmedabad/after-indore-diljit-dosanjh-warned-of-contempt-plea-over-patiala-peg-5-tara-theke-2-other-songs-in-ahmedabad/articleshow/136052100.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-21T11:13:35+00:00"
   },
   {
    "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
@@ -50,14 +210,6 @@
    "published": "2026-11-21T11:00:57+00:00"
   },
   {
-   "title": "NY woman can pursue rent stabilisation claim after 20 years on commercial lease",
-   "summary": "A landlord's attempts to reclaim a Manhattan apartment are hindered due to ongoing claims about rent stabilization. E. Terese Carpenter has resided in the unit for over 20 years, despite the existence of a commercial...",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-new-york-woman-says-she-lived-in-an-apartment-for-20-years-but-the-landlord-required-her-company-to-sign-a-commercial-lease-for-residential-space-an-appeals-court-has-allowed-her-rent-stabilisation-fight-to-continue/articleshow/136020046.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-21T10:57:30+00:00"
-  },
-  {
    "title": "5 ways to turn off your 'work brain' after the day ends",
    "summary": "Don't let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
@@ -66,9 +218,9 @@
    "published": "2026-11-21T10:01:00+00:00"
   },
   {
-   "title": "The AI boom had a really bad week — and it's raising loud alarms",
-   "summary": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+   "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
    "source": "NPR",
    "category": "Top",
    "published": "2026-11-21T10:00:00+00:00"
@@ -82,28 +234,12 @@
    "published": "2026-11-21T10:00:00+00:00"
   },
   {
-   "title": "Anthropic says it will put humanity first. Will its IPO change that?",
-   "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
-   "source": "NPR",
-   "category": "Top",
+   "title": "The AI boom had a really bad week — and it's raising loud alarms",
+   "summary": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-11-21T10:00:00+00:00"
-  },
-  {
-   "title": "10-year-old Anvi swims 36 km to Gateway of India in 8.5 hours",
-   "summary": "Anvi Suvarna, a 10-year-old swimmer from Dombivli, completed a significant 36-km swim in open water. This achievement follows her earlier 17-km swim, marking notable progress in her endurance training. Her swim aimed to...",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/meet-anvi-suvarna-the-10-year-old-from-dombivli-who-swam-36-km-to-mumbais-gateway-of-india-in-8-hours-34-minutes-after-covering-17-km-only-last-year/articleshow/136047301.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-21T09:58:30+00:00"
-  },
-  {
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-21T09:52:11+00:00"
   },
   {
    "title": "China commits to low-carbon electrification and help for others to improve",
@@ -114,68 +250,12 @@
    "published": "2026-11-21T09:47:57+00:00"
   },
   {
-   "title": "Gill, Pant script history, become first two Indians to achieve major WTC milestone",
-   "summary": "Shubman Gill and Rishabh Pant reached extraordinary milestones in India's first Test against New Zealand at Basin Reserve, marking a historic day for the team. Gill, with a score of 98, became the first Indian to cross...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-rishabh-pant-script-history-become-first-two-indians-to-achieve-major-wtc-milestone/articleshow/136050451.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-21T09:46:27+00:00"
-  },
-  {
-   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-   "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-   "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-21T09:40:55+00:00"
-  },
-  {
-   "title": "Satya Nadella praises Jensen Huang but makes it clear that tech founders are not gods",
-   "summary": "Satya Nadella highlighted the significant impact of founders in the tech world, emphasizing their human characteristics rather than any mythical traits. He commended Jensen Huang for successfully transforming Nvidia...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-praises-jensen-huang-but-makes-it-clear-that-tech-founders-are-not-gods-i-used-to-tell-bill-gates/articleshow/136048942.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-21T08:21:51+00:00"
-  },
-  {
-   "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-   "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.",
-   "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-21T08:08:01+00:00"
-  },
-  {
    "title": "As Florida uses robot rabbits to catch pythons; study reveals when snakes climb trees",
    "summary": "In 2025, Florida implemented solar-powered robotic rabbit decoys designed to attract Burmese pythons for removal efforts. Researchers tracked 346 pythons from 2017 to 2024 to study their climbing behavior. The study...",
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-florida-uses-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-study-reveals-when-and-how-these-python-use-trees/articleshow/136048606.cms",
    "source": "Times of India",
    "category": "India",
    "published": "2026-11-21T08:02:06+00:00"
-  },
-  {
-   "title": "Before Chandrayaan, Mangalyaan, there was Nike-Apache: India's 1st sounding rocket launch",
-   "summary": "On November 21, 1963, India launched its first sounding rocket from Thumba, establishing its space program. The rocket, Nike-Apache, carried instruments for atmospheric studies and marked a major milestone. Established...",
-   "link": "https://timesofindia.indiatimes.com/defence/news/before-chandrayaan-and-mangalyaan-there-was-nike-apache-indias-first-sounding-rocket-launch/articleshow/136046619.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-21T06:11:11+00:00"
-  },
-  {
-   "title": "Man convicted of starting Palisades fire in Los Angeles",
-   "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-   "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-21T04:34:00+00:00"
-  },
-  {
-   "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-   "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-21T01:02:39+00:00"
   },
   {
    "title": "Tech Now",
@@ -186,7 +266,15 @@
    "published": "2026-11-21T01:00:00+00:00"
   },
   {
-   "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
+   "title": "'I was exhausted': Two days in the shoes of a tradwife",
+   "summary": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News.",
+   "link": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-21T00:29:00+00:00"
+  },
+  {
+   "title": "How Phoebe Bridgers banning phones at concerts sparked a wave of fan artwork",
    "summary": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
    "link": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -226,7 +314,7 @@
    "published": "2026-11-20T23:20:33+00:00"
   },
   {
-   "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+   "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
    "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
    "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Technology",
@@ -245,16 +333,16 @@
    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
    "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Business",
+   "category": "Business",
    "published": "2026-11-20T22:42:47+00:00"
   },
   {
    "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
    "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
    "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-11-20T22:11:29+00:00"
   },
   {
@@ -274,14 +362,6 @@
    "published": "2026-11-20T21:38:32+00:00"
   },
   {
-   "title": "The latest from Trump's press conference",
-   "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-20T21:38:21+00:00"
-  },
-  {
    "title": "Machine Gods: Anthropic's early days",
    "summary": "In the wake of AI giant Anthropic's record-breaking IPO, Machine Gods hosts Kevin Roose and Casey Newton look back on the early days of the company, when less than 200 workers in a cramped office obsessed over AI safety...",
    "link": "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days",
@@ -290,28 +370,12 @@
    "published": "2026-11-20T21:38:14+00:00"
   },
   {
-   "title": "Rising seas have forced this Quinault village to relocate",
-   "summary": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-20T21:38:13+00:00"
-  },
-  {
    "title": "Trump's impact on an Ohio steel plant",
    "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed...",
    "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-   "source": "NPR",
-   "category": "Top",
+   "source": "NPR Business",
+   "category": "Business",
    "published": "2026-11-20T21:38:11+00:00"
-  },
-  {
-   "title": "MLK's handwritten draft of iconic speech on display for the first time",
-   "summary": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-20T21:38:05+00:00"
   },
   {
    "title": "Trump threatens ban on US firms building AI data centres overseas",
@@ -368,22 +432,6 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-11-20T15:48:35+00:00"
-  },
-  {
-   "title": "Man kills wife in Bengaluru over 'affair'; skeleton found in bag two months later",
-   "summary": "A 25-year-old man named Fayaz Pasha allegedly murdered his 34-year-old wife Sujatha following a domestic dispute. Following their tumultuous marriage, Sujatha's skeletal remains were discovered under garbage in a park....",
-   "link": "https://timesofindia.indiatimes.com/city/bengaluru/man-kills-wife-in-bengaluru-over-suspected-affair-skeleton-found-two-months-later/articleshow/136032263.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-20T15:38:56+00:00"
-  },
-  {
-   "title": "Saheb, Bibi, Spy, Employee aur AI Part 2: A tale of two Huangs",
-   "summary": "In Part 2 of Saheb, Bibi, Spy, Employee aur AI, we follow Jensen Huang’s spectacular downfall, a suspected Chinese honeytrap, a husband with billion-dollar chip ambitions, and a \"spy\" who may never have been one. As...",
-   "link": "https://timesofindia.indiatimes.com/technology/technology-news/random-musing-saheb-bibi-spy-employee-aur-ai-part-2-a-tale-of-two-huangs/articleshow/136030268.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-20T14:26:21+00:00"
   },
   {
    "title": "Just how vulnerable are we to cyberattacks?",
@@ -514,14 +562,6 @@
    "published": "2026-11-19T23:29:00+00:00"
   },
   {
-   "title": "California targets Nvidia in China AI chip probe",
-   "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-   "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-19T23:04:30+00:00"
-  },
-  {
    "title": "AI giant Anthropic's shares pop in debut after blockbuster IPO",
    "summary": "Shares in the AI juggernaut Anthropic are now trading on the stock market. They debuted Thursday, after a record-breaking IPO.",
    "link": "https://www.npr.org/2026/11/19/nx-s1-6042560/ai-giant-anthropics-shares-pop-in-debut-after-blockbuster-ipo",
@@ -586,14 +626,6 @@
    "published": "2026-11-19T10:00:00+00:00"
   },
   {
-   "title": "Melinda French Gates' $240m almost awarded; 91% to groups new to Pivotal",
-   "summary": "In 2024, Melinda French Gates launched the Global Leaders programme, allocating $240 million to empower 12 notable leaders. Most of the grants were earmarked for emerging organizations that previously lacked funding....",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2024-melinda-french-gates-gave-12-leaders-20-million-each-to-distribute-a-november-18-report-says-nearly-all-240-million-has-been-given-out-with-91-of-grants-going-to-groups-new-to-pivotal/articleshow/135981702.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-19T08:31:00+00:00"
-  },
-  {
    "title": "One in four women globally unable to refuse sex within marriage, says UN",
    "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA findsOne in four women around the world have no power of consent if their husband or partner demands sex,...",
    "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
@@ -618,28 +650,12 @@
    "published": "2026-11-19T00:38:52+00:00"
   },
   {
-   "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
-   "summary": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-11-18T23:54:56+00:00"
-  },
-  {
    "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
    "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel MoïseA Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising...",
    "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-18T22:31:41+00:00"
-  },
-  {
-   "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
-   "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year agoPete Hegseth has used his first visit to Venezuela since US special forces abducted its former president,...",
-   "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-18T20:24:19+00:00"
   },
   {
    "title": "William and Kate meet PM Modi as they wrap up India tour",
