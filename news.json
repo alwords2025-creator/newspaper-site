@@ -1,149 +1,333 @@
 {
- "updated": "2026-11-24T18:05:07.290039+00:00",
+ "updated": "2026-11-25T02:41:44.396792+00:00",
  "stories": [
+  {
+   "title": "Two arrested after masked men break into Prince William and Kate’s country home",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/uk/two-arrested-after-masked-men-break-into-prince-william-and-kate-middletons-country-home/articleshow/136145875.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-25T02:23:42+00:00"
+  },
+  {
+   "title": "The Brar decision: India stare at big pace-bowling call with WTC hopes on the line",
+   "summary": "India face a selection dilemma in Christchurch, with Gurnoor Brar's extra pace and ability to bowl long spells potentially offering a solution to their struggles on flat surfaces. With WTC points at stake and a draw not...",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/indias-christchurch-dilemma-does-gurnoor-brar-get-the-nod/articleshow/136145632.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-25T01:55:39+00:00"
+  },
+  {
+   "title": "Congress seeks 130 seats in UP, SP offers '26 winnable' ones",
+   "summary": "Samajwadi Party and Congress held lengthy negotiations over seat-sharing for the upcoming 2027 Uttar Pradesh assembly elections. SP chief Akhilesh Yadav suggested offering Congress 26 constituencies and emphasizing...",
+   "link": "https://timesofindia.indiatimes.com/city/lucknow/congress-seeks-130-seats-in-up-sp-offers-26-winnable-ones/articleshow/136145389.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-25T01:43:16+00:00"
+  },
+  {
+   "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+   "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+   "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-25T01:40:42+00:00"
+  },
+  {
+   "title": "Ministers ask public for views on changing age of consent",
+   "summary": "Some campaigners have argued that different limits should apply, depending on the age gap between the people involved.",
+   "link": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-25T01:38:39+00:00"
+  },
+  {
+   "title": "China investigates politburo star in Xi Jinping’s latest purge",
+   "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025China has launched an investigation into Shanghai’s Communist party chief Chen...",
+   "link": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-25T01:31:46+00:00"
+  },
+  {
+   "title": "Pledged gold worth less as prices crash 30%; gold loan NPAs nearly double",
+   "summary": "India’s gold loan market recorded a doubling of non-performing asset (NPA) ratios in the first half of the fiscal year. Industry leaders have linked the increase to changes in lending regulations, saying borrowers are...",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/pledged-gold-worth-less-after-gold-prices-crash-30-from-peak-while-gold-loan-npas-nearly-double-in-six-months-rbi-cautions-gold-loan-nbfcs-over-loan-to-value-ratios/articleshow/136121998.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-25T01:31:00+00:00"
+  },
+  {
+   "title": "He left IT for baking; Jaipur cafe owner Mayank Gopaliya's life cut short at 34",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/life-style/food-news/he-left-it-to-follow-his-passion-for-baking-jaipur-cafe-owner-mayank-gopaliyas-dream-ends-in-tragedy-because-of-a-small-request/articleshow/136127219.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-25T01:31:00+00:00"
+  },
+  {
+   "title": "Delhi cafe horror: Woman gangraped by colleagues after late-night party, 3 held",
+   "summary": "Three people have been arrested after a 22-year-old woman alleged gang rape at a cafe. The incident occurred during a party organized by colleagues at the establishment late on Monday night. The victim claimed that two...",
+   "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-woman-gang-raped-by-colleagues-at-preet-vihar-cafe-after-late-night-party-3-held/articleshow/136145232.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-25T01:24:37+00:00"
+  },
+  {
+   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "summary": "The verdict follows a months-long trial in New York.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-25T01:11:57+00:00"
+  },
+  {
+   "title": "Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom",
+   "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+   "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-25T01:03:05+00:00"
+  },
+  {
+   "title": "The rising cost of putting food on the table in India",
+   "summary": "India's food inflation is broadening, squeezing household budgets.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC India",
+   "category": "India",
+   "published": "2026-11-25T01:02:13+00:00"
+  },
+  {
+   "title": "Clashing political visions reflect a divided Spain ahead of election",
+   "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+   "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-25T00:58:34+00:00"
+  },
+  {
+   "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+   "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-25T00:56:51+00:00"
+  },
+  {
+   "title": "World Chess C'ship Round 1: How Gukesh won in 38-move draw over Sindarov",
+   "summary": "Gukesh drew his opening 38-move World Championship game against Javokhir Sindarov despite facing severe time pressure and an aggressive opening attack. Playing with black, he showed excellent defensive skills,...",
+   "link": "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-round-1-how-gukesh-won-psychologically-in-38-move-draw-over-javokhir-sindarov/articleshow/136145018.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-25T00:56:21+00:00"
+  },
+  {
+   "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+   "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+   "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-25T00:54:13+00:00"
+  },
+  {
+   "title": "China launches Shenzhou-24 carrying first Pakistani astronaut to space station",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/china/china-launches-shenzhou-24-spacecraft-carrying-first-pakistani-astronaut-to-its-space-station-90-experiments-planned/articleshow/136144937.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-25T00:50:29+00:00"
+  },
+  {
+   "title": "US preparing to unveil new tariffs on global trading partners",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-25T00:38:01+00:00"
+  },
+  {
+   "title": "Why tiny cars are taking off across Europe",
+   "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-25T00:34:05+00:00"
+  },
+  {
+   "title": "What will the energy cap changes mean for my bills?",
+   "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-25T00:33:25+00:00"
+  },
+  {
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-25T00:30:52+00:00"
+  },
+  {
+   "title": "Households braced for soaring energy bills with new price cap to be announced",
+   "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-25T00:29:58+00:00"
+  },
+  {
+   "title": "‘Always an option’: Trump open to pardoning Nvidia CEO Jensen Huang",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/world/us/its-always-an-option-trump-open-to-pardoning-nvidia-ceo-jensen-huang-urges-him-not-to-plead-fifth-before-congress/articleshow/136144738.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-25T00:27:07+00:00"
+  },
+  {
+   "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+   "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for SpainKilmar Ábrego García is leaving the United States of his own volition, his lawyers...",
+   "link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-24T23:50:31+00:00"
+  },
+  {
+   "title": "Unpacking President Trump's financial stake in Nvidia",
+   "summary": "NPR's Scott Detrow speaks with Dan Alexander, a senior editor at Forbes and author of a book about President Trump's businesses, about the president's holdings in Nvidia given recent news.",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia",
+   "source": "NPR Business",
+   "category": "Business",
+   "published": "2026-11-24T23:48:14+00:00"
+  },
+  {
+   "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+   "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+   "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-24T23:38:39+00:00"
+  },
+  {
+   "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+   "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+   "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-24T23:05:11+00:00"
+  },
+  {
+   "title": "Trump set to hit India, China, 14 others with new tariffs after probe",
+   "summary": "The US Trade Representative is set to unveil critical findings from a comprehensive investigation into excess industrial capacity across various nations. Indian officials are keeping a close watch, bracing for potential...",
+   "link": "https://timesofindia.indiatimes.com/business/international-business/trump-set-to-hit-india-china-14-others-with-new-tariffs-after-probe/articleshow/136144220.cms",
+   "source": "Times of India",
+   "category": "India",
+   "published": "2026-11-24T23:03:11+00:00"
+  },
+  {
+   "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+   "summary": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+   "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-24T22:49:41+00:00"
+  },
+  {
+   "title": "How high technology is changing cargo crime",
+   "summary": "Truckloads of turkey and bourbon are getting stolen in transit. Cargo theft of food and beverages are on the rise in part because the goods are hard to trace. We look at how high technology is changing cargo crime.",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changing-cargo-crime",
+   "source": "NPR Technology",
+   "category": "Technology",
+   "published": "2026-11-24T22:49:10+00:00"
+  },
+  {
+   "title": "Nuclear test veterans speak to BBC about search for justice",
+   "summary": "Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.",
+   "link": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "category": "Top",
+   "published": "2026-11-24T22:45:03+00:00"
+  },
+  {
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-24T21:19:42+00:00"
+  },
+  {
+   "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+   "summary": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+   "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-24T21:09:29+00:00"
+  },
+  {
+   "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+   "summary": "Police say at least 20 held in supermarket and Cartagena incident stems from botched robbery by ‘common criminals’Armed and masked men are holding at least 20 people hostage in a supermarket in Cartagena, one of...",
+   "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-24T21:06:37+00:00"
+  },
+  {
+   "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+   "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+   "source": "NPR",
+   "category": "Top",
+   "published": "2026-11-24T21:04:50+00:00"
+  },
+  {
+   "title": "Tech Life",
+   "summary": "Experts from around the world plot the progress of AI development every five years.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Technology",
+   "category": "Technology",
+   "published": "2026-11-24T21:00:00+00:00"
+  },
+  {
+   "title": "Will I get the £100 energy payment and when will I receive it?",
+   "summary": "Here is what you need to know about the payment that millions will receive from January.",
+   "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-24T20:16:24+00:00"
+  },
+  {
+   "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
+   "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockadeLife expectancy has fallen for the first time in Cuba since 1950 as the island reels from a severe...",
+   "link": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
+   "source": "The Guardian",
+   "category": "Top",
+   "published": "2026-11-24T19:07:26+00:00"
+  },
+  {
+   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+   "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+   "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Business",
+   "published": "2026-11-24T18:21:43+00:00"
+  },
   {
    "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
    "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
    "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC India",
    "category": "India",
-   "published": "2026-11-24T18:02:27+00:00"
+   "published": "2026-11-24T18:07:46+00:00"
   },
   {
-   "title": "Sacked London Pride boss given suspended prison sentence",
-   "summary": "The sentencing brings a long-running legal battle to an end.",
-   "link": "https://www.bbc.co.uk/news/articles/cwr5gvmme9q7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T17:58:11+00:00"
-  },
-  {
-   "title": "Man charged with murder of missing 20-year-old woman",
-   "summary": "Kelsey Hunter has been missing since Saturday night, when she was seen in Castle Douglas.",
-   "link": "https://www.bbc.co.uk/news/articles/c3702xzgljr0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T17:46:53+00:00"
-  },
-  {
-   "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-   "summary": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff.",
-   "link": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T17:39:32+00:00"
-  },
-  {
-   "title": "Disability benefit review calls for closer link with claimant costs",
-   "summary": "A government-commissioned report calls for a \"rebalancing\" of the amount paid to different claimants.",
-   "link": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T17:38:37+00:00"
-  },
-  {
-   "title": "Former police chief inspector jailed for rape",
-   "summary": "Glen Mahony once worked with Wayne Couzens, who was convicted of the 2021 murder of Sarah Everard.",
-   "link": "https://www.bbc.co.uk/news/articles/crjeq7ey7llqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T17:27:26+00:00"
-  },
-  {
-   "title": "Six Tribal Nations sue Trump administration over Utah monuments' protections",
-   "summary": "Six Tribal Nations have filed two federal lawsuits challenging President Donald Trump's renewed efforts to revoke protections for Bears Ears and Grand Staircase-Escalante National Monuments in Utah. The communities...",
-   "link": "https://timesofindia.indiatimes.com/world/us/six-tribal-nations-file-federal-lawsuits-against-trump-administration-over-renewed-attempts-to-revoke-protections-for-sacred-utah-monuments-bears-ears-and-grand-staircase-escalante/articleshow/136137920.cms",
+   "title": "Bezos’ ex-wife gave $62M landmark gift to meet 2030 goals of coastal communities",
+   "summary": "MacKenzie Scott has donated $62 million to the marine conservation organization Blue Ventures for their 2030 goals. This donation will support small-scale fishing communities and their efforts in marine ecosystem...",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-shares-donated-62-million-what-has-been-called-landmark-gift-to-meet-2030-goals-by-group-of-coastal-communities-and-/articleshow/136139623.cms",
    "source": "Times of India",
    "category": "India",
-   "published": "2026-11-24T17:24:36+00:00"
-  },
-  {
-   "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-   "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
-   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T17:04:20+00:00"
-  },
-  {
-   "title": "UP polls: SP springs surprise by naming 5 candidates; 2 seats were on Congress wishlist",
-   "summary": "The Samajwadi Party has revealed its first list of candidates for the upcoming 2027 Uttar Pradesh Assembly elections. Five candidates have been announced, including those for Behat and Saharanpur, crucial...",
-   "link": "https://timesofindia.indiatimes.com/city/lucknow/samajwadi-party-releases-first-list-of-5-candidates-as-seat-sharing-talks-with-congress-continue/articleshow/136137283.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-24T16:58:42+00:00"
-  },
-  {
-   "title": "'Hold serious discussions': Akhilesh's public message to Congress on UP seat talks",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/hold-serious-discussions-with-us-akhileshs-public-message-to-congress-on-up-seat-sharing/articleshow/136137206.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-24T16:51:33+00:00"
-  },
-  {
-   "title": "Huang in there! Trump's bra-zen tribute to tech bro he rescued",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/world/us/huang-in-there-trumps-bra-zen-tribute-to-tech-bro-he-rescued/articleshow/136137187.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-24T16:49:16+00:00"
-  },
-  {
-   "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-   "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-   "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T16:49:07+00:00"
-  },
-  {
-   "title": "From fastest ton to most sixes: List of records Sooryavanshi created against UAE",
-   "summary": "In a stunning display of batting prowess during the Asia Cup, Vaibhav Sooryavanshi smashed an incredible 204 runs off just 53 balls against the UAE. His performance set a new benchmark with a whopping 28 sixes and seven...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/from-fastest-double-century-to-most-sixes-list-of-records-vaibhav-sooryavanshi-shattered-with-his-204-against-uae/articleshow/136135915.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-24T16:41:51+00:00"
-  },
-  {
-   "title": "Rodin's 'The Thinker' sells for $7.93 million after 41 years off market",
-   "summary": "The auction at Christie's on November 17 witnessed a remarkable highlight with the sale of Rodin's 1955 sculpture, Le Penseur, for a staggering $7.928 million, reflecting a dramatic price increase since its 1985...",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-bronze-cast-of-auguste-rodins-the-thinker-sold-for-192500-in-1985-and-stayed-off-the-market-for-41-years-at-a-november-17-new-york-auction-the-1955-cast-fetched-7-928-million-over-twice-its-high-estimate/articleshow/136135702.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-24T16:36:06+00:00"
-  },
-  {
-   "title": "Indians among 13 killed in UAE bus-truck crash, 14 injured",
-   "summary": "In a heartbreaking incident in Ras Al Khaimah, thirteen lives were tragically lost, including several Indian nationals, as confirmed by the Indian consulate in Dubai. A bus with 41 passengers collided with a parked...",
-   "link": "https://timesofindia.indiatimes.com/india/indians-among-13-killed-in-uae-bus-truck-crash-14-injured/articleshow/136136806.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-24T16:33:49+00:00"
-  },
-  {
-   "title": "'I'm proud of it': Killer confesses after murdering Ian Huntley",
-   "summary": "Triple murderer Anthony Russell said he planned to kill Ian Huntley and that he had \"nothing to lose\".",
-   "link": "https://www.bbc.co.uk/news/videos/c60evp1g7r7no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T16:24:34+00:00"
-  },
-  {
-   "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
-   "summary": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
-   "link": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T16:19:29+00:00"
-  },
-  {
-   "title": "Tories accuse Burnham of turning No 10 into 'joke' after influencer video row",
-   "summary": "Social media influencer Max Balegde has deleted a video filmed outside the door of Number 10, which was posted on TikTok, in which he mimed along to explicit lyrics.",
-   "link": "https://www.bbc.co.uk/news/articles/cv0l3nlgl80ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T16:11:29+00:00"
+   "published": "2026-11-24T17:59:21+00:00"
   },
   {
    "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
@@ -152,30 +336,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-24T16:00:50+00:00"
-  },
-  {
-   "title": "Southport survivors' parents 'disgusted' by school recovery funding",
-   "summary": "Southport survivors' families are criticising disparities in school recovery funding.",
-   "link": "https://www.bbc.co.uk/news/articles/c3wy0x4774dpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
-   "published": "2026-11-24T15:50:44+00:00"
-  },
-  {
-   "title": "'Customary practices': TN temple clarifies why deepam was lit at usual spot",
-   "summary": "",
-   "link": "https://timesofindia.indiatimes.com/india/customary-practices-age-old-traditions-thiruparankundram-temple-clarifies-why-deepam-was-lit-at-usual-spot/articleshow/136135673.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-24T15:41:25+00:00"
-  },
-  {
-   "title": "Trump admin may raise tariffs on many countries including India and China: Report",
-   "summary": "US Trade Representative Jamieson Greer is expected to announce the findings of a months-long investigation into industrial subsidies provided by China, the European Union and 14 other countries as early as this week,...",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/trump-administration-may-raise-tariffs-on-many-countries-including-india-and-china-report/articleshow/136133821.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-24T14:55:01+00:00"
   },
   {
    "title": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
@@ -202,15 +362,7 @@
    "published": "2026-11-24T14:00:48+00:00"
   },
   {
-   "title": "'I do feel pressure': Vaibhav Sooryavanshi opens up after record-breaking 204",
-   "summary": "Vaibhav Sooryavanshi achieved a remarkable double century off 53 balls in List A cricket against UAE. He scored 204 runs, including 28 sixes, while helping India A chase down 250 runs. Sooryavanshi's extraordinary...",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-do-feel-pressure-vaibhav-sooryavanshi-opens-up-after-record-breaking-double-century/articleshow/136132036.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-24T13:29:01+00:00"
-  },
-  {
-   "title": "The OGs reunite: SAD gets 'bada bhai' tag in Punjab, but BJP has bigger ambitions",
+   "title": "The OGs reunite: SAD gets 'bada bhai' tag in Punjab, but BJP has bigger dreams",
    "summary": "The BJP and Shiromani Akali Dal have revived their alliance for the 2027 Punjab assembly elections, six years after splitting over the Centre’s farm laws. The reunion restores a partnership that governed Punjab for 15...",
    "link": "https://timesofindia.indiatimes.com/india/the-ogs-reunite-sad-gets-bada-bhai-tag-in-punjab-but-bjp-has-bigger-ambitions/articleshow/136130855.cms",
    "source": "Times of India",
@@ -290,22 +442,6 @@
    "published": "2026-11-24T10:00:00+00:00"
   },
   {
-   "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-   "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-24T10:00:00+00:00"
-  },
-  {
-   "title": "Meet Colombia's fuzzy 'water guardians'",
-   "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
-   "source": "NPR",
-   "category": "Top",
-   "published": "2026-11-24T10:00:00+00:00"
-  },
-  {
    "title": "Jensen Huang returns to Nvidia as CEO after scandal",
    "summary": "Jensen Huang's return to Nvidia as CEO was followed by to a surge in the tech company's stock -- and the stock market.",
    "link": "https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal",
@@ -322,20 +458,12 @@
    "published": "2026-11-24T09:52:29+00:00"
   },
   {
-   "title": "Zoe Kleinman: My week with Meta's AI agent Muse ahead of its UK launch",
+   "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
    "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
    "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "category": "Top",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-11-24T09:33:00+00:00"
-  },
-  {
-   "title": "Neuralink trial participant ditches mouth joystick to play GTA 6; Elon Musk responds",
-   "summary": "In a groundbreaking demonstration, Neuralink revealed how a clinical trial subject used mere thoughts to play Grand Theft Auto VI. Previously dependent on a mouth stick and iPad for interaction, the participant...",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/neuralink-trial-participant-ditches-mouth-joystick-to-play-gta-6-elon-musk-responds-says-playing-gta-with-/articleshow/136122223.cms",
-   "source": "Times of India",
-   "category": "India",
-   "published": "2026-11-24T06:45:36+00:00"
   },
   {
    "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
@@ -344,14 +472,6 @@
    "source": "BBC India",
    "category": "India",
    "published": "2026-11-24T06:23:01+00:00"
-  },
-  {
-   "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
-   "summary": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migrants and refugees back to Myanmar,...",
-   "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-24T05:54:14+00:00"
   },
   {
    "title": "The shake-up facing renters as a new kind of landlord emerges",
@@ -368,14 +488,6 @@
    "source": "BBC Business",
    "category": "Business",
    "published": "2026-11-24T00:11:08+00:00"
-  },
-  {
-   "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-   "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
-   "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-24T00:01:04+00:00"
   },
   {
    "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
@@ -426,14 +538,6 @@
    "published": "2026-11-23T21:07:16+00:00"
   },
   {
-   "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-   "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-23T17:11:58+00:00"
-  },
-  {
    "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
    "summary": "Island’s labour minister, Colin Jordan, says agreement acknowledges links between Speightstown and UK city are rooted in slave tradeA town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with...",
    "link": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
@@ -445,16 +549,16 @@
    "title": "How important are Nvidia and Jensen Huang to the US economy?",
    "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
    "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-11-23T16:12:35+00:00"
   },
   {
    "title": "The rise and fall and rise again of Jensen Huang",
    "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
+   "source": "BBC Technology",
+   "category": "Technology",
    "published": "2026-11-23T15:49:52+00:00"
   },
   {
@@ -482,14 +586,6 @@
    "published": "2026-11-23T13:39:30+00:00"
   },
   {
-   "title": "Next data accessed in cyber breach",
-   "summary": "The fashion retailer says there is no evidence customers' personal data was compromised.",
-   "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-23T12:34:07+00:00"
-  },
-  {
    "title": "Police investigate fairness cream's alleged link to Indian teen's kidney ailment",
    "summary": "Doctors who treated the 17-year-old girl say that the cream allegedly contained toxic levels of mercury.",
    "link": "https://www.bbc.co.uk/news/articles/cq4gn7zp1n33o?at_medium=RSS&at_campaign=rss",
@@ -504,38 +600,6 @@
    "source": "The Guardian",
    "category": "Top",
    "published": "2026-11-23T11:42:51+00:00"
-  },
-  {
-   "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-   "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
-   "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-23T11:24:37+00:00"
-  },
-  {
-   "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
-   "summary": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants droppedThe Trump administration recently admitted in federal court that it deported a US citizen to...",
-   "link": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-23T11:00:56+00:00"
-  },
-  {
-   "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
-   "summary": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
-   "link": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
-   "source": "NPR Business",
-   "category": "Business",
-   "published": "2026-11-23T10:00:00+00:00"
-  },
-  {
-   "title": "Catering giant to switch main share listing to US in further blow to UK",
-   "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
-   "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Business",
-   "published": "2026-11-23T09:54:04+00:00"
   },
   {
    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
@@ -554,28 +618,12 @@
    "published": "2026-11-22T21:33:44+00:00"
   },
   {
-   "title": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
-   "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people• Slave-trade wealth was embedded in Britain’s financial system, research...",
-   "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-22T08:00:22+00:00"
-  },
-  {
    "title": "Google employees protest AI in schools policy",
    "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
    "source": "NPR Technology",
    "category": "Technology",
    "published": "2026-11-21T22:01:40+00:00"
-  },
-  {
-   "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-   "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decadeThe Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the...",
-   "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-   "source": "The Guardian",
-   "category": "Top",
-   "published": "2026-11-21T17:46:55+00:00"
   },
   {
    "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
@@ -618,22 +666,6 @@
    "published": "2026-11-20T23:08:57+00:00"
   },
   {
-   "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-   "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-20T22:53:24+00:00"
-  },
-  {
-   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-20T22:42:47+00:00"
-  },
-  {
    "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
    "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
    "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
@@ -658,28 +690,12 @@
    "published": "2026-11-20T21:38:14+00:00"
   },
   {
-   "title": "Trump threatens ban on US firms building AI data centres overseas",
-   "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-11-20T20:54:12+00:00"
-  },
-  {
    "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
    "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
    "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
    "source": "BBC India",
    "category": "India",
    "published": "2026-11-20T19:27:49+00:00"
-  },
-  {
-   "title": "Experts say powering data centers uses more water than cooling them",
-   "summary": "Fears about data center water use are especially acute in Arizona. But keeping servers cool uses a lot less water than generating the electricity for which data centers are so thirsty.",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
-   "source": "NPR Technology",
-   "category": "Technology",
-   "published": "2026-11-20T09:43:39+00:00"
   },
   {
    "title": "California’s coastal communities on alert as biggest waves in years hit state",
@@ -738,14 +754,6 @@
    "published": "2026-11-16T00:41:42+00:00"
   },
   {
-   "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-   "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-   "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC India",
-   "category": "India",
-   "published": "2026-11-13T23:11:51+00:00"
-  },
-  {
    "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
    "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
    "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
@@ -768,14 +776,6 @@
    "source": "BBC Technology",
    "category": "Technology",
    "published": "2026-11-03T20:30:00+00:00"
-  },
-  {
-   "title": "Tech Life",
-   "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Technology",
-   "category": "Technology",
-   "published": "2026-10-27T20:30:00+00:00"
   }
  ]
 }
